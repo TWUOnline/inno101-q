@@ -77,7 +77,7 @@ In this course we have promoted the use of tools that allow you to share your le
 ::: learning-activity
 -   Select from the following resources that explain how we learn in community.
     -   [Social Learning in Online Environments](https://openpress.usask.ca/humanmooc/chapter/social-learning-in-online-environments/){target="_blank"} (n.d.)
-    -   [Social Learning Theories](https://socialsci.libretexts.org/Bookshelves/Education_and_Professional_Development/Teaching_Crowds_-_Learning_and_Social_Media_(Dron_and_Anderson)%7Btarget=%22_blank%22%7D/02%3A_Social_Learning_Theories) (2021)
+<!-- //todo #21    -   [Social Learning Theories](https://socialsci.libretexts.org/Bookshelves/Education_and_Professional_Development/Teaching_Crowds_-_Learning_and_Social_Media_(Dron_and_Anderson)%7Btarget=%22_blank%22%7D/02%3A_Social_Learning_Theories) (2021)-->
     -   [Social Networking, Knowledge Sharing, and Student Learning: The Case of University Students](https://www.sciencedirect.com/science/article/abs/pii/S0360131516300872){target="_blank"} (2016)
     -   [Collaborative Learning in Higher Education: Evoking Positive Interdependence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5132366/){target="_blank"} (2016)
 -   Watch [What is Social Learning?](https://www.youtube.com/watch?v=AB-_822TRms){target="_blank"} (2017)
@@ -249,7 +249,7 @@ Consider trying out ChatGPT to see if you can spot the ways to identify AI gener
 
 {{< video https://www.youtube-nocookie.com/embed/zuvN8_6QIKk >}}
 
--   Optional resource: [ChatGPT and Artificial Intelligence in Higher Education: Quick Start Guide](https://www.iesalc.unesco.org/wp-content/uploads/2023/04/ChatGPT-and-Artificial-Intelligence-in-higher-education-Quick-Start-guide_EN_FINAL.pdf){target="_blank"}. (2023)
+<!-- //todo #22 -   Optional resource: [ChatGPT and Artificial Intelligence in Higher Education: Quick Start Guide](https://www.iesalc.unesco.org/wp-content/uploads/2023/04/ChatGPT-and-Artificial-Intelligence-in-higher-education-Quick-Start-guide_EN_FINAL.pdf){target="_blank"}. (2023)-->
 :::::
 
 ### Jobs and Automation {.unnumbered}
@@ -528,7 +528,7 @@ In this section we explore the phenomenon of internet trolling and strategies fo
 ::: learning-activity
 -   Take the [Spot the Troll](https://spotthetroll.org/){target="_blank"} quiz (n.d.), which uses images of real social media content. How did you do? Did some of the profiles surprise you? Have you encountered these types of profiles on social media?
 -   As you read the following, pay particular attention to strategies for dealing with trolling behaviour.
-<!-- //todo    -   [Troll (Slang)](https://en.wikipedia.org/wiki/Troll_(slang)%7Btarget=%22_blank%22%7D) (2024) -->
+<!-- //todo #20    -   [Troll (Slang)](https://en.wikipedia.org/wiki/Troll_(slang)%7Btarget=%22_blank%22%7D) (2024) -->
     -   [What is a Troll?](https://meta.wikimedia.org/wiki/What_is_a_troll){target="_blank"} (n.d.)
     -   [Internet Trolling: How do you Spot a Real Troll?](https://www.lifewire.com/what-is-internet-trolling-3485891){target="_blank"} (2024)
 -   Watch [The Secret Confessions of an Internet Troll](https://www.youtube.com/watch?v=5BQp3V_34BE){target="_blank"} (2016)
