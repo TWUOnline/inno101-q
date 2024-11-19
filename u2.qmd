@@ -76,7 +76,7 @@ Follow the steps below as they explain how to conduct a literature review, intro
 
 When academics begin writing a research paper they always start by reviewing what is already known about a subject, in this case, transformational servant leadership. This is called a literature review, and you can often find a section called literature review at the beginning of every article you read. Sometimes, though, the whole research article will be a literature review. Reviewing the literature in this way is sometimes called a systematic review, or maybe a scoping review. These approaches to literature reviews have different foci, but the intent is to publish an article that follows very specific procedures so that other researchers or learners can confirm the process. These types of reviews are very useful in getting started in a new topic.
 
-One of the quickest ways to get started on a search is to use [Google Scholar](scholar.google.com){target="_blank"}, but it has some problems in that it will return a huge number of results. Notice that the image below shows over 91,000 results. Far too many for you to sort through.
+One of the quickest ways to get started on a search is to use [Google Scholar](https://scholar.google.com/){target="_blank"}, but it has some problems in that it will return a huge number of results. Notice that the image below shows over 91,000 results. Far too many for you to sort through.
 
 ::: {#fig-googlexsearch2}
 ![](assets/u2/google-search2.png){fig-alt="Screenshot of Google Scholar search for transformational servant leadership."" .lightbox fig-align="left"}
@@ -394,7 +394,7 @@ Google Scholar is a good search engine to find scholarly publications. The downs
 This activity focuses on searching database repositories. Most databases provide advanced search features; however there are differences in how each database site implements search functionality.
 
 -   View the following resources on searching using databases.
-    <!-- //todo  [*Top Ten Database Search Tips*](https://www.berkeleycitycollege.edu/library/2011/04/04/databasesearchtips/){target="_blank"} (2011)-->
+    <!-- //todo #19  [*Top Ten Database Search Tips*](https://www.berkeleycitycollege.edu/library/2011/04/04/databasesearchtips/){target="_blank"} (2011)-->
     -   [*Searching in Databases*](https://web.library.uq.edu.au/research-tools-techniques/search-techniques/where-and-how-search/searching-databases){target="_blank"} (2012)
     -   [Directory of Open Access Journals (DOAJ)](https://doaj.org/){target="_blank"} -- see also FAQs
 -   Watch the following video on using the [*Directory of Open Access Journals (DOAJ)*](https://www.youtube-nocookie.com/embed/ndvLm9MIfKA){target="_blank"} (2016)
