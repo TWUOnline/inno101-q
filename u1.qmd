@@ -311,7 +311,6 @@ The following video by the MacArthur Foundation questions how digital media are 
 While you watch the video think about:
 
 -   What "literacy" skills have you acquired when compared to your parents?
-
 -   What "literacy" skills will be important for future learners in higher education?
 
 Reflect on the following writing prompts:
@@ -428,9 +427,7 @@ Digital literacy encompasses a wide range of capabilities which extend beyond th
 Alternatively, you can choose from these resources:
 
 -   Take the [Digital Literacy Self-Assessment](https://www.supportedemployment.ca/digital-literacy/digital-literacy-self-assessment/){target="_blank"} (n.d.) from the Canadian Association for Supported Employment **or**
-
 -   Use the [Digital Literacy Self-Assessment Tool](https://thinkspace.csu.edu.au/digitalcitizenshipguideetl523/){target="_blank"} (2020) from the Digital Citizenship Guide **or**
-
 -   Explore the *What is Digital Literacy?* page of the [Digital Literacies Toolkit](https://www.elanguages.ac.uk/digital_literacies_toolkit.php){target="_blank"} (n.d.) developed by the University of Southampton.
 
 **Questions to Consider**:
@@ -569,17 +566,11 @@ Get a [password manager](https://en.wikipedia.org/wiki/Password_manager){target=
 If you don't already use a password manager, set up an account with [Lastpass](https://www.lastpass.com/){target="_blank"}, [1password](https://1password.com/){target="_blank"}, or the free password manager, [Bitwarden](https://bitwarden.com/){target="_blank"} to familiarize yourself with how password managers work.
 
 -   Read [*How to Start Using a Password Manager*](https://www.makeuseof.com/how-to-start-using-password-manager/){target="_blank"} (2021).
-
 -   Create an account on the password manager site and establish a master password (conduct an online search for advice on choosing a secure master password).
-
 -   Install the browser extension for your local browser.
-
 -   Choose one of the TWU course websites and set up a new secure password using your password manager.
-
 -   Log out of the TWU course website and log in again using the password manager.
-
 -   Install the mobile phone app for your operating system, and desktop application for your computer (if this applies). Synchronize the local app with your online vault.
-
 -   Consider using the password manager for your online accounts so you can easily set up and maintain a unique password for each online account you use.
 :::
 

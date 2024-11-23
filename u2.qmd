@@ -429,7 +429,9 @@ So how do you evaluate sources to ensure those you are using are credible? The f
 
 {{< video https://www.youtube-nocookie.com/embed/_M1-aMCJHFg >}}
 
-**Questions To Consider:** After watching this video consider these questions:
+**Questions To Consider:** 
+
+After watching this video consider these questions:
 
 - Which part of the CRAAP test did you find most useful in evaluating sources?
 - What following steps can you take when you evaluate any sources you find?
@@ -530,23 +532,24 @@ From here on to the day you graduate, Zotero will be with you and you may find y
 ::: learning-activity
 Now that you have connected LitMaps to Zotero, let's explore how to use Zotero in your studies.
 
-- Watch: review the basics of Zotero by watching [*What is Zotero?*](https://www.youtube.com/watch?v=5xClqW2Jv04){target="_blank"} (2019)
+- **Watch**: review the basics of Zotero by watching [*What is Zotero?*](https://www.youtube.com/watch?v=5xClqW2Jv04){target="_blank"} (2019)
 
 {{< video https://www.youtube-nocookie.com/embed/5xClqW2Jv04 >}}
 
 Now, let's start using it. Go to LitMaps, TWU Library, or Google Scholar and find articles that interest you. Populate your library with the following resources to support a research topic that interests you.
 
-- manual entry for a published book
-- manual entry for a chapter within an edited book (note that the library record for a book section or chapter should have separate fields for the author(s) and editor(s))
-- automatic harvesting of bibliographic information for a journal article (if supported by a browser extension or bookmarklet by your preferred citation management tool)
-- automatic harvesting of bibliographic information for a newspaper article (if supported by a browser extension or bookmarklet by your preferred citation management tool)
+- Manual entry for a published book
+- Manual entry for a chapter within an edited book (note that the library record for a book section or chapter should have separate fields for the author(s) and editor(s))
+- Automatic harvesting of bibliographic information for a journal article (if supported by a browser extension or bookmarklet by your preferred citation management tool)
+- Automatic harvesting of bibliographic information for a newspaper article (if supported by a browser extension or bookmarklet by your preferred citation management tool)
+
 - **Review**: In each case review that all relevant fields required for the bibliography have been completed correctly. Don't rely on the accuracy of the automatic features as they are dependent on the metadata and adherence to open standards on the source website. Pay particular attention to punctuation and consistent use of capitalization.
-- add descriptive tags; this will enhance searching of your library database
-- organize your resources using folders
+- Add descriptive tags; this will enhance searching of your library database
+- Organize your resources using folders
 
 Next, experiment with some of the Zotero annotation features.
 
-- Watch**:** [*How to Annotate PDFs in Zotero*](https://www.youtube.com/watch?v=lGeJCsNHBR4){target="_blank"} (2023) for instructions.
+- [Watch:*How to Annotate PDFs in Zotero*](https://www.youtube.com/watch?v=lGeJCsNHBR4){target="_blank"} (2023) for instructions.
 
 {{< video https://www.youtube-nocookie.com/embed/lGeJCsNHBR4 >}}
 
@@ -563,7 +566,7 @@ If you want to take the next step, let's make your tools work together.
 
 At this point in the unit you have used various tools to discover and curate resources. In this topic we would like to introduce you to a value in education that we believe is important for creating a true community of inquiry in higher education. If you haven't already noticed from the title of this topic, we are thinking about *openness*. Here is a quick overview from the OER Foundation: [*Open Access Explained*](https://vimeo.com/557927481){target="_blank"} (2021).
 
-[**Watch**: *Open Access Explained*](https://vimeo.com/557927481){target="_blank"} <!--Video missing-->
+[Watch: *Open Access Explained*](https://vimeo.com/557927481){target="_blank"}
 
 {{< video https://vimeo.com/557927481 >}}
 
