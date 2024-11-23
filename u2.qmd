@@ -455,7 +455,7 @@ Do you agree? Have you cited Wikipedia in any academic work? Why or why not?
     - [Reliability of Wikipedia](https://en.wikipedia.org/wiki/Reliability_of_Wikipedia){target="_blank"} article on Wikipedia.
     - [*Should University Students use Wikipedia?*](https://www.theguardian.com/education/2013/may/13/should-university-students-use-wikipedia){target="_blank"} (2013)
     - Optional reading annotations: Conduct a search for credible and reliable resources on the topic of the reliability and credibility of Wikipedia articles.
-- [**Watch:** *Using Wikipedia for Academic Research*](https://www.youtube-nocookie.com/embed/Cql_yVUYj6A){target="_blank"} (2011)
+- [*Watch:* *Using Wikipedia for Academic Research*](https://www.youtube-nocookie.com/embed/Cql_yVUYj6A){target="_blank"} (2011)
 
 {{< video https://www.youtube-nocookie.com/embed/Cql_yVUYj6A >}}
 
@@ -463,6 +463,12 @@ Drawing on your study of the reliability and credibility of online resources, sh
 
 - You can use Wikipedia for ... because ...
 - You should not use Wikipedia for ... because ...
+
+<!-- //todo @cmadland please add to section 
+e.g. https://pressbooks.pub/webliteracy/
+ **Web Literacy for Student Fact-Checkers**
+-->
+
 :::
 
 ## Citation Management

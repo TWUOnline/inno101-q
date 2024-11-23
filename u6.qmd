@@ -157,9 +157,8 @@ Throughout history there are technologies that have influenced change in society
 ::: learning-activity
 The readings that follow take a retrospective look at the impact of the internet on the newspaper and music industries.
 
--   [The age of Digital; Music Executive Reacts to the Impact of Digitalization in the Music Industry](https://www.forbes.com/sites/joshwilson/2022/09/14/the-age-of-digital-music-executive-reacts-to-the-impact-of-digitalization-in-the-music-industry/?sh=1ca7f385537b){target="_blank"} (2022)
--   [The Future of Newspapers in the Digital Age: Embracing the Change!](https://medium.com/@kumarpriyanshu025/the-future-of-newspapers-in-the-digital-age-embracing-the-change-fe835bd8d52f){target="_blank"} (2023)
-    Add or reply to annotations using [Hypothes.is](https://web.hypothes.is/){target="_blank"}, sharing personal insights and experiences. Remember to tag your posts using the course code: LDRS101.
+- [The age of Digital; Music Executive Reacts to the Impact of Digitalization in the Music Industry](https://www.forbes.com/sites/joshwilson/2022/09/14/the-age-of-digital-music-executive-reacts-to-the-impact-of-digitalization-in-the-music-industry/?sh=1ca7f385537b){target="_blank"} (2022)
+- [The Future of Newspapers in the Digital Age: Embracing the Change!](https://medium.com/@kumarpriyanshu025/the-future-of-newspapers-in-the-digital-age-embracing-the-change-fe835bd8d52f){target="_blank"} (2023) Add or reply to annotations using [Hypothes.is](https://web.hypothes.is/){target="_blank"}, sharing personal insights and experiences. Remember to tag your posts using the course code: LDRS101.
 :::
 
 ### Activity: Impact of Digital Technology on Business
@@ -168,14 +167,10 @@ The readings that follow take a retrospective look at the impact of the internet
 In this activity we invite you to join the Discourse discussion on the impact of digital technology on business.
 
 - First, choose any business or work environment (for example, your current career or future career).
-
 - Think about examples of how digital technology has had an impact on your chosen business over the last 30 years.
-
 - State your business or work environment and share a practical example of how digital technology has influenced change in your chosen area:
-
 - Has the example contributed to a fundamental change in the way things were done, or is this a minor change?
-
--   Do you anticipate significant changes in your industry as a result of digital technology in the future? Provide an example.
+- Do you anticipate significant changes in your industry as a result of digital technology in the future? Provide an example.
 
 Like, share, and reply to posts. These are forms of engagement and a contribution to your online learning identity.
 :::
@@ -278,8 +273,8 @@ In this topic we've explored AI---its possibilities for study and careers, and s
 
 AI systems require lots of work from humans to function correctly. A 2023 report from Time magazine showed that people in Kenya were paid poverty wages to build a safety system into ChatGPT (Perrigo, 2023). Since the platform was fed data from various places sometimes it would make racist or abusive remarks. To build a safeguard into the system, workers were exposed to vile and offensive web content in order to tag it so that the platform could eventually recognize offensive speech on its own. A large portion of this content was very traumatic, and workers interviewed said they were mentally scarred from the work.
 
--   Read [OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic](https://time.com/6247678/openai-chatgpt-kenya-workers/){target="_blank"} (2023) and [Inside Facebook's African Sweatshop](https://time.com/6147458/facebook-africa-content-moderation-employee-treatment/){target="_blank"} (2022)
--   Watch [Doing Grueling Work for an AI: Data Labeling](https://www.youtube.com/watch?v=ug_p2wHhla0){target="_blank"} (2023)
+- Read [OpenAI Used Kenyan Workers on Less Than \$2 Per Hour to Make ChatGPT Less Toxic](https://time.com/6247678/openai-chatgpt-kenya-workers/){target="_blank"} (2023) and [Inside Facebook's African Sweatshop](https://time.com/6147458/facebook-africa-content-moderation-employee-treatment/){target="_blank"} (2022)
+- Watch [Doing Grueling Work for an AI: Data Labeling](https://www.youtube.com/watch?v=ug_p2wHhla0){target="_blank"} (2023)
 
 {{< video https://www.youtube-nocookie.com/embed/ug_p2wHhla0 >}}
 

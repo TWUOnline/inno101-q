@@ -482,7 +482,7 @@ Consider how you might connect, thrive, and serve through your connections and c
 
 What experiences have you had so far in connecting with your peers and getting to know the TWU community? If you have not participated in the engagement opportunities presented in this course (Discourse, WordPress blog), take the time now to connect!
 
-<!-- //todo -->**TWU on Social Media**
+<!-- //todo #23 -->**TWU on Social Media**
 
 Here are some other websites you might want to check out for more about the TWU community:
 
