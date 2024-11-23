@@ -464,7 +464,7 @@ Drawing on your study of the reliability and credibility of online resources, sh
 - You can use Wikipedia for ... because ...
 - You should not use Wikipedia for ... because ...
 
-<!-- //todo @cmadland please add to section 
+<!-- //todo #24 @cmadland please add to section 
 e.g. https://pressbooks.pub/webliteracy/
  **Web Literacy for Student Fact-Checkers**
 -->
