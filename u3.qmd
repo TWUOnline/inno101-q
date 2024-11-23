@@ -18,17 +18,18 @@ This unit is divided into the following topics:
 
 When you have completed this unit you will be able to:
 
--   Build and customize technology integrated workflows to enhance and enrich your learning journey
--   Practice evaluative judgment to document your process of learning in complex domains of knowledge
--   Evaluate digital tools, platforms, and interactions based on ethical principles
+- Build and customize technology integrated workflows to enhance and enrich your learning journey
+- Practice evaluative judgment to document your process of learning in complex domains of knowledge
+- Evaluate digital tools, platforms, and interactions based on ethical principles
 
 ### Learning Activities {.unnumbered}
 
 Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
 
--   Practice using links and tags to connect your ideas in Obsidian
--   Write a reflective post on your learning experiences
--   Practice various note taking skills
+- Practice using links and tags to connect your ideas in Obsidian
+- Write a reflective post on your learning experiences
+- Practice various note taking skills
+- Create a mind map to connect and engage with ideas in Units 1-3
 
 ::: note
 **Note:** *Working through unit learning activities will help you to meet the course learning outcomes and successfully complete your assessments.*
@@ -40,7 +41,7 @@ Here is a list of learning activities that will benefit you in completing this u
 
 ### Resources {.unnumbered}
 
--   All resources will be provided online in the unit.
+- All resources will be provided online in the unit.
 
 ## Sense-making Through Hyperlinks
 
@@ -82,8 +83,8 @@ From Hypothes.is you can create a link to Zotero. By pressing and holding the "C
 
 While Wikilinks are the default in Obsidian and are the easiest way to link within your vault, sometimes you might want to link to a site on the web. The syntax for a markdown link is a bit different but is still very simple. There are two parts you need to remember:
 
--   the link text (this is what you want your reader to see on your page)
--   the link URL (this is the web address of the site you want them to visit)
+- the link text (this is what you want your reader to see on your page)
+- the link URL (this is the web address of the site you want them to visit)
 
 Here is the syntax: `[Link text between single square brackets](URL inside parentheses){target="_blank"}` So if you want someone to see the word "YouTube" on the page and for them to be taken to the YouTube website when they click the link, the syntax would be `[YouTube](https://youtube.com){target="_blank"}` which will display like this: [YouTube](https://youtube.com){target="_blank"}. Notice that there are no spaces between the closing square bracket and the opening parenthesis.
 
@@ -102,9 +103,9 @@ Screenshot, Graph View for Linked Documents in Obsidian
 ### Activity: Link, Connect, and Reflect
 
 ::: learning-activity
--   Follow the directions above to add notes to Obsidian on a topic of interest. Search online for interesting articles and videos you want to add to your notes and practice adding them using Wikilinks and markdown links. Locate the graph view in Obsidian to see the connections between the ideas you've added.
+- Follow the directions above to add notes to Obsidian on a topic of interest. Search online for interesting articles and videos you want to add to your notes and practice adding them using Wikilinks and markdown links. Locate the graph view in Obsidian to see the connections between the ideas you've added.
 
--   After spending some time practicing this new skill, write a reflective journal entry on the process you followed and what your experience was like. What did you struggle with? How did you troubleshoot? What are the advantages of organizing your notes using this method?
+- After spending some time practicing this new skill, write a reflective journal entry on the process you followed and what your experience was like. What did you struggle with? How did you troubleshoot? What are the advantages of organizing your notes using this method?
 
 Feel free to discuss your experience on the [Learning Hub](https://twu.discourse.group/auth/microsoft_office365){target="_blank"} in Discourse. You can also post any questions you have about this process and get technical support from your instructors and facilitators.
 :::
@@ -138,8 +139,8 @@ Using links and tags together you can build a very powerful and easily searchabl
 ### Activity: Tag, Link, Connect, and Reflect
 
 ::: learning-activity
--   Follow the directions above to add tags to your notes in Obsidian. Again, spend some time on this. The more you practice, the easier the process will be. More than that, as you continue to use tags and links, you will be able to experience the advantages of connecting your ideas using this method.
--   Add to your Reflective Journal your thoughts and experience on using tags. What were your struggles or "ah-ha" moments? What questions do you have?
+- Follow the directions above to add tags to your notes in Obsidian. Again, spend some time on this. The more you practice, the easier the process will be. More than that, as you continue to use tags and links, you will be able to experience the advantages of connecting your ideas using this method.
+- Add to your Reflective Journal your thoughts and experience on using tags. What were your struggles or "ah-ha" moments? What questions do you have?
 
 Remember to reach out for support on the [Learning Hub](https://twu.discourse.group/){target="_blank"} in Discourse.
 :::
@@ -148,7 +149,7 @@ Remember to reach out for support on the [Learning Hub](https://twu.discourse.gr
 
 As you saw at the beginning of this unit, sense-making is the **work** of learning. There is no way around the work of learning because learning is work. It takes time and cognitive effort. As much as we wish to be able to "learn" like Neo in *The Matrix*, we can't (see a favourite scene in a movie, below; and it's not just because Keanu Reeves is the GOAT 🐐).
 
--   Watch [The Matrix - 'I Know Kung Fu'](https://www.youtube.com/watch?v=0YhJxJZOWBw){target="_blank"} (2019)
+- Watch [The Matrix - 'I Know Kung Fu'](https://www.youtube.com/watch?v=0YhJxJZOWBw){target="_blank"} (2019)
 
 {{< video https://www.youtube-nocookie.com/embed/0YhJxJZOWBw >}}
 
@@ -157,25 +158,25 @@ Tags and links in Obsidian can be visualized using graph view, but as this is an
 ### Activity: Obsidian Concept Map
 
 ::: learning-activity
--   Watch [*Mind Mapping in Obsidian Canvas*](https://www.youtube.com/watch?v=eHI-Szjpafk){target="_blank"} (2023). As you watch, follow the directions and to create a concept map in Obsidian. You will use this in the next activity.
+- Watch [*Mind Mapping in Obsidian Canvas*](https://www.youtube.com/watch?v=eHI-Szjpafk){target="_blank"} (2023). As you watch, follow the directions and to create a concept map in Obsidian. At the end of this unit, you will create a concept map for Units 1-3. Practice using notes, media, cards, and grouping features in a mind map.
 
 {{< video https://www.youtube-nocookie.com/embed/eHI-Szjpafk >}}
 :::
 
-### Activity: Open Source Video and Audio Lectures
+<!-- ### Activity: Open Source Video and Audio Lectures
 
 ::: learning-activity
--   Search for a video or audio lecture on a topic of interest. Use your advanced search skills or browse the following sites to find a suitable recording aligned with your interests:
-    -   [*Open Culture*](https://www.openculture.com/freeonlinecourses){target="_blank"} (2024). Over 30,000 hours of free audio and video lectures
-    -   [*Open Yale Courses*](https://oyc.yale.edu/){target="_blank"} (2024). Free and open access to a selection of introductory courses including video lectures from Yale University (2024).
-    -   [*Harvard Online Courses*](https://extension.harvard.edu/online-learning/){target="_blank"} (2024) Series of video lectures from Harvard University.
-    -   [*MIT OpenCourseWare*](https://ocw.mit.edu/search/?f=Lecture%20Videos&f=Lecture%20Audio&s=department_course_numbers.sort_coursenum){target="_blank"} (2024) Series of audio and video lectures from Massachusetts Institute of Technology
-    -   [*Tedx Talks*](https://www.ted.com/){target="_blank"} (2024). Extensive database of video presentations in the form of short, powerful talks (see also list of topics)
--   Using Obsidian, record your notes from the lecture.
-    -   the first line is used for the title of the note
-    -   remember to include a link to the source of the information
-    -   use tags and links to connect your ideas
-:::
+- Search for a video or audio lecture on a topic of interest. Use your advanced search skills or browse the following sites to find a suitable recording aligned with your interests:
+    - [*Open Culture*](https://www.openculture.com/freeonlinecourses){target="_blank"} (2024). Over 30,000 hours of free audio and video lectures
+    - [*Open Yale Courses*](https://oyc.yale.edu/){target="_blank"} (2024). Free and open access to a selection of introductory courses including video lectures from Yale University (2024).
+    - [*Harvard Online Courses*](https://extension.harvard.edu/online-learning/){target="_blank"} (2024) Series of video lectures from Harvard University.
+    - [*MIT OpenCourseWare*](https://ocw.mit.edu/search/?f=Lecture%20Videos&f=Lecture%20Audio&s=department_course_numbers.sort_coursenum){target="_blank"} (2024) Series of audio and video lectures from Massachusetts Institute of Technology
+    - [*Tedx Talks*](https://www.ted.com/){target="_blank"} (2024). Extensive database of video presentations in the form of short, powerful talks (see also list of topics)
+- Using Obsidian, record your notes from the lecture.
+    - the first line is used for the title of the note
+    - remember to include a link to the source of the information
+    - use tags and links to connect your ideas
+::: -->
 
 ## Reading and Note Taking
 
@@ -184,11 +185,11 @@ Next, let's focus on reading and note taking. In this section, you will demonstr
 ### Activity: Reading and Note Taking
 
 ::: learning-activity
--   Read the following articles and take notes in Obsidian. Try using Markdown to format your text.
-    -   [*Effective Reading and Note-Taking*](https://www.student.unsw.edu.au/effective-reading-and-note-taking){target="_blank"} (n.d.)
-    -   [*Reading for Understanding: The SQW3R Method*](https://www.student.unsw.edu.au/reading-understanding){target="_blank"} (2024)
-    -   [*How to (Seriously) Read a Scientific Paper*](https://www.science.org/content/article/how-seriously-read-scientific-paper){target="_blank"} (2016)
-    -   [*Using Markdown in Obsidian*](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax){target="_blank"} (n.d.)
+- Read the following articles and take notes in Obsidian. Try using Markdown to format your text.
+    - [*Effective Reading and Note-Taking*](https://www.student.unsw.edu.au/effective-reading-and-note-taking){target="_blank"} (n.d.)
+    - [*Reading for Understanding: The SQW3R Method*](https://www.student.unsw.edu.au/reading-understanding){target="_blank"} (2024)
+    - [*How to (Seriously) Read a Scientific Paper*](https://www.science.org/content/article/how-seriously-read-scientific-paper){target="_blank"} (2016)
+    - [*Using Markdown in Obsidian*](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax){target="_blank"} (n.d.)
 :::
 
 ### Activity: Writing a Summary of Your Readings
@@ -196,17 +197,17 @@ Next, let's focus on reading and note taking. In this section, you will demonstr
 ::: learning-activity
 In this activity you will read an academic article and write a summary using Obsidian and Zotero.
 
--   First, search for a peer reviewed journal article in support of a research topic of interest.
-    -   Remember to add the source to your citation management tool, Zotero.
--   Next, prepare a summary of the journal article based on this example.
-    -   Use the Markdown formatting in Obsidian. Your summary must at a minimum demonstrate the following text formats:
-        -   headings and subheadings
-        -   bold and italics
-        -   numbered or unordered list
-        -   labelled link
-        -   horizontal rule
-        -   block quote for one or more citations from the article
-    -   Copy your summary prepared in Obsidian and paste this text summary into Zotero using the notes feature so that you have a copy for your personal library as backup.
+- First, search for a peer reviewed journal article in support of a research topic of interest.
+    - Remember to add the source to your citation management tool, Zotero.
+- Next, prepare a summary of the journal article based on this example.
+    - Use the Markdown formatting in Obsidian. Your summary must at a minimum demonstrate the following text formats:
+        - headings and subheadings
+        - bold and italics
+        - numbered or unordered list
+        - labelled link
+        - horizontal rule
+        - block quote for one or more citations from the article
+    - Copy your summary prepared in Obsidian and paste this text summary into Zotero using the notes feature so that you have a copy for your personal library as backup.
 
 Reflect on your progress in practicing these digital skills. Share your thoughts in your journal and/or in Discourse.
 :::
@@ -222,18 +223,38 @@ There is a plethora of other learning tools out there. We encourage you to explo
 ### Activity: Tools for Learning in University
 
 ::: learning-activity
--   Search for the following apps or websites using the key words listed below. Try adding "top," "best," "free," "university," or "students" and see how that changes your search results.
-    -   note taking apps
-    -   annotate web resources
-    -   collaborative tools
-    -   project management tools
-    -   graphic organizers
-    -   study tools
-    -   focus tools
-    -   research tools
-    -   writing tools
--   In Discourse, share some tools that you've used or that you plan to use to help in your studies.
+- Search for the following apps or websites using the key words listed below. Try adding "top," "best," "free," "university," or "students" and see how that changes your search results.
+    - note taking apps
+    - annotate web resources
+    - collaborative tools
+    - project management tools
+    - graphic organizers
+    - study tools
+    - focus tools
+    - research tools
+    - writing tools
+- In Discourse, share some tools that you've used or that you plan to use to help in your studies.
 :::
+
+### Activity: Mapping Out Your Learning
+
+::: learning-activity
+As a final reflective activity, take some time to map out the concepts in Units 1-3. Use the mind mapping tool in Obsidian, including the features of grouping to make connections between concepts.
+
+Here are a couple of resources to guide you as you create your mind map
+
+- [*Mind Mapping*](https://subjectguides.york.ac.uk/note-taking/mind-map){target="_blank"} (2024) 
+- [*Getting Started with Obsidian Canvas*](https://obsidian.rocks/getting-started-with-canvas-in-obsidian/){target="_blank"} (2024) 
+
+::: note
+
+***Note:*** This is a key activity you will use in Assignments 1 and 3 to demonstrate your understanding of the course learning outcomes.
+
+:::
+
+:::
+
+<!-- hide comment //todo  - Kelly to add above activity resources to Zotero  -->
 
 ## Summary {.unnumbered}
 
@@ -246,7 +267,7 @@ As you move forward, carry this digital toolkit with you, leveraging technology 
 ::: check
 Before you move on to the next unit check that you are able to:
 
--   Build and customize technology integrated workflows to enhance and enrich your learning journey
--   Practice evaluative judgment to document your process of learning in complex domains of knowledge
--   Evaluate digital tools, platforms, and interactions based on ethical principles
+- Build and customize technology integrated workflows to enhance and enrich your learning journey
+- Practice evaluative judgment to document your process of learning in complex domains of knowledge
+- Evaluate digital tools, platforms, and interactions based on ethical principles
 :::

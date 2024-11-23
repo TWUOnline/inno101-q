@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -291,9 +311,8 @@ ul.task-list li input[type="checkbox"] {
 <p>This unit aims to guide you in creating your Learning Blog, the central component of your personal learning environment (PLE). Blog posts serve as reflections on your learning journey and facilitate networking with peers. Your blog also provides your instructor with valuable insights into your course engagement and learning process. Ultimately, the goal of a PLE is to put the learner at the centre of the online learning environment.</p>
 <p><strong>So What is a Personal Learning Environment?</strong></p>
 <p>Personal Learning Environments [are] systems that help learners take control of and manage their own learning. This includes providing support for learners to set their own learning goals, manage their learning; managing both content and process, communicate with others in the process of learning, and thereby achieve learning goals. A PLE may be composed of one or more sub-systems: As such it may be a desktop application, or composed of one or more web-based services. (van Harmelen, 2007, as cited in Edutech Wiki, 2014, Definitions, para. 2)</p>
-<!-- //todo #15 As described by Casteneda et al.,
-
-A Personal Learning Environment is … a structure and process that helps learners organize the influx of information, resources and interactions that they are faced with on a daily basis into a personalized learning space or experience. In a PLE, the learner develops an individualized digital identity through the perceptual cues and cognitive affordances that the personal learning environment provides, such as what information to share and when, who to share it with, and how to effectively merge formal and informal learning experiences. (2017, para. 2) -->
+<p>As described by Casteneda et al.,</p>
+<p>A Personal Learning Environment is … a structure and process that helps learners organize the influx of information, resources and interactions that they are faced with on a daily basis into a personalized learning space or experience. In a PLE, the learner develops an individualized digital identity through the perceptual cues and cognitive affordances that the personal learning environment provides, such as what information to share and when, who to share it with, and how to effectively merge formal and informal learning experiences. <span class="citation" data-cites="castanedaPersonalLearningEnvironments2017">(<a href="#ref-castanedaPersonalLearningEnvironments2017" role="doc-biblioref">Castañeda et al., 2017, para. 2</a>)</span></p>
 <p>Which aspects of the two definitions do you find most meaningful? How do you structure your daily interactions and manage the flow of information? In what ways do you communicate your learning experiences to others? Lastly, what specific goals are you aiming to accomplish through your learning journey?</p>
 <section id="activity-what-is-a-ple" class="level3" data-number="4.1.1">
 <h3 data-number="4.1.1" class="anchored" data-anchor-id="activity-what-is-a-ple"><span class="header-section-number">4.1.1</span> Activity: What Is a PLE?</h3>
@@ -334,8 +353,8 @@ A Personal Learning Environment is … a structure and process that helps learne
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li><p><strong>Write</strong>: Take a couple of minutes to brainstorm the tools, services, and communities that you use to pursue your educational goals. Use your notetaking tool (e.g., Obsidian) to create a list of these.</p></li>
-<li><p><strong>Create</strong>: Next, create a graphic organizer to visualize your PLE. You can use Obsidian, or see <a href="https://www.techlearning.com/news/best-graphic-organizers-for-education" target="_blank"><em>Best Graphic Organizers for Education</em></a> (2023) for other free options.</p></li>
+<li><p>Take a couple of minutes to brainstorm the tools, services, and communities that you use to pursue your educational goals. Use your notetaking tool (e.g., Obsidian) to create a list of these.</p></li>
+<li><p>Next, create a graphic organizer to visualize your PLE. You can use Obsidian, or see <a href="https://www.techlearning.com/news/best-graphic-organizers-for-education" target="_blank"><em>Best Graphic Organizers for Education</em></a> (2023) for other free options.</p></li>
 </ul>
 <div class="callout callout-style-simple callout-note no-icon">
 <div class="callout-body d-flex">
@@ -864,7 +883,7 @@ elearning@twu.ca</li>
 <div class="callout-body-container callout-body">
 <p>Prepare and publish a short blog post of about 250 to 300 words focusing on what you hope to achieve with your online digital identity for learning.</p>
 <ul>
-<li>Reflect on the outcomes of your footprint audit. Remember that your blog post is public, so only share what you are comfortable sharing with the world. You don’t need to be specific; for example, you can generalize: “I am satisfied with my digital footprint because …” or “I would like to improve my digital footprint for learning because …”</li>
+<li>Reflect on the outcomes of your footprint audit. You don’t need to be specific; for example, you can generalize: “I am satisfied with my digital footprint because …” or “I would like to improve my digital footprint for learning because …”</li>
 <li>Reflect on professional versus private identities. Consider how you want to separate your “private” online identity from your professional or learning identity. If you already maintain an online presence (existing blog or social media accounts) think about how you will separate professional or learning posts from private and social life interactions online. For example, maintaining a separate course or learning blog is one way to achieve this distinction. Will you link your personal online identities (e.g., an existing X (formerly Twitter) username or Facebook account) with your learning blog? Will you link your professional online identity (e.g., published online biography or resume) with your learning blog?</li>
 <li>List a few objectives for developing or improving your online identity.</li>
 <li>Add a category or tag to your post using the course tag: LDRS101 (this is needed to harvest links to posts from registered blogs for the course feed).</li>
@@ -903,18 +922,8 @@ elearning@twu.ca</li>
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li><strong>Read</strong> the following <a href="https://workforceedtech.org/tool-evaluation-criteria/" target="_blank">Tool Evaluation Criteria</a>. Note some criteria may not apply to the tool you choose to evaluate. Also see the <a href="https://docs.google.com/spreadsheets/d/1-zIw01FI0N6NKY2SdOO2PuniUxDxAG-beeTsmxRQru0/edit?usp=sharing/" target="_blank">Tool Evaluation Scoring Rubric and Notepad</a> (an editable Google Sheet).</li>
-</ul>
-<!-- !!! Comment(s) from Werd:
-
-Reference: following
-
-Comment: TWU link, please verify and add to Zotero
-Deb Troendle-Scott | 2024-08-03T11:59:00Z
-
--->
-<ul>
-<li><strong>Write:</strong> Create your own criteria for evaluating digital tools. Set up a spreadsheet or notepad (in Obsidian for example) and as you list your criteria, consider why that detail is important to you. To help you select your criteria, read the following:
+<li>Read the following <a href="https://workforceedtech.org/tool-evaluation-criteria/" target="_blank">Tool Evaluation Criteria</a>. Note some criteria may not apply to the tool you choose to evaluate. Also see the <a href="https://docs.google.com/spreadsheets/d/1-zIw01FI0N6NKY2SdOO2PuniUxDxAG-beeTsmxRQru0/edit?usp=sharing/" target="_blank">Tool Evaluation Scoring Rubric and Notepad</a> (an editable Google Sheet).</li>
+<li>Create your own criteria for evaluating digital tools. Set up a spreadsheet or notepad (in Obsidian for example) and as you list your criteria, consider why that detail is important to you. To help you select your criteria, read the following:
 <ul>
 <li><a href="https://www.internetsociety.org/policybriefs/privacy/" target="_blank"><em>Policy Brief: Privacy</em></a> (2015)</li>
 </ul></li>
@@ -953,10 +962,10 @@ Deb Troendle-Scott | 2024-08-03T11:59:00Z
 </ul>
 <p><strong>Fit For Purpose</strong></p>
 <ul>
-<li><p>Is the tool suitable for the stated purpose?</p></li>
-<li><p>How does the design of the tool influence what users can do with the tool?</p></li>
-<li><p>Does the tool provide support resources or help tutorials? Search the web to find out if others provide help and advice on using the tool (for example YouTube, blog posts, and so on)</p></li>
-<li><p>What are the implications or opportunities of the tool to support learning in a digital age?</p></li>
+<li>Is the tool suitable for the stated purpose?</li>
+<li>How does the design of the tool influence what users can do with the tool?</li>
+<li>Does the tool provide support resources or help tutorials? Search the web to find out if others provide help and advice on using the tool (for example YouTube, blog posts, and so on)</li>
+<li>What are the implications or opportunities of the tool to support learning in a digital age?</li>
 </ul>
 </div>
 </div>
@@ -1005,7 +1014,7 @@ Deb Troendle-Scott | 2024-08-03T11:59:00Z
 <li>Add a category or tag for your post using the course tag: LDRS101</li>
 </ul></li>
 </ul>
-<p><strong>Optional:</strong> On Discourse, let us know what tool you selected and why. Share the link of your review blog.</p>
+<p>On Discourse, let us know what tool you selected and why. Share the link of your review blog.</p>
 </div>
 </div>
 </section>
@@ -1025,17 +1034,22 @@ Checking Your Learning
 <div class="callout-body-container callout-body">
 <p>Before you move on to the next unit check that you are able to:</p>
 <ul>
-<li><p>Create a personalized narrative to document and express your learning process</p></li>
-<li><p>Examine your digital footprint and develop a positive digital online identity</p></li>
-<li><p>Evaluate digital tools, platforms, and interactions based on ethical principles</p></li>
-<li><p>Critically evaluate the affordances and restraints of digital tools and platformsIdentify the digital skills needed in your field of study</p></li>
-<li><p>Describe how to protect yourself, as well as other students and colleagues, to stay safe in the digital environment</p></li>
-<li><p>Practice evaluative judgment to document your process of learning in complex domains of knowledge</p></li>
+<li>Create a personalized narrative to document and express your learning process</li>
+<li>Examine your digital footprint and develop a positive digital online identity</li>
+<li>Evaluate digital tools, platforms, and interactions based on ethical principles</li>
+<li>Critically evaluate the affordances and restraints of digital tools and platformsIdentify the digital skills needed in your field of study</li>
+<li>Describe how to protect yourself, as well as other students and colleagues, to stay safe in the digital environment</li>
+<li>Practice evaluative judgment to document your process of learning in complex domains of knowledge</li>
 </ul>
 </div>
 </div>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-castanedaPersonalLearningEnvironments2017" class="csl-entry" role="listitem">
+Castañeda, L., Dabbagh, N., &amp; Torres-Kompen, R. (2017). Personal <span>Learning Environments</span>: <span>Research-Based Practices</span>, <span>Frameworks</span> and <span>Challenges</span>. <em>Journal of New Approaches in Educational Research</em>, <em>6</em>(1), 1–2. <a href="https://doi.org/10.7821/naer.2017.1.229">https://doi.org/10.7821/naer.2017.1.229</a>
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->

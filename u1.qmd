@@ -49,11 +49,11 @@ Here is a checklist of learning activities that will benefit you in completing t
 :::
 
 ::: note
-**Notes:** 
+**Notes:**
 
-- *You will be directed to complete these activities as they come up in the unit.*   
-- *The learning activities in this course are designed to prepare you for the graded assignments in this course.*   
-- *Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.*  
+-   *You will be directed to complete these activities as they come up in the unit.*\
+-   *The learning activities in this course are designed to prepare you for the graded assignments in this course.*\
+-   *Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.*\
 :::
 
 ::: note
@@ -346,7 +346,7 @@ In the next activity, you will start to unpack this term and prepare your own in
 ::: learning-activity
 Let's take a look at the definitions of digital literacy and digital skills on the web and identify the difference. Follow the steps below and feel free to jot down some notes in your Obsidian journal. If you are completing this activity on a new day, create a new daily note.
 
--   Read [Wikipedia's definition](https://en.wikipedia.org/wiki/Digital_literacy){target="_blank"} (2024) of igital literacy---is this a good description?
+-   Read [Wikipedia's definition](https://en.wikipedia.org/wiki/Digital_literacy){target="_blank"} (2024) of digital literacy---is this a good description?
 -   Scan the #diglit or #digital-literacy hashtags on [X (Twitter)](https://x.com/home){target="_blank"} --- did you find any valuable links to defining digital literacy?
 -   Conduct a Google search for "digital literacy." Select a few definitions you like and record their URLs, for example by adding these to your browser bookmarks.
 -   Conduct a Google search for "digital skills." Select one or two definitions you like and record the URLs.
@@ -470,7 +470,7 @@ At the same time, if we can imagine the visitor $\leftrightarrow$ resident conti
 ::: learning-activity
 The video below explains a process to help you think about where you reside on the web.
 
--   [Watch: *Visitors and Residents*](https://www.youtube.com/watch?v=sPOG3iThmRI){target="_blank"} (2014)<!-- Auto title, auto embed-->
+- [Watch: *Visitors and Residents*](https://www.youtube.com/watch?v=sPOG3iThmRI){target="_blank"} (2014)
 
 {{< video https://www.youtube-nocookie.com/embed/sPOG3iThmRI >}}
 
@@ -619,9 +619,9 @@ So how can we protect ourselves if new threats are emerging all the time?
 ### Activity: Tos Analysis
 
 ::: learning-activity
-Use the [*Terms of Service: Didn't Read*](https://tosdr.org/){target="_blank"} (n.d.) site to look up each of the apps we will learn in this course. Each tool currently has its own file in your Obsidian vault with a template ready to go for you. Fill out the template for each tool based on what is available on tosdr.org and your own examination of the ToS for each tool.
+Use the [*Terms of Service: Didn't Read*](https://tosdr.org/){target="_blank"} [@TermsServiceDidn] site to look up each of the apps we will learn in this course. Each tool currently has its own file in your Obsidian vault with a template ready to go for you. Fill out the template for each tool based on what is available on tosdr.org and your own examination of the ToS for each tool.
 
-Feel free to add components to the template.
+Feel free to add components to the template. Note we're return to this website at the end of Unit 4 as we evaluate digital tools.
 :::
 
 ### Activity: Introduction To Reflective Journaling
