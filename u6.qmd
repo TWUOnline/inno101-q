@@ -266,7 +266,6 @@ Consider trying out ChatGPT to see if you can spot the ways to identify AI gener
 
 {{< video https://www.youtube-nocookie.com/embed/zuvN8_6QIKk >}}
 
-<!-- //todo #22 -   Optional resource: [ChatGPT and Artificial Intelligence in Higher Education: Quick Start Guide](https://www.iesalc.unesco.org/wp-content/uploads/2023/04/ChatGPT-and-Artificial-Intelligence-in-higher-education-Quick-Start-guide_EN_FINAL.pdf){target="_blank"}. (2023)-->
 :::::
 
 ### Jobs and Automation {.unnumbered}
@@ -336,10 +335,7 @@ Your task will be to publish an editorial on your chosen topic in your course bl
 To test your knowledge of concepts associated with problematic behaviours online, we provide a short orientation quiz below. Once you have attempted your first answer, and in the event that you are not familiar or not sure what the alternatives mean, click the options to find out more about the concept.
 
 <p><iframe scrolling="yes" src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=575" allowfullscreen="allowfullscreen" width="100%" height="1000" frameborder="0" title="INNO 101 Unit 6.5  Activity: Quiz: Problematic Online Behaviours"></iframe>
-</p>
-<script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
-
-<!-- //todo #25 - the H5P is missing. note this may be a glitch in the Quarto\>Word\>editor\>Quarto workflow. @chloecwh let's discuss! -->
+</p><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 How did you do? Have you encountered any of these behaviours online? Share your thoughts by posting a comment on Discourse.
 :::
@@ -557,7 +553,7 @@ In this section we explore the phenomenon of internet trolling and strategies fo
 ::: learning-activity
 -   Take the [Spot the Troll](https://spotthetroll.org/){target="_blank"} quiz (n.d.), which uses images of real social media content. How did you do? Did some of the profiles surprise you? Have you encountered these types of profiles on social media?
 -   As you read the following, pay particular attention to strategies for dealing with trolling behaviour.
-<!-- //todo #20    -   [Troll (Slang)](https://en.wikipedia.org/wiki/Troll_(slang)%7Btarget=%22_blank%22%7D) (2024) -->
+    -   [Troll (Slang)](https://en.wikipedia.org/wiki/Troll_(slang)){target="_blank"} (2024)
     -   [What is a Troll?](https://meta.wikimedia.org/wiki/What_is_a_troll){target="_blank"} (n.d.)
     -   [Internet Trolling: How do you Spot a Real Troll?](https://www.lifewire.com/what-is-internet-trolling-3485891){target="_blank"} (2024)
 -   Watch [The Secret Confessions of an Internet Troll](https://www.youtube.com/watch?v=5BQp3V_34BE){target="_blank"} (2016)

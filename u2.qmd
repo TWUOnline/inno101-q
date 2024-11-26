@@ -395,7 +395,6 @@ Google Scholar is a good search engine to find scholarly publications. The downs
 This activity focuses on searching database repositories. Most databases provide advanced search features; however there are differences in how each database site implements search functionality.
 
 - View the following resources on searching using databases.
-    <!-- //todo #19  [*Top Ten Database Search Tips*](https://www.berkeleycitycollege.edu/library/2011/04/04/databasesearchtips/){target="_blank"} (2011)-->
     - [*Searching in Databases*](https://web.library.uq.edu.au/research-tools-techniques/search-techniques/where-and-how-search/searching-databases){target="_blank"} (2012)
     - [Directory of Open Access Journals (DOAJ)](https://doaj.org/){target="_blank"} -- see also FAQs
 - Watch the following video on using the [*Directory of Open Access Journals (DOAJ)*](https://www.youtube-nocookie.com/embed/ndvLm9MIfKA){target="_blank"} (2016)

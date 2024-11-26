@@ -482,13 +482,13 @@ Consider how you might connect, thrive, and serve through your connections and c
 
 What experiences have you had so far in connecting with your peers and getting to know the TWU community? If you have not participated in the engagement opportunities presented in this course (Discourse, WordPress blog), take the time now to connect!
 
-<!-- //todo #23 -->**TWU on Social Media**
+**TWU on Social Media**
 
 Here are some other websites you might want to check out for more about the TWU community:
 
-- TWU Facebook
-- X (Twitter)
-- Instagram
+- [TWU Facebook](https://www.facebook.com/trinitywestern){target="_blank"}
+- [X (Twitter)](https://x.com/TrinityWestern){target="_blank"}
+- [Instagram](https://www.instagram.com/trinitywestern/?hl=en){target="_blank"}
 
 - Jot down your responses to the following questions in your reflective journal (Obsidian):
   - What are your personal and academic goals for making connections at TWU?
