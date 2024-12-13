@@ -11,7 +11,9 @@
         "**/assessment.qmd": false,
         "*.qmd": false,
         "assessment.qmd": false,
-        "**/*.qmd": false
+        "**/*.qmd": false,
+        "**/yml-assets": false,
+        "yml-assets": false
     },
     "explorerExclude.backup": {
         "**/.git": false,
@@ -22,9 +24,11 @@
         "**/Thumbs.db": false,
         "**/ .html": false,
         "**/ .md": false,
-        "**/assessment.qmd": true,
-        "*.qmd": true,
-        "assessment.qmd": true,
-        "**/*.qmd": true
+        "**/assessment.qmd": false,
+        "*.qmd": false,
+        "assessment.qmd": false,
+        "**/*.qmd": false,
+        "**/yml-assets": true,
+        "yml-assets": true
     }
 }

@@ -12,10 +12,10 @@ In this first unit, there will be both theoretical and practical work for you to
 
 This unit is divided into the following topics:
 
-1. Learning Online
-2. Understanding the Digital
-3. Digital Literacies
-4. Digital Privacy and Safety
+1.  Learning Online
+2.  Understanding the Digital
+3.  Digital Literacies
+4.  Digital Privacy and Safety
 
 ### Unit Learning Outcomes {.unnumbered}
 
@@ -64,11 +64,12 @@ See the Assessment section in Moodle for assignment details.
 -   All resources will be provided online in the unit.
 
 ::: prote
+
 Hiding first activity until we have a TOP video targetting TOP student demographic.
 
-### Activity: Why TWU?
+:::
 
-::::::::::::::::::::::::::::::::::: learning-activity
+### Activity: Why TWU?
 ::: {.learning-activity time="20"}
 Before we dive into some digital tools you may use in your academic studies at Trinity, let's pause and think about what TWU means to you. Why did you choose TWU? What do you hope to achieve during your time here?
 
@@ -85,28 +86,24 @@ What do you think? Consider the following prompts:
 -   I am confident that ...
 -   I am concerned about ...
 :::
-:::
 
 ### Activity: Setting Your Learning Goals
 
-::: learning-activity
 ::: {.learning-activity time="10"}
 In this first learning activity, take a few minutes to think about why you enrolled in this course and what you hope to gain. Consider questions like:
- 
-- What skills or knowledge do I want to develop? 
-- How might this course support my academic, personal, or professional goals? 
-- What challenges might I face, and how can I overcome them? 
 
-Choose a note-taking tool that works best for you (e.g., a Word document, a physical notebook, or a note-taking app). Write down your thoughts to address the following: 
-- Three specific goals you have for this course. 
-- One potential challenge and how you plan to address it. 
-- How you will measure your success at the end of the course. 
+-   What skills or knowledge do I want to develop?
+-   How might this course support my academic, personal, or professional goals?
+-   What challenges might I face, and how can I overcome them?
 
-Notes:
-- This activity is ungraded and intended to help you take ownership of your learning journey. 
-- Feel free to revisit your notes throughout the course as your goals and challenges may evolve. 
+Choose a note-taking tool that works best for you (e.g., a Word document, a physical notebook, or a note-taking app). Write down your thoughts to address the following: - Three specific goals you have for this course. - One potential challenge and how you plan to address it. - How you will measure your success at the end of the course.
+
+::: {.note}
+
+Notes: - This activity is ungraded and intended to help you take ownership of your learning journey. - Feel free to revisit your notes throughout the course as your goals and challenges may evolve.
 :::
 
+:::
 
 ## Learning Online
 
@@ -140,7 +137,6 @@ Here is some additional advice from TWU students.
 
 ### Activity: Learning Online Effectively
 
-::: learning-activity
 ::: {.learning-activity time="30"}
 There are thousands of websites that offer advice such as "tips for online learning" or "how to succeed in your online class," and some of those sites are good (see [here](https://www.ualberta.ca/current-students/academic-success-centre/resources/working-online.html){target="_blank"}, [here](https://online.umn.edu/story/15-tips-succeed-online-class){target="_blank"}, and [here](https://www.trentu.ca/online/student-support/be-a-successful-online-learner){target="_blank"} ). Some of them are also connected to shady people who want less than your best interests. One of the shining examples of a great resource is the *Liberated Learner* project, which was created primarily by university and college students like you. There are four main sections in the *Liberated Learner* resource---we will explore "The Learner" in this activity.
 
@@ -153,9 +149,8 @@ There are thousands of websites that offer advice such as "tips for online learn
 :::
 
 ### Activity: Online Discussions
-:::: learning-activity
-::: {.learning-activity time="30"}
 
+:::: {.learning-activity time="30"}
 Participating in discussions with your peers (what higher education folks like to call *discourse*---a verb), is an essential aspect of effective online courses, facilitated through platforms such as Moodle discussion forums, WordPress blogs, Discourse posts (in this case, a noun---referring to the app called Discourse), and others. We all know that discussion forums can sometimes be tedious, especially when they are assessed in the same way a formal paper is assessed. However, the benefits of using asynchronous technologies (where your interactions with others are time-delayed) in well-designed activities can be significant.
 
 Here is an article that will introduce you to some key ideas about discussion forums:
@@ -172,7 +167,7 @@ While you read, make notes and then create a summary.
 -   While you read, jot down some notes, either in a notebook on paper, or in a file on your computer.
 -   Once you are done, write a two to three sentence summary ***in your own words*** of the article and how it relates to you and your experience.Do not hesitate to look up words that you don't understand, and include the definitions in your notes.
 -   Include at least one question that you have about the article in your notes.
-::::
+:::
 
 #### Discussion Guidelines for LDRS 101 {.unnumbered}
 
@@ -227,14 +222,10 @@ Here are some examples of how to stimulate your own and others’ thinking:
 
 For more on substantive participation, read [*Writing a Substantive Discussion Post for an Online Class Forum*](https://apuedge.com/writing-a-substantive-discussion-post-for-an-online-class-forum/){target="_blank"} (2016).
 
-
 ### Activity: Join the Hub!
 
-::: learning-activity
 ::: {.learning-activity time="20"}
-
-Head over to [the Learning Hub](https://twu.discourse.group/auth/microsoft_office365){target="_blank"}, which is an app called Discourse that we use to build community among learners in online courses. Find the Leadership 101 category and respond to the Welcome forum. As you introduce yourself, share your thoughts and questions you have about TWU.
-Here are some conversation prompts to get you started:
+Head over to [the Learning Hub](https://twu.discourse.group/auth/microsoft_office365){target="_blank"}, which is an app called Discourse that we use to build community among learners in online courses. Find the Leadership 101 category and respond to the Welcome forum. As you introduce yourself, share your thoughts and questions you have about TWU. Here are some conversation prompts to get you started:
 
 -   What interests you about learning online?
 -   What are your learning goals?
@@ -243,11 +234,9 @@ Here are some conversation prompts to get you started:
 -   What is a "Wow" and a "Wonder" you have about online learning?
 :::
 
-
-
 ## Understanding the Digital
 
-Our next topic is an introduction to the idea of "the digital." You may recognize that digital tools are deeply embedded in modern society. It is not uncommon for people of all ages to interact with apps and tools that claim to connect people in conversations or networks, or to perform complex tasks for work, or to control various systems in our vehicles. Digital technology is really everywhere we look. Thinking about these tools is one way to conceptualize how we interact with digital tools but we can also recognize that our social practices and norms have been impacted by digital tools. An example of this, at least in North America, is that the names of companies have become verbs. If people want to learn something about a topic, they *Google* it. 
+Our next topic is an introduction to the idea of "the digital." You may recognize that digital tools are deeply embedded in modern society. It is not uncommon for people of all ages to interact with apps and tools that claim to connect people in conversations or networks, or to perform complex tasks for work, or to control various systems in our vehicles. Digital technology is really everywhere we look. Thinking about these tools is one way to conceptualize how we interact with digital tools but we can also recognize that our social practices and norms have been impacted by digital tools. An example of this, at least in North America, is that the names of companies have become verbs. If people want to learn something about a topic, they *Google* it.
 
 Mobile phones are often essential tools for communication, social media, internet browsing, messaging, entertainment, photography, navigation, online shopping, mobile banking, productivity, two-factor authentication for some websites, and health and fitness management. In some cases, such as in social media, it is almost impossible to participate in public discourse without access to technology.
 
@@ -260,11 +249,11 @@ Modern universities are also deeply impacted by the digital. Every system involv
 
 There are many other processes and procedures that rely on the digital in higher education, but the important thing for you to realize is that there are many tools that you will be required to learn and use. Some are obvious, such as word processors, presentation software, email, the library website, and the LMS, but others are less obvious and won't necessarily be taught specifically, other than in this course.
 
-Some of the digital tools we will introduce to you will help you build a workflow for you to manage the huge amount of information and resources that you will have to sort through to complete many of your assignments. You will learn to use AI to find relevant resources on whatever your topic might be. As you may know from searching Google, a simple search of the web can turn up thousands or millions of hits, but there are tools that can help you highlight the most relevant resources in just a few clicks. 
+Some of the digital tools we will introduce to you will help you build a workflow for you to manage the huge amount of information and resources that you will have to sort through to complete many of your assignments. You will learn to use AI to find relevant resources on whatever your topic might be. As you may know from searching Google, a simple search of the web can turn up thousands or millions of hits, but there are tools that can help you highlight the most relevant resources in just a few clicks.
 
-Once you find resources, we will show you tools that will allow you to track all your references, create citations in your writing quickly and easily, and then create a perfectly formatted reference list. Do not waste your time creating your own bibliographies! This one tool will save you days and likely weeks of work during your degree (quite literally). 
+Once you find resources, we will show you tools that will allow you to track all your references, create citations in your writing quickly and easily, and then create a perfectly formatted reference list. Do not waste your time creating your own bibliographies! This one tool will save you days and likely weeks of work during your degree (quite literally).
 
-We will show you another tool that will allow you to make connections between ideas and notes so that you build a network of connected ideas. Curating this network of ideas is possibly one of the most useful things you can do. You will end up with a searchable network of everything you've learned and be able to visualize it at the click of a button. 
+We will show you another tool that will allow you to make connections between ideas and notes so that you build a network of connected ideas. Curating this network of ideas is possibly one of the most useful things you can do. You will end up with a searchable network of everything you've learned and be able to visualize it at the click of a button.
 
 Additionally, we’ll guide you through thinking about your digital presence. You’ll learn to make wise decisions about how to present yourself online, what to share, and how to share it. We will also help you make connections on the web that could become a key resource for your learning and working in your career.
 
@@ -272,9 +261,7 @@ As you watch the upcoming video, think about how these digital tools fit into yo
 
 ### Activity: Reflection on Self-Directed Learning
 
-:::: learning-activity
 ::: {.learning-activity time="20"}
-
 In the following video, Dr. Timothy Stafford explores the transformative power of heutagogy in education, highlighting how self-driven learning fosters autonomy, discovery, and lifelong growth. With over 30 years of expertise in instructional design, educational technology, and leadership, Dr. Stafford has shaped thousands of online courses across diverse industries. In this TEDx talk, he shares insights from his extensive experience, emphasizing the potential of personalized, future-focused education.
 
 [Watch: *The Future of Education is Self-Directed Learning*](https://www.youtube.com/watch?v=NkmiquiJ_nA){target="_blank"} (2024)
@@ -286,9 +273,7 @@ While you watch the video think about:
 -   What is heutagogy?
 -   How do you self-determine the value of your learning?
 -   What digital skills are important for you to develop?
-
 :::
-
 
 ## Digital Literacies
 
@@ -304,18 +289,18 @@ What digital tools do you use to help you make meaning? What is your "go-to" app
 
 {{< video https://www.youtube-nocookie.com/embed/d2FNqEDGc8g >}}
 
-
 ### Activity: Getting Started With Obsidian
 
-::: learning-activity
-::: {.learning-activity time="30"}
-
+:::: {.learning-activity time="30"}
 Follow the steps below to install Obsidian on your computer.
 
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=625" width="675" height="535" frameborder="0" allowfullscreen="allowfullscreen" title="Getting Started With Obsidian"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 ::: prote
-please add the Obsidian H5P [h5p id="625"]
+please add the Obsidian H5P \[h5p id="625"\]
 :::
 
+<!--
 -   Go to [obsidian.md](https://obsidian.md/download){target="_blank"} and [follow these instructions to install Obsidian on your computer.](https://help.obsidian.md/Getting+started/Download+and+install+Obsidian){target="_blank"}
     -   It is recommended that you use a computer rather than a mobile phone to install Obsidian, but please let your instructor or facilitator know if you are on mobile.
     -   You do NOT need to purchase any upgrades such as **Obsidian Sync** or **Obsidian Publish**.
@@ -324,16 +309,18 @@ please add the Obsidian H5P [h5p id="625"]
 -   It is recommended that you use one of the sync services listed here so that your files are backed up.
 
 If you are having any difficulty in installing Obsidian, feel free to reach out for support on [the Learning Hub](https://twu.discourse.group/auth/microsoft_office365){target="_blank"}. There are also several tutorials and videos online; you are encouraged to seek out these resources. One example is [*Obsidian for Beginners: Start HERE --- How to Use the Obsidian App for Notes*](https://www.youtube-nocookie.com/embed/QgbLb6QCK88?si=ZKdRBBIccDy4TjgY){target="_blank"} (2020). The first minute shows how to set up Obsidian ... and if you'd like a sneak peek at the amazing features this tool has to offer, watch on! We'll get to these additional uses of Obsidian later in the course.
+-->
 :::
 
 Obsidian will become a backbone of this course as we will use it to learn how the web works and give you a workflow that will help you stay organized. One of the advantages of Obsidian is that everything you do in the app happens on your own computer, rather than the cloud, which is just another way of saying *someone else's computer*. However, the drawback to that is that you need to ensure that you have a backup of your vaults in a secure location, either one of the sync services mentioned in Step 3, above, or another backup system. [Please check the Learning Hub](https://twu.discourse.group/auth/microsoft_office365){target="_blank"} or talk to your instructor or facilitator for help with this.
 
-::: prote
+:::::: prote
 deleting activity as it is a part of the h5p
+:::
 
 ### Activity: Download the Starter Vault
 
-::::: learning-activity
+::: learning-activity
 To give you a head start, we have created a starter vault for you to download and use. Follow the instructions below to access the starter vault.
 
 -   Click this [link](assets/u1/ldrs101-vault-main.zip){target="_blank"} to download the vault
@@ -360,11 +347,10 @@ Screenshot of the Open Another Vault Button in Obsidian
 -   Choose the ldrs101-\[firstame-lastname\] folder, and then Obsidian will ask you to trust this vault
 -   Click "Trust author and enable plugins"
 -   Once you are in the vault, feel free to take a look around---you will notice a Home page, a Tools folder with some files in it, and a VR Diagram Canvas
-:::::
 :::
 
-Now that you have a place to record your course notes, let's jump back into the discussion about digital literacy. Traditionally, literacy was about speaking, listening, reading and writing. Literacy has taken on a much broader and complex meaning. Today there's also digital literacy, media literacy, new literacy, and so on. In the activity below you are invited to reflect on how your literacies have changed when compared to your parents, and to speculate on new literacies the next generation of learners may need for the future.
 
+Now that you have a place to record your course notes, let's jump back into the discussion about digital literacy. Traditionally, literacy was about speaking, listening, reading and writing. Literacy has taken on a much broader and complex meaning. Today there's also digital literacy, media literacy, new literacy, and so on. In the activity below you are invited to reflect on how your literacies have changed when compared to your parents, and to speculate on new literacies the next generation of learners may need for the future.
 
 ::: prote
 replaced video
@@ -372,12 +358,10 @@ replaced video
 
 ### Activity: Reflection on the Evolution of Digital Technologies
 
-:::: learning-activity
 ::: {.learning-activity time="10"}
+In this next video we will explore the remarkable journey of digital technology. From the first colossal computers to today’s AI-powered smartphones, this video highlights key innovations that have revolutionized how we live, work, and connect.
 
-In this next video we will explore the remarkable journey of digital technology. From the first colossal computers to today’s AI-powered smartphones, this video highlights key innovations that have revolutionized how we live, work, and connect. 
-
-[Watch: *The Evolution of Digital Technology *](https://www.youtube.com/watch?v=PdqWlByz-NQ){target="_blank"} (2010)
+[Watch: *The Evolution of Digital Technology* ](https://www.youtube.com/watch?v=PdqWlByz-NQ){target="_blank"} (2010)
 
 {{< video https://www.youtube-nocookie.com/embed/PdqWlByz-NQ >}}
 
@@ -407,19 +391,15 @@ Screenshot, Obsidian, Where to Find Today's Daily Note (Icon Circled)
 Please make sure you add tags to your note. Suggested tags might be #digital-literacy #ldrs101 #macarthur-foundation #john-seely-brown.
 
 Notice that tags start with a hashtag and contain no spaces. Separate words with a hyphen.
-::::
+:::
 
 Let's dive a little deeper into this topic of digital literacy. What is it? How would you define digital literacy?
 
 In the next activity, you will start to unpack this term and prepare your own initial definition of digital literacy.
 
-:::
-
 ### Activity: Defining Digital Literacy
 
-::: learning-activity
 ::: {.learning-activity time="10"}
-
 Let's take a look at the definitions of digital literacy and digital skills on the web and identify the difference. Follow the steps below and feel free to jot down some notes in your Obsidian journal. If you are completing this activity on a new day, create a new daily note.
 
 -   Read [Wikipedia's definition](https://en.wikipedia.org/wiki/Digital_literacy){target="_blank"} (2024) of digital literacy---is this a good description?
@@ -446,7 +426,7 @@ As you explore the concept, you will find online resources which confuse digital
 
 ### Activity: What Are Digital Literacies?
 
-::::: learning-activity
+::: learning-activity
 Watch educator and researcher Doug Belshaw as he discusses his digital literacies framework:
 
 -   [Watch: *The Essential Elements Of Digital Literacies: Doug Belshaw At TedxWarwick*](https://www.youtube.com/watch?v=A8yQPoTcZ78){target="_blank"} (2012)<!-- titled-->
@@ -470,7 +450,7 @@ Career Ready Framework
 Do you agree that these are the key literacies you need to live, learn, and work in today's society? What would you add?
 
 Conduct a quick Google search for "digital literacies" and add in terms such as "essential," "top," "21st century." What other literacies or skills are emphasized? What would your list be for digital literacies that are important for you?
-:::::
+:::
 
 ### Activity: Why Digital Literacy Matters
 
@@ -582,7 +562,7 @@ This activity will help you think about how the tools we use shape and sometimes
 ::: note
 This diagram can be used to demonstrate your understanding of the course learning outcomes. See the Assessment tab in Moodle for how this activity relates to the assessments in this course*.*
 :::
-::::
+:::
 
 ## Digital Privacy and Safety
 
@@ -763,6 +743,6 @@ Before you move on to the next unit you may want to check that you are able to:
 -   Describe how to protect yourself and others in the digital environment
 -   Identify the literacies you plan to improve and what steps you will take to achieve your goals
 :::
-:::::::::::::::::::::::::::::::::::
+
 
 [^u1-1]: For real ... using Zotero will literally save you days of tedious work during your university career!
