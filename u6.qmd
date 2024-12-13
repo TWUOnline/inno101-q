@@ -74,12 +74,11 @@ In this course we have promoted the use of tools that allow you to share your le
 ### Activity: Learning in Community
 
 ::: learning-activity
-
 Watch [What is Social Learning?](https://www.youtube.com/watch?v=AB-_822TRms){target="_blank"} (2017)
 
 {{< video https://www.youtube-nocookie.com/embed/AB-_822TRms >}}
 
-
+```{=html}
 <!-- deleted the following:
 
 -   [Social Learning Theories](https://socialsci.libretexts.org/Bookshelves/Education_and_Professional_Development/Teaching_Crowds_-_Learning_and_Social_Media_(Dron_and_Anderson)%7Btarget=%22_blank%22%7D/02%3A_Social_Learning_Theories) (2021)
@@ -99,9 +98,10 @@ Watch [What is Social Learning?](https://www.youtube.com/watch?v=AB-_822TRms){ta
 -   Delete in Zotero too?
 
 -->
+```
 
-- Read [Social Learning in Online Environments](https://openpress.usask.ca/humanmooc/chapter/social-learning-in-online-environments/){target="_blank"} (n.d.) on how we learn in community.
-- Read [Social Learning vs. Community Based Learning: What’s the Difference?](https://www.corporatelearningnetwork.com/learning-design/articles/social-learning-vs-community-based-learning-whats-the-difference){target="\_blank"} (2022) from a corporate HR Learning and Development perspective.
+-   Read [Social Learning in Online Environments](https://openpress.usask.ca/humanmooc/chapter/social-learning-in-online-environments/){target="_blank"} (n.d.) on how we learn in community.
+-   Read [Social Learning vs. Community Based Learning: What’s the Difference?](https://www.corporatelearningnetwork.com/learning-design/articles/social-learning-vs-community-based-learning-whats-the-difference){target="_blank"} (2022) from a corporate HR Learning and Development perspective.
 
 At TWU and in your workplace you may be asked to participate in various group activities, such as group work, partner projects, team presentations, and so on. What are the benefits of working with others?
 
@@ -112,7 +112,6 @@ Consider the following questions:
 -   What are your goals for sharing your learning at TWU and beyond?
 
 Share your thoughts by posting a comment on Discourse, for example: "Sharing learning is valuable because ..." "Community learning in the workplace is valuable because ..."
-
 :::
 
 ### Activity: Preparing for the Future
@@ -151,7 +150,6 @@ Below we'll briefly explore technology and change, artificial intelligence, and 
 ### Activity: The Future of Work
 
 ::: learning-activity
-
 [Watch: *What is the Future of Work?*](https://www.youtube.com/watch?v=EuDnSqAo784){target="_blank"} (2022) from the World Economic Forum.
 
 {{< video https://www.youtube-nocookie.com/embed/EuDnSqAo784 >}}
@@ -172,6 +170,7 @@ What do you think? Share your thoughts by posting a comment on Discourse, for ex
 
 Throughout history there are technologies that have influenced change in society. Consider, for example, the invention of the steam engine and its contribution to the Industrial Revolution. In more recent times, the advent of digital photography displaced Kodachrome (at one time, the market leader in colour film sales) which ceased production in 2009.
 
+```{=html}
 <!-- ### Activity: Newspaper and Music Industry in a Digital Age
 
 ::: learning-activity
@@ -180,17 +179,18 @@ The readings that follow take a retrospective look at the impact of the internet
 - [The age of Digital; Music Executive Reacts to the Impact of Digitalization in the Music Industry](https://www.forbes.com/sites/joshwilson/2022/09/14/the-age-of-digital-music-executive-reacts-to-the-impact-of-digitalization-in-the-music-industry/?sh=1ca7f385537b){target="_blank"} (2022)
 - [The Future of Newspapers in the Digital Age: Embracing the Change!](https://medium.com/@kumarpriyanshu025/the-future-of-newspapers-in-the-digital-age-embracing-the-change-fe835bd8d52f){target="_blank"} (2023) Add or reply to annotations using [Hypothes.is](https://web.hypothes.is/){target="_blank"}, sharing personal insights and experiences. Remember to tag your posts using the course code: LDRS101.
 ::: -->
+```
 
 ### Activity: Impact of Digital Technology on Business
 
 ::: learning-activity
 In this activity we invite you to join the Discourse discussion on the impact of digital technology on business.
 
-- First, choose any business or work environment (for example, your current career or future career).
-- Think about examples of how digital technology has had an impact on your chosen business over the last 30 years.
-- State your business or work environment and share a practical example of how digital technology has influenced change in your chosen area:
-- Has the example contributed to a fundamental change in the way things were done, or is this a minor change?
-- Do you anticipate significant changes in your industry as a result of digital technology in the future? Provide an example.
+-   First, choose any business or work environment (for example, your current career or future career).
+-   Think about examples of how digital technology has had an impact on your chosen business over the last 30 years.
+-   State your business or work environment and share a practical example of how digital technology has influenced change in your chosen area:
+-   Has the example contributed to a fundamental change in the way things were done, or is this a minor change?
+-   Do you anticipate significant changes in your industry as a result of digital technology in the future? Provide an example.
 
 Like, share, and reply to posts. These are forms of engagement and a contribution to your online learning identity.
 :::
@@ -248,7 +248,7 @@ Here is one more article that discusses the pros and cons of English learners us
 ### Activity: How to Identify AI Generated Text
 
 ::::: learning-activity
-Explore the infographic below by Ryan Morrison. 
+Explore the infographic below by Ryan Morrison.
 
 *Tip: View the resource in full screen by clicking on the three dots on the bottom right, and then selecting the full screen arrows.*
 
@@ -262,10 +262,9 @@ Explore the infographic below by Ryan Morrison.
 
 Consider trying out ChatGPT to see if you can spot the ways to identify AI generated writing.
 
-- Watch [Plagiarizing ChatGPT - Is it Illegal?](https://www.youtube.com/watch?v=zuvN8_6QIKk){target="_blank"} (2022)
+-   Watch [Plagiarizing ChatGPT - Is it Illegal?](https://www.youtube.com/watch?v=zuvN8_6QIKk){target="_blank"} (2022)
 
 {{< video https://www.youtube-nocookie.com/embed/zuvN8_6QIKk >}}
-
 :::::
 
 ### Jobs and Automation {.unnumbered}
@@ -294,22 +293,21 @@ In this topic we've explored AI---its possibilities for study and careers, and s
 
 AI systems require lots of work from humans to function correctly. A 2023 report from Time magazine showed that people in Kenya were paid poverty wages to build a safety system into ChatGPT (Perrigo, 2023). Since the platform was fed data from various places sometimes it would make racist or abusive remarks. To build a safeguard into the system, workers were exposed to vile and offensive web content in order to tag it so that the platform could eventually recognize offensive speech on its own. A large portion of this content was very traumatic, and workers interviewed said they were mentally scarred from the work.
 
-- Read [OpenAI Used Kenyan Workers on Less Than \$2 Per Hour to Make ChatGPT Less Toxic](https://time.com/6247678/openai-chatgpt-kenya-workers/){target="_blank"} (2023) and [Inside Facebook's African Sweatshop](https://time.com/6147458/facebook-africa-content-moderation-employee-treatment/){target="_blank"} (2022)
-- Watch [Doing Grueling Work for an AI: Data Labeling](https://www.youtube.com/watch?v=ug_p2wHhla0){target="_blank"} (2023)
+-   Read [OpenAI Used Kenyan Workers on Less Than \$2 Per Hour to Make ChatGPT Less Toxic](https://time.com/6247678/openai-chatgpt-kenya-workers/){target="_blank"} (2023) and [Inside Facebook's African Sweatshop](https://time.com/6147458/facebook-africa-content-moderation-employee-treatment/){target="_blank"} (2022)
+-   Watch [Doing Grueling Work for an AI: Data Labeling](https://www.youtube.com/watch?v=ug_p2wHhla0){target="_blank"} (2023)
 
 {{< video https://www.youtube-nocookie.com/embed/ug_p2wHhla0 >}}
 
 **Questions to Consider:**
 
-- Is it ethical to submit Kenyan workers to trauma in order to sanitize ChatGPT for other users?
-- What other solutions are there for training AI to moderate content?
+-   Is it ethical to submit Kenyan workers to trauma in order to sanitize ChatGPT for other users?
+-   What other solutions are there for training AI to moderate content?
 
 Share your thoughts on AI by posting a comment on Discourse, for example:
 
-- AI will ...
-- I was surprised that AI ...
-- In [insert business] AI will ...
-
+-   AI will ...
+-   I was surprised that AI ...
+-   In \[insert business\] AI will ...
 :::
 
 ## Societal Issues and the Internet
@@ -322,8 +320,7 @@ In this next topic we introduce a number of societal issues and problematic onli
 -   Online harassment
 -   Psychological issues
 -   Net neutrality
--   Digital redlining
-<!-- -   Diversity, equity and inclusion-->
+-   Digital redlining <!-- -   Diversity, equity and inclusion-->
 
 ***Choose one*** societal issue or antisocial behaviour associated with the internet that you would like to investigate further. You may wish to browse the other sections, but each topic can be time-consuming, so be sure to map out your time so you can complete your learning goals.
 
@@ -334,8 +331,17 @@ Your task will be to publish an editorial on your chosen topic in your course bl
 ::: learning-activity
 To test your knowledge of concepts associated with problematic behaviours online, we provide a short orientation quiz below. Once you have attempted your first answer, and in the event that you are not familiar or not sure what the alternatives mean, click the options to find out more about the concept.
 
-<p><iframe scrolling="yes" src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=575" allowfullscreen="allowfullscreen" width="100%" height="1000" frameborder="0" title="INNO 101 Unit 6.5  Activity: Quiz: Problematic Online Behaviours"></iframe>
-</p><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<p>
+
+<iframe scrolling="yes" src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=575" allowfullscreen="allowfullscreen" width="100%" height="1000" frameborder="0" title="INNO 101 Unit 6.5  Activity: Quiz: Problematic Online Behaviours">
+
+</iframe>
+
+</p>
+
+```{=html}
+<script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+```
 
 How did you do? Have you encountered any of these behaviours online? Share your thoughts by posting a comment on Discourse.
 :::
@@ -358,6 +364,7 @@ Were you surprised by any ideas presented in the video? Do you think this is a v
 
 In the next activity you will be asked to search online for credible sources on how website tracking works, how your data is used, and how you can protect yourself online.
 
+```{=html}
 <!-- ::: {.accordion title="How does website tracking work? Click/tap this banner to show/hide the content."}
 **Cookies**: Cookies are small text files that websites store on your device. They contain information about your online activities such as login credentials, preferences, and browsing history. Websites use cookies to recognize and remember you when you return, and they can also track your movements across the site.
 
@@ -427,16 +434,17 @@ Privacy concerns regarding website tracking primarily revolve around the collect
 
 It's important to note that while these steps can help reduce online tracking they might not completely eliminate it. Achieving complete anonymity on the internet is challenging, but these measures can significantly enhance your online privacy and data security. Additionally, privacy laws and regulations in your region may provide you with rights and options for controlling how your data is collected and used online.
 :::-->
+```
 
 ### Activity: Website Tracking Resources
 
 ::: learning-activity
-Choose from the resources below to inform your views on website and data tracking: 
+Choose from the resources below to inform your views on website and data tracking:
 
-- [Get Cyber Safe](https://www.getcybersafe.gc.ca/en){target="_blank"} (2024) is a national public awareness campaign created to inform Canadians about cyber security and the simple steps they can take to protect themselves online. 
-- [Protecting your information and data when using applications- ITSAP.40.200](https://www.cyber.gc.ca/en/protecting-your-information-and-data-when-using-applications-itsap40200){target="_blank"} (2023) from [Canadian Centre for Cyber Security](https://www.cyber.gc.ca/en){target="_blank"} 
-- [*The Real Cost of the 'Free' Internet*](http://mediashift.org/2018/01/real-cost-free-internet/){target="_blank"} (2018) 
-- [*Don't Be Evil: Should we use Google in Schools?*](https://link.springer.com/article/10.1007/s11528-021-00599-4){target="_blank"} (2021)
+-   [Get Cyber Safe](https://www.getcybersafe.gc.ca/en){target="_blank"} (2024) is a national public awareness campaign created to inform Canadians about cyber security and the simple steps they can take to protect themselves online.
+-   [Protecting your information and data when using applications- ITSAP.40.200](https://www.cyber.gc.ca/en/protecting-your-information-and-data-when-using-applications-itsap40200){target="_blank"} (2023) from [Canadian Centre for Cyber Security](https://www.cyber.gc.ca/en){target="_blank"}
+-   [*The Real Cost of the 'Free' Internet*](http://mediashift.org/2018/01/real-cost-free-internet/){target="_blank"} (2018)
+-   [*Don't Be Evil: Should we use Google in Schools?*](https://link.springer.com/article/10.1007/s11528-021-00599-4){target="_blank"} (2021)
 
 Also review these resources on corporate sponsored research:
 
@@ -580,18 +588,18 @@ In this section, we will review research on the state of online harassment and c
 :::: learning-activity
 Read the following research reports on online harassment.
 
-- [*Online Harassment*](https://www.pewresearch.org/internet/2014/10/22/online-harassment/){target="_blank"} (2017). (Note that this is an 8-page report; click through to read it all.)
-- [*Q&A: What We've Learned About Online Harassment*](https://www.pewresearch.org/short-reads/2021/01/13/qa-what-weve-learned-about-online-harassment/){target="_blank"} (2021)
+-   [*Online Harassment*](https://www.pewresearch.org/internet/2014/10/22/online-harassment/){target="_blank"} (2017). (Note that this is an 8-page report; click through to read it all.)
+-   [*Q&A: What We've Learned About Online Harassment*](https://www.pewresearch.org/short-reads/2021/01/13/qa-what-weve-learned-about-online-harassment/){target="_blank"} (2021)
 
 ::: note
 Note in particular the finding that those "who have ever experienced more severe forms of harassment -- such as physical threats, stalking, sexual harassment or sustained harassment -- or multiple forms of harassing behaviors online have both risen substantially in the past three years. This is not the pattern we saw in prior surveys. There has been a markedly steeper rise in these measures since 2017, compared with the change between our 2014 and 2017 studies" (DeSilver, 2021).
 :::
 
-**Questions to Consider**: 
+**Questions to Consider**:
 
-- What surprised you when reading these reports? 
-- Why have the forms of harassment become more severe? 
-- Have you or someone you know experienced some kind of online harassment?
+-   What surprised you when reading these reports?
+-   Why have the forms of harassment become more severe?
+-   Have you or someone you know experienced some kind of online harassment?
 
 Add or reply to annotations using Hypothes.is to share personal insights and experiences. Remember to tag your posts using the course code: LDRS101.
 ::::
@@ -608,11 +616,13 @@ View the the following policy resources on online harassment from X and Meta (Fa
 
 Search online for current events related to social media platforms and harassment. What are the companies doing to prevent bullying, child exploitation, hate speech, etc.?
 
+```{=html}
 <!-- *Commentary*
 
 -   [*Twitter Tries new Measures in Crackdown on Harassment*](https://money.cnn.com/2017/02/07/technology/twitter-combat-harassment-features/index.html?iid=EL){target="_blank"} (2017)
 -   [*Using Digital Fingerprints and Deep Learning to Fight Online Harassment*](https://www.forbes.com/sites/kalevleetaru/2017/02/06/using-digital-fingerprints-and-deep-learning-to-fight-online-harassment/?sh=49fc9bf06908){target="_blank"} (2017)
 -   [*At Facebook we get Things Wrong -- But we Take our Safety Role Seriously*](https://www.theguardian.com/commentisfree/2017/may/22/facebook-get-things-wrong-but-safety-role-seriously){target="_blank"} (2017). Please watch the [*video*](https://www.theguardian.com/news/video/2017/may/21/the-facebook-files-sex-violence-and-hate-speech-video-explainer){target="_blank"} in this link!-->
+```
 :::
 
 ### Psychological Issues {.unnumbered}
@@ -729,6 +739,7 @@ Next, click the topics below to explore different perspectives on this issue in 
 
 Dr. Michael Geist is a law professor at the University of Ottawa where he holds the Canada Research Chair in Internet and e-Commerce Law and is a member of the Centre for Law, Technology and Society. Browse through his [*articles*](https://www.michaelgeist.ca/tech-law-topics/net-neutrality/){target="_blank"} on net neutrality.
 
+```{=html}
 <!-- Here are some key points of interest from Dr. Geist:
 
 > First, while the focus of net neutrality is typically on telecom companies, Bill C-10 envisions a different intermediary or third party – the Canadian government via the CRTC – choosing which content Canadians see by prioritizing or de-prioritizing content that appears in Canadians’ feeds. Internet sites and services will still be available to Canadians (assuming the sites aren’t blocked given the onerous regulations), but the government’s Internet regulatory framework will mean that Internet content will not be treated in a neutral, equal fashion. The mandated Canadian content discoverability requirements will mean that a government regulator will influence what Canadians see when they access Internet services, invoking the same concerns regarding interfering with content and user choice. The intermediary may have changed, but the principle is largely the same. (Geist, 2021, para. 9)
@@ -759,6 +770,8 @@ Here are a couple more resources focusing on the American debate on net neutrali
     -   [*Internet.org*](https://en.wikipedia.org/wiki/Internet.org){target="_blank"} (2024)
     -   [*India Bans Facebook's Basics app to Support Net Neutrality*](https://www.wired.com/2016/02/facebooks-free-basics-app-is-now-banned-in-india/){target="_blank"} (2016)
     -   [*Facebook's Internet.org Isn't Going Over Well in India*](https://fortune.com/2016/01/22/facebook-india-internet/){target="_blank"} (2016) -->
+```
+
 -   Share your thoughts on net neutrality by posting a comment on Discourse. For example:
     -   Net neutrality is important because ...
     -   Net neutrality can/can't coexist with Internet.org because ...
@@ -774,6 +787,7 @@ Remember to add a category or tag for your post using the course tag: LDRS101.
 
 In the context of the digital age, digital redlining manifests in various ways:
 
+```{=html}
 <!-- **Limited internet access**: Some areas, often low income neighborhoods or rural regions, may lack access to high speed internet or affordable data plans. This limits people's ability to access online education, job opportunities, government services, and other online resources.
 
 **Discriminatory algorithms**: Algorithms used in various online services such as lending, housing, and employment platforms may inadvertently or intentionally discriminate against certain groups. For example, an algorithm may give preferential treatment to job applicants from specific demographics.
@@ -785,6 +799,7 @@ In the context of the digital age, digital redlining manifests in various ways:
 **Healthcare access**: Some communities may have limited access to telehealth services, which have become increasingly important, especially, for example, during the COVID-19 pandemic.
 
 **Data collection and surveillance**: Vulnerable populations are often subject to more extensive data collection and surveillance, leading to privacy concerns and potential discrimination based on the data collected. -->
+```
 
 -   Limited internet access or affordable data plans
 -   Discriminatory algorithms
@@ -829,6 +844,7 @@ Also see the following articles that focus on racial and gender bias:
 -   [*Digital Redlining, Access, and Privacy*](https://www.commonsense.org/education/articles/digital-redlining-access-and-privacy){target="_blank"} (2016)
 :::
 
+```{=html}
 <!--
 Diversity, Equity and Inclusion
 
@@ -968,6 +984,7 @@ As you read [*Practising Christian Hospitality*](https://www.twu.ca/about-us/com
 -   How can we practice Christian hospitality?
 :::
 -->
+```
 
 We've explored a number of societal issues associated with the internet. In the activity below, you will choose a topic of interest relating to societal issues or problematic behaviours on the internet for further investigation. You can select one of the topics introduced in this unit or an alternate issue you find more interesting.
 
