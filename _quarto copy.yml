@@ -13,8 +13,6 @@ book:
   author: "Colin Madland and Kelly Marjanovic"
   date: "last-modified"
   date-format: "MMM D, YYYY"
-  navbar: 
-    search: true
   chapters:
     - index.qmd
     - u1.qmd
@@ -23,7 +21,6 @@ book:
     - u4.qmd
     - u5.qmd
     - u6.qmd
-  reader-mode: true
   repo-url: https://github.com/TWUOnline/inno101-q/issues/new?assignees=&labels=&projects=&template=bug_report.md&title=
   repo-branch: dev
   repo-actions: [issue]
