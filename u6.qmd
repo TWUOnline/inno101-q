@@ -45,9 +45,9 @@ Here is a list of learning activities that will benefit you in completing this u
 **Note:** *Working through unit learning activities will help you to meet the course learning outcomes and successfully complete your assessments. Be sure to map out your time so you can complete your learning goals for this unit. Note in Section 6.3 you are asked to choose one societal issue to focus on. You may wish to browse the other sections, but feel free to skip the activities so you have time to focus on your investigation and related learning blog.*
 :::
 
-::: note
-**Assessment:** *See the Assessment section in Moodle for assignment details.*
-:::
+### Assessment {.unnumbered}
+
+See the Assessment section in Moodle for assignment details.
 
 ### Resources {.unnumbered}
 
@@ -73,31 +73,13 @@ In this course we have promoted the use of tools that allow you to share your le
 
 ### Activity: Learning in Community
 
-::: learning-activity
+:::: {.learning-activity time="30"}
 Watch [What is Social Learning?](https://www.youtube.com/watch?v=AB-_822TRms){target="_blank"} (2017)
 
 {{< video https://www.youtube-nocookie.com/embed/AB-_822TRms >}}
 
 ```{=html}
-<!-- deleted the following:
 
--   [Social Learning Theories](https://socialsci.libretexts.org/Bookshelves/Education_and_Professional_Development/Teaching_Crowds_-_Learning_and_Social_Media_(Dron_and_Anderson)%7Btarget=%22_blank%22%7D/02%3A_Social_Learning_Theories) (2021)
-
--   [Social Networking, Knowledge Sharing, and Student Learning: The Case of University Students](https://www.sciencedirect.com/science/article/abs/pii/S0360131516300872){target="_blank"} (2016)
-
--   [Collaborative Learning in Higher Education: Evoking Positive Interdependence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5132366/){target="_blank"} (2016)
-
--   ::: learning-activity
-    \- [Group Work: Using Cooperative Learning Groups Effectively](https://cft.vanderbilt.edu/guides-sub-pages/setting-up-and-facilitating-group-work-using-cooperative-learning-groups-effectively/){target="_blank"} (2015)
-    :::
-
--   [TWU Media + Communications Students Showcase Their Work at Student Film Festival, Cinergy 2023](https://www.twu.ca/news-events/news/twu-media-communications-students-showcase-their-work-student-film-festival){target="_blank"} (2023)
-
--   [Students Attend the Western Division of Canadian Association of Geographers](https://www.twu.ca/research/student-research/news){target="_blank"} (2017)
-
--   Delete in Zotero too?
-
--->
 ```
 
 -   Read [Social Learning in Online Environments](https://openpress.usask.ca/humanmooc/chapter/social-learning-in-online-environments/){target="_blank"} (n.d.) on how we learn in community.
@@ -116,14 +98,26 @@ Share your thoughts by posting a comment on Discourse, for example: "Sharing lea
 
 ### Activity: Preparing for the Future
 
-:::: learning-activity
-TWU has a [Centre for Calling & Career Development](https://www.twu.ca/academics/academic-professional-support/centre-calling-career-development){target="_blank"} that aims to equip students for their future careers. Have a look at their Career Ready Framework in the figure below and look specifically for the competencies related to social learning and digital skills? Be sure to click on the image and zoom in to read the details.
+:::: {.learning-activity time="20"}
+TWU has a [Centre for Calling & Career Development](https://www.twu.ca/academics/academic-professional-support/centre-calling-career-development){target="_blank"} that aims to equip students for their future careers. Have a look at their Career Ready Framework below. Navigate through the sections and look specifically for the competencies related to social learning and digital skills.
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=649" width="675" height="535" frameborder="0" allowfullscreen="allowfullscreen" title="Getting Started With Obsidian">
+
+</iframe>
+
+```{=html}
+<script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+```
+
+:::: prote
+@chloe I've deleted the intext clickable image, but I'm wondering if we can add just a link to the full image as well. "Click here to access the full framework"
 
 ::: {#fig-TopxEmployeexSkillsx2025}
 ![](assets/u6/Competency_Framework.png){.lightbox fig-alt="3-column list of career skills categories" fig-align="left"}
 
 Career Ready Framework
 :::
+::::
 
 *Source*: From ["Centre for Calling & Career Development,"](https://www.twu.ca/academics/academic-professional-support/centre-calling-career-development){target="_blank"} by Trinity Western University. (n.d.)
 
@@ -135,7 +129,7 @@ Consider the following questions:
 -   How does collaborative learning and sharing your learning contribute to your learning journey?
 
 Feel free to share your thoughts in your Obsidian journal, Discourse, or your WordPress blog.
-::::
+:::::
 
 ## Digital Practices in the Workplace
 
@@ -149,14 +143,10 @@ Below we'll briefly explore technology and change, artificial intelligence, and 
 
 ### Activity: The Future of Work
 
-::: learning-activity
+:::: {.learning-activity time="20"}
 [Watch: *What is the Future of Work?*](https://www.youtube.com/watch?v=EuDnSqAo784){target="_blank"} (2022) from the World Economic Forum.
 
 {{< video https://www.youtube-nocookie.com/embed/EuDnSqAo784 >}}
-
-[Watch :*Higher Ed Trends: Student Career Anxiety and the Future of Work*](https://www.youtube.com/watch?v=iY4UhfQefdU){target="_blank"} (2015)
-
-{{< video https://www.youtube-nocookie.com/embed/iY4UhfQefdU >}}
 
 What do you think? Share your thoughts by posting a comment on Discourse, for example:
 
@@ -171,19 +161,12 @@ What do you think? Share your thoughts by posting a comment on Discourse, for ex
 Throughout history there are technologies that have influenced change in society. Consider, for example, the invention of the steam engine and its contribution to the Industrial Revolution. In more recent times, the advent of digital photography displaced Kodachrome (at one time, the market leader in colour film sales) which ceased production in 2009.
 
 ```{=html}
-<!-- ### Activity: Newspaper and Music Industry in a Digital Age
 
-::: learning-activity
-The readings that follow take a retrospective look at the impact of the internet on the newspaper and music industries.
-
-- [The age of Digital; Music Executive Reacts to the Impact of Digitalization in the Music Industry](https://www.forbes.com/sites/joshwilson/2022/09/14/the-age-of-digital-music-executive-reacts-to-the-impact-of-digitalization-in-the-music-industry/?sh=1ca7f385537b){target="_blank"} (2022)
-- [The Future of Newspapers in the Digital Age: Embracing the Change!](https://medium.com/@kumarpriyanshu025/the-future-of-newspapers-in-the-digital-age-embracing-the-change-fe835bd8d52f){target="_blank"} (2023) Add or reply to annotations using [Hypothes.is](https://web.hypothes.is/){target="_blank"}, sharing personal insights and experiences. Remember to tag your posts using the course code: LDRS101.
-::: -->
 ```
 
 ### Activity: Impact of Digital Technology on Business
 
-::: learning-activity
+:::: {.learning-activity time="30"}
 In this activity we invite you to join the Discourse discussion on the impact of digital technology on business.
 
 -   First, choose any business or work environment (for example, your current career or future career).
@@ -197,7 +180,7 @@ Like, share, and reply to posts. These are forms of engagement and a contributio
 
 ### Artificial Intelligence {.unnumbered}
 
-Artificial intelligence (AI) is already transforming society and business, from self-driving cars to voice-activated assistants and advanced machine learning systems. For example, commercially available chess programs can now defeat skilled players, including grandmasters, showcasing the impressive capability of AI-driven systems.
+Artificial intelligence (AI) is already transforming society and business, from self-driving cars to voice-activated assistants and advanced machine learning systems. For example, commercially available chess programs can defeat skilled players, including grandmasters, showcasing the impressive capability of AI-driven systems.
 
 In this section, we'll explore a few compelling examples of AI to give you a sense of how these technologies are evolving and shaping the world around us.
 
@@ -213,7 +196,7 @@ In the next activity, we'll explore some of these questions and concerns.
 
 ### Activity: How Can I Use AI as a Student?
 
-::: learning-activity
+:::: {.learning-activity time="30"}
 First, do a quick search online for AI tools for university students. Examples:
 
 -   [How can AI be Used by University Students?](https://www.timeshighereducation.com/student/advice/how-can-ai-be-used-university-students){target="_blank"} (2023)
@@ -248,6 +231,8 @@ Here is one more article that discusses the pros and cons of English learners us
 ### Activity: How to Identify AI Generated Text
 
 ::::: learning-activity
+If you've used AI-generated text, it's pretty easy to spot when someone else is using it to generate emails, documents, or even assignments.  As you read resources, you may notice certain markers that seem artificial, or lacking a human voice. 
+
 Explore the infographic below by Ryan Morrison.
 
 *Tip: View the resource in full screen by clicking on the three dots on the bottom right, and then selecting the full screen arrows.*
@@ -265,6 +250,13 @@ Consider trying out ChatGPT to see if you can spot the ways to identify AI gener
 -   Watch [Plagiarizing ChatGPT - Is it Illegal?](https://www.youtube.com/watch?v=zuvN8_6QIKk){target="_blank"} (2022)
 
 {{< video https://www.youtube-nocookie.com/embed/zuvN8_6QIKk >}}
+
+This is an important topic, not only in higher education but across industries that depend on creative and critical thinkers to drive progress in their fields. As one TWU English instructor wisely said:
+
+*"Don’t let anyone else speak for you."*
+
+This includes AI. Use it thoughtfully and judiciously, but never let a tool replace your voice.
+
 :::::
 
 ### Jobs and Automation {.unnumbered}

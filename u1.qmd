@@ -128,7 +128,6 @@ https://mytwu.sharepoint.com/:i:/r/sites/LearningDesign/Shared%20Documents/BA-Le
 
 Remember, flexibility and adaptability are key in the online learning environment. Tailor these tips to your individual needs and the specific requirements of your courses. Note also that you will have opportunities to practice these skills throughout the course.
 
-
 ### Activity: Learning Online Effectively
 
 ::: {.learning-activity time="30"}
@@ -183,6 +182,8 @@ Your discussion posts may be used as learning artifacts to demonstrate your unde
 In LDRS 101, you should write your posts in a way that shows you are communicating in an academic setting. While you don't need to adhere to all of the conventions of APA formatting, you should practice the principles of proper citation. For example, to cite an idea from the article in the previous activity, it would look like the following (Galikyan & Admiraal, 2019), and the bottom of the post would include a "References" heading, followed by the full reference (this part may be considered optional since we have included a link to the article in the in-text citation, but it is nice to have). Please consult the [APA Style website](https://apastyle.apa.org/style-grammar-guidelines){target="_blank"} for details.
 
 It is ***highly*** recommended[^u1-1] that you begin using a reference manager---we recommend Zotero as it is a free and open source app with all you will ever need to cite properly in any style. We will lead you through some specifics of using Zotero in the next unit of LDRS 101, but you can [download Zotero](https://www.zotero.org/){target="_blank"} for free.
+
+[^u1-1]: For real ... using Zotero will literally save you days of tedious work during your university career!
 
 In short, similar to a live classroom discussion you need to be polite and professional, and you need to provide evidence for your views, but, as in a normal conversation, you won't have all of the formalities of academic writing. In LDRS 101, you should consider your forum posts as a time to practice and test your ideas. The stakes are very low, so it is fine to make mistakes.
 
@@ -764,6 +765,5 @@ Before you move on to the next unit you may want to check that you are able to:
 -   Describe how to protect yourself and others in the digital environment
 -   Identify the literacies you plan to improve and what steps you will take to achieve your goals
 :::
-::::::::::::::::::::::::::::::::::::
 
-[^u1-1]: For real ... using Zotero will literally save you days of tedious work during your university career!
+::::::::::::::::::::::::::::::::::::

@@ -54,9 +54,9 @@ Here is a list of learning activities that will benefit you in completing this u
 **Note:** *Working through unit learning activities will help you to meet the course learning outcomes and successfully complete your assessments.*
 :::
 
-::: note
-**Assessment:** *See the Assessment section in Moodle for assignment details.*
-:::
+### Assessment {.unnumbered}
+
+See the Assessment section in Moodle for assignment details.
 
 ### Resources {.unnumbered}
 
@@ -591,6 +591,17 @@ At this point in the unit you have used various tools to discover and curate res
 
 Open educational resources, or OER, refers to freely accessible and openly licensed educational materials that can be used, shared, and modified without cost. These resources include a variety of digital assets such as textbooks, lecture notes, multimedia content, and assessment tools. The key features of OER include their open licenses, which typically allow users to ***retain, reuse, revise, remix***, and ***redistribute*** the content (Wiley, n.d.).
 
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=639" width="675" height="535" frameborder="0" allowfullscreen="allowfullscreen" title="Getting Started With Obsidian">
+
+</iframe>
+
+```{=html}
+<script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+```
+
+:::: prote
+deleting commentary - now in H5P
+
 #### The 5 Rs of Openness {.unnumbered}
 
 **Retain** the right to make, own, and control copies of the content
@@ -606,6 +617,7 @@ Open educational resources, or OER, refers to freely accessible and openly licen
 ::: note
 Note that this material was created and published freely under a Creative Commons Attribution 4.0 license.
 :::
+::::
 
 ### Activity: Introducing Open Access
 
@@ -616,6 +628,7 @@ Watch this quick overview from the OER Foundation: [*Open Access Explained*](htt
 
 {{< video https://vimeo.com/557927481 >}}
 
+```{=html}
 <!-- 
 deleting...@cmadland let's find a current resource
 
@@ -629,6 +642,7 @@ have to adjust hight to percentage
 </iframe>
 
 -->
+```
 :::
 
 So why use OER? The usefulness of OER in higher education can be attributed to several compelling reasons:
