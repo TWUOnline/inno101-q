@@ -6,7 +6,7 @@ Welcome to Unit 4! In previous units, you've been introduced to the world of dig
 
 Now, let's dive into the next phase of our learning journey.
 
-In the second half of the course, you will continue to build your digital skills and apply critical thinking to document your learning process. Our focus will shift from creating a personal collection of ideas to presenting your learning in a more open platform. It's important to emphasize that *you* will decide how public you want this to be. We'll also explore the significance of knowledge sharing and examine user-friendly methods to do so while maintaining control over your work and addressing privacy concerns. 
+In the second half of the course, you will continue to build your digital skills and apply critical thinking to document your learning process. Our focus will shift from creating a personal collection of ideas to presenting your learning in a more open platform. It's important to emphasize that *you* will decide how public you want this to be. We'll also explore the significance of knowledge sharing and examine user-friendly methods to do so while maintaining control over your work and addressing privacy concerns.
 
 As you begin this unit, take a moment to reflect on your academic and professional goals as they relate to digital literacy. Consider which digital tools you'd like to explore, and reflect on how your online contributions can not only benefit your own growth, but also contribute positively to others.
 
@@ -63,8 +63,7 @@ This unit aims to guide you in creating your Learning Blog, the central componen
 
 **So What is a Personal Learning Environment?**
 
-A Personal Learning Environment (PLE) is a system or setup that individuals create to manage their own learning processes. It includes tools, resources, and strategies that support learning in various contexts. Below are categories and examples: 
-Next, explore the descriptions below that provide examples of a PLE.
+A Personal Learning Environment (PLE) is a system or setup that individuals create to manage their own learning processes. It includes tools, resources, and strategies that support learning in various contexts. Below are categories and examples: Next, explore the descriptions below that provide examples of a PLE.
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=646" width="675" height="535" frameborder="0" allowfullscreen="allowfullscreen" title="Getting Started With Obsidian">
 
@@ -73,7 +72,12 @@ Next, explore the descriptions below that provide examples of a PLE.
 ```{=html}
 <script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 ```
-Here are a couple other definitions of PLEs:
+
+Here are a some definitions of PLEs for your consideration:
+
+::: prote
+Please put these two quotes in blockquotes
+:::
 
 Personal Learning Environments \[are\] systems that help learners take control of and manage their own learning. This includes providing support for learners to set their own learning goals, manage their learning; managing both content and process, communicate with others in the process of learning, and thereby achieve learning goals. A PLE may be composed of one or more sub-systems: As such it may be a desktop application, or composed of one or more web-based services. (van Harmelen, 2007, as cited in Edutech Wiki, 2014, Definitions, para. 2)
 
@@ -85,12 +89,14 @@ Which aspects of the two definitions do you find most meaningful? How do you str
 
 ### Activity: What Is a PLE?
 
-:::: {.learning-activity time="15"}
+::: {.learning-activity time="15"}
 Before you start building your PLE, read the following article: "[*7 Things you Should Know About Personal Learning Environments.*](assets/u4/U4_7-things-you-should-know-about-PLNs.pdf){target="_blank"} After reading the article, consider the following:
 
-    -   How do PLEs promote authentic, student-centred learning?
-    -   What are the benefits of a PLE? How would it benefit you?
-    -   What tools do you currently use as part of your learning environment?
+```         
+-   How do PLEs promote authentic, student-centred learning?
+-   What are the benefits of a PLE? How would it benefit you?
+-   What tools do you currently use as part of your learning environment?
+```
 
 Next, consider the approach taken at TWU as it supports inquiry-rich learning. As you watch the short video below, think about how you could use your PLE to enrich your learning at TWU.
 
@@ -129,7 +135,7 @@ A key teaching philosophy of this course is to embed the acquisition of new digi
 
 ### Activity: Setting up Your Learning Blog
 
-:::: {.learning-activity time="120"}
+:::::::::::::: {.learning-activity time="120"}
 As this is a course focusing on digital literacies, you are asked to establish a Learning Blog, which will improve your skills and enable you to network with your peers. We recommend using WordPress, as it is supported by TWU. WordPress is an open source website builder and is one of the most popular systems available because of its versatility. If you already have your own website or you have previous experience using WordPress, you may set up your blog on it and skip the set-up steps described below, but you still need to complete the learning activities.
 
 ::: note
@@ -282,7 +288,7 @@ We need to distinguish between the technical and human elements of online identi
 
 ### Activity: What Is a Digital Footprint?
 
-:::: {.learning-activity time="45"}
+::: {.learning-activity time="45"}
 -   Watch [*What is a Digital Footprint?*](https://www.youtube.com/watch?v=dmQGq_FNBpE){target="_blank"} (2021) and consider the steps you would take to control your digital footprint.
 
 {{< video https://www.youtube-nocookie.com/embed/dmQGq_FNBpE >}}
@@ -302,17 +308,14 @@ Next, read the following:
 -   What is the value of an online identity for learning?
 
 Reminder: As you view online resources in this course, feel free to annotate and discuss web resources publicly in support of your learning (e.g., using digital tools such as Hypothes.is, Discourse, WordPress, or others).
-
 :::
 
 ### Activity: Who Am I Online ... and Why Should I Care?
 
-:::: {.learning-activity time="30"}
-
+::: {.learning-activity time="30"}
 In addition to evaluating who you are online, ask yourself, "why should I care?"
 
 -   Watch [*Four Reasons to Care About Your Digital Footprint*](https://www.youtube.com/watch?v=Ro_LlRg8rGg){target="_blank"} (2016).
-
 
 {{< video https://www.youtube-nocookie.com/embed/Ro_LlRg8rGg >}}
 
@@ -332,7 +335,7 @@ Finally, consider how much someone could find out about you from your digital fo
 
 ### Activity: Digital Footprint Audit
 
-:::: {.learning-activity time="60"}
+::: {.learning-activity time="60"}
 In this activity you will audit your own digital footprint in order to find out what exists on the internet about you and reflect on what you want your online identity to be. Follow the steps below to begin.
 
 -   Conduct a Google search of your own name (using an incognito or private window in Chrome or Firefox). Search for your first name and surname without quotation marks (e.g., snow white) and then with quotation marks (e.g., "snow white"). Explore the results of your search.
@@ -340,12 +343,12 @@ In this activity you will audit your own digital footprint in order to find out 
 -   Conduct a Google search of your name with the name of previous schools you attended.
 -   Expand your search to include social media sites, for example, "snow white" twitter; "snow white" Facebook; "snow white" YouTube.
 
-In your notes, jot down any interesting or surprising findings.  You'll use these reflections in the next activity.
+In your notes, jot down any interesting or surprising findings. You'll use these reflections in the next activity.
 :::
 
 ### Activity: Blog: My Digital Footprint
 
-:::: {.learning-activity time="60"}
+::: {.learning-activity time="60"}
 Prepare and publish a short blog post of about 250 to 300 words focusing on what you hope to achieve with your online digital identity for learning.
 
 -   Reflect on the outcomes of your footprint audit. You don't need to be specific; for example, you can generalize: "I am satisfied with my digital footprint because ..." or "I would like to improve my digital footprint for learning because ..."
@@ -378,7 +381,7 @@ These crucial questions highlight the importance of privacy, data ownership, and
 
 ### Activity: What Are My Criteria?
 
-:::: {.learning-activity time="60"}
+::: {.learning-activity time="60"}
 -   Read the following [Tool Evaluation Criteria](https://workforceedtech.org/tool-evaluation-criteria/){target="_blank"}. Note some criteria may not apply to the tool you choose to evaluate. Also see the [Tool Evaluation Scoring Rubric and Notepad](https://docs.google.com/spreadsheets/d/1-zIw01FI0N6NKY2SdOO2PuniUxDxAG-beeTsmxRQru0/edit?usp=sharing/){target="_blank"} (an editable Google Sheet).
 -   Create your own criteria for evaluating digital tools. Set up a spreadsheet or notepad (in Obsidian for example) and as you list your criteria, consider why that detail is important to you. To help you select your criteria, read the following:
     -   [*Policy Brief: Privacy*](https://www.internetsociety.org/policybriefs/privacy/){target="_blank"} (2015)
@@ -427,7 +430,7 @@ Finally, read the following questions and consider what you want to add to your 
 
 ### Activity: Evaluate a Digital Tool
 
-:::: {.learning-activity time="60"}
+::: {.learning-activity time="60"}
 In this activity, you are invited to critically evaluate an online tool.
 
 -   **Set Your Goals:** As you select the tool you want to evaluate consider your goals for improving your digital skills.

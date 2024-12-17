@@ -230,7 +230,7 @@ Here is one more article that discusses the pros and cons of English learners us
 
 ### Activity: How to Identify AI Generated Text
 
-::::: learning-activity
+:::: {.learning-activity time="20"}
 If you've used AI-generated text, it's pretty easy to spot when someone else is using it to generate emails, documents, or even assignments.  As you read resources, you may notice certain markers that seem artificial, or lacking a human voice. 
 
 Explore the infographic below by Ryan Morrison.
@@ -251,6 +251,18 @@ Consider trying out ChatGPT to see if you can spot the ways to identify AI gener
 
 {{< video https://www.youtube-nocookie.com/embed/zuvN8_6QIKk >}}
 
+::: prote
+Please put the ai policy quote in a blockquote
+:::
+
+In this course, here is the policy we follow:
+USE OF GENERATIVE AI
+> TWU places a high value on academic integrity. Using an AI tool can shortcut the process of critical thinking, academic originality, and personal responsibility for content. Allowing partial use of AI in this course should not be viewed as circumventing this process. 
+Because assignments in this course require you to demonstrate a high level of critical and original thought, the use of AI tools for producing initial content is permitted in some cases, but only as a starting point. 
+If you use an AI tool to complete an assignment, you must:  
+•	Fact check with original sources. You will be responsible for any errors or omissions provided by the tool.  
+
+
 This is an important topic, not only in higher education but across industries that depend on creative and critical thinkers to drive progress in their fields. As one TWU English instructor wisely said:
 
 *"Don’t let anyone else speak for you."*
@@ -269,8 +281,8 @@ In this section we consider the impact of automation on the future job market an
 
 ### Activity: Impact of Automation and AI in the Workplace
 
-::: learning-activity
--   Read [*Collaborative Intelligence: Humans and AI are Joining Forces*](https://www.youtube.com/watch?v=7Pq-S557XQU){target="_blank"} (2018).
+:::: {.learning-activity time="20"}
+-   Read [*Collaborative Intelligence: Humans and AI are Joining Forces*](https://hbr.org/2018/07/collaborative-intelligence-humans-and-ai-are-joining-forces){target="_blank"} (2018).
 -   Watch [AI Automation And The Future Of The Workforce](https://www.youtube.com/watch?v=NBLeWpOqhAo){target="_blank"} (2022)
 
 {{< video https://www.youtube-nocookie.com/embed/NBLeWpOqhAo >}}
@@ -280,7 +292,7 @@ Consider your chosen field of study. How can AI benefit your industry? Are there
 
 ### Activity: The Price of AI
 
-::: learning-activity
+:::: {.learning-activity time="60"}
 In this topic we've explored AI---its possibilities for study and careers, and some concerns about using AI. This activity focuses on how AI moderates harmful content. How does AI know what is harmful? Since AI tools are built on all kinds of information, including harmful and hateful content, how is this content identified?
 
 AI systems require lots of work from humans to function correctly. A 2023 report from Time magazine showed that people in Kenya were paid poverty wages to build a safety system into ChatGPT (Perrigo, 2023). Since the platform was fed data from various places sometimes it would make racist or abusive remarks. To build a safeguard into the system, workers were exposed to vile and offensive web content in order to tag it so that the platform could eventually recognize offensive speech on its own. A large portion of this content was very traumatic, and workers interviewed said they were mentally scarred from the work.
@@ -320,7 +332,7 @@ Your task will be to publish an editorial on your chosen topic in your course bl
 
 ### Activity: Problematic Online Behaviours---Key Terms Quiz
 
-::: learning-activity
+:::: {.learning-activity time="10"}
 To test your knowledge of concepts associated with problematic behaviours online, we provide a short orientation quiz below. Once you have attempted your first answer, and in the event that you are not familiar or not sure what the alternatives mean, click the options to find out more about the concept.
 
 <p>
@@ -344,15 +356,15 @@ Website tracking is the practice of collecting data about a user's online activi
 
 ### Activity: The True Cost of Free Websites
 
-::: learning-activity
+:::: {.learning-activity time="10"}
 Watch this *Matrix* parody, a comedy skit published by CollegeHumour, depicting that if you are not paying for the service, you are not the consumer but the product.
 
 -   Watch [The Terrifying Cost of "Free" Websites](https://www.youtube.com/watch?v=5pFX2P7JLwA){target="_blank"} (2016)
 
 {{< video https://www.youtube-nocookie.com/embed/5pFX2P7JLwA >}}
+Were you surprised by any ideas presented in the video? Do you think this is a valid and reliable source for the topic?
 :::
 
-Were you surprised by any ideas presented in the video? Do you think this is a valid and reliable source for the topic?
 
 In the next activity you will be asked to search online for credible sources on how website tracking works, how your data is used, and how you can protect yourself online.
 
@@ -430,7 +442,7 @@ It's important to note that while these steps can help reduce online tracking th
 
 ### Activity: Website Tracking Resources
 
-::: learning-activity
+:::: {.learning-activity time="60"}
 Choose from the resources below to inform your views on website and data tracking:
 
 -   [Get Cyber Safe](https://www.getcybersafe.gc.ca/en){target="_blank"} (2024) is a national public awareness campaign created to inform Canadians about cyber security and the simple steps they can take to protect themselves online.
@@ -481,7 +493,7 @@ Impersonation online refers to the act of creating an online presence in someone
 
 ### Activity: Identify the Imposter!
 
-::: learning-activity
+:::: {.learning-activity time="60"}
 -   Visit the profile page of following X (formerly Twitter) accounts:
     -   [Nelson Mandela](https://twitter.com/NelsonMandela){target="_blank"}
     -   [Mark Zuckerburg](https://twitter.com/notzuckerberg){target="_blank"}
@@ -504,10 +516,10 @@ Have you seen a fake account on social media? What clues did you have that it wa
 
 ### Activity: How to Spot a Scammer
 
-::: learning-activity
+:::: {.learning-activity time="10"}
 Check out these two videos that share signs to help you identify online impersonation.
 
--   [Watch: *Watch out for Scammers Using Fake Instagram Profiles*](https://www.youtube.com/watch?v=F57DE05FpgQ){target="_blank"} (2023)
+-   [Watch: *How To Spot a SCAM Email (8 Ways)*](https://www.youtube.com/watch?v=C5jIvj7EcqE){target="_blank"} (2022)
 
 {{< video https://www.youtube-nocookie.com/embed/F57DE05FpgQ?si=0ST8TLfI3KwFoGNi >}}
 
@@ -518,7 +530,7 @@ Check out these two videos that share signs to help you identify online imperson
 
 ### Activity: Case Study on Catfishing
 
-::: learning-activity
+:::: {.learning-activity time="60"}
 Catfishing is the deceptive practice of creating a fictional online presence to lure somebody into a relationship, for example, a romance scam.
 
 Dr. Alec Couros is Associate Professor of Information and Communication Technologies at the University of Regina, Saskatchewan. Dr. Couros has experienced a number of scams where his personal photos have been used to lure woman into an online romantic relationship for the purpose of "borrowing" or extorting money. Check out his experiences:
@@ -550,7 +562,7 @@ In this section we explore the phenomenon of internet trolling and strategies fo
 
 ### Activity: Trolling in Social Media
 
-::: learning-activity
+:::: {.learning-activity time="30"}
 -   Take the [Spot the Troll](https://spotthetroll.org/){target="_blank"} quiz (n.d.), which uses images of real social media content. How did you do? Did some of the profiles surprise you? Have you encountered these types of profiles on social media?
 -   As you read the following, pay particular attention to strategies for dealing with trolling behaviour.
     -   [Troll (Slang)](https://en.wikipedia.org/wiki/Troll_(slang)){target="_blank"} (2024)
@@ -577,7 +589,7 @@ In this section, we will review research on the state of online harassment and c
 
 ### Activity: The State of Online Harassment
 
-:::: learning-activity
+:::: {.learning-activity time="30"}
 Read the following research reports on online harassment.
 
 -   [*Online Harassment*](https://www.pewresearch.org/internet/2014/10/22/online-harassment/){target="_blank"} (2017). (Note that this is an 8-page report; click through to read it all.)
@@ -598,7 +610,7 @@ Add or reply to annotations using Hypothes.is to share personal insights and exp
 
 ### Activity: Social Media Policies and Practices
 
-::: learning-activity
+:::: {.learning-activity time="30"}
 View the the following policy resources on online harassment from X and Meta (Facebook, Instagram, Messenger and Threads).
 
 *Suggested practices*
@@ -625,7 +637,7 @@ In this section, we identify selected psychological issues that you may choose t
 
 ### Activity: How Online Personas Are Redefining Human Connection
 
-::: learning-activity
+:::: {.learning-activity time="30"}
 First, consider the following questions:
 
 -   How does digital technology change what we do?
@@ -704,7 +716,7 @@ Net Neutrality and Creative Freedom Mind Map Illustration
 
 ### Activity: The Meaning of Net Neutrality
 
-::: learning-activity
+:::: {.learning-activity time="30"}
 Watch the following videos that explain the importance of net neutrality.
 
 [*Net Neutrality Explained*](https://www.youtube.com/watch?v=p90McT24Z6w){target="_blank"} (2015)<!-- Auto title, auto embed-->
@@ -718,7 +730,7 @@ Watch the following videos that explain the importance of net neutrality.
 
 ### Activity: Perspectives on Net Neutrality
 
-::: learning-activity
+:::: {.learning-activity time="60"}
 Explore the issue of net neutrality. Here are some sample resources, but please search for additional resources that interest you. Seek out different perspectives on the topic to inform your views. First, have a look at a summary of [*Net Neutrality by Country*](https://en.wikipedia.org/wiki/Net_neutrality_by_country#:~:text=source%20or%20ownership.-,China,is%20available%20to%20their%20citizens){target="_blank"} (2024).
 
 Next, click the topics below to explore different perspectives on this issue in Canada.
@@ -804,7 +816,7 @@ Addressing digital redlining is essential to ensure equitable access to the bene
 
 ### Activity: Indigenous Communities in Canada
 
-::: learning-activity
+:::: {.learning-activity time="30"}
 Digital redlining is a global concern, including Canada. While Canada is known for its social safety nets and relatively high internet penetration rates, digital disparities persist, particularly among marginalized communities. These disparities are evident in various aspects, such as internet access, online discrimination, and algorithmic biases.
 
 -   Watch [*Seneca Nation disconnected by Redlining*](https://www.youtube.com/watch?v=J5NV9BJx1_M){target="_blank"} (2021)
@@ -818,7 +830,7 @@ Addressing these issues in Canada requires a multifaceted approach, combining in
 
 ### Activity: Where Do You See Digital Redlining?
 
-::: learning-activity
+:::: {.learning-activity time="30"}
 As you explore this topic, consider where digital redlining occurs in your community. Search online, or perhaps ask community members about their experiences in accessing the internet. Is digital access fair and accessible for all?
 
 In addition to your personal research, select from the following resources for more information on digital redlining.
@@ -994,7 +1006,7 @@ Here are few additional topics to consider:
 
 ### Activity: Editorial: Societal Issues on the Internet
 
-::: learning-activity
+:::: {.learning-activity time="90"}
 In this activity you are asked to publish an editorial (400--600 words) on your blog on a societal issue or antisocial behaviour associated with the internet. Your editorial must:
 
 -   Contain a minimum of four hyperlinks to supporting resources or issues. Your digital identity is connected to the internet and it is important to demonstrate how your contribution joins a networked conversation through connections in information.
@@ -1045,7 +1057,7 @@ To conclude our course we will examine another perspective on ethics and technol
 
 ### Activity: Digital Wisdom
 
-::: learning-activity
+:::: {.learning-activity time="30"}
 -   Skim the following article in which the authors present a framework for digital wisdom, as well as practical practices that can help navigate the digital in our daily lives.
     -   [*A Framework for Digital Wisdom in Higher Education*](https://christianscholars.com/a-framework-for-digital-wisdom-in-higher-education/){target="_blank"} (2019).
 
