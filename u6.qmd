@@ -98,7 +98,7 @@ Share your thoughts by posting a comment on Discourse, for example: "Sharing lea
 
 ### Activity: Preparing for the Future
 
-:::: {.learning-activity time="20"}
+::: {.learning-activity time="20"}
 TWU has a [Centre for Calling & Career Development](https://www.twu.ca/academics/academic-professional-support/centre-calling-career-development){target="_blank"} that aims to equip students for their future careers. Have a look at their Career Ready Framework below. Navigate through the sections and look specifically for the competencies related to social learning and digital skills.
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=649" width="675" height="535" frameborder="0" allowfullscreen="allowfullscreen" title="Getting Started With Obsidian">
@@ -109,15 +109,18 @@ TWU has a [Centre for Calling & Career Development](https://www.twu.ca/academics
 <script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 ```
 
-:::: prote
+::: prote
 @chloe I've deleted the intext clickable image, but I'm wondering if we can add just a link to the full image as well. "Click here to access the full framework"
+
+:::
 
 ::: {#fig-TopxEmployeexSkillsx2025}
 ![](assets/u6/Competency_Framework.png){.lightbox fig-alt="3-column list of career skills categories" fig-align="left"}
 
-Career Ready Framework
+Career Ready Framework. [Click here](assets/u6/Career%20Ready%20Competency%20Framework%20(and%20Scoring)-%20August%202023.pdf){target="_blank"} to access the full framework. 
 :::
-::::
+
+:::
 
 *Source*: From ["Centre for Calling & Career Development,"](https://www.twu.ca/academics/academic-professional-support/centre-calling-career-development){target="_blank"} by Trinity Western University. (n.d.)
 
@@ -129,7 +132,6 @@ Consider the following questions:
 -   How does collaborative learning and sharing your learning contribute to your learning journey?
 
 Feel free to share your thoughts in your Obsidian journal, Discourse, or your WordPress blog.
-:::::
 
 ## Digital Practices in the Workplace
 
@@ -242,12 +244,13 @@ Explore the infographic below by Ryan Morrison.
 <iframe title="AI Generated Text" frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/63753092992318001811d46f" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all">
 
 </iframe>
+
 :::
 ::::
 
 Consider trying out ChatGPT to see if you can spot the ways to identify AI generated writing.
 
--   Watch [Plagiarizing ChatGPT - Is it Illegal?](https://www.youtube.com/watch?v=zuvN8_6QIKk){target="_blank"} (2022)
+-   [Watch: *Plagiarizing ChatGPT - Is it Illegal?*](https://www.youtube.com/watch?v=zuvN8_6QIKk){target="_blank"} (2022)
 
 {{< video https://www.youtube-nocookie.com/embed/zuvN8_6QIKk >}}
 
@@ -256,20 +259,24 @@ Please put the ai policy quote in a blockquote
 :::
 
 In this course, here is the policy we follow:
-USE OF GENERATIVE AI
-> TWU places a high value on academic integrity. Using an AI tool can shortcut the process of critical thinking, academic originality, and personal responsibility for content. Allowing partial use of AI in this course should not be viewed as circumventing this process. 
-Because assignments in this course require you to demonstrate a high level of critical and original thought, the use of AI tools for producing initial content is permitted in some cases, but only as a starting point. 
-If you use an AI tool to complete an assignment, you must:  
-•	Fact check with original sources. You will be responsible for any errors or omissions provided by the tool.  
 
+USE OF GENERATIVE AI
+
+> TWU places a high value on academic integrity. Using an AI tool can shortcut the process of critical thinking, academic originality, and personal responsibility for content. Allowing partial use of AI in this course should not be viewed as circumventing this process. 
+
+Because assignments in this course require you to demonstrate a high level of critical and original thought, the use of AI tools for producing initial content is permitted in some cases, but only as a starting point. 
+
+If you use an AI tool to complete an assignment, you must: 
+
+- Fact check with original sources. You will be responsible for any errors or omissions provided by the tool.
 
 This is an important topic, not only in higher education but across industries that depend on creative and critical thinkers to drive progress in their fields. As one TWU English instructor wisely said:
 
-*"Don’t let anyone else speak for you."*
+>*"Don’t let anyone else speak for you."*
 
 This includes AI. Use it thoughtfully and judiciously, but never let a tool replace your voice.
 
-:::::
+:::
 
 ### Jobs and Automation {.unnumbered}
 
@@ -282,6 +289,7 @@ In this section we consider the impact of automation on the future job market an
 ### Activity: Impact of Automation and AI in the Workplace
 
 :::: {.learning-activity time="20"}
+
 -   Read [*Collaborative Intelligence: Humans and AI are Joining Forces*](https://hbr.org/2018/07/collaborative-intelligence-humans-and-ai-are-joining-forces){target="_blank"} (2018).
 -   Watch [AI Automation And The Future Of The Workforce](https://www.youtube.com/watch?v=NBLeWpOqhAo){target="_blank"} (2022)
 

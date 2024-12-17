@@ -599,9 +599,6 @@ Open educational resources, or OER, refers to freely accessible and openly licen
 <script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 ```
 
-:::: prote
-deleting commentary - now in H5P
-
 #### The 5 Rs of Openness {.unnumbered}
 
 **Retain** the right to make, own, and control copies of the content

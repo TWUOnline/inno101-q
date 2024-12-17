@@ -21,6 +21,7 @@ book:
     - u4.qmd
     - u5.qmd
     - u6.qmd
+
   repo-url: https://github.com/TWUOnline/inno101-q/issues/new?assignees=&labels=&projects=&template=bug_report.md&title=
   repo-branch: dev
   repo-actions: [issue]
@@ -67,7 +68,7 @@ format:
     # The line below  should only be enabled to locally test css before moving it to the main css file in course materials.
     #theme: [cosmo, yml-assets/test.scss]
     include-in-header:
-   - text: |
+    - text: |
         <script type="application/javascript" src="https://twuonline.github.io/course-materials/quarto/twu_global_header.js"></script>
         <link rel = "shortcut icon" href = "https://twuonline.github.io/course-materials/quarto/favicon.ico" />
         

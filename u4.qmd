@@ -75,15 +75,11 @@ A Personal Learning Environment (PLE) is a system or setup that individuals crea
 
 Here are a some definitions of PLEs for your consideration:
 
-::: prote
-Please put these two quotes in blockquotes
-:::
-
-Personal Learning Environments \[are\] systems that help learners take control of and manage their own learning. This includes providing support for learners to set their own learning goals, manage their learning; managing both content and process, communicate with others in the process of learning, and thereby achieve learning goals. A PLE may be composed of one or more sub-systems: As such it may be a desktop application, or composed of one or more web-based services. (van Harmelen, 2007, as cited in Edutech Wiki, 2014, Definitions, para. 2)
+> Personal Learning Environments \[are\] systems that help learners take control of and manage their own learning. This includes providing support for learners to set their own learning goals, manage their learning; managing both content and process, communicate with others in the process of learning, and thereby achieve learning goals. A PLE may be composed of one or more sub-systems: As such it may be a desktop application, or composed of one or more web-based services. (van Harmelen, 2007, as cited in Edutech Wiki, 2014, Definitions, para. 2)
 
 As described by Casteneda et al.,
 
-A Personal Learning Environment is … a structure and process that helps learners organize the influx of information, resources and interactions that they are faced with on a daily basis into a personalized learning space or experience. In a PLE, the learner develops an individualized digital identity through the perceptual cues and cognitive affordances that the personal learning environment provides, such as what information to share and when, who to share it with, and how to effectively merge formal and informal learning experiences. [@castanedaPersonalLearningEnvironments2017, para. 2]
+> A Personal Learning Environment is … a structure and process that helps learners organize the influx of information, resources and interactions that they are faced with on a daily basis into a personalized learning space or experience. In a PLE, the learner develops an individualized digital identity through the perceptual cues and cognitive affordances that the personal learning environment provides, such as what information to share and when, who to share it with, and how to effectively merge formal and informal learning experiences. [@castanedaPersonalLearningEnvironments2017, para. 2]
 
 Which aspects of the two definitions do you find most meaningful? How do you structure your daily interactions and manage the flow of information? In what ways do you communicate your learning experiences to others? Lastly, what specific goals are you aiming to accomplish through your learning journey?
 

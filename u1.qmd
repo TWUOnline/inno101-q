@@ -8,11 +8,7 @@ There will be two primary branches of the course, each focusing on specific tool
 
 See the following graphic that gives an overview of the structure of the course, including important tools we will explore.
 
-::: prote
-please add graphic on U1 overview
-
-https://mytwu.sharepoint.com/:i:/r/sites/LearningDesign/Shared%20Documents/BA-Lead%20Courses%20-%20Doc/LDRS%20101/2.%20Course%20Working%20Files/Multimedia/3.%20LDRS%20101_Overview.png?csf=1&web=1&e=4J6ak3
-:::
+![](assets/u1/3.%20LDRS%20101_Overview.png)
 
 In this first unit, there will be both theoretical and practical work for you to do. We start with some basic instructions and advice on technology and learning online. Then, in order to build a theoretical understanding of digital tools for learning we will explore the idea of "the digital" in the context of contemporary society. At the same time, there are some important practicalities to manage in order to get set up for the course, so we will lead you through installing some apps on your computer that you will use extensively in this course, and which hopefully will become the backbone of your digital workflow throughout your time in higher education and beyond.
 
@@ -109,6 +105,8 @@ Online learning requires additional skills differing from face-to-face learning,
 -   Strong written and oral communication (i.e. technical writing skills, ability to communicate with others and ask for assistance if needed.)
 
 Here are a couple more ways you can hone your online learning skills:
+
+![](assets/u1/4.%20LDRS%20101_Learning%20online.png)
 
 ::: prote
 please add infographic on Learning Online.
@@ -325,8 +323,11 @@ If you are having any difficulty in installing Obsidian, feel free to reach out 
 
 Obsidian will become a backbone of this course as we will use it to learn how the web works and give you a workflow that will help you stay organized. One of the advantages of Obsidian is that everything you do in the app happens on your own computer, rather than the cloud, which is just another way of saying *someone else's computer*. However, the drawback to that is that you need to ensure that you have a backup of your vaults in a secure location, either one of the sync services mentioned in Step 3, above, or another backup system. [Please check the Learning Hub](https://twu.discourse.group/auth/microsoft_office365){target="_blank"} or talk to your instructor or facilitator for help with this.
 
-:::::: prote
+::: prote
+
 deleting activity as it is a part of the h5p
+
+:::
 
 ### Activity: Download the Starter Vault
 
@@ -450,12 +451,12 @@ Feel free to share your thoughts and experiences by posting on the LDRS 101 Disc
 -   For me, digital literacy means ..."
 ::::
 
-### Activity: Reflecting on the Promise of Technology
+<!-- ### Activity: Reflecting on the Promise of Technology
 
 ::: {.learning-activity time="20"}
 Watch technology strategist and educator, Shauna Begley, in this engaging talk where she shares the secrets to mastering digital literacy to thrive in today’s ever-evolving digital world.
 
--   [Watch: *Digital Literacy: Realizing the Promise of Technology \| Shauna Begley \| TEDxRoyalRoadsU*](https://www.youtube.com/watch?v=oGwSzp2xBU4){target="_blank"} (2023)<!-- titled-->
+-   [Watch: *Digital Literacy: Realizing the Promise of Technology \| Shauna Begley \| TEDxRoyalRoadsU*](https://www.youtube.com/watch?v=oGwSzp2xBU4){target="_blank"} (2023)
 
 {{< video https://www.youtube-nocookie.com/embed/oGwSzp2xBU4 >}}
 
@@ -470,8 +471,10 @@ Watch technology strategist and educator, Shauna Begley, in this engaging talk w
 Record your thoughts in an entry in Obsidian.
 :::
 
-:::: prote
+::: prote
 deleting activity
+
+:::-->
 
 ### Activity: Why Digital Literacy Matters
 
@@ -482,7 +485,7 @@ This learning activity will provide you with another opportunity to connect with
 
 Watch the following video and jot down the reasons why digital literacy matters to you, then complete the steps which follow.
 
--   [Watch: *Digital Literacy and Why it Matters*](https://www.youtube.com/watch?v=p2k3C-iB88w){target="_blank"} (2014)<!-- Auto title, auto embed-->
+-   [Watch: *Digital Literacy and Why it Matters*](https://www.youtube.com/watch?v=p2k3C-iB88w){target="_blank"} (2014)
 
 {{< video https://www.youtube-nocookie.com/embed/p2k3C-iB88w >}}
 
