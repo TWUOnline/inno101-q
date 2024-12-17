@@ -25,41 +25,41 @@ This unit is divided into the following topics:
 
 When you have completed this unit, you will be able to:
 
--   Describe your engagement with digital technology
--   Apply digital tools to support learning in an academic environment
--   Explain what digital literacy means to you
--   Examine privacy concerns related to various platforms and tools
--   Describe how to protect yourself and others in the digital environment
--   Identify goals for developing digital literacies
+- Describe your engagement with digital technology
+- Apply digital tools to support learning in an academic environment
+- Explain what digital literacy means to you
+- Examine privacy concerns related to various platforms and tools
+- Describe how to protect yourself and others in the digital environment
+- Identify goals for developing digital literacies
 
 ### Learning Activities {.unnumbered}
 
 Here is a checklist of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
 
 ::: {.learning-activity time="360"}
--   Reflect on your learning goals and make a plan for meeting them. (10 minutes)
--   Work through the *Learner* section of *Liberated Learners: How To Learn With Style* and create a list of your top ten study tips for online learning. (30 minutes)
--   Read *Students' Engagement in Asynchronous Online Discussion: The Relationship Between Cognitive Presence, Learner Prominence, and Academic Performance* (2019) and consider the benefits of engaging online (30 minutes)
--   Write an introduction post on [the Learning Hub](https://twu.discourse.group){target="_blank"} in Discourse. (20 minutes)
--   Watch The Future of Education is Self-Directed Learning and consider what tools and literacies you want to explore to meet your goals. (20 minutes)
--   Download and install [Obsidian](https://obsidian.md){target="_blank"} and follow the instructions for the LDRS 101 vault. (30 minutes)
--   Explore definitions of digital literacy. (30 minutes)
--   Watch the video on Reflecting on the Promise of Technology and refine your goals. (20 minutes)
--   Take a self-assessment on your digital literacy skills. (20 minutes)
--   Watch Visitors and Residents (2014) to start thinking about where you reside on the web. (10 minutes)
--   Create a Visitors and Residents diagram. (30 minutes)
--   Get a password manager. (20 minutes)
--   Use the [*Terms of Service: Didn't Read*](https://tosdr.org/){target="_blank"} (n.d.) website to look up each of the apps we will learn in this course. (20 minutes)
--   Watch the video on Reflective Journaling (10 minutes)
--   Write a reflection on digital literacies in your journal. (60 minutes)
+- Reflect on your learning goals and make a plan for meeting them. (10 minutes)
+- Work through the *Learner* section of *Liberated Learners: How To Learn With Style* and create a list of your top ten study tips for online learning. (30 minutes)
+- Read *Students' Engagement in Asynchronous Online Discussion: The Relationship Between Cognitive Presence, Learner Prominence, and Academic Performance* (2019) and consider the benefits of engaging online (30 minutes)
+- Write an introduction post on [the Learning Hub](https://twu.discourse.group){target="_blank"} in Discourse. (20 minutes)
+- Watch The Future of Education is Self-Directed Learning and consider what tools and literacies you want to explore to meet your goals. (20 minutes)
+- Download and install [Obsidian](https://obsidian.md){target="_blank"} and follow the instructions for the LDRS 101 vault. (30 minutes)
+- Explore definitions of digital literacy. (30 minutes)
+- Watch the video on Reflecting on the Promise of Technology and refine your goals. (20 minutes)
+- Take a self-assessment on your digital literacy skills. (20 minutes)
+- Watch Visitors and Residents (2014) to start thinking about where you reside on the web. (10 minutes)
+- Create a Visitors and Residents diagram. (30 minutes)
+- Get a password manager. (20 minutes)
+- Use the [*Terms of Service: Didn't Read*](https://tosdr.org/){target="_blank"} (n.d.) website to look up each of the apps we will learn in this course. (20 minutes)
+- Watch the video on Reflective Journaling (10 minutes)
+- Write a reflection on digital literacies in your journal. (60 minutes)
 :::
 
 ::: note
 **Notes:**
 
--   *You will be directed to complete these activities as they come up in the unit.*\
--   *The learning activities in this course are designed to prepare you for the graded assignments in this course.*\
--   *Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.*\
+- *You will be directed to complete these activities as they come up in the unit.*\
+- *The learning activities in this course are designed to prepare you for the graded assignments in this course.*\
+- *Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.*\
 :::
 
 ### Assessment {.unnumbered}
@@ -68,24 +68,22 @@ See the Assessment section in Moodle for assignment details.
 
 ### Resources {.unnumbered}
 
--   All resources will be provided online in the unit.
+- All resources will be provided online in the unit.
 
 ### Activity: Setting Your Learning Goals
 
 :::: {.learning-activity time="10"}
 In this first learning activity, take a few minutes to think about why you enrolled in this course and what you hope to gain. Consider questions like:
 
--   What skills or knowledge do I want to develop?
--   How might this course support my academic, personal, or professional goals?
--   What challenges might I face, and how can I overcome them?
+- What skills or knowledge do I want to develop?
+- How might this course support my academic, personal, or professional goals?
+- What challenges might I face, and how can I overcome them?
 
 Choose a note-taking tool that works best for you (e.g., a Word document, a physical notebook, or a note-taking app). Write down your thoughts to address the following:
 
--   Three specific goals you have for this course.
-
--   One potential challenge and how you plan to address it.
-
--   How you will measure your success at the end of the course.
+- Three specific goals you have for this course.
+- One potential challenge and how you plan to address it.
+- How you will measure your success at the end of the course.
 
 ::: note
 Notes: - This activity is ungraded and intended to help you take ownership of your learning journey. - Feel free to revisit your notes throughout the course as your goals and challenges may evolve.
@@ -98,11 +96,11 @@ In face-to-face teaching environments the requirement to physically attend class
 
 Online learning requires additional skills differing from face-to-face learning, and since online learning is often self-paced, an absence of these skills will make a student's learning experience difficult. According to Crozier and Lake (2020) these skills include:
 
--   Time management (i.e., effectively managing deadlines, schedules)
--   Organization (i.e., creating a dedicated study space, ability to easily access material)
--   Self-motivation (i.e., scheduling set times for coursework, peer study accountability)
--   Self-regulation (i.e., strategies can include breaks, physical activity, meditation)
--   Strong written and oral communication (i.e. technical writing skills, ability to communicate with others and ask for assistance if needed.)
+- Time management (i.e., effectively managing deadlines, schedules)
+- Organization (i.e., creating a dedicated study space, ability to easily access material)
+- Self-motivation (i.e., scheduling set times for coursework, peer study accountability)
+- Self-regulation (i.e., strategies can include breaks, physical activity, meditation)
+- Strong written and oral communication (i.e. technical writing skills, ability to communicate with others and ask for assistance if needed.)
 
 Here are a couple more ways you can hone your online learning skills:
 
@@ -116,13 +114,13 @@ https://mytwu.sharepoint.com/:i:/r/sites/LearningDesign/Shared%20Documents/BA-Le
 @cmadland let's chat about how we provide alt text here.
 :::
 
--   **Active participation:** Actively engage in online discussions, forums, and virtual class sessions to enhance your understanding and connect with peers.
--   **Regular communication with instructors:** Establish clear lines of communication with instructors, seeking clarification when needed and participating in office hours or virtual meetings.
--   **Utilize online resources:** Take advantage of digital resources provided by the university, including online libraries, research databases, and academic support services.
--   **Tech preparedness:** Ensure your computer and internet connection are reliable, and familiarize yourself with the required software tools for the course.
--   **Active reading and note taking:** Develop effective reading strategies and take concise notes to enhance comprehension and retain key information.
--   **Collaborate with peers:** Foster virtual collaboration with classmates through group projects, study groups, and peer discussions to enrich your learning experience.
--   **Regular self-assessment:** Reflect on your progress regularly, assess your understanding of the material, and adjust your study strategies accordingly.
+- **Active participation:** Actively engage in online discussions, forums, and virtual class sessions to enhance your understanding and connect with peers.
+- **Regular communication with instructors:** Establish clear lines of communication with instructors, seeking clarification when needed and participating in office hours or virtual meetings.
+- **Utilize online resources:** Take advantage of digital resources provided by the university, including online libraries, research databases, and academic support services.
+- **Tech preparedness:** Ensure your computer and internet connection are reliable, and familiarize yourself with the required software tools for the course.
+- **Active reading and note taking:** Develop effective reading strategies and take concise notes to enhance comprehension and retain key information.
+- **Collaborate with peers:** Foster virtual collaboration with classmates through group projects, study groups, and peer discussions to enrich your learning experience.
+- **Regular self-assessment:** Reflect on your progress regularly, assess your understanding of the material, and adjust your study strategies accordingly.
 
 Remember, flexibility and adaptability are key in the online learning environment. Tailor these tips to your individual needs and the specific requirements of your courses. Note also that you will have opportunities to practice these skills throughout the course.
 
@@ -131,20 +129,17 @@ Remember, flexibility and adaptability are key in the online learning environmen
 ::: {.learning-activity time="30"}
 There are thousands of websites that offer advice such as "tips for online learning" or "how to succeed in your online class," and some of those sites are good (see [here](https://www.ualberta.ca/current-students/academic-success-centre/resources/working-online.html){target="_blank"}, [here](https://online.umn.edu/story/15-tips-succeed-online-class){target="_blank"}, and [here](https://www.trentu.ca/online/student-support/be-a-successful-online-learner){target="_blank"} ). Some of them are also connected to shady people who want less than your best interests. One of the shining examples of a great resource is the *Liberated Learner* project, which was created primarily by university and college students. There are four main sections in the *Liberated Learner* resource---we will explore "The Learner" in this activity.
 
--   Take some time to work through [The Learner](https://ecampusontario.pressbooks.pub/learner/part/learner/){target="_blank"} (2022). It begins with a short video and includes activities that you can complete. These are for your reflection.
--   Navigation tip: To move around in a Pressbooks book, use the table of contents on the left-hand side, or the link to the next page on the bottom right.
+- Take some time to work through [The Learner](https://ecampusontario.pressbooks.pub/learner/part/learner/){target="_blank"} (2022). It begins with a short video and includes activities that you can complete. These are for your reflection.
+- Navigation tip: To move around in a Pressbooks book, use the table of contents on the left-hand side, or the link to the next page on the bottom right.
 
 **Questions to Consider**
 
 Having worked through The Learner, reflect on the following questions and record your thoughts in your notes:
 
--   Consider the ideas you think would be most beneficial for your online studies. Create a list of your top ten study tips for online learning.
-
--   How will you stay motivated and engaged?
-
--   What techniques could you use to help you improve time and energy management?
-
--   Finally, reflect on how you can work to ensure your own success in your online courses. What are your goals, and what specific steps will you take to achieve them?
+- Consider the ideas you think would be most beneficial for your online studies. Create a list of your top ten study tips for online learning.
+- How will you stay motivated and engaged?
+- What techniques could you use to help you improve time and energy management?
+- Finally, reflect on how you can work to ensure your own success in your online courses. What are your goals, and what specific steps will you take to achieve them?
 :::
 
 ### Activity: Engaging in Online Discussions
@@ -154,7 +149,7 @@ Participating in discussions with your peers (what higher education folks like t
 
 Here is an article that will introduce you to some key ideas about discussion forums:
 
--   [*Students' Engagement in Asynchronous Online Discussion: The Relationship Between Cognitive Presence, Learner Prominence, and Academic Performance*](https://eds-p-ebscohost-com.twu.idm.oclc.org/eds/detail/detail?vid=0&sid=b4111a26-0a0d-40e8-b042-dde9b384c6f6%40redis&bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#AN=S1096751619304105&db=edselp){target="_blank"} (2019)
+- [*Students' Engagement in Asynchronous Online Discussion: The Relationship Between Cognitive Presence, Learner Prominence, and Academic Performance*](https://eds-p-ebscohost-com.twu.idm.oclc.org/eds/detail/detail?vid=0&sid=b4111a26-0a0d-40e8-b042-dde9b384c6f6%40redis&bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#AN=S1096751619304105&db=edselp){target="_blank"} (2019)
 
 ::: note
 You may need to sign in to the TWU library to access this article. [You can find help here.](https://libguides.twu.ca/help){target="_blank"}
@@ -162,18 +157,18 @@ You may need to sign in to the TWU library to access this article. [You can find
 
 While you read, make notes and then create a summary.
 
--   First of all, don't get too bogged down in the "Method" section of this article, but carefully read sections 1, 2, 4, 5, 6, and the Appendix.
--   While you read, jot down some notes, either in a notebook on paper, or in a file on your computer.
--   Once you are done, write a two to three sentence summary ***in your own words*** of the article and how it relates to you and your experience. Do not hesitate to look up words that you don't understand, and include the definitions in your notes.
--   Include at least one question that you have about the article in your notes.
+- First of all, don't get too bogged down in the "Method" section of this article, but carefully read sections 1, 2, 4, 5, 6, and the Appendix.
+- While you read, jot down some notes, either in a notebook on paper, or in a file on your computer.
+- Once you are done, write a two to three sentence summary ***in your own words*** of the article and how it relates to you and your experience. Do not hesitate to look up words that you don't understand, and include the definitions in your notes.
+- Include at least one question that you have about the article in your notes.
 ::::
 
 #### Discussion Guidelines for LDRS 101 {.unnumbered}
 
 In this course, we will ask you to discuss ideas with your peers via Discourse, WordPress, and other social media platforms. These discussions are ***ungraded***, meaning, your instructor will ***not*** give you marks per discussion. ***However,*** they are an important part of this course and ***you will not be able to complete your assignments without discussing with your peers***. Consider for example, two course learning outcomes that relate to online discussions:
 
--   Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens
--   Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality
+- Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens
+- Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality
 
 Your discussion posts may be used as learning artifacts to demonstrate your understanding of the course learning outcomes (see Assignment details in Moodle).
 
@@ -189,35 +184,35 @@ In online discussion forums, learners are encouraged to respond *substantively*.
 
 Substantive responses may include:
 
--   Providing a new thought, idea, or perspective
--   Citing an experience or example of what we are learning
--   Adding a new twist on a perspective
--   Critically thinking about an idea or concept
--   Questioning or challenging a principle or perspective
--   Asking a question or making a comment that shows you are interested in what another person says or encourages another person to elaborate on something they have already said
--   Sharing a resource (a reading, web link, video) not covered in the syllabus that adds new information or perspectives to our learning
--   Making a comment that underscores the link between two people’s contributions and making this link explicit in your comment, or making a summary observation that takes into account several people’s contributions and that touches on a recurring theme in the discussion
+- Providing a new thought, idea, or perspective
+- Citing an experience or example of what we are learning
+- Adding a new twist on a perspective
+- Critically thinking about an idea or concept
+- Questioning or challenging a principle or perspective
+- Asking a question or making a comment that shows you are interested in what another person says or encourages another person to elaborate on something they have already said
+- Sharing a resource (a reading, web link, video) not covered in the syllabus that adds new information or perspectives to our learning
+- Making a comment that underscores the link between two people’s contributions and making this link explicit in your comment, or making a summary observation that takes into account several people’s contributions and that touches on a recurring theme in the discussion
 
 What substantive participation is NOT:
 
--   Very basic comments such as “I agree” or “I disagree”
--   Restating what has been said (unless there is a direct purpose in doing so)
--   Disrespectfully disagreeing
--   Pat answers that are not thought-provoking or do not move the dialogue forward
+- Very basic comments such as “I agree” or “I disagree”
+- Restating what has been said (unless there is a direct purpose in doing so)
+- Disrespectfully disagreeing
+- Pat answers that are not thought-provoking or do not move the dialogue forward
 
 Here are some examples of how to stimulate your own and others’ thinking:
 
--   What would happen if …
--   Other times it may be helpful to …
--   It is my understanding … what is your experience with this?
--   You might approach this from …
--   Is it possible that …
--   Would you consider …
--   Maybe …
--   Possibly …
--   Sometimes …
--   I’m wondering if …
--   Do you think …
+- What would happen if …
+- Other times it may be helpful to …
+- It is my understanding … what is your experience with this?
+- You might approach this from …
+- Is it possible that …
+- Would you consider …
+- Maybe …
+- Possibly …
+- Sometimes …
+- I’m wondering if …
+- Do you think …
 
 <!-- //todo cannot find article on Zotero-->
 
@@ -228,11 +223,11 @@ For more on substantive participation, read [*Writing a Substantive Discussion P
 ::: {.learning-activity time="20"}
 Head over to [the Learning Hub](https://twu.discourse.group/auth/microsoft_office365){target="_blank"}, which is an app called Discourse that we use to build community among learners in online courses. Find the Leadership 101 category and respond to the Welcome forum. As you introduce yourself, share your thoughts and questions you have about TWU. Here are some conversation prompts to get you started:
 
--   What interests you about learning online?
--   What are your learning goals?
--   How will you stay motivated in this course?
--   What digital literacy skills do you hope to gain, and how will those benefit you in your academic and professional career?
--   What is a "Wow" and a "Wonder" you have about online learning?
+- What interests you about learning online?
+- What are your learning goals?
+- How will you stay motivated in this course?
+- What digital literacy skills do you hope to gain, and how will those benefit you in your academic and professional career?
+- What is a "Wow" and a "Wonder" you have about online learning?
 :::
 
 ## Understanding the Digital
@@ -243,10 +238,10 @@ Mobile phones are often essential tools for communication, social media, interne
 
 Modern universities are also deeply impacted by the digital. Every system involved in higher education has been digitized in some manner, including recruitment, accounting, and fundraising. At TWU, here are some digital systems you will likely encounter:
 
--   Courses are designed and often delivered digitally.
--   Course logistics (discussion forums, assignment submissions, quizzes, gradebooks) happen in large digital tools called learning management systems (LMS) or virtual learning environments (VLE) such as Moodle.
--   Assignments must often be created digitally (using word processors, presentation software, video editors, website builders).
--   Research data is gathered, stored, analyzed, and shared digitally.
+- Courses are designed and often delivered digitally.
+- Course logistics (discussion forums, assignment submissions, quizzes, gradebooks) happen in large digital tools called learning management systems (LMS) or virtual learning environments (VLE) such as Moodle.
+- Assignments must often be created digitally (using word processors, presentation software, video editors, website builders).
+- Research data is gathered, stored, analyzed, and shared digitally.
 
 There are many other processes and procedures that rely on the digital in higher education, but the important thing for you to realize is that there are many tools that you will be required to learn and use. Some are obvious, such as word processors, presentation software, email, the library website, and the LMS, but others are less obvious and won't necessarily be taught specifically, other than in this course.
 
@@ -271,9 +266,9 @@ In the following video, Dr. Timothy Stafford explores the transformative power o
 
 While you watch the video think about:
 
--   What is heutagogy?
--   How do you self-determine the value of your learning?
--   What digital skills are important for you to develop?
+- What is heutagogy?
+- How do you self-determine the value of your learning?
+- What digital skills are important for you to develop?
 :::
 
 ## Digital Literacies
@@ -309,12 +304,12 @@ please add the Obsidian H5P \[h5p id="625"\]
 
 ```{=html}
 <!--
--   Go to [obsidian.md](https://obsidian.md/download){target="_blank"} and [follow these instructions to install Obsidian on your computer.](https://help.obsidian.md/Getting+started/Download+and+install+Obsidian){target="_blank"}
-    -   It is recommended that you use a computer rather than a mobile phone to install Obsidian, but please let your instructor or facilitator know if you are on mobile.
-    -   You do NOT need to purchase any upgrades such as **Obsidian Sync** or **Obsidian Publish**.
--   Work through the **Getting Started** section of the Obsidian help pages starting with **Create a vault**.
-    -   When you create the vault in this step, we recommend that you name it **TWU** or something similar. Later, you can create as many vaults as you would like.
--   It is recommended that you use one of the sync services listed here so that your files are backed up.
+- Go to [obsidian.md](https://obsidian.md/download){target="_blank"} and [follow these instructions to install Obsidian on your computer.](https://help.obsidian.md/Getting+started/Download+and+install+Obsidian){target="_blank"}
+    - It is recommended that you use a computer rather than a mobile phone to install Obsidian, but please let your instructor or facilitator know if you are on mobile.
+    - You do NOT need to purchase any upgrades such as **Obsidian Sync** or **Obsidian Publish**.
+- Work through the **Getting Started** section of the Obsidian help pages starting with **Create a vault**.
+    - When you create the vault in this step, we recommend that you name it **TWU** or something similar. Later, you can create as many vaults as you would like.
+- It is recommended that you use one of the sync services listed here so that your files are backed up.
 
 If you are having any difficulty in installing Obsidian, feel free to reach out for support on [the Learning Hub](https://twu.discourse.group/auth/microsoft_office365){target="_blank"}. There are also several tutorials and videos online; you are encouraged to seek out these resources. One example is [*Obsidian for Beginners: Start HERE --- How to Use the Obsidian App for Notes*](https://www.youtube-nocookie.com/embed/QgbLb6QCK88?si=ZKdRBBIccDy4TjgY){target="_blank"} (2020). The first minute shows how to set up Obsidian ... and if you'd like a sneak peek at the amazing features this tool has to offer, watch on! We'll get to these additional uses of Obsidian later in the course.
 -->
@@ -334,11 +329,11 @@ deleting activity as it is a part of the h5p
 ::::: learning-activity
 To give you a head start, we have created a starter vault for you to download and use. Follow the instructions below to access the starter vault.
 
--   Click this [link](assets/u1/ldrs101-vault-main.zip){target="_blank"} to download the vault
--   This will download a file called ldrs101-vault-main.zip to your computer
--   The .zip extension means that this is a compressed file and it contains multiple other files inside
--   Move the compressed file to your Documents folder
--   Unzip or extract the contents of the file; you should see a list of files similar to the image below
+- Click this [link](assets/u1/ldrs101-vault-main.zip){target="_blank"} to download the vault
+- This will download a file called ldrs101-vault-main.zip to your computer
+- The .zip extension means that this is a compressed file and it contains multiple other files inside
+- Move the compressed file to your Documents folder
+- Unzip or extract the contents of the file; you should see a list of files similar to the image below
 
 ::: {#fig-image1}
 ![](assets/u1/vault-contents.png){.lightbox fig-alt="Screenshot, Obsidian extracted files listed" fig-align="left"}
@@ -346,8 +341,8 @@ To give you a head start, we have created a starter vault for you to download an
 Screenshot of Extracted Files List on Obsidian
 :::
 
--   Rename the folder to ldrs101-\[firstname-lastname\] (use all lowercase letters and a dash instead of spaces)
--   Open Obsidian and click the "Open another vault" icon in the bottom left corner
+- Rename the folder to ldrs101-\[firstname-lastname\] (use all lowercase letters and a dash instead of spaces)
+- Open Obsidian and click the "Open another vault" icon in the bottom left corner
 
 ::: {#fig-image2}
 ![](assets/u1/obsidian2.png){.lightbox fig-alt="Screenshot, Obsidian, with three icons on far left" fig-align="left"}
@@ -355,9 +350,9 @@ Screenshot of Extracted Files List on Obsidian
 Screenshot of the Open Another Vault Button in Obsidian
 :::
 
--   Choose the ldrs101-\[firstame-lastname\] folder, and then Obsidian will ask you to trust this vault
--   Click "Trust author and enable plugins"
--   Once you are in the vault, feel free to take a look around---you will notice a Home page, a Tools folder with some files in it, and a VR Diagram Canvas
+- Choose the ldrs101-\[firstame-lastname\] folder, and then Obsidian will ask you to trust this vault
+- Click "Trust author and enable plugins"
+- Once you are in the vault, feel free to take a look around---you will notice a Home page, a Tools folder with some files in it, and a VR Diagram Canvas
 :::::
 ::::::
 
@@ -378,15 +373,15 @@ In this next video we will explore the remarkable journey of digital technology.
 
 While you watch the video think about:
 
--   What digital literacy skills have you acquired compared to skills that were needed 50 years ago? How about 10 years ago?
--   What digital literacy skills will be important for future learners in higher education? For future workers?
+- What digital literacy skills have you acquired compared to skills that were needed 50 years ago? How about 10 years ago?
+- What digital literacy skills will be important for future learners in higher education? For future workers?
 
 Reflect on the following writing prompts:
 
--   My parents did not need to ...
--   A new literacy I acquired is the ability to ...
--   Higher education students of the future will need to ...
--   ... is an important 21st century skill for future employment
+- My parents did not need to ...
+- A new literacy I acquired is the ability to ...
+- Higher education students of the future will need to ...
+- ... is an important 21st century skill for future employment
 
 To complete this activity, click "Open Today's Daily Note" in your Obsidian vault and write your reflections. This is the start of your reflective learning journal that you will continue to add to throughout the course.
 
@@ -396,8 +391,8 @@ To complete this activity, click "Open Today's Daily Note" in your Obsidian vaul
 Screenshot, Obsidian, Where to Find Today's Daily Note (Icon Circled)
 :::
 
--   Style your text using Markdown codes. Click here for the basic Markdown syntax (n.d.).
--   Feel free to add images and other media!
+- Style your text using Markdown codes. Click here for the basic Markdown syntax (n.d.).
+- Feel free to add images and other media!
 
 Please make sure you add tags to your note. Suggested tags might be #digital-literacy #ldrs101 #macarthur-foundation #john-seely-brown.
 
@@ -417,14 +412,14 @@ In the next activity, you will start to unpack these terms and prepare your own 
 :::: {.learning-activity time="30"}
 Let's take a look at the definitions of digital literacy and digital skills on the web and identify the difference. Follow the steps below and feel free to jot down some notes in your Obsidian journal. If you are completing this activity on a new day, create a new daily note.
 
--   Read [Wikipedia's definition](https://en.wikipedia.org/wiki/Digital_literacy){target="_blank"} (2024) of digital literacy---is this a good description?
--   Scan the #diglit or #digital-literacy hashtags on [X (Twitter)](https://x.com/home){target="_blank"} --- did you find any valuable links to defining digital literacy?
--   Conduct a Google search for "digital literacy." Select a few definitions you like and record their URLs, for example by adding these to your browser bookmarks.
--   Conduct a Google search for "digital skills." Select one or two definitions you like and record the URLs.
--   Conduct a Google search for "digital fluency." Select one or two definitions.
--   What are the differences between digital literacies, digital fluency, and digital skills? How are these concepts related?
--   How would you rate the academic quality of the definitions you found (e.g., low or high quality)?
--   What did you discover?
+- Read [Wikipedia's definition](https://en.wikipedia.org/wiki/Digital_literacy){target="_blank"} (2024) of digital literacy---is this a good description?
+- Scan the #diglit or #digital-literacy hashtags on [X (Twitter)](https://x.com/home){target="_blank"} --- did you find any valuable links to defining digital literacy?
+- Conduct a Google search for "digital literacy." Select a few definitions you like and record their URLs, for example by adding these to your browser bookmarks.
+- Conduct a Google search for "digital skills." Select one or two definitions you like and record the URLs.
+- Conduct a Google search for "digital fluency." Select one or two definitions.
+- What are the differences between digital literacies, digital fluency, and digital skills? How are these concepts related?
+- How would you rate the academic quality of the definitions you found (e.g., low or high quality)?
+- What did you discover?
 
 Next, read the [*Quick Guide - Developing Students' Digital Literacy*](assets/u1/JISC_REPORT_Digital_Literacies_280714_PRINT.pdf){target="_blank"} (n.d.)
 
@@ -446,9 +441,9 @@ In your search to define digital literacies, what other literacies or skills are
 
 Feel free to share your thoughts and experiences by posting on the LDRS 101 Discourse chat. For example:
 
--   The major difference between digital skills and literacies is ...
--   I didn't realize that ...
--   For me, digital literacy means ..."
+- The major difference between digital skills and literacies is ...
+- I didn't realize that ...
+- For me, digital literacy means ..."
 ::::
 
 <!-- ### Activity: Reflecting on the Promise of Technology
@@ -456,17 +451,21 @@ Feel free to share your thoughts and experiences by posting on the LDRS 101 Disc
 ::: {.learning-activity time="20"}
 Watch technology strategist and educator, Shauna Begley, in this engaging talk where she shares the secrets to mastering digital literacy to thrive in today’s ever-evolving digital world.
 
+<<<<<<< Updated upstream
 -   [Watch: *Digital Literacy: Realizing the Promise of Technology \| Shauna Begley \| TEDxRoyalRoadsU*](https://www.youtube.com/watch?v=oGwSzp2xBU4){target="_blank"} (2023)
+=======
+- [Watch: *Digital Literacy: Realizing the Promise of Technology \| Shauna Begley \| TEDxRoyalRoadsU*](https://www.youtube.com/watch?v=oGwSzp2xBU4){target="_blank"} (2023)<!-- titled-->
+>>>>>>> Stashed changes
 
 {{< video https://www.youtube-nocookie.com/embed/oGwSzp2xBU4 >}}
 
 **Questions to Consider**
 
--   What strategies from the talk could you apply to feel more confident in managing your digital tools and resources?
+- What strategies from the talk could you apply to feel more confident in managing your digital tools and resources?
 
--   Reflect on a recent experience where you felt overwhelmed by technology—how might Shauna’s insights help you navigate similar situations in the future?
+- Reflect on a recent experience where you felt overwhelmed by technology—how might Shauna’s insights help you navigate similar situations in the future?
 
--   What steps can you take to challenge the status quo in your own digital practices while maintaining a purposeful and balanced approach?
+- What steps can you take to challenge the status quo in your own digital practices while maintaining a purposeful and balanced approach?
 
 Record your thoughts in an entry in Obsidian.
 :::
@@ -485,13 +484,17 @@ This learning activity will provide you with another opportunity to connect with
 
 Watch the following video and jot down the reasons why digital literacy matters to you, then complete the steps which follow.
 
+<<<<<<< Updated upstream
 -   [Watch: *Digital Literacy and Why it Matters*](https://www.youtube.com/watch?v=p2k3C-iB88w){target="_blank"} (2014)
+=======
+- [Watch: *Digital Literacy and Why it Matters*](https://www.youtube.com/watch?v=p2k3C-iB88w){target="_blank"} (2014)<!-- Auto title, auto embed-->
+>>>>>>> Stashed changes
 
 {{< video https://www.youtube-nocookie.com/embed/p2k3C-iB88w >}}
 
--   Go to the LDRS 101 section in Discourse
--   Post a contribution to the discussion on digital literacies and why they are important for you
--   Post one or two replies to interesting contributions (you should also "like" good contributions, use the person's username when replying, and if appropriate, quote a reply when responding.)
+- Go to the LDRS 101 section in Discourse
+- Post a contribution to the discussion on digital literacies and why they are important for you
+- Post one or two replies to interesting contributions (you should also "like" good contributions, use the person's username when replying, and if appropriate, quote a reply when responding.)
 :::
 ::::
 
@@ -500,21 +503,21 @@ Watch the following video and jot down the reasons why digital literacy matters 
 ::: {.learning-activity time="20"}
 Digital literacy encompasses a wide range of capabilities which extend beyond the digital skills associated with different technologies. Consider the digital literacies you identified from the previous activity.
 
--   Jot down one or more technologies or tools you would recommend for each of the skills and assess your competence in using each particular technology or tool (e.g., below average, average, above average, or excellent).
--   Next, use your searching skills to discover online tests for assessing your digital literacies (don't spend more than 15 to 20 minutes on the self-assessment activity).
-    -   Conduct a Google search using "digital literacy self-assessment"
-    -   Choose a link to conduct a self-assessment of your digital literacy
+- Jot down one or more technologies or tools you would recommend for each of the skills and assess your competence in using each particular technology or tool (e.g., below average, average, above average, or excellent).
+- Next, use your searching skills to discover online tests for assessing your digital literacies (don't spend more than 15 to 20 minutes on the self-assessment activity).
+    - Conduct a Google search using "digital literacy self-assessment"
+    - Choose a link to conduct a self-assessment of your digital literacy
 
 Alternatively, you can choose from these resources:
 
--   Take the [Digital Literacy Self-Assessment](https://www.supportedemployment.ca/digital-literacy/digital-literacy-self-assessment/){target="_blank"} (n.d.) from the Canadian Association for Supported Employment **or**
--   Use the [Digital Literacy Self-Assessment Tool](https://thinkspace.csu.edu.au/digitalcitizenshipguideetl523/){target="_blank"} (2020) from the Digital Citizenship Guide **or**
--   Explore the *What is Digital Literacy?* page of the [Digital Literacies Toolkit](https://www.elanguages.ac.uk/digital_literacies_toolkit.php){target="_blank"} (n.d.) developed by the University of Southampton.
+- Take the [Digital Literacy Self-Assessment](https://www.supportedemployment.ca/digital-literacy/digital-literacy-self-assessment/){target="_blank"} (n.d.) from the Canadian Association for Supported Employment **or**
+- Use the [Digital Literacy Self-Assessment Tool](https://thinkspace.csu.edu.au/digitalcitizenshipguideetl523/){target="_blank"} (2020) from the Digital Citizenship Guide **or**
+- Explore the *What is Digital Literacy?* page of the [Digital Literacies Toolkit](https://www.elanguages.ac.uk/digital_literacies_toolkit.php){target="_blank"} (n.d.) developed by the University of Southampton.
 
 **Questions to Consider**:
 
--   Did the self-assessment you chose focus on digital skills or digital literacies?
--   What did you learn from this exercise?
+- Did the self-assessment you chose focus on digital skills or digital literacies?
+- What did you learn from this exercise?
 
 Share your thoughts by posting on Discourse.
 :::
@@ -550,14 +553,14 @@ At the same time, if we can imagine the visitor $\leftrightarrow$ resident conti
 ::: {.learning-activity time="10"}
 The video below explains a process to help you think about where you reside on the web.
 
--   [Watch: *Visitors and Residents*](https://www.youtube.com/watch?v=sPOG3iThmRI){target="_blank"} (2014)
+- [Watch: *Visitors and Residents*](https://www.youtube.com/watch?v=sPOG3iThmRI){target="_blank"} (2014)
 
 {{< video https://www.youtube-nocookie.com/embed/sPOG3iThmRI >}}
 
 **Questions to Consider:**
 
--   What surprised you as you watched the video?
--   How can you apply the concepts presented to your experience in learning with technology?
+- What surprised you as you watched the video?
+- How can you apply the concepts presented to your experience in learning with technology?
 
 Feel free to jot down your notes in Obsidian.
 :::
@@ -581,8 +584,8 @@ For many university students, a Learning Management System (LMS) like Moodle is 
 :::: {.learning-activity time="30"}
 This activity will help you think about how the tools we use shape and sometimes determine the nature of our interactions with each other. Do the tools you use fall on the visitor or the resident end of your continuum? How do these tools impact your learning?
 
--   Read [*Visitors and Residents: A New Typology for Online Engagement*](https://firstmonday.org/ojs/index.php/fm/article/view/3171){target="_blank"} (2011)
--   Create a new canvas in your Obsidian vault and create your own Visitor--Resident Diagram. We have created a sample diagram in the vault.
+- Read [*Visitors and Residents: A New Typology for Online Engagement*](https://firstmonday.org/ojs/index.php/fm/article/view/3171){target="_blank"} (2011)
+- Create a new canvas in your Obsidian vault and create your own Visitor--Resident Diagram. We have created a sample diagram in the vault.
 
 ::: note
 This diagram can be used to demonstrate your understanding of the course learning outcomes. See the Assessment tab in Moodle for how this activity relates to the assessments in this course*.*
@@ -597,13 +600,13 @@ Now that you have assessed some of your digital skills or literacies, let's focu
 
 Your privacy is fragile, easy to lose instantaneously, and difficult to retrieve in an environment that requires so much online interaction.
 
--   [**Identity theft**](https://en.wikipedia.org/wiki/Identity_theft){target="_blank"} happens, frequently.
-    -   Never put your social insurance number, your birthday, your mother's maiden name, or any other personal facts anywhere online. Everyone on the internet will be able to access this information.
-    -   Always assume that anything you write online (including email) can, and probably will, eventually leak. Keep your email address private---to avoid receiving spam. If your email is published in a plain form anywhere online, even if it is part of an archived email list, spammers will "harvest" it for their databases.
--   **Spam email [(at least half of all email being sent)](https://securelist.com/spam-report-2019/96527/){target="_blank"}** is an unfortunate fact of our modern lives.
-    -   If you must publish your email address online, consider creating a "sacrificial" email address, or one you only use to publish online. You can create an email "alias" which you can set to automatically forward to your primary email, and easily disable if your spam volumes increases. Many email services will automatically generate random email addresses that you can use to hide your true address.
-    -   Another approach is to avoid publishing the email address as something like *mailto:myname\@somewebdomain.net*. Instead, you might use more confusing text, such as myname-at-somewebdomain-net. Some websites support using these types of obfuscation methods, but the spammers who "scrape" email addresses from websites to populate their spam databases use increasingly sophisticated methods to defeat these methods.
-    -   Basically, avoid publishing the email addresses you value online to decrease the amount of spam you receive.
+- [**Identity theft**](https://en.wikipedia.org/wiki/Identity_theft){target="_blank"} happens, frequently.
+    - Never put your social insurance number, your birthday, your mother's maiden name, or any other personal facts anywhere online. Everyone on the internet will be able to access this information.
+    - Always assume that anything you write online (including email) can, and probably will, eventually leak. Keep your email address private---to avoid receiving spam. If your email is published in a plain form anywhere online, even if it is part of an archived email list, spammers will "harvest" it for their databases.
+- **Spam email [(at least half of all email being sent)](https://securelist.com/spam-report-2019/96527/){target="_blank"}** is an unfortunate fact of our modern lives.
+    - If you must publish your email address online, consider creating a "sacrificial" email address, or one you only use to publish online. You can create an email "alias" which you can set to automatically forward to your primary email, and easily disable if your spam volumes increases. Many email services will automatically generate random email addresses that you can use to hide your true address.
+    - Another approach is to avoid publishing the email address as something like *mailto:myname\@somewebdomain.net*. Instead, you might use more confusing text, such as myname-at-somewebdomain-net. Some websites support using these types of obfuscation methods, but the spammers who "scrape" email addresses from websites to populate their spam databases use increasingly sophisticated methods to defeat these methods.
+    - Basically, avoid publishing the email addresses you value online to decrease the amount of spam you receive.
 
 #### Passwords {.unnumbered}
 
@@ -613,13 +616,13 @@ The problem with having only a few passwords is that even resource-rich and secu
 
 Other ways someone can get your password include:
 
--   Sniffing traffic when you log in to a nonsecure website that uses http:// rather than https:// (the "s" stands for secure because your data transmission's encrypted). Look for the Lock icon.png in your address bar.
--   Sniffing emails---your email, unless encrypted, is not secure. Never send a login and password along with the web address of a service (similarly, don't send credit card numbers).
--   [Phishing](https://en.wikipedia.org/wiki/Phishing){target="_blank"} attacks---where someone sends you an email that looks like it is from a trusted sender, such as from a friend, your bank, an online store you frequent, or a government agency, and asks you to enter your password to confirm it. No one should ever ask you to enter your password via email.
--   Always check the web address (hover over the link) to make sure it corresponds to the right place or call the sender to confirm the request over the phone.
--   Brute force---hackers often use computers to guess your password, beginning with a list of [common passwords](https://www.passwordrandom.com/most-popular-passwords){target="_blank"}, and try different combinations until they get it right, or until the system locks them out for trying too many times.
--   "How secure is my password" sites---you should avoid these sites and never type your password into a website or email response that is not appropriate, especially when you know the sender also knows your email.
--   Once your email and any password combination are known, identity thieves will try to use them at various websites, because they know most people only use a few passwords. A thief who discovers a password you created for a website you rarely use will try to compromise the security of a website that is important to you such as your email system, your workplace, social media accounts, or bank account.
+- Sniffing traffic when you log in to a nonsecure website that uses http:// rather than https:// (the "s" stands for secure because your data transmission's encrypted). Look for the Lock icon.png in your address bar.
+- Sniffing emails---your email, unless encrypted, is not secure. Never send a login and password along with the web address of a service (similarly, don't send credit card numbers).
+- [Phishing](https://en.wikipedia.org/wiki/Phishing){target="_blank"} attacks---where someone sends you an email that looks like it is from a trusted sender, such as from a friend, your bank, an online store you frequent, or a government agency, and asks you to enter your password to confirm it. No one should ever ask you to enter your password via email.
+- Always check the web address (hover over the link) to make sure it corresponds to the right place or call the sender to confirm the request over the phone.
+- Brute force---hackers often use computers to guess your password, beginning with a list of [common passwords](https://www.passwordrandom.com/most-popular-passwords){target="_blank"}, and try different combinations until they get it right, or until the system locks them out for trying too many times.
+- "How secure is my password" sites---you should avoid these sites and never type your password into a website or email response that is not appropriate, especially when you know the sender also knows your email.
+- Once your email and any password combination are known, identity thieves will try to use them at various websites, because they know most people only use a few passwords. A thief who discovers a password you created for a website you rarely use will try to compromise the security of a website that is important to you such as your email system, your workplace, social media accounts, or bank account.
 
 Here is a table that shows how quickly passwords can be cracked using brute force methods. Note that the best passwords are both long and include a mix of numbers, lowercase and uppercase letters, and symbols.
 
@@ -637,9 +640,9 @@ There are services you can use to check if your email is part of a leaked passwo
 
 Get a [password manager](https://en.wikipedia.org/wiki/Password_manager){target="_blank"}. They are incredibly helpful and convenient now that many of us use several computers and mobile devices. Password managers help you manage your passwords.
 
--   When you choose a password manager make sure you create one [strong password](https://www.howtogeek.com/195430/how-to-create-a-strong-password-and-remember-it/){target="_blank"}, such as a full sentence with some numbers and special characters. This is all you need to remember---the password manager remembers the others. The ensures you generate a different, fully random password for each website you use that requires a password.
--   Good password managers only ever store your details in an encrypted form, where even the company that stores it cannot see your passwords. To access your passwords, you log into the password manager service using your single, strong password (via a secure web link---usually the default, but always check!).
--   There are many [password manager options](https://www.google.co.nz/search?q=password+managers&bshm=rimc/1){target="_blank"}. Some widely used proprietary options include [Lastpass](https://www.lastpass.com/){target="_blank"} and [1password](https://1password.com/){target="_blank"}. Open source options also exist, such as [Bitwarden](https://bitwarden.com/){target="_blank"}. Sadly, some of the most popular password managers have suffered from software bugs that have exposed user passwords.
+- When you choose a password manager make sure you create one [strong password](https://www.howtogeek.com/195430/how-to-create-a-strong-password-and-remember-it/){target="_blank"}, such as a full sentence with some numbers and special characters. This is all you need to remember---the password manager remembers the others. The ensures you generate a different, fully random password for each website you use that requires a password.
+- Good password managers only ever store your details in an encrypted form, where even the company that stores it cannot see your passwords. To access your passwords, you log into the password manager service using your single, strong password (via a secure web link---usually the default, but always check!).
+- There are many [password manager options](https://www.google.co.nz/search?q=password+managers&bshm=rimc/1){target="_blank"}. Some widely used proprietary options include [Lastpass](https://www.lastpass.com/){target="_blank"} and [1password](https://1password.com/){target="_blank"}. Open source options also exist, such as [Bitwarden](https://bitwarden.com/){target="_blank"}. Sadly, some of the most popular password managers have suffered from software bugs that have exposed user passwords.
 
 ### Activity: Get a Password Manager
 
@@ -682,12 +685,12 @@ If someone asks you to share an email address of a friend or colleague you shoul
 
 So how can we protect ourselves if new threats are emerging all the time?
 
--   Be conscious of where you put information that is "private" to you.
--   Beware of the terms of service (ToS) of social media providers such as Facebook. Use a service such as [*Terms of Service: Didn't Read* (TOSDR)](https://tosdr.org/){target="_blank"} to help identify risky, overreaching services. You may be able to use certain privacy settings to protect your information.
--   Always check the identity of a website before you enter any passwords or personal information. Secure certificates are generally trustworthy but be sure to check the names and details.
--   Always ask whether you should trust a provider or a government agency. Always ask "who benefits when I do this?" What are their incentives?
--   Protect your own data and be even more protective of others' private information. For example, be cautious before posting information about yourself or someone else. Be especially cautious when posting pictures or videos of their children.
--   Remember, complacency and unwarranted trust are your biggest enemies. A healthy paranoia is good for your digital health. Think about the great amount of time and effort it will take to regain your identity (and credit rating) if your information is compromised.
+- Be conscious of where you put information that is "private" to you.
+- Beware of the terms of service (ToS) of social media providers such as Facebook. Use a service such as [*Terms of Service: Didn't Read* (TOSDR)](https://tosdr.org/){target="_blank"} to help identify risky, overreaching services. You may be able to use certain privacy settings to protect your information.
+- Always check the identity of a website before you enter any passwords or personal information. Secure certificates are generally trustworthy but be sure to check the names and details.
+- Always ask whether you should trust a provider or a government agency. Always ask "who benefits when I do this?" What are their incentives?
+- Protect your own data and be even more protective of others' private information. For example, be cautious before posting information about yourself or someone else. Be especially cautious when posting pictures or videos of their children.
+- Remember, complacency and unwarranted trust are your biggest enemies. A healthy paranoia is good for your digital health. Think about the great amount of time and effort it will take to regain your identity (and credit rating) if your information is compromised.
 
 ### Activity: Analyzing Terms of Service (Didn't Read)
 
@@ -712,18 +715,18 @@ A reflective journal is simply a record of your thoughts. It is a reflection of 
 
 Here are some common questions used for reflective journaling. As you read them, consider what you have learned in this first unit.
 
--   In your view, what were the most important points in the readings or activities?
--   What information did you already know? What skills did you already have?
--   What new knowledge, skills, or perspectives have you gained?
--   What information was easy to remember or learn? Why?
--   What concepts or skills did you find more difficult? Why?
--   How can you apply this knowledge to your studies or future career?
--   How has this knowledge helped you to make sense of your current or previous experience?
--   Has your understanding of a personal or work-related situation changed after studying these concepts?
--   Did you agree or disagree with any of the material? If yes, how did you react and why?
--   If you could have the opportunity to engage in further learning, what would it be?
--   What further questions would like to ask about the concepts presented in this unit?
--   What other concepts, resources or discussions would be of interest?
+- In your view, what were the most important points in the readings or activities?
+- What information did you already know? What skills did you already have?
+- What new knowledge, skills, or perspectives have you gained?
+- What information was easy to remember or learn? Why?
+- What concepts or skills did you find more difficult? Why?
+- How can you apply this knowledge to your studies or future career?
+- How has this knowledge helped you to make sense of your current or previous experience?
+- Has your understanding of a personal or work-related situation changed after studying these concepts?
+- Did you agree or disagree with any of the material? If yes, how did you react and why?
+- If you could have the opportunity to engage in further learning, what would it be?
+- What further questions would like to ask about the concepts presented in this unit?
+- What other concepts, resources or discussions would be of interest?
 :::
 
 ### Activity: Journal Entry on Digital Literacies
@@ -742,11 +745,11 @@ Screenshot of the Daily Note Icon in Obsidian (Circled)
 Next, write a journal entry based on the following prompts:
 
 1.  Write your personal definition of digital literacies justified from your reading of the literature (about 100 to 150 words).
-    -   Describe what digital literacies mean for you in a sentence.
-    -   Ensure that your references are cited appropriately.
+    - Describe what digital literacies mean for you in a sentence.
+    - Ensure that your references are cited appropriately.
 2.  Create a link to your VR diagram map in your entry.
 3.  Summarize an action plan for improving your digital literacies
-    -   Identify the literacies you plan to improve, including the reasons why and how you aim to achieve this.
+    - Identify the literacies you plan to improve, including the reasons why and how you aim to achieve this.
 
 ::: note
 *Note:* This journal entry can be used to demonstrate your understanding of the course learning outcomes. See the Assessment tab in Moodle for how this activity relates to the assessments in this course.
@@ -760,13 +763,13 @@ In this first unit, you have had the opportunity to learn about some of the impa
 ::: check
 Before you move on to the next unit you may want to check that you are able to:
 
--   Explore common digital tools used at Trinity Western University
--   Describe your engagement with digital technology
--   Apply digital tools to support learning in an academic environment
--   Explain what digital literacy means to you
--   Examine privacy concerns related to various platforms and tools
--   Describe how to protect yourself and others in the digital environment
--   Identify the literacies you plan to improve and what steps you will take to achieve your goals
+- Explore common digital tools used at Trinity Western University
+- Describe your engagement with digital technology
+- Apply digital tools to support learning in an academic environment
+- Explain what digital literacy means to you
+- Examine privacy concerns related to various platforms and tools
+- Describe how to protect yourself and others in the digital environment
+- Identify the literacies you plan to improve and what steps you will take to achieve your goals
 :::
 
 ::::::::::::::::::::::::::::::::::::
