@@ -59,17 +59,17 @@ format:
       # style: "floating"
       # search: true
       # title: "Course Notes"
-    # css: https://twuonline.github.io/course-materials/quarto/twu_styles.css
+    css: https://twuonline.github.io/course-materials/quarto/twu_styles.css
     toc-depth: 4
     toc: true
     toc-title: On This Page
     theme: cosmo
     # The line below  should only be enabled to locally test css before moving it to the main css file in course materials.
     #theme: [cosmo, yml-assets/test.scss]
-    # include-in-header:
-    # - text: |
-    #     <script type="application/javascript" src="https://twuonline.github.io/course-materials/quarto/twu_global_header.js"></script>
-    #     <link rel = "shortcut icon" href = "https://twuonline.github.io/course-materials/quarto/favicon.ico" />
+    include-in-header:
+   - text: |
+        <script type="application/javascript" src="https://twuonline.github.io/course-materials/quarto/twu_global_header.js"></script>
+        <link rel = "shortcut icon" href = "https://twuonline.github.io/course-materials/quarto/favicon.ico" />
         
 # # Format - PDF
 #   pdf:
