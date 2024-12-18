@@ -55,11 +55,13 @@ Here is a checklist of learning activities that will benefit you in completing t
 :::
 
 ::: note
-**Notes:**
 
--   *You will be directed to complete these activities as they come up in the unit.*\
--   *The learning activities in this course are designed to prepare you for the graded assignments in this course.*\
--   *Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.*\
+Notes:
+
+- You will be directed to complete these activities as they come up in the unit.
+- The learning activities in this course are designed to prepare you for the graded assignments in this course.
+- Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
+
 :::
 
 ### Assessment {.unnumbered}
@@ -88,7 +90,12 @@ Choose a note-taking tool that works best for you (e.g., a Word document, a phys
 -   How you will measure your success at the end of the course.
 
 ::: note
-Notes: - This activity is ungraded and intended to help you take ownership of your learning journey. - Feel free to revisit your notes throughout the course as your goals and challenges may evolve.
+
+Notes: 
+
+- This activity is ungraded and intended to help you take ownership of your learning journey. 
+- Feel free to revisit your notes throughout the course as your goals and challenges may evolve.
+
 :::
 ::::
 

@@ -726,13 +726,13 @@ In addition, exploring openness in education broadened your understanding of the
 ::: check
 Before you move on to the next unit check that you are able to:
 
--   describe your engagement with digital technology
--   apply digital tools to support learning in an academic environment
--   explain what digital literacies mean for you in a tertiary education context
--   examine your digital footprint
--   build your professional online biography
--   examine privacy concerns related to various platforms and tools
--   describe how to protect yourself, and other students and colleagues, to stay safe in the digital environment
+-   Describe your engagement with digital technology
+-   Apply digital tools to support learning in an academic environment
+-   Explain what digital literacies mean for you in a tertiary education context
+-   Examine your digital footprint
+-   Build your professional online biography
+-   Examine privacy concerns related to various platforms and tools
+-   Describe how to protect yourself, and other students and colleagues, to stay safe in the digital environment
 :::
 
 ```{=html}
