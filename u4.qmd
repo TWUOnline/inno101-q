@@ -83,16 +83,14 @@ As described by Casteneda et al.,
 
 Which aspects of the two definitions do you find most meaningful? How do you structure your daily interactions and manage the flow of information? In what ways do you communicate your learning experiences to others? Lastly, what specific goals are you aiming to accomplish through your learning journey?
 
-### Activity: What Is a PLE?
+### Activity: What is a PLE?
 
 ::: {.learning-activity time="15"}
 Before you start building your PLE, read the following article: "[*7 Things you Should Know About Personal Learning Environments.*](assets/u4/U4_7-things-you-should-know-about-PLNs.pdf){target="_blank"} After reading the article, consider the following:
 
-```         
 -   How do PLEs promote authentic, student-centred learning?
 -   What are the benefits of a PLE? How would it benefit you?
 -   What tools do you currently use as part of your learning environment?
-```
 
 Next, consider the approach taken at TWU as it supports inquiry-rich learning. As you watch the short video below, think about how you could use your PLE to enrich your learning at TWU.
 
@@ -113,7 +111,7 @@ Note that you completed a Visitor and Resident Diagram Activity in Unit 1. Feel 
 
 You will be encouraged to post your PLE graphic on your blog ... which you will start in the next activity!
 :::
-::::
+:::
 
 ## Building a Learning Blog
 
@@ -131,11 +129,12 @@ A key teaching philosophy of this course is to embed the acquisition of new digi
 
 ### Activity: Setting up Your Learning Blog
 
-:::::::::::::: {.learning-activity time="120"}
+::: {.learning-activity time="120"}
 As this is a course focusing on digital literacies, you are asked to establish a Learning Blog, which will improve your skills and enable you to network with your peers. We recommend using WordPress, as it is supported by TWU. WordPress is an open source website builder and is one of the most popular systems available because of its versatility. If you already have your own website or you have previous experience using WordPress, you may set up your blog on it and skip the set-up steps described below, but you still need to complete the learning activities.
 
 ::: note
 We are here to help you create your site, so do not hesitate to ask for technical support. There are a number of resources below, but if you get stuck, please reach out on Discourse, or email elearning\@twu.ca
+
 :::
 
 To get started on creating your site we suggest the following steps:

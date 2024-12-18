@@ -286,6 +286,8 @@ The best advice when joining a new community is to lurk for a while before intro
 
 #### Communities of Practice {.unnumbered}
 
+![](assets/u5/CoP.jpg){fig-alt="Arrorws creating a flow of idea" source-text="Community of Practice" source-link="https://www.flickr.com/photos/gforsythe/38547088821" source-author="Efrem Efre" source-author-link="https://www.flickr.com/photos/gforsythe/" source-copyright="2017" source-license-text="Public Domain" source-license-link="https://creativecommons.org/publicdomain/zero/1.0/"}
+
 As you continue to reflect on your social network and consider other learning networks to join for personal or professional growth, we want to present another framing of an online community called a *community of practice*.
 
 > A community of practice is a group of people who *"share a concern or a passion for something they do and learn how to do it better as they interact regularly."* (Wenger-Trayner, 2022)
@@ -320,6 +322,7 @@ As you reflect on digital practices in university and the workplace, consider ho
 ### Activity: What Is a Community of Practice?
 
 :::: {.learning-activity time="20"}
+
 -   Watch [*Communities of Practice (Etienne and Beverly Wenger-Trayner)*](https://www.youtube.com/watch?v=SmqLyOLIjos){target="_blank"} (2022)
 
 {{< video https://www.youtube-nocookie.com/embed/SmqLyOLIjos >}}

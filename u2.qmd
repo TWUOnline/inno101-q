@@ -600,7 +600,7 @@ Open educational resources, or OER, refers to freely accessible and openly licen
 <script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 ```
 
-#### The 5 Rs of Openness {.unnumbered}
+<!-- #### The 5 Rs of Openness {.unnumbered}
 
 **Retain** the right to make, own, and control copies of the content
 
@@ -610,7 +610,7 @@ Open educational resources, or OER, refers to freely accessible and openly licen
 
 **Remix** the right to combine the original or revised content with other open content to create something new (e.g., incorporate the content into a mashup)
 
-**Redistribute** the right to share copies of the original content, your revisions, or your remixes with others (e.g., give a copy of the content to a friend)
+**Redistribute** the right to share copies of the original content, your revisions, or your remixes with others (e.g., give a copy of the content to a friend) -->
 
 ::: note
 Note that this material was created and published freely under a Creative Commons Attribution 4.0 license.

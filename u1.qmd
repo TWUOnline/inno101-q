@@ -219,6 +219,7 @@ Here are some examples of how to stimulate your own and others’ thinking:
 -   I’m wondering if …
 -   Do you think …
 
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=650" width="885" height="523" frameborder="0" allowfullscreen="allowfullscreen" title="LDRS 101_Substantiave Discussions"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 <!-- //todo cannot find article on Zotero-->
 
 For more on substantive participation, read [*Writing a Substantive Discussion Post for an Online Class Forum*](https://apuedge.com/writing-a-substantive-discussion-post-for-an-online-class-forum/){target="_blank"} (2016).
