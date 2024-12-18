@@ -766,4 +766,6 @@ Before you move on to the next unit you may want to check that you are able to:
 -   Examine privacy concerns related to various platforms and tools
 -   Describe how to protect yourself and others in the digital environment
 -   Identify the literacies you plan to improve and what steps you will take to achieve your goals
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=651" width="958" height="549" frameborder="0" allowfullscreen="allowfullscreen" title="Unit 1 Progress Check"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 :::
