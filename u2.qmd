@@ -493,10 +493,12 @@ Now that you have a handful of references to keep track of, it's time to get sta
 
 ### Activity: Setting Up Zotero
 
-:::::: {.learning-activity time="30"}
+::: {.learning-activity time="30"}
 Before you explore the next essential tool, watch [*Benefits of Using Citation Management Tools*](https://youtu.be/sy9PVZAbSAQ){target="_blank"} (n.d.).
 
 {{< video https://www.youtube-nocookie.com/embed/sy9PVZAbSAQ >}}
+
+:::
 
 #### Download and Install Zotero {.unnumbered}
 
@@ -543,7 +545,6 @@ Screenshot of TWU Library Export Manager File Format Options (RIS Selected)
 You might get a message to install the Zotero Connector in your browser, go ahead and do that. Once you have imported the reference, you will have a brand new item in your Zotero library!
 
 From here on to the day you graduate, Zotero will be with you and you may find yourself using it every day. It is absolutely indispensable.
-::::::
 
 ### Activity: Using Zotero for Research
 
@@ -614,7 +615,6 @@ Open educational resources, or OER, refers to freely accessible and openly licen
 ::: note
 Note that this material was created and published freely under a Creative Commons Attribution 4.0 license.
 :::
-::::
 
 ### Activity: Introducing Open Access
 

@@ -45,21 +45,21 @@ filters:
     path: yml-assets/post.lua
 
 # Add templete for block
-title-block-banner: true
+title-block-banner: false
 
 # ------- Format Specific Settings -------
 
 format:
 # Format - HTML
   html:
-    template-partials:
-      yml-assets/title-block.html
-    mermaid:
-      theme: neutral #added for U5
-      fig-responsive: false
-    sidebar:
-      style: "docked"
-      search: true
+    # template-partials:
+    #   yml-assets/title-block.html
+    back-to-top-navigation: true
+
+    sidebar: false
+      # style: "floating"
+      # search: true
+      # title: "Course Notes"
     css: https://twuonline.github.io/course-materials/quarto/twu_styles.css
     toc-depth: 4
     toc: true
@@ -77,12 +77,12 @@ format:
 #     documentclass: scrreprt
 
 # Format - Doc
-  docx:
-    toc: false
-    number-sections: true
-    highlight-style: github
-  #   cite-method: biblatex
-# Fig captions
-fig-cap-location: top
-lightbox:
-  desc-position: top
+#   docx:
+#     toc: false
+#     number-sections: true
+#     highlight-style: github
+#   #   cite-method: biblatex
+# # Fig captions
+# fig-cap-location: top
+# lightbox:
+#   desc-position: top
