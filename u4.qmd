@@ -139,6 +139,8 @@ We are here to help you create your site, so do not hesitate to ask for technica
 
 To get started on creating your site we suggest the following steps:
 
+<!-- <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=652" width="809" height="582" frameborder="0" allowfullscreen="allowfullscreen" title="Setting up your Learning Blog"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script> -->
+
 ::: {.accordion title="1. Sign up to create a website"}
 -   Go to [**create.twu.ca**](https://create.twu.ca/){target="_blank"} to sign up for your free WordPress site. *Please read all the prompts and instructions carefully!* Be sure to read the Privacy Statement carefully before clicking "I Agree." The information provided gives you excellent guidance regarding digital citizenship, privacy, and how to build a professional digital persona.
 -   You will be prompted to **create a domain name**, which is your website's address on the internet. Often this is referred to as a URL (Uniform Resource Locator). This is what your users will type in their browsers to reach your site. Make sure that you choose a domain name that is related to you, easy to pronounce and spell, and easy to remember. Once you have done that, we suggest you write all this information somewhere you can access it easily---just in case.
@@ -159,13 +161,6 @@ To get started on creating your site we suggest the following steps:
 
 **Help Tips:** When you are in the site administration area of your site, you can get tips on what you are doing by clicking the "Help" menu on the top righthand corner. Click "Help" and read through the Overview describing the elements of the dashboard.
 
-```{=html}
-<!--//todo
-
-Prote: This section will need to be updated after wordpress guides have been updated.
-
-insert - Animation showing location of WordPress help tab - from [Sign in to your account](https://create.twu.ca/eportfolios/wordpress/)-->
-```
 :::
 
 ::: {.accordion title="3. Review your settings"}
@@ -192,18 +187,6 @@ Pages and posts are where your content is housed on WordPress. The biggest diffe
 -   **Posts** are for timely content. They have a publish date, and they are displayed with the newest content at the top (reverse chronological order) of your site's blog page. Older posts can "fall off" the blog page (the content is still kept, but no longer visible). Posts are what you should think of when you hear the term "blog post." Usually posts have a comment section, and this is where viewers can write a comment in response to your post. This may be a handy way to receive feedback from your peers. Also, you can categorize or tag your posts, which is useful to help readers locate posts on your blog.
 
 -   To add a new Page or Post, click the Pages or Posts menu option and then click "Add New Link" underneath. Another way is to hover your cursor over Pages or Posts and click the add new link in the drop-down menu.
-
-```{=html}
-<!-- !!! Comment(s) from Werd:
-
-Reference: drop-down
-
-Comment: Preferred term? (drop-down menu? Without going into WordPress
-I'm not sure what's used)
-Deb Troendle-Scott | 2024-08-02T10:08:00Z
-
--->
-```
 
 ***BLOG CHALLENGE!***
 
@@ -233,7 +216,7 @@ You might find as you continue the course that you want to share videos you find
 
 Here is a tutorial on how to add a YouTube video or embed one of your own videos to your blog:
 
-[Watch: *WordPress How To Add Video To A Page Or Post \[2021\]*](https://www.youtube.com/watch?v=3hCMpnok2Kw){target="_blank"} <!-- Auto title, auto embed-->
+[Watch: *WordPress How To Add Video To A Page Or Post \[2021\]*](https://www.youtube.com/watch?v=3hCMpnok2Kw){target="_blank"} 
 
 {{< video https://www.youtube-nocookie.com/embed/3hCMpnok2Kw >}}
 :::
@@ -248,11 +231,7 @@ Here is a tutorial on how to add a YouTube video or embed one of your own videos
 :::
 
 :::: {.accordion title="9. Additional Customizations"}
-```{=html}
-<!--//todo
 
-Prote: This section will need to be updated after wordpress guides have been updated.-->
-```
 
 When you're ready to start customizing your blog and adding content, check out some tutorials available to you:
 
@@ -265,7 +244,6 @@ When you're ready to start customizing your blog and adding content, check out s
 -   If you are confused about anything it is always good to do an initial Google or YouTube search, reach out on Discourse, or email elearning\@twu.ca
 :::
 ::::
-::::::::::::::
 
 Congratulations! You created your PLE for TWU!
 

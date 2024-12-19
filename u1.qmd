@@ -194,7 +194,9 @@ In short, similar to a live classroom discussion you need to be polite and profe
 
 In online discussion forums, learners are encouraged to respond *substantively*. What does this mean?
 
-Substantive responses may include:
+Work through the following slideshow for more information.
+
+<!-- Substantive responses may include:
 
 -   Providing a new thought, idea, or perspective
 -   Citing an experience or example of what we are learning
@@ -224,7 +226,7 @@ Here are some examples of how to stimulate your own and others’ thinking:
 -   Possibly …
 -   Sometimes …
 -   I’m wondering if …
--   Do you think …
+-   Do you think … -->
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=650" width="885" height="523" frameborder="0" allowfullscreen="allowfullscreen" title="LDRS 101_Substantiave Discussions"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 <!-- //todo cannot find article on Zotero-->
