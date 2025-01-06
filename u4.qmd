@@ -142,6 +142,7 @@ To get started on creating your site we suggest the following steps:
 <!-- <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=652" width="809" height="582" frameborder="0" allowfullscreen="allowfullscreen" title="Setting up your Learning Blog"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script> -->
 
 ::: {.accordion title="1. Sign up to create a website"}
+
 -   Go to [**create.twu.ca**](https://create.twu.ca/){target="_blank"} to sign up for your free WordPress site. *Please read all the prompts and instructions carefully!* Be sure to read the Privacy Statement carefully before clicking "I Agree." The information provided gives you excellent guidance regarding digital citizenship, privacy, and how to build a professional digital persona.
 -   You will be prompted to **create a domain name**, which is your website's address on the internet. Often this is referred to as a URL (Uniform Resource Locator). This is what your users will type in their browsers to reach your site. Make sure that you choose a domain name that is related to you, easy to pronounce and spell, and easy to remember. Once you have done that, we suggest you write all this information somewhere you can access it easily---just in case.
 -   You will also be asked to **select a theme** for your website. You are free to choose any template you wish.
@@ -150,6 +151,7 @@ To get started on creating your site we suggest the following steps:
 :::
 
 ::: {.accordion title="2. Explore your dashboard"}
+
 -   The dashboard is the initial area you see when you log in to TWU Create. It's the centre for your site management and where you create content. From the Dashboard you can navigate to content, settings, themes, plugins, and more.
 -   When logged in to TWU Create, you will always have access to an **admin menu** visible on your sites. From the menu item that is the name of the blog (second from left), you can find the link to the dashboard. While in the dashboard, the same menu can be used to return to the front view of your site.
 -   Determine the difference between the dashboard used for editing and the published view of your blog. (It is important to know the difference because when you register your blog for the course feed, you must use the URL for the public view of your blog).

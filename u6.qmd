@@ -110,7 +110,7 @@ TWU has a [Centre for Calling & Career Development](https://www.twu.ca/academics
 ```
 
 ::: prote
-@chloe I've deleted the intext clickable image, but I'm wondering if we can add just a link to the full image as well. "Click here to access the full framework"
+I've deleted the intext clickable image, but I'm wondering if we can add just a link to the full image as well. "Click here to access the full framework"
 
 :::
 

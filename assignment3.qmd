@@ -1,0 +1,112 @@
+# Assignment 3: Digital Literacy Portfolio {.unnumbered}
+
+This final assessment builds upon your previous two assignments.  You are asked create an e-portfolio to demonstrate your understanding of the course learning outcomes and application of the digital skills learned in this course.
+
+** What is an e-portfolio?**
+
+- A personal e-portfolio is both a product (a digital collection of artifacts) and a process (of reflecting on those artifacts and what they represent). In other words, your e-portfolio a a website that you create where you will be able to share important assignments, projects, and reflections about your journey in this course and how you plan to apply your learnings in your academic and professional context.
+- e-portfolios generate learning because they provide a virtual space for you to critically assess your academic work, reflect on that work, and make connections among different courses, assignments, and other activities, such as your personal learning network, and more. Making and then sharing an e-portfolio with others is somewhat like telling a story: the story of your learning journey. (Adapted from Strong, 2020).
+- See [TWU E-Portfolios](https://create.twu.ca/eportfolios/){target="_blank"} for more information, including instructions and examples.
+
+*Assignment 1: Reflective Journal*, and *Assignment 2: Digital Citizenship Blog* will give you the building blocks of your portfolio.  You will be able to submit (or link to) artifacts of your learning that demonstrate your understanding and proficiency in the course learning outcomes. For example, to show how you have met the outcome “Evaluate digital tools, platforms, and interactions based on ethical principles,” you may want to link to your digital tool evaluation post.
+
+Remember that your portfolio is not only a product (a digital collection of artifacts), but also a process.  In addition to curating your evidence of learning, you are asked to reflect on your learning in a written statement. See below for instructions.
+
+## Part 1: Outcome Reflective Statement {.unnumbered}
+
+### Step 1: Preparation {.unnumbered}
+
+Review the LDRS 101 course learning outcomes.
+
+Next, review your course concept map you created after each unit in your reflective journal. Revise your map to include your thoughts on the learning activities, assessments, and discussions. Brainstorm the knowledge, understandings, and skills that you have attained overall, and add those connections to your map. You can also add any key learning from other courses you are taking concurrently that connect with the course learning outcomes of LDRS 101.  Use this as a draft or a plan for creating your outcome reflective statement.
+
+### Step 2: Collecting Portfolio Artifacts {.unnumbered}
+
+An artifact is any piece of work that demonstrates what you know or can do.  It is evidence that you have learned something.  Common student artifacts could be blog/discussion posts, assignments, presentations, to name a few. 
+
+Choose artifacts of learning from LDRS 101 that demonstrate significant growth, insights and/or achievement of the LDRS 101 course learning outcomes. For example, you might want to use the outcome reflective statement to represent these two LDRS 101 course learning outcomes: 
+
+- Practice evaluative judgment to document your process of learning in complex domains of knowledge.
+- Create a personalized narrative to document and express your learning process.
+
+Select one or more artifact for each LDRS 101 course learning outcome.
+
+### Step 3: Write it! (600-750 words) {.unnumbered}
+
+- **Intro:** Create a personal statement about what you have learned so far as a university student through the lens of LDRS 101 (E.g. “I never thought that my academic learning could be enhanced by digital skills. Now I realize…”)
+- **Body:** Explain your artifact selection with a written reflection.
+  - Reflect on your artifacts: Answer the following questions for each artifact:
+    1. Why did you select this artifact? Why is this artifact important to you?
+    2. How does this artifact represent significant growth or accomplishment of a LDRS 101 learning outcome? Be sure to state which learning outcome has been met.
+
+::: note
+
+*Note:* You may want to think about what was valuable in the learning process of creating this artifact as well as the artifact itself.  For example, you might select an artifact that represents how feedback from assessment conversations helped deepen your understanding.
+
+:::
+
+- Formatting: Your reflective statement should be created as a new post on your blog OR as a new file in your Obsidian vault. You must include links in your statement to each artifact that you choose and complete your reflections in the reflective statement. Both Obsidian and WordPress will automatically create backlinks on the artifact files/posts.
+- Conclusion: Based on your overall learning in this course, describe what your hopes, intentions, or plans are for your academic and professional journey as it relates to the digital world. Identify at least 3 action-orientated goals you can set for yourself.
+
+### Step 4: Publish! {.unnumbered}
+
+Publish your outcome reflective statement as a static page to your WordPress site or a new file in your Obsidian vault.  Don’t forget to add it to your WordPress menu (if you use WordPress for this activity) so your audience can navigate to it easily.
+
+::: note
+
+*Note:* If you have a more personally engaging way to represent this outcome reflective statement, please share your idea with your instructor for approval.  It must address all the instructions in step 3 and it must be a timeless, summarizing, and convergent product of your learning, regardless of form.
+
+:::
+
+## Part 2: Assessment Conversation
+
+In addition to submitting your e-portfolio you will meet with your instructor for an assessment conversation.  This conversation is an opportunity for you to explain your learning process and demonstrate your understanding of the course learning outcomes.
+
+*Assessment Conversations will take place during Learning Lab times, so be sure to attend each session.*
+
+*How to Prepare for Your Assessment Conversation*
+
+1. Review the course learning outcomes (#1-7) and take notes on how you would explain your understanding of them.  This is an opportunity for self-reflection and assessment.
+2. Review our e-portfolio that demonstrates how you have met the targeted course learning outcomes.
+3. Review your graphic organizers and be able to show connections between concepts, apply concepts to your experiences or current events, and demonstrate personal reflection and critical thinking.
+
+*Before the Assessment Conversation*
+
+1. You will be meet with your instructor during Learning Lab sessions.  Be sure to test your video and audio in Zoom before the Learning Lab to be sure everything is working correctly.
+2. Practice how to share your screen in Zoom, as well as sharing links in the chat. (See Helpful Tips section in [Zoom Basic Instructions](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=101246){target="_blank"}.)
+
+*During the Assessment Conversation:*
+
+1. After a brief introduction, you will be asked a series of questions designed to measure your understanding of the course learning outcomes. 
+2. During the conversation, make sure you clearly explain how your e-portfolio demonstrates your knowledge and skills related to the course outcomes.
+
+::: note
+
+*Note: Do not read verbatim your assignments or reflections but highlight your key learning.* For example: What do you want your instructor to notice? Which indicators of proficiency have been met? What are you especially proud of? How does your journal demonstrate evidence of learning?
+
+:::
+
+3. Your instructor will provide you with feedback to help you assess whether or not you have met the proficiency criteria. They will also give suggestions for improvement and encouragement.
+4. Take notes of the feedback and reflect on how you can continue to grow in each of the learning outcome areas.
+
+## Assignment Feedback {.unnumbered}
+
+Assignments are designed to demonstrate your level of understanding.  In this course we use proficiency scale as a gauge to help learners and the instructor ensure that assignments are written at an appropriate level.
+
+| Emerging                                                                                                              | Developing                                                                                                           | Proficient                                                                                                            | Extending                                                                                                                  |
+|-----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| The student demonstrates an initial understanding of the concepts and competencies relevant to the expected learning. | The student demonstrates a partial understanding of the concepts and competencies relevant to the expected learning. | The student demonstrates a complete understanding of the concepts and competencies relevant to the expected learning. | The student demonstrates a sophisticated understanding of the concepts and competencies relevant to the expected learning. |
+
+## Grading Rubric {.unnumbered}
+
+Your instructor will use the following grading rubric to assess your understanding and application of the digital skills learned in this course. Learners are encouraged to self-assess their work and practice evaluative judgement.
+
+| Course Learning Outcomes                                                                                                                                       | Evidence of Learning<br/>(I can demonstrate this through...) | Level of Proficiency<br/>(My understanding and application of course content is…) |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| LO1: Build and customize technology-integrated workflows to enhance and enrich your learning journey.                                                          |                                                              |                                                                                   |
+| LO2: Apply digital literacy skills to evaluate the legitimacy, credibility and reliability of online resources for academic study.                             |                                                              |                                                                                   |
+| LO3: Practice evaluative judgment to document your process of learning in complex domains of knowledge.                                                        |                                                              |                                                                                   |
+| LO4: Create a personalized narrative to document and express your learning process.                                                                            |                                                              |                                                                                   |
+| LO5: Evaluate digital tools, platforms, and interactions based on ethical principles.                                                                          |                                                              |                                                                                   |
+| LO6: Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens. |                                                              |                                                                                   |
+| LO7: Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.                                            |
