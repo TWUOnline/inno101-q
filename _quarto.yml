@@ -15,7 +15,10 @@ book:
   date-format: "MMM D, YYYY"
   chapters:
     - index.qmd
-    - u1.qmd
+    - u1_overview.qmd
+    - u1_topic1.qmd
+    - u1_topic2.qmd
+    - u1_topic3.qmd
     - u2.qmd
     - u3.qmd
     - u4.qmd

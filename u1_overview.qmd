@@ -1,0 +1,98 @@
+## Overview {.unnumbered}
+
+Welcome to Unit 1 of Learning with Technology! This course will introduce you to some ideas related to living, learning, and working in our digitally saturated society. It is our intent to equip you with an emerging set of skills and literacies related to digital tools for learning. Within your academic pursuits, you will encounter a vast amount of information---integrating digital tools into your learning journey, though challenging, is essential for harnessing the ample learning possibilities offered by your chosen discipline. This course will give you a head start on using digital tools to build a workflow, enabling you to stay organized and to make your learning process visible to both you and your instructors. We will also lead you through readings and discussions on topics such as digital identity, privacy, security, and ethical ways of sharing newfound knowledge.
+
+There will be two primary branches of the course, each focusing on specific tools that we will introduce to you. The first branch will be a workflow that is private to you because it takes place primarily on your own computer, and the second branch is shared as publicly as you are comfortable sharing. You will have control over how public your work is, but we will think about the importance of sharing knowledge and how to do that easily and in ways that preserve your "ownership" over your work.
+
+See the following graphic that gives an overview of the structure of the course, including important tools we will explore.
+
+![](assets/u1/3.%20LDRS%20101_Overview.png)
+
+In this first unit, there will be both theoretical and practical work for you to do. We start with some basic instructions and advice on technology and learning online. Then, in order to build a theoretical understanding of digital tools for learning we will explore the idea of "the digital" in the context of contemporary society. At the same time, there are some important practicalities to manage in order to get set up for the course, so we will lead you through installing some apps on your computer that you will use extensively in this course, and which hopefully will become the backbone of your digital workflow throughout your time in higher education and beyond.
+
+### Topics {.unnumbered}
+
+This unit is divided into the following topics:
+
+1.  Learning Online
+2.  Understanding the Digital
+3.  Digital Literacies
+4.  Digital Privacy and Safety
+
+### Unit Learning Outcomes {.unnumbered}
+
+When you have completed this unit, you will be able to:
+
+-   Describe your engagement with digital technology
+-   Apply digital tools to support learning in an academic environment
+-   Explain what digital literacy means to you
+-   Examine privacy concerns related to various platforms and tools
+-   Describe how to protect yourself and others in the digital environment
+-   Identify goals for developing digital literacies
+
+### Learning Activities {.unnumbered}
+
+Here is a checklist of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
+
+::: {.learning-activity time="360"}
+-   Reflect on your learning goals and make a plan for meeting them. (10 minutes)
+-   Work through the *Learner* section of *Liberated Learners: How To Learn With Style* and create a list of your top ten study tips for online learning. (30 minutes)
+-   Read *Students' Engagement in Asynchronous Online Discussion: The Relationship Between Cognitive Presence, Learner Prominence, and Academic Performance* (2019) and consider the benefits of engaging online (30 minutes)
+-   Write an introduction post on [the Learning Hub](https://twu.discourse.group){target="_blank"} in Discourse. (20 minutes)
+-   Watch The Future of Education is Self-Directed Learning and consider what tools and literacies you want to explore to meet your goals. (20 minutes)
+-   Download and install [Obsidian](https://obsidian.md){target="_blank"} and follow the instructions for the LDRS 101 vault. (30 minutes)
+-   Explore definitions of digital literacy. (30 minutes)
+-   Watch the video on Reflecting on the Promise of Technology and refine your goals. (20 minutes)
+-   Take a self-assessment on your digital literacy skills. (20 minutes)
+-   Watch Visitors and Residents (2014) to start thinking about where you reside on the web. (10 minutes)
+-   Create a Visitors and Residents diagram. (30 minutes)
+-   Get a password manager. (20 minutes)
+-   Use the [*Terms of Service: Didn't Read*](https://tosdr.org/){target="_blank"} (n.d.) website to look up each of the apps we will learn in this course. (20 minutes)
+-   Watch the video on Reflective Journaling (10 minutes)
+-   Write a reflection on digital literacies in your journal. (60 minutes)
+:::
+
+::: note
+
+Notes:
+
+- You will be directed to complete these activities as they come up in the unit.
+- The learning activities in this course are designed to prepare you for the graded assignments in this course.
+- Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
+
+:::
+
+### Assessment {.unnumbered}
+
+See the Assessment section in Moodle for assignment details.
+
+### Resources {.unnumbered}
+
+-   All resources will be provided online in the unit.
+
+### Activity: Setting Your Learning Goals
+
+:::: {.learning-activity time="10"}
+In this first learning activity, take a few minutes to think about why you enrolled in this course and what you hope to gain. Consider questions like:
+
+-   What skills or knowledge do I want to develop?
+-   How might this course support my academic, personal, or professional goals?
+-   What challenges might I face, and how can I overcome them?
+
+Choose a note-taking tool that works best for you (e.g., a Word document, a physical notebook, or a note-taking app). Write down your thoughts to address the following:
+
+-   Three specific goals you have for this course.
+
+-   One potential challenge and how you plan to address it.
+
+-   How you will measure your success at the end of the course.
+
+::: note
+
+Notes: 
+
+- This activity is ungraded and intended to help you take ownership of your learning journey. 
+- Feel free to revisit your notes throughout the course as your goals and challenges may evolve.
+
+:::
+::::

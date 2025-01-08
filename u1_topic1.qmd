@@ -1,0 +1,134 @@
+## 1.1 Learning Online {.unnumbered}
+
+In face-to-face teaching environments the requirement to physically attend class, coupled with community accountability, makes a learner's individual learning skills less relevant for academic success. However, when learning online there is less instructor oversight, motivation, and accountability, requiring the student to have the skills required to learn effectively. While a face-to-face instructor might notice that their student is absent, confused, or falling behind, and will check in on their well-being and offer support for their success, an online instructor often has less opportunity to do this. The learner is therefore required to have strong learning skills, recognize their responsibility as a self-directed learner, and practice these skills accordingly.
+
+Online learning requires additional skills differing from face-to-face learning, and since online learning is often self-paced, an absence of these skills will make a student's learning experience difficult. According to Crozier and Lake (2020) these skills include:
+
+-   Time management (i.e., effectively managing deadlines, schedules)
+-   Organization (i.e., creating a dedicated study space, ability to easily access material)
+-   Self-motivation (i.e., scheduling set times for coursework, peer study accountability)
+-   Self-regulation (i.e., strategies can include breaks, physical activity, meditation)
+-   Strong written and oral communication (i.e. technical writing skills, ability to communicate with others and ask for assistance if needed.)
+
+Here are a couple more ways you can hone your online learning skills:
+
+![](assets/u1/4.%20LDRS%20101_Learning%20online.png)
+
+<!-- -   **Active participation:** Actively engage in online discussions, forums, and virtual class sessions to enhance your understanding and connect with peers.
+-   **Regular communication with instructors:** Establish clear lines of communication with instructors, seeking clarification when needed and participating in office hours or virtual meetings.
+-   **Utilize online resources:** Take advantage of digital resources provided by the university, including online libraries, research databases, and academic support services.
+-   **Tech preparedness:** Ensure your computer and internet connection are reliable, and familiarize yourself with the required software tools for the course.
+-   **Active reading and note taking:** Develop effective reading strategies and take concise notes to enhance comprehension and retain key information.
+-   **Collaborate with peers:** Foster virtual collaboration with classmates through group projects, study groups, and peer discussions to enrich your learning experience.
+-   **Regular self-assessment:** Reflect on your progress regularly, assess your understanding of the material, and adjust your study strategies accordingly.-->
+
+Remember, flexibility and adaptability are key in the online learning environment. Tailor these tips to your individual needs and the specific requirements of your courses. Note also that you will have opportunities to practice these skills throughout the course.
+
+### 1.1.1 Activity: Learning Online Effectively {.unnumbered}
+
+::: {.learning-activity time="30"}
+There are thousands of websites that offer advice such as "tips for online learning" or "how to succeed in your online class," and some of those sites are good (see [here](https://www.ualberta.ca/current-students/academic-success-centre/resources/working-online.html){target="_blank"}, [here](https://online.umn.edu/story/15-tips-succeed-online-class){target="_blank"}, and [here](https://www.trentu.ca/online/student-support/be-a-successful-online-learner){target="_blank"} ). Some of them are also connected to shady people who want less than your best interests. One of the shining examples of a great resource is the *Liberated Learner* project, which was created primarily by university and college students. There are four main sections in the *Liberated Learner* resource---we will explore "The Learner" in this activity.
+
+-   Take some time to work through [The Learner](https://ecampusontario.pressbooks.pub/learner/part/learner/){target="_blank"} (2022). It begins with a short video and includes activities that you can complete. These are for your reflection.
+-   Navigation tip: To move around in a Pressbooks book, use the table of contents on the left-hand side, or the link to the next page on the bottom right.
+
+**Questions to Consider**
+
+Having worked through The Learner, reflect on the following questions and record your thoughts in your notes:
+
+-   Consider the ideas you think would be most beneficial for your online studies. Create a list of your top ten study tips for online learning.
+-   How will you stay motivated and engaged?
+-   What techniques could you use to help you improve time and energy management?
+-   Finally, reflect on how you can work to ensure your own success in your online courses. What are your goals, and what specific steps will you take to achieve them?
+:::
+
+### 1.1.2 Activity: Engaging in Online Discussions {.unnumbered}
+
+:::: {.learning-activity time="30"}
+Participating in discussions with your peers (what higher education folks like to call *discourse*---a verb), is an essential aspect of effective online courses, facilitated through platforms such as Moodle discussion forums, WordPress blogs, Discourse posts (in this case, a noun---referring to the app called Discourse), and others. We all know that discussion forums can sometimes be tedious, especially when they are assessed in the same way a formal paper is assessed. However, the benefits of using asynchronous technologies (where your interactions with others are time-delayed) in well-designed activities can be significant.
+
+Here is an article that will introduce you to some key ideas about discussion forums:
+
+-   [*Students' Engagement in Asynchronous Online Discussion: The Relationship Between Cognitive Presence, Learner Prominence, and Academic Performance*](https://eds-p-ebscohost-com.twu.idm.oclc.org/eds/detail/detail?vid=0&sid=b4111a26-0a0d-40e8-b042-dde9b384c6f6%40redis&bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#AN=S1096751619304105&db=edselp){target="_blank"} (2019)
+
+::: note
+You may need to sign in to the TWU library to access this article. [You can find help here.](https://libguides.twu.ca/help){target="_blank"}
+:::
+
+While you read, make notes and then create a summary.
+
+-   First of all, don't get too bogged down in the "Method" section of this article, but carefully read sections 1, 2, 4, 5, 6, and the Appendix.
+-   While you read, jot down some notes, either in a notebook on paper, or in a file on your computer.
+-   Once you are done, write a two to three sentence summary ***in your own words*** of the article and how it relates to you and your experience. Do not hesitate to look up words that you don't understand, and include the definitions in your notes.
+-   Include at least one question that you have about the article in your notes.
+::::
+
+#### Discussion Guidelines for LDRS 101 {.unnumbered}
+
+In this course, we will ask you to discuss ideas with your peers via Discourse, WordPress, and other social media platforms. These discussions are ***ungraded***, meaning, your instructor will ***not*** give you marks per discussion. ***However,*** they are an important part of this course and ***you will not be able to complete your assignments without discussing with your peers***. Consider for example, two course learning outcomes that relate to online discussions:
+
+-   Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens
+-   Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality
+
+Your discussion posts may be used as learning artifacts to demonstrate your understanding of the course learning outcomes (see Assignment details in Moodle).
+
+In LDRS 101, you should write your posts in a way that shows you are communicating in an academic setting. While you don't need to adhere to all of the conventions of APA formatting, you should practice the principles of proper citation. For example, to cite an idea from the article in the previous activity, it would look like the following (Galikyan & Admiraal, 2019), and the bottom of the post would include a "References" heading, followed by the full reference (this part may be considered optional since we have included a link to the article in the in-text citation, but it is nice to have). Please consult the [APA Style website](https://apastyle.apa.org/style-grammar-guidelines){target="_blank"} for details.
+
+It is ***highly*** recommended[^u1-1] that you begin using a reference manager---we recommend Zotero as it is a free and open source app with all you will ever need to cite properly in any style. We will lead you through some specifics of using Zotero in the next unit of LDRS 101, but you can [download Zotero](https://www.zotero.org/){target="_blank"} for free.
+
+[^u1-1]: For real ... using Zotero will literally save you days of tedious work during your university career!
+
+In short, similar to a live classroom discussion you need to be polite and professional, and you need to provide evidence for your views, but, as in a normal conversation, you won't have all of the formalities of academic writing. In LDRS 101, you should consider your forum posts as a time to practice and test your ideas. The stakes are very low, so it is fine to make mistakes.
+
+In online discussion forums, learners are encouraged to respond *substantively*. What does this mean?
+
+Work through the following slideshow for more information.
+
+<!-- Substantive responses may include:
+
+-   Providing a new thought, idea, or perspective
+-   Citing an experience or example of what we are learning
+-   Adding a new twist on a perspective
+-   Critically thinking about an idea or concept
+-   Questioning or challenging a principle or perspective
+-   Asking a question or making a comment that shows you are interested in what another person says or encourages another person to elaborate on something they have already said
+-   Sharing a resource (a reading, web link, video) not covered in the syllabus that adds new information or perspectives to our learning
+-   Making a comment that underscores the link between two people’s contributions and making this link explicit in your comment, or making a summary observation that takes into account several people’s contributions and that touches on a recurring theme in the discussion
+
+What substantive participation is NOT:
+
+-   Very basic comments such as “I agree” or “I disagree”
+-   Restating what has been said (unless there is a direct purpose in doing so)
+-   Disrespectfully disagreeing
+-   Pat answers that are not thought-provoking or do not move the dialogue forward
+
+Here are some examples of how to stimulate your own and others’ thinking:
+
+-   What would happen if …
+-   Other times it may be helpful to …
+-   It is my understanding … what is your experience with this?
+-   You might approach this from …
+-   Is it possible that …
+-   Would you consider …
+-   Maybe …
+-   Possibly …
+-   Sometimes …
+-   I’m wondering if …
+-   Do you think … -->
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=650" width="885" height="523" frameborder="0" allowfullscreen="allowfullscreen" title="LDRS 101_Substantiave Discussions"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<!-- //todo cannot find article on Zotero-->
+
+For more on substantive participation, read [*Writing a Substantive Discussion Post for an Online Class Forum*](https://apuedge.com/writing-a-substantive-discussion-post-for-an-online-class-forum/){target="_blank"} (2016).
+
+### 1.1.3 Activity: Join the Hub!
+
+::: {.learning-activity time="20"}
+Head over to [the Learning Hub](https://twu.discourse.group/auth/microsoft_office365){target="_blank"}, which is an app called Discourse that we use to build community among learners in online courses. Find the Leadership 101 category and respond to the Welcome forum. As you introduce yourself, share your thoughts and questions you have about TWU. Here are some conversation prompts to get you started:
+
+-   What interests you about learning online?
+-   What are your learning goals?
+-   How will you stay motivated in this course?
+-   What digital literacy skills do you hope to gain, and how will those benefit you in your academic and professional career?
+-   What is a "Wow" and a "Wonder" you have about online learning?
+:::
