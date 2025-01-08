@@ -1,4 +1,4 @@
-## 1.2 Understanding the Digital
+## 1.2 Understanding the Digital {.unnumbered}
 
 Our next topic is an introduction to the idea of "the digital." You may recognize that digital tools are deeply embedded in modern society. It is not uncommon for people of all ages to interact with apps and tools that claim to connect people in conversations or networks, or to perform complex tasks for work, or to control various systems in our vehicles. Digital technology is really everywhere we look. Thinking about these tools is one way to conceptualize how we interact with digital tools but we can also recognize that our social practices and norms have been impacted by digital tools. An example of this, at least in North America, is that the names of companies have become verbs. If people want to learn something about a topic, they *Google* it.
 
