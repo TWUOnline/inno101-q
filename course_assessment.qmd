@@ -32,13 +32,13 @@ You will not receive a traditional grade on your assignment. Instead, you will r
 
 At the end of the course, your instructor will summarize all your writing, communicating, collaborating, presenting, reflecting, questioning, evaluating, and learning using one single letter (and maybe a + or –). This grade will be determined by examining your work in relation to the outcomes and through discussions with you.
 
-## Assignment Dropboxes {.unnumbered}
+<!-- ## Assignment Dropboxes {.unnumbered}
 
 Click on the following links for assignment details, including instructions and grading rubrics. When you are ready to submit an assignment, click "Add submission".  For more guidance, refer to the Knowledge Base article [How to Submit an Assignment](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=134318){target="_blank"}.
 
 - Assignment 1: Reflective Journal
 - Assignment 2: Digital Citizenship Blog
-- Assignment 3: Digital Literacy Portfolio
+- Assignment 3: Digital Literacy Portfolio -->
 
 ## Assessment Support {.unnumbered}
 
