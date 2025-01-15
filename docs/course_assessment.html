@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.37">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -36,10 +36,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-29e2c20b02301cfff04dc8050bf30c7e.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-7580570a2e354cd56757c689413fca0c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -224,9 +224,9 @@ ul.task-list li input[type="checkbox"] {
 <div class="table-container">
 <table class="caption-top table">
 <colgroup>
-<col style="width: 56%">
-<col style="width: 27%">
-<col style="width: 16%">
+<col style="width: 52%">
+<col style="width: 25%">
+<col style="width: 22%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -262,14 +262,16 @@ ul.task-list li input[type="checkbox"] {
 <p>When you submit a required assignment, you will participate in an assessment conversation with your instructor, which may be in text format or via a web conference call. The result of that conversation will be:</p>
 <ol type="1">
 <li>An understanding of how well you performed in relation to the outcomes.</li>
-<li>A rating for each outcome covered in the assignment:</li>
+<li>A rating for each outcome covered in the assignment:
+<ol type="1">
+<li><p>A.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Extending:</strong> Exceptional demonstration of skills; all outcomes addressed with mastery.</p>
+<p>B.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Proficient:</strong> Strong demonstration of skills; all outcomes addressed with appropriate depth.</p>
+<p>C.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Developing:</strong> Moderate demonstration of skills; most outcomes addressed but with gaps.</p>
+<p>D.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Emerging:</strong> Basic demonstration of skills; some outcomes addressed but lacking depth.</p>
+<p>F.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Not demonstrated:</strong> Shows little or no evidence of even basic competency in the course content or skills. Cannot adequately assess competency.</p></li>
+</ol></li>
 </ol>
-<ul>
-<li>Emerging</li>
-<li>Developing</li>
-<li>Proficient</li>
-<li>Extending</li>
-</ul>
+<!-- -->
 <ol start="3" type="1">
 <li>Guidance on what you need to do to improve your performance in relation to the outcomes.</li>
 </ol>
@@ -384,8 +386,8 @@ Click on the following links for assignment details, including instructions and 
 <div class="table-container">
 <table class="caption-top table">
 <colgroup>
-<col style="width: 1%">
-<col style="width: 98%">
+<col style="width: 15%">
+<col style="width: 84%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -507,6 +509,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -617,6 +621,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
+      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

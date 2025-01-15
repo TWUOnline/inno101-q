@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.37">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -37,10 +37,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-29e2c20b02301cfff04dc8050bf30c7e.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-7580570a2e354cd56757c689413fca0c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -215,7 +215,7 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li>First, examine the learning outcomes for each unit and ensure that your journal addresses each outcome. Include your thoughts from the learning activities and be sure to apply concepts to your experiences, evaluating your use of the digital skills presented. We are especially looking for your personal reflection on your learning process.</li>
 <li>Note that this is a chance to present your understanding and application of the course material, ask questions, clarify issues, and connect with your instructor(s). We are looking for evidence that you are engaging the course material and practicing the digital skills introduced.</li>
-<li>To help you make connections and develop your critical thinking skills, you are asked to include a mind map of the three units. Mind maps are useful tools not only to organize your notes, but will help you process your learning in this course. You are encouraged to use Obsidian to complete this mind map. Be sure to submit the visitors and residents map from Unit 1.</li>
+<li>To help you make connections and develop your critical thinking skills, you are asked to include a mind map of the three units. Mind maps are useful tools not only to organize your notes, but will help you process your learning in this course. You are encouraged to use Obsidian to complete this mind map, but you are free to use a tool of your choice (including paper and pencil!). Be sure to submit the visitors and residents map from Unit 1.</li>
 <li>You will submit your journal, including your mind map as part of Assignment 1. You may also use your journal to meet the requirements of assignments 2 and 3, as each assignment builds on the skills learned in each unit.</li>
 </ul>
 <p>How to share your Obsidian journal:</p>
@@ -226,8 +226,8 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="part-2-assessment-conversation" class="level2 unnumbered">
 <h2 class="unnumbered anchored" data-anchor-id="part-2-assessment-conversation">Part 2: Assessment Conversation</h2>
-<p>In addition to submitting your journal you will meet with your instructor for an assessment conversation to explain your learning process and demonstrate your understanding of the course learning outcomes.</p>
-<p><em>Assessment Conversations will take place during Learning Lab times, so be sure to attend each session.</em></p>
+<p>In addition to submitting your journal, you will meet with your instructor for an assessment conversation to explain your learning process and demonstrate your understanding of the course learning outcomes.</p>
+<p><em>Please book your Assessment Conversations with your instructor through the <a href="https://outlook.office.com/bookwithme/user/f6837f4f8f274cb586152973de46fdc5@twu.ca?anonymous&amp;ep=plink" target="_blank">Microsoft Bookings app</a>.</em></p>
 <p><em>How to Prepare for Your Assessment Conversation</em></p>
 <ol type="1">
 <li>Review the course learning outcomes (#1-4) and take notes on how you would explain your understanding of them. This is an opportunity for self-reflection and assessment.</li>
@@ -236,7 +236,7 @@ ul.task-list li input[type="checkbox"] {
 </ol>
 <p><em>Before the Assessment Conversation</em></p>
 <ol type="1">
-<li>You will be meet with your instructor during Learning Lab sessions. Be sure to test your video and audio in Zoom before the Learning Lab to be sure everything is working correctly.</li>
+<li>Be sure to test your video and audio in Zoom before the Learning Lab to be sure everything is working correctly.</li>
 <li>Practice how to share your screen in Zoom, as well as sharing links in the chat. (See Helpful Tips section in <a href="https://servicehub.twu.ca/TDClient/1904/Portal/KB/ArticleDet?ID=101246" target="_blank">Zoom Basic Instructions</a>.)</li>
 </ol>
 <p><em>During the Assessment Conversation:</em></p>
@@ -269,7 +269,7 @@ ul.task-list li input[type="checkbox"] {
 <col style="width: 24%">
 <col style="width: 24%">
 <col style="width: 24%">
-<col style="width: 25%">
+<col style="width: 26%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -298,8 +298,8 @@ ul.task-list li input[type="checkbox"] {
 <div class="table-container">
 <table class="caption-top table">
 <colgroup>
-<col style="width: 47%">
-<col style="width: 22%">
+<col style="width: 45%">
+<col style="width: 25%">
 <col style="width: 29%">
 </colgroup>
 <thead>
@@ -422,6 +422,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -532,6 +534,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
+      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
