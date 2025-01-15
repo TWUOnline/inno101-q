@@ -508,11 +508,11 @@ The RIS file you exported from LitMaps isn't going to be very useful unless you 
 
 2.  Once you have installed Zotero, there are some plugins that will help you in your studies. These are listed below with links to instructions on how to install and configure the plugin.
 
--   [Zotfile](http://zotfile.com/#how-to-install--set-up-zotfile){target="_blank"} allows you to find and manage PDFs in your Zotero library
--   [Citation Counts Manager](https://github.com/eschnett/zotero-citationcounts#installing){target="_blank"} automatically updates citation counts for items in your library
 -   [scite.ai](https://github.com/scitedotai/scite-zotero-plugin#installation){target="_blank"} - provides a breakdown of how references are cited in the literature
+-   [Attanger](https://github.com/MuiseDestiny/zotero-attanger/releases/download/1.2.8/zotero-attanger.xpi){target="_blank"} allows you to find and manage PDFs in your Zotero library (clicking the link above will download the .xpi file, then you can install using the same procedures you used to install the scite.ai plugin.)
 
-3.  Now that you have Zotero ready to go, it's time to import your first references. Find the untitled.ris file in your downloads folder and open it. You might have to confirm that you want to open with Zotero.
+
+1.  Now that you have Zotero ready to go, it's time to import your first references. Find the untitled.ris file in your downloads folder and open it. You might have to confirm that you want to open with Zotero.
 
 Keep in mind that each journal system will name the downloaded file differently, but they should all end in .ris.
 
