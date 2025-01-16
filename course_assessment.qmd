@@ -26,7 +26,7 @@ In this course we use a proficiency scale as a gauge to help learners and the in
 
 At the end of the course, your instructor will summarize all your writing, communicating, collaborating, presenting, reflecting, questioning, evaluating, and learning using one single letter (and maybe a + or –). This grade will be determined by examining your work in relation to the outcomes and through discussions with you.
 
-### University Standard Grading System
+## University Standard Grading System
 
 | Letter Grade | Grade Description |
 |-----------------|-------------------------------------------------------|
@@ -135,5 +135,3 @@ Please see the following links and resources as you prepare for the assessment i
 
 1.  [The Learning Commons Resource Centre](https://learningcommons.twu.ca/){target="_blank"}: See the quick guides and writing resources.
 2.  [The Writing Centre](https://www.twu.ca/academics/academic-professional-support/learning-commons/writing-centre){target="_blank"}: Book an appointment to get help with the writing process.
-
-###
