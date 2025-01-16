@@ -7,38 +7,36 @@ Below you will find the assignment dropboxes for submitting your assignments in 
 The course grade will be determined by the satisfactory completion of all requirements.
 
 | Assessment | Assesses Course Learning Outcome | Suggested Due Date |
-|--------------------------------------|------------------|----------------|
+|-------------------------------------|------------------|------------------|
 | Assignment 1: Reflective Journal (& Assessment Conversation) |  1-4 | End of Unit 3 |
 | Assignment 2: Digital Citizenship Blog (& Video Reflection) |  1-7 | End of Unit 5 |
 | Assignment 3: Digital Literacy Portfolio (& Assessment Conversation) |  1-7 | End of Unit 6 |
 
 ## Assignment Feedback & Grading {.unnumbered}
 
-You will be evaluated in this course based on how well you meet the course learning outcomes, which are equally-weighted. This will involve you completing a series of learning activities and assignments described in the course book and the assignment dropboxes below. We will work together to appraise your work on the course assignments in light of the course learning outcomes. You will be required to exercise **evaluative judgment** with respect to how you have met each of the outcomes.
+You will be evaluated in this course based on how well you meet the course learning outcomes, which are equally-weighted. This will involve you completing a series of learning activities and assignments. We will work together to appraise your work on the course assignments in light of the course learning outcomes. You will be required to exercise **evaluative judgment** with respect to how you have met each of the outcomes.
 
-When you submit a required assignment, you will participate in an assessment conversation with your instructor, which may be in text format or via a web conference call. The result of that conversation will be:
+In this course we use a proficiency scale as a gauge to help learners and the instructor ensure that assignments are completed at an appropriate level.
 
-1.  An understanding of how well you performed in relation to the outcomes.
-2.  A rating for each outcome covered in the assignment:
-    1.  A.      **Extending:** Exceptional demonstration of skills; all outcomes addressed with mastery.
-
-        B.      **Proficient:** Strong demonstration of skills; all outcomes addressed with appropriate depth.
-
-        C.      **Developing:** Moderate demonstration of skills; most outcomes addressed but with gaps.
-
-        D.      **Emerging:** Basic demonstration of skills; some outcomes addressed but lacking depth.
-
-        F.       **Not demonstrated:** Shows little or no evidence of even basic competency in the course content or skills. Cannot adequately assess competency.
-
-<!-- -->
-
-3.  Guidance on what you need to do to improve your performance in relation to the outcomes.
-
-You will not receive a traditional grade on your assignment. Instead, you will receive feedback that you can use to improve your standing in relation to the outcomes on the next assignment.
+| Emerging | Developing | Proficient | Extending |
+|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| The student demonstrates an initial understanding of the concepts and competencies relevant to the expected learning. | The student demonstrates a partial understanding of the concepts and competencies relevant to the expected learning. | The student demonstrates a complete understanding of the concepts and competencies relevant to the expected learning. | The student demonstrates a sophisticated understanding of the concepts and competencies relevant to the expected learning. |
 
 ## Grading System {.unnumbered}
 
 At the end of the course, your instructor will summarize all your writing, communicating, collaborating, presenting, reflecting, questioning, evaluating, and learning using one single letter (and maybe a + or –). This grade will be determined by examining your work in relation to the outcomes and through discussions with you.
+
+### University Standard Grading System
+
+| Letter Grade | Grade Description |
+|-----------------|-------------------------------------------------------|
+| **A** | **Outstanding, excellent work**; exceptional performance with strong evidence of original thinking, good organization, meticulous concern for documented evidence, and obvious capacity to analyze, synthesize, evaluate, discern, justify, and elaborate; frequent evidence of both verbal eloquence and perceptive insight in written expression; excellent problem-solving ability in scientific or mathematical contexts with virtually no computational errors; demonstrated masterful grasp of subject matter and its implications. Gives evidence of an extensive and detailed knowledge base. (Note: The A+ grade is reserved for very rare students of exceptional intellectual prowess and accomplishment, especially in lower-level courses.)  <br/><br/>**Proficiency Scale: Extending** |
+| **B** | **Good, competent work**; laudable performance with evidence of some original thinking, careful organization; satisfactory critical and analytical capacity; reasonably error-free expository written expression, with clear, focused thesis and well-supported, documented, relevant arguments; good problem-solving ability with few computational or conceptual errors in scientific subjects; reasonably good grasp of subject matter but an occasional lack of depth of discernment; evidence of reasonable familiarity with course subject matter in both concepts and key issues. Exhibits a serious, responsible engagement with the course content.<br/><br/>**Proficiency Scale: Proficient** |
+| **C** | **Adequate, reasonably satisfactory work**; fair performance but infrequent evidence of original thinking or the capacity to analyze, synthesize, or evaluate course material; undue reliance on rote memory; difficulty in applying knowledge in unfamiliar contexts; limited problem-solving ability in scientific subjects; fairly clear but quite uninspiring written expression with occasional problems in mechanics or syntax; weak in provision of documented, illustrative, or descriptive evidence; satisfactory grasp of basic elements of the course but frequent lapses in detailed understanding. Satisfies the minimum requirements of the course. <br/><br/>**Proficiency Scale: Developing** |
+| **D** | **Minimally acceptable work**; relatively weak performance with little evidence of original thinking or ability to analyze or synthesize course material; nominal or weak problem-solving ability in scientific subjects; written expression frequently exhibits difficulty in articulating a central thesis or sustaining a coherent argument; ideas are trite or juvenile without discernible development. Shows inadequate grasp of some basic elements of the course. <br/><br/>**Proficiency Scale: Emerging** |
+| **F** | **Inadequate work**; poor performance that indicates a lack of understanding or misunderstanding of essential subject matter; seems easily distracted by the irrelevant; written expression is poorly organized, often incoherent, and rife with mechanical and diction errors. Shows little evidence of even basic competency in the course content or skills. |
+
+For more information please see the [University Standard Grading System](https://www.twu.ca/about-us/policies-guidelines/student-policies/university-standard-grading-system){target="_blank"} website.
 
 ```{=html}
 <!-- ## Assignment Dropboxes {.unnumbered}
@@ -138,14 +136,4 @@ Please see the following links and resources as you prepare for the assessment i
 1.  [The Learning Commons Resource Centre](https://learningcommons.twu.ca/){target="_blank"}: See the quick guides and writing resources.
 2.  [The Writing Centre](https://www.twu.ca/academics/academic-professional-support/learning-commons/writing-centre){target="_blank"}: Book an appointment to get help with the writing process.
 
-### University Standard Grading System
-
-| Letter Grade | Grade Description |
-|-----------|-------------------------------------------------------------|
-| **A** | **Outstanding, excellent work**; exceptional performance with strong evidence of original thinking, good organization, meticulous concern for documented evidence, and obvious capacity to analyze, synthesize, evaluate, discern, justify, and elaborate; frequent evidence of both verbal eloquence and perceptive insight in written expression; excellent problem-solving ability in scientific or mathematical contexts with virtually no computational errors; demonstrated masterful grasp of subject matter and its implications. Gives evidence of an extensive and detailed knowledge base. (Note: The A+ grade is reserved for very rare students of exceptional intellectual prowess and accomplishment, especially in lower-level courses.)  <br/><br/>**Proficiency Scale: Extending** |
-| **B** | **Good, competent work**; laudable performance with evidence of some original thinking, careful organization; satisfactory critical and analytical capacity; reasonably error-free expository written expression, with clear, focused thesis and well-supported, documented, relevant arguments; good problem-solving ability with few computational or conceptual errors in scientific subjects; reasonably good grasp of subject matter but an occasional lack of depth of discernment; evidence of reasonable familiarity with course subject matter in both concepts and key issues. Exhibits a serious, responsible engagement with the course content.<br/><br/>**Proficiency Scale: Proficient** |
-| **C** | **Adequate, reasonably satisfactory work**; fair performance but infrequent evidence of original thinking or the capacity to analyze, synthesize, or evaluate course material; undue reliance on rote memory; difficulty in applying knowledge in unfamiliar contexts; limited problem-solving ability in scientific subjects; fairly clear but quite uninspiring written expression with occasional problems in mechanics or syntax; weak in provision of documented, illustrative, or descriptive evidence; satisfactory grasp of basic elements of the course but frequent lapses in detailed understanding. Satisfies the minimum requirements of the course. <br/><br/>**Proficiency Scale: Developing** |
-| **D** | **Minimally acceptable work**; relatively weak performance with little evidence of original thinking or ability to analyze or synthesize course material; nominal or weak problem-solving ability in scientific subjects; written expression frequently exhibits difficulty in articulating a central thesis or sustaining a coherent argument; ideas are trite or juvenile without discernible development. Shows inadequate grasp of some basic elements of the course. <br/><br/>**Proficiency Scale: Emerging** |
-| **F** | **Inadequate work**; poor performance that indicates a lack of understanding or misunderstanding of essential subject matter; seems easily distracted by the irrelevant; written expression is poorly organized, often incoherent, and rife with mechanical and diction errors. Shows little evidence of even basic competency in the course content or skills. |
-
-For more information please see the [University Standard Grading System](https://www.twu.ca/about-us/policies-guidelines/student-policies/university-standard-grading-system){target="_blank"} website.
+###
