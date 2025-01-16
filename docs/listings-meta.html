@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.37">
+<meta name="generator" content="quarto-1.6.8">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Assignment 2: Digital Citizenship Blog – LDRS 101 Course Notes</title>
+<title>7&nbsp; Listings Meta – LDRS 101 Course Notes</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,17 +30,18 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./assignment3.html" rel="next">
-<link href="./assignment1.html" rel="prev">
+<link href="./course_assessment.html" rel="prev">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-29e2c20b02301cfff04dc8050bf30c7e.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-79bb3942e891885f9f7af119cd221462.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-7580570a2e354cd56757c689413fca0c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-e19161ed4e9aff9b066a34963cfd5be8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -68,9 +69,67 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-sample-listings .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-sample-listings'] = new List('listing-sample-listings', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script type="application/javascript" src="https://twuonline.github.io/course-materials/quarto/twu_global_header.js"></script>
 <link rel="shortcut icon" href="https://twuonline.github.io/course-materials/quarto/favicon.ico">
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="https://twuonline.github.io/course-materials/quarto/twu_styles.css">
 </head>
@@ -84,7 +143,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./assignment2.html">Assignment 2: Digital Citizenship Blog</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./listings-meta.html"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Listings Meta</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -97,7 +156,7 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
     <div class="quarto-title-banner page-columns page-full">
         <div class="quarto-title page-columns page-full">
-            <h1 class="title column-body">Assignment 2: Digital Citizenship Blog</h1>
+            <h1 class="title column-body"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Listings Meta</span></h1>
             
         </div>
         <div class="quarto-title-meta">
@@ -170,7 +229,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./assignment2.html" class="sidebar-item-text sidebar-link active">
+  <a href="./assignment2.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Assignment 2: Digital Citizenship Blog</span></a>
   </div>
 </li>
@@ -188,7 +247,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./listings-meta.html" class="sidebar-item-text sidebar-link">
+  <a href="./listings-meta.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Listings Meta</span></span></a>
   </div>
 </li>
@@ -197,18 +256,8 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On This Page</h2>
-   
-  <ul>
-  <li><a href="#part-1-blog-posts" id="toc-part-1-blog-posts" class="nav-link active" data-scroll-target="#part-1-blog-posts">Part 1: Blog Posts</a></li>
-  <li><a href="#part-2-written-reflection" id="toc-part-2-written-reflection" class="nav-link" data-scroll-target="#part-2-written-reflection">Part 2: Written Reflection</a></li>
-  <li><a href="#part-3-video-reflection" id="toc-part-3-video-reflection" class="nav-link" data-scroll-target="#part-3-video-reflection">Part 3: Video Reflection</a></li>
-  <li><a href="#assignment-feedback" id="toc-assignment-feedback" class="nav-link" data-scroll-target="#assignment-feedback">Assignment Feedback</a></li>
-  <li><a href="#grading-rubric" id="toc-grading-rubric" class="nav-link" data-scroll-target="#grading-rubric">Grading Rubric</a></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
@@ -216,139 +265,38 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="part-1-blog-posts" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="part-1-blog-posts">Part 1: Blog Posts</h2>
-<p>After completing Units 1-5, including the learning activities, you are asked to share your blog posts demonstrating the knowledge you have gained on the concept of digital citizenship.</p>
-<p>This assignment is based on the learning activities in Units 4 and 5, as well as the skills practices in previous units. Note that you can control the privacy settings of each blog post (e.g., so only your instructor can see it, or for the TWU community, or open access for all). You may have chosen to complete some activities in your journal; please share any relevant entries to demonstrate your understanding of the course learning outcomes.</p>
-</section>
-<section id="part-2-written-reflection" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="part-2-written-reflection">Part 2: Written Reflection</h2>
-<p>Prepare a learning reflection of about 500–600 words reflecting on the development of your understanding of digital citizenship.</p>
-<p>In your reflective post, provide the following:</p>
-<ul>
-<li>Your personal description of digital citizenship</li>
-<li>Your revised definition of digital citizenship based on your research of the topic</li>
-<li>A list of university-level study examples of the elements of digital citizenship</li>
-<li>A summary of the primary rights and responsibilities for learning in a digital age</li>
-</ul>
-<p>To help you structure your writing, see the following video on <a href="https://www.youtube.com/watch?v=SntBj0FIApw" target="_blank">Reflective Writing</a></p>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/SntBj0FIApw?si=wQ68B7k5Wd6ubEFF" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-<p>Your post should cover the following aspects:</p>
-<ul>
-<li><strong>Describe</strong> what happened. What was a highlight from our discussion on digital citizenship?</li>
-<li><strong>Interpret</strong> the events. How did it make you feel? What was “good” and “bad” about the experience?</li>
-<li><strong>Evaluate</strong> the effectiveness. What did you learn from it? How beneficial or useful was this discussion?</li>
-<li><strong>Plan</strong> for the future. What new knowledge or skills do you have and how will your experience inform future learning?</li>
-</ul>
-<p>Add a category or tag for your post using the course tag: ldrs101. Post a comment on one or two blog contributions from your peers.</p>
-</section>
-<section id="part-3-video-reflection" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="part-3-video-reflection">Part 3: Video Reflection</h2>
-<p>For the third part of this assignment, you are asked to create a short video (under 5 minutes) describing your learning process as it relates to our course learning outcomes. Reflect on your demonstration of the following skills:</p>
-<ol type="1">
-<li>Build and customize technology-integrated workflows to enhance and enrich your learning journey.</li>
-<li>Apply digital literacy skills to evaluate the legitimacy, credibility and reliability of online resources for academic study.</li>
-<li>Practice evaluative judgment to document your process of learning in complex domains of knowledge.</li>
-<li>Create a personalized narrative to document and express your learning process</li>
-<li>Evaluate digital tools, platforms, and interactions based on ethical principles.</li>
-<li>Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens.</li>
-<li>Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.</li>
-</ol>
-<p>Post your video reflection on your blog. Remember that you control the privacy settings, so you can share your video blog with the instructor, your peers, and others outside Trinity if you wish.</p>
-</section>
-<section id="assignment-feedback" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="assignment-feedback">Assignment Feedback</h2>
-<p>Assignments are designed to demonstrate your level of understanding. In this course we use proficiency scale as a gauge to help learners and the instructor ensure that assignments are written at an appropriate level.</p>
-<div class="parent-table-container">
-<div class="table-container">
-<table class="caption-top table">
-<colgroup>
-<col style="width: 24%">
-<col style="width: 24%">
-<col style="width: 24%">
-<col style="width: 26%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Emerging</th>
-<th>Developing</th>
-<th>Proficient</th>
-<th>Extending</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>The student demonstrates an&nbsp;initial&nbsp;understanding of the concepts and competencies relevant to the expected learning.</td>
-<td>The student demonstrates a&nbsp;partial&nbsp;understanding of the concepts and competencies relevant to the expected learning.</td>
-<td>The student demonstrates a&nbsp;complete&nbsp;understanding of the concepts and competencies relevant to the expected learning.</td>
-<td>The student demonstrates a&nbsp;sophisticated&nbsp;understanding of the concepts and competencies relevant to the expected learning.</td>
-</tr>
-</tbody>
-</table>
+<div id="listing-sample-listings" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1737056573390" data-listing-reading-time-sort="49" data-listing-word-count-sort="9682">
+<div class="thumbnail">
+<p><a href="./u1.html" class="no-external"></a></p><a href="./u1.html" class="no-external">
+<p class="card-img-top"><img src="assets/u1/3. LDRS 101_Overview.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./u1.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./u1.html" class="no-external">Introduction To Digital Literacies for Online Learning</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./u1.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./u1.html" class="no-external">Welcome to Unit 1 of Learning with Technology! This course will introduce you to some ideas related to living, learning, and working in our digitally saturated society. It…</a>
 </div>
 </div>
-</section>
-<section id="grading-rubric" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="grading-rubric">Grading Rubric</h2>
-<p>Your instructor will use the following grading rubric to assess your understanding and application of the digital skills learned in this course. Learners are encouraged to self-assess their work and practice evaluative judgement.</p>
-<div class="parent-table-container">
-<div class="table-container">
-<table class="caption-top table">
-<colgroup>
-<col style="width: 50%">
-<col style="width: 23%">
-<col style="width: 26%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Course Learning Outcomes</th>
-<th>Evidence of Learning<br>(I can demonstrate this through…)</th>
-<th>Level of Proficiency<br>(My understanding and application of course content is…)</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>LO1:&nbsp;Build and customize technology-integrated workflows to enhance and enrich your learning journey.</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>LO2:&nbsp;Apply digital literacy skills to evaluate the legitimacy, credibility and reliability of online resources for academic study.</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>LO3:&nbsp;Practice evaluative judgment to document your process of learning in complex domains of knowledge.</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>LO4:&nbsp;Create a personalized narrative to document and express your learning process.</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>LO5:&nbsp;Evaluate digital tools, platforms, and interactions based on ethical principles.</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>LO6:&nbsp;Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens.</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>LO7:&nbsp;Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.</td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+<div class="metadata">
+<p><a href="./u1.html" class="no-external"></a></p><a href="./u1.html" class="no-external">
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
 </div>
 </div>
 
 
-</section>
+
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -433,6 +381,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -543,6 +493,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
+      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
@@ -770,14 +721,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./assignment1.html" class="pagination-link" aria-label="Assignment 1: Reflective Journal">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Assignment 1: Reflective Journal</span>
+      <a href="./course_assessment.html" class="pagination-link" aria-label="Course Assessment">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Course Assessment</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./assignment3.html" class="pagination-link" aria-label="Assignment 3: Digital Literacy Portfolio">
-        <span class="nav-page-text">Assignment 3: Digital Literacy Portfolio</span> <i class="bi bi-arrow-right-short"></i>
-      </a>
   </div>
 </nav>
 </div> <!-- /content -->

@@ -1,0 +1,10 @@
+---
+title: "Listings Meta"
+listing:
+  contents:
+    - u1.qmd
+  id: sample-listings
+---
+
+::: {#sample-listings}
+:::

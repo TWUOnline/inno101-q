@@ -1,4 +1,11 @@
-# Introduction To Digital Literacies for Online Learning
+---
+title: "Introduction To Digital Literacies for Online Learning"
+toc: true
+toc-location: body
+---
+
+::: {#sample-listings}
+:::
 
 ## Overview {.unnumbered}
 
@@ -36,23 +43,23 @@ When you have completed this unit, you will be able to:
 
 Here is a checklist of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
 
-::: {.learning-activity time="360"}
--   Reflect on your learning goals and make a plan for meeting them. (10 minutes)
--   Work through the *Learner* section of *Liberated Learners: How To Learn With Style* and create a list of your top ten study tips for online learning. (30 minutes)
--   Read *Students' Engagement in Asynchronous Online Discussion: The Relationship Between Cognitive Presence, Learner Prominence, and Academic Performance* (2019) and consider the benefits of engaging online (30 minutes)
--   Write an introduction post on [the Learning Hub](https://twu.discourse.group){target="_blank"} in Discourse. (20 minutes)
--   Watch The Future of Education is Self-Directed Learning and consider what tools and literacies you want to explore to meet your goals. (20 minutes)
--   Download and install [Obsidian](https://obsidian.md){target="_blank"} and follow the instructions for the LDRS 101 vault. (30 minutes)
--   Explore definitions of digital literacy. (30 minutes)
--   Watch the video on Reflecting on the Promise of Technology and refine your goals. (20 minutes)
--   Take a self-assessment on your digital literacy skills. (20 minutes)
--   Watch Visitors and Residents (2014) to start thinking about where you reside on the web. (10 minutes)
--   Create a Visitors and Residents diagram. (30 minutes)
--   Get a password manager. (20 minutes)
--   Use the [*Terms of Service: Didn't Read*](https://tosdr.org/){target="_blank"} (n.d.) website to look up each of the apps we will learn in this course. (20 minutes)
--   Watch the video on Reflective Journaling (10 minutes)
--   Write a reflection on digital literacies in your journal. (60 minutes)
-:::
+
+-   Reflect on your learning goals and make a plan for meeting them. (~10 minutes)
+-   Work through the *Learner* section of *Liberated Learners: How To Learn With Style* and create a list of your top ten study tips for online learning. (~30 minutes)
+-   Read *Students' Engagement in Asynchronous Online Discussion: The Relationship Between Cognitive Presence, Learner Prominence, and Academic Performance* (2019) and consider the benefits of engaging online (~30 minutes)
+-   Write an introduction post on [the Learning Hub](https://twu.discourse.group){target="_blank"} in Discourse. (~20 minutes)
+-   Watch The Future of Education is Self-Directed Learning and consider what tools and literacies you want to explore to meet your goals. (~20 minutes)
+-   Download and install [Obsidian](https://obsidian.md){target="_blank"} and follow the instructions for the LDRS 101 vault. (~30 minutes)
+-   Explore definitions of digital literacy. (~30 minutes)
+-   Watch the video on Reflecting on the Promise of Technology and refine your goals. (~20 minutes)
+-   Take a self-assessment on your digital literacy skills. (~20 minutes)
+-   Watch Visitors and Residents (2014) to start thinking about where you reside on the web. (~10 minutes)
+-   Create a Visitors and Residents diagram. (~30 minutes)
+-   Get a password manager. (~20 minutes)
+-   Use the [*Terms of Service: Didn't Read*](https://tosdr.org/){target="_blank"} (n.d.) website to look up each of the apps we will learn in this course. (~20 minutes)
+-   Watch the video on Reflective Journaling (~10 minutes)
+-   Write a reflection on digital literacies in your journal. (~60 minutes)
+
 
 ::: note
 
