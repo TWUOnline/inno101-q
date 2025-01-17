@@ -24,12 +24,12 @@ Next, review your course concept map you created after each unit in your reflect
 
 An artifact is any piece of work that demonstrates what you know or can do. It is evidence that you have learned something. Common student artifacts could be blog/discussion posts, assignments, presentations, to name a few.
 
-Choose artifacts of learning from LDRS 101 that demonstrate significant growth, insights and/or achievement of the LDRS 101 course learning outcomes. For example, you might want to use the outcome reflective statement to represent these two LDRS 101 course learning outcomes:
+Choose artifacts of learning that demonstrate significant growth, insights and/or achievement of the LDRS 101 course learning outcomes. For example, you might want to use the outcome reflective statement to represent these two LDRS 101 course learning outcomes:
 
 -   Practice evaluative judgment to document your process of learning in complex domains of knowledge.
 -   Create a personalized narrative to document and express your learning process.
 
-Select one or more artifact for each LDRS 101 course learning outcome.
+***Select one or more artifact for each LDRS 101 course learning outcome.***
 
 ### Step 3: Write it! (600-750 words) {.unnumbered}
 
@@ -43,8 +43,8 @@ Select one or more artifact for each LDRS 101 course learning outcome.
 *Note:* You may want to think about what was valuable in the learning process of creating this artifact as well as the artifact itself. For example, you might select an artifact that represents how feedback from assessment conversations helped deepen your understanding.
 :::
 
--   Formatting: Your reflective statement should be created as a new post on your blog OR as a new file in your Obsidian vault. You must include links in your statement to each artifact that you choose and complete your reflections in the reflective statement. Both Obsidian and WordPress will automatically create backlinks on the artifact files/posts.
--   Conclusion: Based on your overall learning in this course, describe what your hopes, intentions, or plans are for your academic and professional journey as it relates to the digital world. Identify at least 3 action-orientated goals you can set for yourself.
+-   **Formatting**: Your reflective statement should be created as a new post on your blog OR as a new file in your Obsidian vault. You must include links in your statement to each artifact that you choose and complete your reflections in the reflective statement. Both Obsidian and WordPress will automatically create backlinks on the artifact files/posts.
+-   **Conclusion**: Based on your overall learning in this course, describe what your hopes, intentions, or plans are for your academic and professional journey as it relates to the digital world. Identify at least 3 action-orientated goals you can set for yourself.
 
 ### Step 4: Publish! {.unnumbered}
 
