@@ -1112,3 +1112,5 @@ Before you move on to the next unit check that you are able to:
 -   Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality
 -   Create a personalized narrative to document and express your learning process
 :::
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=632" width="880" height="886" frameborder="0" allowfullscreen="allowfullscreen" title="Self-Regulated Learning Tool"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>

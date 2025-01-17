@@ -735,6 +735,8 @@ Before you move on to the next unit check that you are able to:
 -   Describe how to protect yourself, and other students and colleagues, to stay safe in the digital environment
 :::
 
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=632" width="880" height="886" frameborder="0" allowfullscreen="allowfullscreen" title="Self-Regulated Learning Tool"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 ```{=html}
 <!-- @cmadland - flagging 3 sections that I'm pretty sure I used chat gpt to complete. Please review the unit Overview & Unit Summary and perhaps "Colinize" it? ;)...or perhaps add a SME video? Also - the Why use OER? section, although that is less obvious.  
 
