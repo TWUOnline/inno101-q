@@ -1,11 +1,7 @@
 ---
 title: "Introduction To Digital Literacies for Online Learning"
-toc: true
-toc-location: body
 ---
 
-::: {#sample-listings}
-:::
 
 ## Overview {.unnumbered}
 

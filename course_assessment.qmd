@@ -20,9 +20,9 @@ You will be evaluated in this course based on how well you meet the course learn
 
 In this course we use a proficiency scale as a gauge to help learners and the instructor ensure that assignments are completed at an appropriate level.
 
-| Emerging | Developing | Proficient | Extending |
-|------------------|------------------|------------------|-------------------|
-| The student demonstrates an initial understanding of the concepts and competencies relevant to the expected learning. | The student demonstrates a partial understanding of the concepts and competencies relevant to the expected learning. | The student demonstrates a complete understanding of the concepts and competencies relevant to the expected learning. | The student demonstrates a sophisticated understanding of the concepts and competencies relevant to the expected learning. |
+| Not Demonstrated | Emerging | Developing | Proficient | Extending |
+|------------------|------------------|------------------|------------------|-------------------|
+| The learner does not demonstrate the outcome at a level that is assessable. | The student demonstrates an initial understanding of the concepts and competencies relevant to the expected learning. | The student demonstrates a partial understanding of the concepts and competencies relevant to the expected learning. | The student demonstrates a complete understanding of the concepts and competencies relevant to the expected learning. | The student demonstrates a sophisticated understanding of the concepts and competencies relevant to the expected learning. |
 
 ### Grading System {.unnumbered}
 
@@ -50,9 +50,7 @@ Click on the following links for assignment details, including instructions and 
 - Assignment 3: Digital Literacy Portfolio -->
 ```
 
-## Assessment Support {.unnumbered}
-
-### Assessment Conversations {.unnumbered}
+## Assessment Conversations {.unnumbered}
 
 Course assignments are designed to give you the opportunity to demonstrate your understanding of the course learning outcomes.
 
