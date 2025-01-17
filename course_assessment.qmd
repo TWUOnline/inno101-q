@@ -1,8 +1,10 @@
 # Course Assessment {.unnumbered}
 
+## Assessment Overview {.unnumbered}
+
 Below you will find the assignment dropboxes for submitting your assignments in this course. Make sure to read the instructions carefully in both your syllabus and below. Additionally, take note of the grading rubrics for your assessments, which provide clear expectations for assignments and insight into how the instructor will evaluate your work.
 
-## Course Evaluation {.unnumbered}
+### Course Evaluation {.unnumbered}
 
 The course grade will be determined by the satisfactory completion of all requirements.
 
@@ -22,11 +24,11 @@ In this course we use a proficiency scale as a gauge to help learners and the in
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | The student demonstrates an initial understanding of the concepts and competencies relevant to the expected learning. | The student demonstrates a partial understanding of the concepts and competencies relevant to the expected learning. | The student demonstrates a complete understanding of the concepts and competencies relevant to the expected learning. | The student demonstrates a sophisticated understanding of the concepts and competencies relevant to the expected learning. |
 
-## Grading System {.unnumbered}
+### Grading System {.unnumbered}
 
 At the end of the course, your instructor will summarize all your writing, communicating, collaborating, presenting, reflecting, questioning, evaluating, and learning using one single letter (and maybe a + or –). This grade will be determined by examining your work in relation to the outcomes and through discussions with you.
 
-## University Standard Grading System
+### University Standard Grading System
 
 | Letter Grade | Grade Description |
 |-----------------|-------------------------------------------------------|
@@ -129,7 +131,7 @@ By actively participating in discussions you'll not only meet course requirement
 
 Confidentiality in discussions, whether online or in person, is essential. Participants often share personal or professional experiences to enrich dialogue. Please share discreetly, use pseudonyms when necessary, and refrain from sharing confidential or proprietary information about others. Remember, discussions are confidential to participants; distributing or verbalizing discussion contents to others is a violation. For questions or concerns, contact your instructor.
 
-### Additional Resources {.unnumbered}
+## Additional Resources {.unnumbered}
 
 Please see the following links and resources as you prepare for the assessment in this course:
 
