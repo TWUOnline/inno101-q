@@ -25,7 +25,7 @@ book:
     - assignment2.qmd
     - assignment3.qmd
     - course_assessment.qmd
-    - listings-meta.qmd
+    # - listings-meta.qmd
 
 # Note: If you do not have any Zotero references, you should disable the 'references.qmd' file or else it will cause an error when rendering.    
 #    - references.qmd
