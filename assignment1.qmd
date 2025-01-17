@@ -29,7 +29,7 @@ Please book your Assessment Conversations with your instructor through the [Micr
 **Before the Assessment Conversation**
 
 1.  Be sure to test your video and audio in Teams before our conversation to be sure everything is working correctly.
-2.  Practice how to share your screen in Teams, as well as sharing links in the chat. (See *Present content in Microsoft Teams meetings* in [MS Office 365 Support](https://support.microsoft.com/en-us/office/present-content-in-microsoft-teams-meetings-fcc2bf59-aecd-4481-8f99-ce55dd836ce8)){target="_blank"}.
+2.  Practice how to share your screen in Teams, as well as sharing links in the chat. (See *Present content in Microsoft Teams meetings* in [MS Office 365 Support](https://support.microsoft.com/en-us/office/present-content-in-microsoft-teams-meetings-fcc2bf59-aecd-4481-8f99-ce55dd836ce8){target="_blank"}.)
 
 **During the Assessment Conversation**
 
