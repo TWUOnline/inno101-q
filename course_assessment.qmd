@@ -10,9 +10,9 @@ The course grade will be determined by the satisfactory completion of all requir
 
 | Assessment | Assesses Course Learning Outcome | Suggested Due Date |
 |------------------------------------|------------------|------------------|
-| Assignment 1: Reflective Journal (& Assessment Conversation) |  1-4 | End of Unit 3 |
-| Assignment 2: Digital Citizenship Blog (& Video Reflection) |  1-7 | End of Unit 5 |
-| Assignment 3: Digital Literacy Portfolio (& Assessment Conversation) |  1-7 | End of Unit 6 |
+| Assignment 1: Reflective Journal |  1-4 | End of Unit 3 |
+| Assignment 2: Digital Citizenship Blog |  1-7 | End of Unit 5 |
+| Assignment 3: Digital Literacy Portfolio |  1-7 | End of Unit 6 |
 
 ## Assignment Feedback & Grading {.unnumbered}
 
