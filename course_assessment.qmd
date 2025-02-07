@@ -34,19 +34,25 @@ This approach ensures that assessment is focused on growth, reflection, and mast
 |---------------|---------------|---------------|---------------|---------------|
 | The learner does not demonstrate the outcome at a level that is assessable. | The student demonstrates an initial understanding of the concepts and competencies relevant to the expected learning. | The student demonstrates a partial understanding of the concepts and competencies relevant to the expected learning. | The student demonstrates a complete understanding of the concepts and competencies relevant to the expected learning. | The student demonstrates a sophisticated understanding of the concepts and competencies relevant to the expected learning. |
 
-###  {.unnumbered}
+Feedback will be communicated with you in two different ways. First, and most important, there will be at least two **assessment interviews** that you will be required to attend with your instructor. During this assessment interview, you will need to highlight what you have learned and which artifacts from the course you use as evidence of your learning. You and your instructor will use the Competency Development Tracker to guide this conversation. By the end of the conversation, you will have a clear picture and record of your level of proficiency on each of the Course Learning Outcomes addressed in that particular assignment and you will have a plan for improving your level of proficiency on future assignments.
+
+Second, your instructor will record your level of proficiency on each outcome in the Moodle gradebook. It will be your responsibility to ensure that the proficiency levels shown in the Competency Development Tracker align with what is shown in the gradebook. During the course, the Moodle Gradebook will be considered the correct record. However, your grade is not official until it is entered into the university Portal at the end of your course.
 
 ## Grading System {.unnumbered}
 
-### **Understanding Proficiency Levels and Final Grades**
+### Understanding Proficiency Levels and Final Grades
 
-In this course, your progress will be assessed based on **Competency-Based Learning**, which means your final grade is determined by how well you demonstrate proficiency in the Course Learning Outcomes (CLOs). Instead of focusing solely on points or percentages, this approach emphasizes your ability to apply what you’ve learned.
+As we mentioned previously, your progress will be assessed based on how well you demonstrate competency on the Course Learning Outcomes (CLOs). Instead of focusing on points or percentages, this approach emphasizes your ability to apply what you’ve learned.
 
 Your proficiency will be evaluated at different levels, and your final grade will be based on your performance across all seven CLOs.
 
 **You must complete all assignments to receive a grade in this course.**
 
-#### **Proficiency Levels: Determining Your Learning Progress**
+There are two steps to determining your final grade in the course.
+
+#### Proficiency Levels: Determining Your Learning Progress
+
+First, at the end of your course, you will have a record of your proficiency levels on each of the Course Learning Outcomes based on your work on each of the assignments. In LDRS 101, you will have three proficiency ratings for outcomes 1-7 and two proficiency ratings for outcomes 5-7. Based on that data, your instructor wil determine a final rating for each outcome based on all of your attempts. The following points outline how the final proficiency rating will be determined.
 
 -   **Extending** – You must achieve an Extending rating on at least two assessments, with no rating below Proficient.
 
@@ -59,6 +65,8 @@ Your proficiency will be evaluated at different levels, and your final grade wil
 -   **Not Demonstrated** – If two or more CLOs are rated as Not Demonstrated, this level is assigned.
 
 #### **Final Letter Grade Aggregation**
+
+Second, based on their final rating for each of the outcomes, your instructor will use the following information to determine your final grade.
 
 Your final letter grade is determined by your proficiency across the seven CLOs:
 
