@@ -2,7 +2,6 @@
 title: "Introduction To Digital Literacies for Online Learning"
 ---
 
-
 ## Overview {.unnumbered}
 
 Welcome to Unit 1 of Learning with Technology! This course will introduce you to some ideas related to living, learning, and working in our digitally saturated society. It is our intent to equip you with an emerging set of skills and literacies related to digital tools for learning. Within your academic pursuits, you will encounter a vast amount of information---integrating digital tools into your learning journey, though challenging, is essential for harnessing the ample learning possibilities offered by your chosen discipline. This course will give you a head start on using digital tools to build a workflow, enabling you to stay organized and to make your learning process visible to both you and your instructors. We will also lead you through readings and discussions on topics such as digital identity, privacy, security, and ethical ways of sharing newfound knowledge.
@@ -39,32 +38,28 @@ When you have completed this unit, you will be able to:
 
 Here is a checklist of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
 
-
--   Reflect on your learning goals and make a plan for meeting them. (~10 minutes)
--   Work through the *Learner* section of *Liberated Learners: How To Learn With Style* and create a list of your top ten study tips for online learning. (~30 minutes)
--   Read *Students' Engagement in Asynchronous Online Discussion: The Relationship Between Cognitive Presence, Learner Prominence, and Academic Performance* [-@galikyanStudentsEngagementAsynchronous2019a] and consider the benefits of engaging online (~30 minutes)
--   Write an introduction post on [the Learning Hub](https://twu.discourse.group){target="_blank"} in Discourse. (~20 minutes)
--   Watch The Future of Education is Self-Directed Learning and consider what tools and literacies you want to explore to meet your goals. (~20 minutes)
--   Download and install [Obsidian](https://obsidian.md){target="_blank"} and follow the instructions for the LDRS 101 vault. (~30 minutes)
--   Explore definitions of digital literacy. (~30 minutes)
--   Watch the video on Reflecting on the Promise of Technology and refine your goals. (~20 minutes)
--   Take a self-assessment on your digital literacy skills. (~20 minutes)
--   Watch Visitors and Residents (2014) to start thinking about where you reside on the web. (~10 minutes)
--   Create a Visitors and Residents diagram. (~30 minutes)
--   Get a password manager. (~20 minutes)
--   Use the [*Terms of Service: Didn't Read*](https://tosdr.org/){target="_blank"} (n.d.) website to look up each of the apps we will learn in this course. (~20 minutes)
--   Watch the video on Reflective Journaling (~10 minutes)
--   Write a reflection on digital literacies in your journal. (~60 minutes)
-
+-   Reflect on your learning goals and make a plan for meeting them. (\~10 minutes)
+-   Work through the *Learner* section of *Liberated Learners: How To Learn With Style* and create a list of your top ten study tips for online learning. (\~30 minutes)
+-   Read *Students' Engagement in Asynchronous Online Discussion: The Relationship Between Cognitive Presence, Learner Prominence, and Academic Performance* [-@galikyanStudentsEngagementAsynchronous2019a] and consider the benefits of engaging online (\~30 minutes)
+-   Write an introduction post on [the Learning Hub](https://twu.discourse.group){target="_blank"} in Discourse. (\~20 minutes)
+-   Watch The Future of Education is Self-Directed Learning and consider what tools and literacies you want to explore to meet your goals. (\~20 minutes)
+-   Download and install [Obsidian](https://obsidian.md){target="_blank"} and follow the instructions for the LDRS 101 vault. (\~30 minutes)
+-   Explore definitions of digital literacy. (\~30 minutes)
+-   Watch the video on Reflecting on the Promise of Technology and refine your goals. (\~20 minutes)
+-   Take a self-assessment on your digital literacy skills. (\~20 minutes)
+-   Watch Visitors and Residents (2014) to start thinking about where you reside on the web. (\~10 minutes)
+-   Create a Visitors and Residents diagram. (\~30 minutes)
+-   Get a password manager. (\~20 minutes)
+-   Use the [*Terms of Service: Didn't Read*](https://tosdr.org/){target="_blank"} (n.d.) website to look up each of the apps we will learn in this course. (\~20 minutes)
+-   Watch the video on Reflective Journaling (\~10 minutes)
+-   Write a reflection on digital literacies in your journal. (\~60 minutes)
 
 ::: note
-
 Notes:
 
-- You will be directed to complete these activities as they come up in the unit.
-- The learning activities in this course are designed to prepare you for the graded assignments in this course.
-- Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
-
+-   You will be directed to complete these activities as they come up in the unit.
+-   The learning activities in this course are designed to prepare you for the graded assignments in this course.
+-   Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
 :::
 
 ### Assessment {.unnumbered}
@@ -93,12 +88,10 @@ Choose a note-taking tool that works best for you (e.g., a Word document, a phys
 -   How you will measure your success at the end of the course.
 
 ::: note
+Notes:
 
-Notes: 
-
-- This activity is ungraded and intended to help you take ownership of your learning journey. 
-- Feel free to revisit your notes throughout the course as your goals and challenges may evolve.
-
+-   This activity is ungraded and intended to help you take ownership of your learning journey.
+-   Feel free to revisit your notes throughout the course as your goals and challenges may evolve.
 :::
 ::::
 
@@ -118,6 +111,7 @@ Here are a couple more ways you can hone your online learning skills:
 
 ![](assets/u1/4.%20LDRS%20101_Learning%20online.png)
 
+```{=html}
 <!-- -   **Active participation:** Actively engage in online discussions, forums, and virtual class sessions to enhance your understanding and connect with peers.
 -   **Regular communication with instructors:** Establish clear lines of communication with instructors, seeking clarification when needed and participating in office hours or virtual meetings.
 -   **Utilize online resources:** Take advantage of digital resources provided by the university, including online libraries, research databases, and academic support services.
@@ -125,6 +119,7 @@ Here are a couple more ways you can hone your online learning skills:
 -   **Active reading and note taking:** Develop effective reading strategies and take concise notes to enhance comprehension and retain key information.
 -   **Collaborate with peers:** Foster virtual collaboration with classmates through group projects, study groups, and peer discussions to enrich your learning experience.
 -   **Regular self-assessment:** Reflect on your progress regularly, assess your understanding of the material, and adjust your study strategies accordingly.-->
+```
 
 Remember, flexibility and adaptability are key in the online learning environment. Tailor these tips to your individual needs and the specific requirements of your courses. Note also that you will have opportunities to practice these skills throughout the course.
 
@@ -188,6 +183,7 @@ In online discussion forums, learners are encouraged to respond *substantively*.
 
 Work through the following slideshow for more information.
 
+```{=html}
 <!-- Substantive responses may include:
 
 -   Providing a new thought, idea, or perspective
@@ -219,8 +215,16 @@ Here are some examples of how to stimulate your own and others’ thinking:
 -   Sometimes …
 -   I’m wondering if …
 -   Do you think … -->
+```
 
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=650" width="885" height="523" frameborder="0" allowfullscreen="allowfullscreen" title="LDRS 101_Substantiave Discussions"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=650" width="885" height="523" frameborder="0" allowfullscreen="allowfullscreen" title="LDRS 101_Substantiave Discussions">
+
+</iframe>
+
+```{=html}
+<script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+```
+
 <!-- //todo cannot find article on Zotero-->
 
 For more on substantive participation, read [*Writing a Substantive Discussion Post for an Online Class Forum*](https://apuedge.com/writing-a-substantive-discussion-post-for-an-online-class-forum/){target="_blank"} [-@pateteWritingSubstantiveDiscussion2016].
@@ -280,7 +284,7 @@ While you watch the video think about:
 
 ## Digital Literacies
 
-> Digital literacy is a person's knowledge, skills, and abilities for using digital tools ethically, effectively, and within a variety of contexts in order to access, interpret, and evaluate information, as well as to create, construct new knowledge, and communicate with others. [governmentofbritishcolumbiaPostsecondaryDigitalLearning, p. 23]
+> Digital literacy is a person's knowledge, skills, and abilities for using digital tools ethically, effectively, and within a variety of contexts in order to access, interpret, and evaluate information, as well as to create, construct new knowledge, and communicate with others. \[governmentofbritishcolumbiaPostsecondaryDigitalLearning, p. 23\]
 
 Literacy, as we commonly understand it, is the ability to *understand* the meaning of texts. It is more than just being able to read. In the same way, digital literacy is the ability to make meaning using digital tools. It is more than simply being able to post to Instagram or TikTok, or whatever app you might use. As the definition above indicates, digital literacy involves using tools *ethically*, to *access, interpret, evaluate, create, construct, and communicate* information and knowledge.
 
@@ -325,15 +329,17 @@ If you are having any difficulty in installing Obsidian, feel free to reach out 
 
 Obsidian will become a backbone of this course as we will use it to learn how the web works and give you a workflow that will help you stay organized. One of the advantages of Obsidian is that everything you do in the app happens on your own computer, rather than the cloud, which is just another way of saying *someone else's computer*. However, the drawback to that is that you need to ensure that you have a backup of your vaults in a secure location, either one of the sync services mentioned in Step 3, above, or another backup system. [Please check the Learning Hub](https://twu.discourse.group/auth/microsoft_office365){target="_blank"} or talk to your instructor or facilitator for help with this.
 
+::: note
+*Note:* For your assignments, you may choose a tool other than Obsidian.  However, you will need to demonstrate all the required elements (tagging, hyperlinking, file management, citation management integration, graphic organizers, etc.) to demonstrate your proficiency in building a technology-integrated workflow. You are strongly encouraged to try out Obsidian and take the time to practice using its various features. Feel free to test out other tools and decide what tool best supports your workflow.
+:::
+
 ::: prote
-
 deleting activity as it is a part of the h5p
-
 :::
 
 ### Activity: Download the Starter Vault
 
-::: learning-activity
+::::: learning-activity
 To give you a head start, we have created a starter vault for you to download and use. Follow the instructions below to access the starter vault.
 
 -   Click this [link](assets/u1/ldrs101-vault-main.zip){target="_blank"} to download the vault
@@ -360,7 +366,7 @@ Screenshot of the Open Another Vault Button in Obsidian
 -   Choose the ldrs101-\[firstame-lastname\] folder, and then Obsidian will ask you to trust this vault
 -   Click "Trust author and enable plugins"
 -   Once you are in the vault, feel free to take a look around---you will notice a Home page, a Tools folder with some files in it, and a VR Diagram Canvas
-:::
+:::::
 
 Now that you have a place to record your course notes, let's jump back into the discussion about digital literacy. Traditionally, literacy was about speaking, listening, reading and writing. Literacy has taken on a much broader and complex meaning. Today there's also digital literacy, media literacy, new literacy, and so on. In the activity below you are invited to reflect on how technology, and the literacies needed to navigate technology, have changed over the years, and to speculate on new literacies the next generation of learners may need for the future.
 
@@ -452,6 +458,7 @@ Feel free to share your thoughts and experiences by posting on the LDRS 101 Disc
 -   For me, digital literacy means ..."
 ::::
 
+```{=html}
 <!-- ### Activity: Reflecting on the Promise of Technology
 
 ::: {.learning-activity time="20"}
@@ -476,6 +483,7 @@ Record your thoughts in an entry in Obsidian.
 deleting activity
 
 :::-->
+```
 
 ### Activity: Why Digital Literacy Matters
 
@@ -757,8 +765,7 @@ Next, write a journal entry based on the following prompts:
 
 In this first unit, you have had the opportunity to learn about some of the impacts of "the digital*"* on your life. You have started to build an academic knowledge management workflow, a pivotal skill essential for efficiently organizing, accessing, and leveraging information. Throughout the unit, you've actively engaged with digital tools, shared insights into your personal interactions with digital technology, and begun applying these tools to enhance your academic learning experience. Furthermore, you've developed a personalized understanding of digital literacy and explored how to protect yourself and others in digital and online contexts. As you progress through the course, take a moment to identify the specific literacies you aspire to refine and articulate the concrete steps you intend to take in pursuit of these goals.
 
-::: {.check}
-
+::: check
 Before you move on to the next unit you may want to check that you are able to:
 
 -   Explore common digital tools used at Trinity Western University
@@ -769,8 +776,13 @@ Before you move on to the next unit you may want to check that you are able to:
 -   Describe how to protect yourself and others in the digital environment
 -   Identify the literacies you plan to improve and what steps you will take to achieve your goals
 
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=651" width="958" height="549" frameborder="0" allowfullscreen="allowfullscreen" title="Unit 1 Progress Check"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=651" width="958" height="549" frameborder="0" allowfullscreen="allowfullscreen" title="Unit 1 Progress Check">
 
+</iframe>
+
+```{=html}
+<script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+```
 :::
 
 ### References {.unnumbered}

@@ -224,7 +224,7 @@ We anticipate these tools will help you think critically, collaborate, and ultim
 
 There is a plethora of other learning tools out there. We encourage you to explore various apps and evaluate them based on criteria you value (effectiveness, privacy, cost, data ownership, accessibility, and so on).
 
-Note that in the next unit, we will have a more in-depth discussion on how to evaluate digital tools. 
+Note that in the next unit, we will have a more in-depth discussion on how to evaluate digital tools.
 
 ### Activity: Tools for Learning in University
 
@@ -241,7 +241,6 @@ Note that in the next unit, we will have a more in-depth discussion on how to ev
     -   writing tools
 -   In Discourse, share some tools that you've used or that you plan to use to help in your studies.
 :::
-
 
 ### Activity: Mapping Out Your Learning
 
@@ -276,6 +275,12 @@ Before you move on to the next unit check that you are able to:
 -   Evaluate digital tools, platforms, and interactions based on ethical principles
 :::
 
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=632" width="880" height="886" frameborder="0" allowfullscreen="allowfullscreen" title="Self-Regulated Learning Tool"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=632" width="880" height="886" frameborder="0" allowfullscreen="allowfullscreen" title="Self-Regulated Learning Tool">
+
+</iframe>
+
+```{=html}
+<script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+```
 
 ### References {.unnumbered}

@@ -497,7 +497,6 @@ Now that you have a handful of references to keep track of, it's time to get sta
 Before you explore the next essential tool, watch [*Benefits of Using Citation Management Tools*](https://youtu.be/sy9PVZAbSAQ){target="_blank"} (n.d.).
 
 {{< video https://www.youtube-nocookie.com/embed/sy9PVZAbSAQ >}}
-
 :::
 
 #### Download and Install Zotero {.unnumbered}
@@ -510,7 +509,6 @@ The RIS file you exported from LitMaps isn't going to be very useful unless you 
 
 -   [scite.ai](https://github.com/scitedotai/scite-zotero-plugin#installation){target="_blank"} - provides a breakdown of how references are cited in the literature
 -   [Attanger](https://github.com/MuiseDestiny/zotero-attanger/releases/download/1.2.8/zotero-attanger.xpi){target="_blank"} allows you to find and manage PDFs in your Zotero library (clicking the link above will download the .xpi file, then you can install using the same procedures you used to install the scite.ai plugin.)
-
 
 1.  Now that you have Zotero ready to go, it's time to import your first references. Find the untitled.ris file in your downloads folder and open it. You might have to confirm that you want to open with Zotero.
 
@@ -600,6 +598,7 @@ Open educational resources, or OER, refers to freely accessible and openly licen
 <script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 ```
 
+```{=html}
 <!-- #### The 5 Rs of Openness {.unnumbered}
 
 **Retain** the right to make, own, and control copies of the content
@@ -611,6 +610,7 @@ Open educational resources, or OER, refers to freely accessible and openly licen
 **Remix** the right to combine the original or revised content with other open content to create something new (e.g., incorporate the content into a mashup)
 
 **Redistribute** the right to share copies of the original content, your revisions, or your remixes with others (e.g., give a copy of the content to a friend) -->
+```
 
 ::: note
 Note that this material was created and published freely under a Creative Commons Attribution 4.0 license.
@@ -735,7 +735,13 @@ Before you move on to the next unit check that you are able to:
 -   Describe how to protect yourself, and other students and colleagues, to stay safe in the digital environment
 :::
 
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=632" width="880" height="886" frameborder="0" allowfullscreen="allowfullscreen" title="Self-Regulated Learning Tool"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=632" width="880" height="886" frameborder="0" allowfullscreen="allowfullscreen" title="Self-Regulated Learning Tool">
+
+</iframe>
+
+```{=html}
+<script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+```
 
 ```{=html}
 <!-- @cmadland - flagging 3 sections that I'm pretty sure I used chat gpt to complete. Please review the unit Overview & Unit Summary and perhaps "Colinize" it? ;)...or perhaps add a SME video? Also - the Why use OER? section, although that is less obvious.  
