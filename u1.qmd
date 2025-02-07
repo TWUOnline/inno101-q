@@ -42,7 +42,7 @@ Here is a checklist of learning activities that will benefit you in completing t
 
 -   Reflect on your learning goals and make a plan for meeting them. (~10 minutes)
 -   Work through the *Learner* section of *Liberated Learners: How To Learn With Style* and create a list of your top ten study tips for online learning. (~30 minutes)
--   Read *Students' Engagement in Asynchronous Online Discussion: The Relationship Between Cognitive Presence, Learner Prominence, and Academic Performance* (2019) and consider the benefits of engaging online (~30 minutes)
+-   Read *Students' Engagement in Asynchronous Online Discussion: The Relationship Between Cognitive Presence, Learner Prominence, and Academic Performance* [-@galikyanStudentsEngagementAsynchronous2019a] and consider the benefits of engaging online (~30 minutes)
 -   Write an introduction post on [the Learning Hub](https://twu.discourse.group){target="_blank"} in Discourse. (~20 minutes)
 -   Watch The Future of Education is Self-Directed Learning and consider what tools and literacies you want to explore to meet your goals. (~20 minutes)
 -   Download and install [Obsidian](https://obsidian.md){target="_blank"} and follow the instructions for the LDRS 101 vault. (~30 minutes)
@@ -176,7 +176,7 @@ In this course, we will ask you to discuss ideas with your peers via Discourse, 
 
 Your discussion posts may be used as learning artifacts to demonstrate your understanding of the course learning outcomes (see Assignment details in Moodle).
 
-In LDRS 101, you should write your posts in a way that shows you are communicating in an academic setting. While you don't need to adhere to all of the conventions of APA formatting, you should practice the principles of proper citation. For example, to cite an idea from the article in the previous activity, it would look like the following (Galikyan & Admiraal, 2019), and the bottom of the post would include a "References" heading, followed by the full reference (this part may be considered optional since we have included a link to the article in the in-text citation, but it is nice to have). Please consult the [APA Style website](https://apastyle.apa.org/style-grammar-guidelines){target="_blank"} for details.
+In LDRS 101, you should write your posts in a way that shows you are communicating in an academic setting. While you don't need to adhere to all of the conventions of APA formatting, you should practice the principles of proper citation. For example, to cite an idea from the article in the previous activity, it would look like the following [-@galikyanStudentsEngagementAsynchronous2019a], and the bottom of the post would include a "References" heading, followed by the full reference (this part may be considered optional since we have included a link to the article in the in-text citation, but it is nice to have). Please consult the [APA Style website](https://apastyle.apa.org/style-grammar-guidelines){target="_blank"} for details.
 
 It is ***highly*** recommended[^u1-1] that you begin using a reference manager---we recommend Zotero as it is a free and open source app with all you will ever need to cite properly in any style. We will lead you through some specifics of using Zotero in the next unit of LDRS 101, but you can [download Zotero](https://www.zotero.org/){target="_blank"} for free.
 
@@ -223,7 +223,7 @@ Here are some examples of how to stimulate your own and others’ thinking:
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=650" width="885" height="523" frameborder="0" allowfullscreen="allowfullscreen" title="LDRS 101_Substantiave Discussions"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 <!-- //todo cannot find article on Zotero-->
 
-For more on substantive participation, read [*Writing a Substantive Discussion Post for an Online Class Forum*](https://apuedge.com/writing-a-substantive-discussion-post-for-an-online-class-forum/){target="_blank"} (2016).
+For more on substantive participation, read [*Writing a Substantive Discussion Post for an Online Class Forum*](https://apuedge.com/writing-a-substantive-discussion-post-for-an-online-class-forum/){target="_blank"} [-@pateteWritingSubstantiveDiscussion2016].
 
 ### Activity: Join the Hub!
 
@@ -267,7 +267,7 @@ As you watch the upcoming video, think about how these digital tools fit into yo
 ::: {.learning-activity time="20"}
 In the following video, Dr. Timothy Stafford explores the transformative power of heutagogy in education, highlighting how self-driven learning fosters autonomy, discovery, and lifelong growth. With over 30 years of expertise in instructional design, educational technology, and leadership, Dr. Stafford has shaped thousands of online courses across diverse industries. In this TEDx talk, he shares insights from his extensive experience, emphasizing the potential of personalized, future-focused education.
 
-[Watch: *The Future of Education is Self-Directed Learning*](https://www.youtube.com/watch?v=NkmiquiJ_nA){target="_blank"} (2024)
+[Watch: *The Future of Education is Self-Directed Learning*](https://www.youtube.com/watch?v=NkmiquiJ_nA){target="_blank"} [-@tedxtalksFutureEducationSelfDirected2024]
 
 {{< video https://www.youtube-nocookie.com/embed/NkmiquiJ_nA >}}
 
@@ -280,13 +280,13 @@ While you watch the video think about:
 
 ## Digital Literacies
 
-> Digital literacy is a person's knowledge, skills, and abilities for using digital tools ethically, effectively, and within a variety of contexts in order to access, interpret, and evaluate information, as well as to create, construct new knowledge, and communicate with others. (Government of British Columbia, n.d., p. 23)
+> Digital literacy is a person's knowledge, skills, and abilities for using digital tools ethically, effectively, and within a variety of contexts in order to access, interpret, and evaluate information, as well as to create, construct new knowledge, and communicate with others. [governmentofbritishcolumbiaPostsecondaryDigitalLearning, p. 23]
 
 Literacy, as we commonly understand it, is the ability to *understand* the meaning of texts. It is more than just being able to read. In the same way, digital literacy is the ability to make meaning using digital tools. It is more than simply being able to post to Instagram or TikTok, or whatever app you might use. As the definition above indicates, digital literacy involves using tools *ethically*, to *access, interpret, evaluate, create, construct, and communicate* information and knowledge.
 
-> "In today's world, being literate requires much, much more than the traditional literacy of yesterday." (Alber, 2013)
+> "In today's world, being literate requires much, much more than the traditional literacy of yesterday." [@alberDeeperLearningDefining2013]
 
-What digital tools do you use to help you make meaning? What is your "go-to" app for note taking, organizing files, tracking references, and connecting ideas? One valuable tool we are going to show you is called Obsidian, a free note taking and mind mapping app. Before you go through the instructions in the activity below, watch the video *This is Obsidian*. (2021).
+What digital tools do you use to help you make meaning? What is your "go-to" app for note taking, organizing files, tracking references, and connecting ideas? One valuable tool we are going to show you is called Obsidian, a free note taking and mind mapping app. Before you go through the instructions in the activity below, watch the video *This is Obsidian*. [-@abc:abettercomputerThisObsidian2021].
 
 [Watch: *This is Obsidian*](https://www.youtube.com/watch?v=d2FNqEDGc8g){target="_blank"} <!-- Auto title, auto embed-->
 
@@ -772,3 +772,5 @@ Before you move on to the next unit you may want to check that you are able to:
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=651" width="958" height="549" frameborder="0" allowfullscreen="allowfullscreen" title="Unit 1 Progress Check"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 :::
+
+### References {.unnumbered}
