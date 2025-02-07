@@ -9,29 +9,75 @@ Below you will find the assignment dropboxes for submitting your assignments in 
 The course grade will be determined by the satisfactory completion of all requirements.
 
 | Assessment | Assesses Course Learning Outcome | Suggested Due Date |
-|------------------------------------|------------------|------------------|
+|------------------------------|------------------------|------------------|
 | Assignment 1: Reflective Journal |  1-4 | End of Unit 3 |
 | Assignment 2: Digital Citizenship Blog |  1-7 | End of Unit 5 |
 | Assignment 3: Digital Literacy Portfolio |  1-7 | End of Unit 6 |
 
-## Assignment Feedback & Grading {.unnumbered}
+## Assignment Feedback & Competency-Based Assessment {.unnumbered}
 
-You will be evaluated in this course based on how well you meet the course learning outcomes, which are equally-weighted. This will involve you completing a series of learning activities and assignments. We will work together to appraise your work on the course assignments in light of the course learning outcomes. You will be required to exercise **evaluative judgment** with respect to how you have met each of the outcomes.
+Your progress in this course will be assessed based on how well you demonstrate competency in the course learning outcomes (CLOs), which are equally weighted. Rather than focusing on point-based grading, this course uses a competency-based assessment approach, which means:
 
-In this course we use a proficiency scale as a gauge to help learners and the instructor ensure that assignments are completed at an appropriate level.
+-   You will complete a series of learning activities and assignments that provide opportunities to demonstrate your understanding of the CLOs.
+
+-   Your work will be evaluated holistically, considering how well you meet the learning outcomes rather than simply accumulating points.
+
+-   You will be asked to exercise evaluative judgment, meaning you will reflect on your own work, assess your level of proficiency, and provide evidence of your learning.
+
+-   Your instructor will work with you to appraise your progress, offering feedback to help you deepen your understanding and refine your work.
+
+To measure competency, we use a proficiency scale that helps both learners and instructors assess whether assignments are completed at an appropriate level. This scale includes five levels of proficiency: Not Demonstrated, Emerging, Developing, Proficient, and Extending. Each level reflects the depth of understanding and application of the course learning outcomes.
+
+This approach ensures that assessment is focused on growth, reflection, and mastery rather than simply grading tasks.
 
 | Not Demonstrated | Emerging | Developing | Proficient | Extending |
-|------------------|------------------|------------------|------------------|-------------------|
+|---------------|---------------|---------------|---------------|---------------|
 | The learner does not demonstrate the outcome at a level that is assessable. | The student demonstrates an initial understanding of the concepts and competencies relevant to the expected learning. | The student demonstrates a partial understanding of the concepts and competencies relevant to the expected learning. | The student demonstrates a complete understanding of the concepts and competencies relevant to the expected learning. | The student demonstrates a sophisticated understanding of the concepts and competencies relevant to the expected learning. |
 
-### Grading System {.unnumbered}
+###  {.unnumbered}
 
-At the end of the course, your instructor will summarize all your writing, communicating, collaborating, presenting, reflecting, questioning, evaluating, and learning using one single letter (and maybe a + or –). This grade will be determined by examining your work in relation to the outcomes and through discussions with you.
+## Grading System {.unnumbered}
+
+### **Understanding Proficiency Levels and Final Grades**
+
+In this course, your progress will be assessed based on **Competency-Based Learning**, which means your final grade is determined by how well you demonstrate proficiency in the Course Learning Outcomes (CLOs). Instead of focusing solely on points or percentages, this approach emphasizes your ability to apply what you’ve learned.
+
+Your proficiency will be evaluated at different levels, and your final grade will be based on your performance across all seven CLOs.
+
+**You must complete all assignments to receive a grade in this course.**
+
+#### **Proficiency Levels: Determining Your Learning Progress**
+
+-   **Extending** – You must achieve an Extending rating on at least two assessments, with no rating below Proficient.
+
+-   **Proficient** – You must achieve a Proficient rating on at least two assessments, with no rating below Developing.
+
+-   **Developing** – You must achieve a Developing rating on at least two assessments, with no rating below Emerging.
+
+-   **Emerging** – You must achieve an Emerging rating on at least two assessments, with no Not Demonstrated ratings.
+
+-   **Not Demonstrated** – If two or more CLOs are rated as Not Demonstrated, this level is assigned.
+
+#### **Final Letter Grade Aggregation**
+
+Your final letter grade is determined by your proficiency across the seven CLOs:
+
+-   **A** – At least 5 of the 7 CLOs must be at **Extending**, with no rating below Proficient.
+
+-   **B** – At least 5 of the 7 CLOs must be at **Proficient**, with no rating below Developing.
+
+-   **C** – At least 5 of the 7 CLOs must be at **Developing**, with no rating below Emerging.
+
+-   **D** – At least 5 of the 7 CLOs must be at **Emerging**, with no Not Demonstrated ratings.
+
+-   **F** – Assigned if 2 or more CLOs are rated as **Not Demonstrated**.
+
+This grading structure ensures that your final grade reflects your overall competency across the course learning outcomes, rewarding both depth and consistency in your learning. It is designed to keep you actively engaged in your learning and focused on developing the skills necessary for success. If you have any questions about how your work is assessed, please reach out to your instructor.
 
 ### University Standard Grading System
 
 | Letter Grade | Grade Description |
-|------------------|------------------------------------------------------|
+|---------------|---------------------------------------------------------|
 | **A** | **Outstanding, excellent work**; exceptional performance with strong evidence of original thinking, good organization, meticulous concern for documented evidence, and obvious capacity to analyze, synthesize, evaluate, discern, justify, and elaborate; frequent evidence of both verbal eloquence and perceptive insight in written expression; excellent problem-solving ability in scientific or mathematical contexts with virtually no computational errors; demonstrated masterful grasp of subject matter and its implications. Gives evidence of an extensive and detailed knowledge base. (Note: The A+ grade is reserved for very rare students of exceptional intellectual prowess and accomplishment, especially in lower-level courses.)  <br/><br/>**Proficiency Scale: Extending** |
 | **B** | **Good, competent work**; laudable performance with evidence of some original thinking, careful organization; satisfactory critical and analytical capacity; reasonably error-free expository written expression, with clear, focused thesis and well-supported, documented, relevant arguments; good problem-solving ability with few computational or conceptual errors in scientific subjects; reasonably good grasp of subject matter but an occasional lack of depth of discernment; evidence of reasonable familiarity with course subject matter in both concepts and key issues. Exhibits a serious, responsible engagement with the course content.<br/><br/>**Proficiency Scale: Proficient** |
 | **C** | **Adequate, reasonably satisfactory work**; fair performance but infrequent evidence of original thinking or the capacity to analyze, synthesize, or evaluate course material; undue reliance on rote memory; difficulty in applying knowledge in unfamiliar contexts; limited problem-solving ability in scientific subjects; fairly clear but quite uninspiring written expression with occasional problems in mechanics or syntax; weak in provision of documented, illustrative, or descriptive evidence; satisfactory grasp of basic elements of the course but frequent lapses in detailed understanding. Satisfies the minimum requirements of the course. <br/><br/>**Proficiency Scale: Developing** |
@@ -52,18 +98,97 @@ Click on the following links for assignment details, including instructions and 
 
 ## Assessment Conversations {.unnumbered}
 
-Course assignments are designed to give you the opportunity to demonstrate your understanding of the course learning outcomes.
+Throughout the course, you will have several opportunities to elicit feedback from your instructor and/or your Success Coach. We will work together to appraise your work on learning activities and assignments in light of the course learning outcomes.
 
-Throughout the course you will have several opportunities to elicit feedback from your instructor and/or Global Educational Facilitators. We will work together to appraise your work on the learning activities and assignments in light of the course learning outcomes. You will be required to exercise **evaluative judgment** with respect to how you have met each of the outcomes.
+As part of this process, you will participate in an Assessment Conversation, a scheduled meeting where you will:
 
-These assessment conversations may be asynchronous (e.g. communicating via chat, email or shared documents), or you may wish to schedule a synchronous meeting with your instructor and/or facilitator via MS Teams or Zoom.
+-   **Demonstrate and discuss your work**, showcasing how you have engaged with digital tools, built workflows, and applied digital literacy skills.
 
-The result of that conversation is that you and your instructor will know
+-   **Explain your learning process**, sharing insights into how you approached assignments and developed key competencies.
 
--   How well you performed in relation to the outcomes
--   What you need to do to improve your performance in relation to the outcomes
+-   **Defend your progress** using the Competency Development Tracker, a shared document where you will assess your proficiency in relation to the course learning outcomes.
 
-These conversations are meant to be formative and may not result in a 'grade' on your assignment. You will receive feedback you can use to improve your standing in the course on the next assessment.
+-   **Exercise evaluative judgment**, critically analyzing your strengths, areas for growth, and next steps in your digital learning journey.
+
+These conversations are **formative**, meaning they are designed to support your learning and development. They may not result in a grade on your assignment, but you will receive valuable feedback that you can use to improve your standing in the course on your next assessment.
+
+### **How to Prepare for Your Assessment Conversation**
+
+-   **Use the Competency Development Tracker:** This shared document between you and your instructor aligns course learning outcomes with proficiency indicators across assignments. It helps you track your progress, evaluate your learning, and practice evaluative judgment throughout the course. Keep it updated as you complete each assignment to prepare for the conversation.
+
+-   **Prepare specific questions** about your work that you would like to discuss. Making a list ahead of time ensures we use our time efficiently.
+
+-   **Review the course learning outcomes** and take notes on how you would explain your understanding of them. This is an opportunity for self-reflection and assessment.
+
+-   **Review your work:** Assignments should demonstrate how you have met the targeted course learning outcomes.
+
+-   **Reflect on your work:** Be prepared to show connections between concepts, apply them to your experiences or current events, and demonstrate personal reflection and critical thinking.
+
+### **Before the Assessment Conversation**
+
+-   Test your video and audio in Microsoft Teams to ensure everything is working correctly.
+
+-   Practice sharing your screen in Teams, as well as sharing links in the chat. (See *Present content in Microsoft Teams meetings* in [MS Office 365 Support](https://support.microsoft.com/en-us/office/present-content-in-microsoft-teams-meetings-fcc2bf59-aecd-4481-8f99-ce55dd836ce8){target="_blank"} for guidance.)
+
+### **During the Assessment Conversation**
+
+-   After a brief introduction, we will review your Competency Development Tracker to discuss your progress and address any concerns.
+
+-   I will ask you the guiding questions**,** such as:
+
+    1.  *Overall, how are you feeling about the course and the content?*
+
+    2.  *Are there any specific ways that I can better support your learning?*
+
+    3.  *Do you need increased accountability?*
+
+    4.  *How are you doing in meeting the goals that you set for yourself at the beginning of the course?*
+
+-   Use your Competency Development Tracker to explain how your assignments demonstrate progress toward proficiency. Highlight specific indicators of proficiency that you have met and areas where you continue to grow.
+
+-   Clearly explain how your assignments provide evidence of your learning in relation to the course outcomes.
+
+-   Your instructor will provide feedback to help you assess your progress, suggest improvements, and encourage further development.
+
+-   Take notes on the feedback and reflect on how you can continue to grow in each of the learning outcome areas.
+
+### **Key Points to Highlight During Your Conversation**
+
+Avoid simply reading your assignments or reflections. Instead, focus on key learning moments:
+
+-   What do you want your instructor to notice?
+
+-   Which indicators of proficiency have been met?
+
+-   What are you especially proud of?
+
+-   How does your journal demonstrate evidence of learning?
+
+By preparing thoughtfully and engaging in meaningful discussion, you will gain valuable insights into your learning progress and receive guidance to strengthen your digital literacy skills.
+
+## **Competency Development Tracker**
+
+The **Competency Development Tracker** is a structured tool designed to help you monitor your progress in achieving the course learning outcomes. This document serves as both a **reflection tool** and a **progress log**, allowing you to track how your work demonstrates competency across different assignments.
+
+#### **How It Works**
+
+-   **Aligns Assignments with Learning Outcomes:** The tracker maps each assignment to the course learning outcomes and provides proficiency indicators to help you evaluate your level of understanding.
+
+-   **Encourages Evaluative Judgment:** As you complete each assignment, you will self-assess your progress, identify areas of strength, and recognize opportunities for improvement.
+
+-   **Facilitates Reflection:** You will use the tracker to document insights from your learning process, connect course concepts to real-world applications, and prepare for discussions with your instructor.
+
+-   **Supports the Assessment Conversation:** This tracker is a shared document between you and your instructor, providing a structured way to demonstrate your growth, defend your progress, and receive targeted feedback during your scheduled assessment conversation.
+
+#### **How to Use It**
+
+1.  **Update your tracker** as you complete each assignment, indicating your proficiency level and reflecting on your learning.
+
+2.  **Use it as a guide** to prepare for your assessment conversation, highlighting key learning moments and areas where you seek feedback.
+
+3.  **Engage in meaningful reflection**, considering how your skills are developing and how you can continue improving.
+
+This tracker is not just a record of work—it’s a tool to help you take ownership of your learning, practice self-assessment, and develop competencies that extend beyond the course.
 
 ## Course Discussions {.unnumbered}
 
@@ -87,10 +212,9 @@ Discussions are not limited to formal online forums. They can take place in info
 After working through each unit, refer to the specific discussion questions as posed by your instructor.
 
 -   *Online Discussions*
+
     -   If discussing through an online chat platform, you may wish to write down your response first in your notes, as you can use this later in your assignments.
     -   Post your response and engage with others. Be sure to take note of others’ insights and feedback to use for your reflection paper.
-
-
 
 -   *In Person Discussions:*
 
