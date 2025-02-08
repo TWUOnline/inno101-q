@@ -61,9 +61,9 @@ See the Assessment section in Moodle for assignment details.
 
 Community is an essential component of Trinity Western University. Just have a look at the [TWU website](https://www.twu.ca/){target="_blank"} and you will find several references to learning within a community. For example:
 
-> At Trinity Western University, you’ll experience an authentic and engaging community as you enrich your understanding of the world—preparing for a life of faithful engagement in your community and profession. We are deeply committed to providing a transformational education, where you will develop practical professional skills while exploring bigger ideas about who you are, what you believe, and what you’re called to do in the world. [@trinitywesternuniversityEquippedLife]
+> At Trinity Western University, you’ll experience an authentic and engaging community as you enrich your understanding of the world—preparing for a life of faithful engagement in your community and profession. We are deeply committed to providing a transformational education, where you will develop practical professional skills while exploring bigger ideas about who you are, what you believe, and what you’re called to do in the world. (Trinity Western University, n.d.-c)
 
-Why is community so important to TWU, and how does it help us learn? Have a quick read about TWU's [Core Values](https://www.twu.ca/about-us/commitments/core-values){target="_blank"} [@CoreValues]. At this point in the course, we hope you have taken full advantage of the online community and have personal examples of how these interactions have impacted you.
+Why is community so important to TWU, and how does it help us learn? Have a quick read about TWU's [Core Values](https://www.twu.ca/about-us/commitments/core-values){target="_blank"} (n.d.-b). At this point in the course, we hope you have taken full advantage of the online community and have personal examples of how these interactions have impacted you.
 
 As for learning ... how does sharing our learning within a community help us achieve our personal and professional goals?
 
@@ -74,12 +74,16 @@ In this course we have promoted the use of tools that allow you to share your le
 ### Activity: Learning in Community
 
 :::: {.learning-activity time="30"}
-Watch [What is Social Learning?](https://www.youtube.com/watch?v=AB-_822TRms){target="_blank"} [-@brandlearningWhatSocialLearning2017]
+Watch [What is Social Learning?](https://www.youtube.com/watch?v=AB-_822TRms){target="_blank"} (2017)
 
 {{< video https://www.youtube-nocookie.com/embed/AB-_822TRms >}}
 
--   Read [Social Learning in Online Environments](https://openpress.usask.ca/humanmooc/chapter/social-learning-in-online-environments/){target="_blank"} [@spellman-cannSocialLearningOnlinea] on how we learn in community.
--   Read [Social Learning vs. Community Based Learning: What’s the Difference?](https://www.corporatelearningnetwork.com/learning-design/articles/social-learning-vs-community-based-learning-whats-the-difference){target="_blank"} [@mariaSocialLearningVs2022] from a corporate HR Learning and Development perspective.
+```{=html}
+
+```
+
+-   Read [Social Learning in Online Environments](https://openpress.usask.ca/humanmooc/chapter/social-learning-in-online-environments/){target="_blank"} (n.d.) on how we learn in community.
+-   Read [Social Learning vs. Community Based Learning: What’s the Difference?](https://www.corporatelearningnetwork.com/learning-design/articles/social-learning-vs-community-based-learning-whats-the-difference){target="_blank"} (2022) from a corporate HR Learning and Development perspective.
 
 At TWU and in your workplace you may be asked to participate in various group activities, such as group work, partner projects, team presentations, and so on. What are the benefits of working with others?
 
@@ -105,6 +109,11 @@ TWU has a [Centre for Calling & Career Development](https://www.twu.ca/academics
 <script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 ```
 
+::: prote
+I've deleted the intext clickable image, but I'm wondering if we can add just a link to the full image as well. "Click here to access the full framework"
+
+:::
+
 ::: {#fig-TopxEmployeexSkillsx2025}
 ![](assets/u6/Competency_Framework.png){.lightbox fig-alt="3-column list of career skills categories" fig-align="left"}
 
@@ -113,7 +122,7 @@ Career Ready Framework. [Click here](assets/u6/Career%20Ready%20Competency%20Fra
 
 :::
 
-*Source*: From ["Centre for Calling & Career Development,"](https://www.twu.ca/academics/academic-professional-support/centre-calling-career-development){target="_blank"} by Trinity Western University. [@CentreCallingCareer2025]
+*Source*: From ["Centre for Calling & Career Development,"](https://www.twu.ca/academics/academic-professional-support/centre-calling-career-development){target="_blank"} by Trinity Western University. (n.d.)
 
 As LDRS 101 aims to prepare you for the technology skills that are needed in this digital age, we also want to encourage you to develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens.
 
@@ -137,7 +146,7 @@ Below we'll briefly explore technology and change, artificial intelligence, and 
 ### Activity: The Future of Work
 
 :::: {.learning-activity time="20"}
-[Watch: *What is the Future of Work?*](https://www.youtube.com/watch?v=EuDnSqAo784){target="_blank"} [-@worldeconomicforumWhatFutureWork2022] from the World Economic Forum.
+[Watch: *What is the Future of Work?*](https://www.youtube.com/watch?v=EuDnSqAo784){target="_blank"} (2022) from the World Economic Forum.
 
 {{< video https://www.youtube-nocookie.com/embed/EuDnSqAo784 >}}
 
@@ -152,6 +161,10 @@ What do you think? Share your thoughts by posting a comment on Discourse, for ex
 ### Technology and Change {.unnumbered}
 
 Throughout history there are technologies that have influenced change in society. Consider, for example, the invention of the steam engine and its contribution to the Industrial Revolution. In more recent times, the advent of digital photography displaced Kodachrome (at one time, the market leader in colour film sales) which ceased production in 2009.
+
+```{=html}
+
+```
 
 ### Activity: Impact of Digital Technology on Business
 
@@ -175,9 +188,9 @@ In this section, we'll explore a few compelling examples of AI to give you a sen
 
 First, let's define AI:
 
-> The theory and development of computer systems able to perform tasks normally requiring human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages. [@oxfordreferenceArtificialIntelligence]
+> The theory and development of computer systems able to perform tasks normally requiring human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages. (Oxford Reference, n.d.)
 
-> The capacity of a computer, robot, programmed device, or software application to perform operations and tasks analogous to learning and decision making in humans, such as speech recognition or question answering. [@dictionary.comArtificialIntelligence2024]
+> The capacity of a computer, robot, programmed device, or software application to perform operations and tasks analogous to learning and decision making in humans, such as speech recognition or question answering. (Dictionary.com, 2024)
 
 What is your experience with AI? Have you used AI tools such as Grammerly or ChatGPT? How has this technology affected you as a student, and what impact does it have on your chosen profession?
 
@@ -188,16 +201,16 @@ In the next activity, we'll explore some of these questions and concerns.
 :::: {.learning-activity time="30"}
 First, do a quick search online for AI tools for university students. Examples:
 
--   [How can AI be Used by University Students?](https://www.timeshighereducation.com/student/advice/how-can-ai-be-used-university-students){target="_blank"} [-@neillHowCanAI2023]
--   [10 Best AI Tools for Homework and Studying in 2024](https://mystudylife.com/10-best-ai-tools-to-help-students-learn-faster/){target="_blank"} [-@whantTop10AI2023]
+-   [How can AI be Used by University Students?](https://www.timeshighereducation.com/student/advice/how-can-ai-be-used-university-students){target="_blank"} (2023)
+-   [10 Best AI Tools for Homework and Studying in 2024](https://mystudylife.com/10-best-ai-tools-to-help-students-learn-faster/){target="_blank"} (2023)
 
 Intrigued? Do you find any tech tools that would be useful in understanding course topics, studying, generating flashcards, transcribing lectures and voice notes, correcting grammar, writing an essay, creating a slideshow presentation, drafting a forum discussion post, and so on?
 
 Do any of these capabilities concern you? Do you think they concern your professors or fellow students?
 
-Review TWU's policy on [*Academic Misconduct & Fraud*](https://www.twu.ca/about-us/policies-guidelines/university-policies/academic-misconduct-fraud){target="_blank"} [@AcademicMisconductFraud]. Is it academic fraud if you use Chat GPT to complete assignments?
+Review TWU's policy on [*Academic Misconduct & Fraud*](https://www.twu.ca/about-us/policies-guidelines/university-policies/academic-misconduct-fraud){target="_blank"} (n.d.-a). Is it academic fraud if you use Chat GPT to complete assignments?
 
-Search online for key words related to this issue, such as "university concern policy artificial intelligence" and you will find numerous articles on the use of AI in universities, as well as emerging policies. The University of Toronto's guidelines and FAQ for [*ChatGPT and Generative AI in the Classroom*](https://www.viceprovostundergrad.utoronto.ca/strategic-priorities/digital-learning/special-initiative-artificial-intelligence/){target="_blank"} [-@GenerativeArtificialIntelligence] are one such example.
+Search online for key words related to this issue, such as "university concern policy artificial intelligence" and you will find numerous articles on the use of AI in universities, as well as emerging policies. The University of Toronto's guidelines and FAQ for [*ChatGPT and Generative AI in the Classroom*](https://www.viceprovostundergrad.utoronto.ca/strategic-priorities/digital-learning/special-initiative-artificial-intelligence/){target="_blank"} (2024) are one such example.
 
 Here are some guidelines you may receive from your instructors at TWU:
 
@@ -208,14 +221,13 @@ Here are some guidelines you may receive from your instructors at TWU:
 
 If you have any question about the use of AI applications for course work, please speak with your instructor.
 
--   Watch [How AI Could Save (Not Destroy) Education](https://www.youtube.com/watch?v=hJP5GqnTrNo){target="_blank"} [-@khanHowAICould2023]
+-   Watch [How AI Could Save (Not Destroy) Education](https://www.youtube.com/watch?v=hJP5GqnTrNo){target="_blank"} (2023)
 
 {{< video https://www.youtube-nocookie.com/embed/hJP5GqnTrNo >}}
 
 Here is one more article that discusses the pros and cons of English learners using AI in their studies:
 
--   [*Perspectives of the Use of ChatGPT as a Tool for Online Education of English*](https://www.researchgate.net/publication/374483468_Perspectives_of_the_Use_of_ChatGPT_as_a_Tool_for_Online_Education_of_English){target="_blank"} [-@pokotiloPerspectivesUseChatGPT2023]
-
+-   [*Perspectives of the Use of ChatGPT as a Tool for Online Education of English*](https://www.researchgate.net/publication/374483468_Perspectives_of_the_Use_of_ChatGPT_as_a_Tool_for_Online_Education_of_English){target="_blank"} (2023)
 :::
 
 ### Activity: How to Identify AI Generated Text
@@ -238,9 +250,13 @@ Explore the infographic below by Ryan Morrison.
 
 Consider trying out ChatGPT to see if you can spot the ways to identify AI generated writing.
 
--   [Watch: *Plagiarizing ChatGPT - Is it Illegal?*](https://www.youtube.com/watch?v=zuvN8_6QIKk){target="_blank"} [-@marklydaPlagiarizingChatGPTIt2022]
+-   [Watch: *Plagiarizing ChatGPT - Is it Illegal?*](https://www.youtube.com/watch?v=zuvN8_6QIKk){target="_blank"} (2022)
 
 {{< video https://www.youtube-nocookie.com/embed/zuvN8_6QIKk >}}
+
+::: prote
+Please put the ai policy quote in a blockquote
+:::
 
 In this course, here is the policy we follow:
 
@@ -274,8 +290,8 @@ In this section we consider the impact of automation on the future job market an
 
 :::: {.learning-activity time="20"}
 
--   Read [*Collaborative Intelligence: Humans and AI are Joining Forces*](https://hbr.org/2018/07/collaborative-intelligence-humans-and-ai-are-joining-forces){target="_blank"} [-@CollaborativeIntelligenceHumans].
--   Watch [AI Automation And The Future Of The Workforce](https://www.youtube.com/watch?v=NBLeWpOqhAo){target="_blank"} [-@AIAutomationFuture]
+-   Read [*Collaborative Intelligence: Humans and AI are Joining Forces*](https://hbr.org/2018/07/collaborative-intelligence-humans-and-ai-are-joining-forces){target="_blank"} (2018).
+-   Watch [AI Automation And The Future Of The Workforce](https://www.youtube.com/watch?v=NBLeWpOqhAo){target="_blank"} (2022)
 
 {{< video https://www.youtube-nocookie.com/embed/NBLeWpOqhAo >}}
 
@@ -289,7 +305,7 @@ In this topic we've explored AI---its possibilities for study and careers, and s
 
 AI systems require lots of work from humans to function correctly. A 2023 report from Time magazine showed that people in Kenya were paid poverty wages to build a safety system into ChatGPT (Perrigo, 2023). Since the platform was fed data from various places sometimes it would make racist or abusive remarks. To build a safeguard into the system, workers were exposed to vile and offensive web content in order to tag it so that the platform could eventually recognize offensive speech on its own. A large portion of this content was very traumatic, and workers interviewed said they were mentally scarred from the work.
 
--   Read [OpenAI Used Kenyan Workers on Less Than \$2 Per Hour to Make ChatGPT Less Toxic](https://time.com/6247678/openai-chatgpt-kenya-workers/){target="_blank"} [-@perrigoOpenAIUsedKenyan2023a] and [Inside Facebook's African Sweatshop](https://time.com/6147458/facebook-africa-content-moderation-employee-treatment/){target="_blank"} [-@perrigoFacebooksAfricanSweatshop2022]
+-   Read [OpenAI Used Kenyan Workers on Less Than \$2 Per Hour to Make ChatGPT Less Toxic](https://time.com/6247678/openai-chatgpt-kenya-workers/){target="_blank"} (2023) and [Inside Facebook's African Sweatshop](https://time.com/6147458/facebook-africa-content-moderation-employee-treatment/){target="_blank"} (2022)
 -   Watch [Doing Grueling Work for an AI: Data Labeling](https://www.youtube.com/watch?v=ug_p2wHhla0){target="_blank"} (2023)
 
 {{< video https://www.youtube-nocookie.com/embed/ug_p2wHhla0 >}}
@@ -351,10 +367,9 @@ Website tracking is the practice of collecting data about a user's online activi
 :::: {.learning-activity time="10"}
 Watch this *Matrix* parody, a comedy skit published by CollegeHumour, depicting that if you are not paying for the service, you are not the consumer but the product.
 
--   Watch [The Terrifying Cost of "Free" Websites](https://www.youtube.com/watch?v=5pFX2P7JLwA){target="_blank"} [-@TerrifyingCostFree]
+-   Watch [The Terrifying Cost of "Free" Websites](https://www.youtube.com/watch?v=5pFX2P7JLwA){target="_blank"} (2016)
 
 {{< video https://www.youtube-nocookie.com/embed/5pFX2P7JLwA >}}
-
 Were you surprised by any ideas presented in the video? Do you think this is a valid and reliable source for the topic?
 :::
 
@@ -438,20 +453,20 @@ It's important to note that while these steps can help reduce online tracking th
 :::: {.learning-activity time="60"}
 Choose from the resources below to inform your views on website and data tracking:
 
--   [Get Cyber Safe](https://www.getcybersafe.gc.ca/en){target="_blank"} [-@canadaGetCyberSafe2020] is a national public awareness campaign created to inform Canadians about cyber security and the simple steps they can take to protect themselves online.
--   [Protecting your information and data when using applications- ITSAP.40.200](https://www.cyber.gc.ca/en/protecting-your-information-and-data-when-using-applications-itsap40200){target="_blank"} [-@canadaProtectingYourInformation2023] from [Canadian Centre for Cyber Security](https://www.cyber.gc.ca/en){target="_blank"}
--   [*The Real Cost of the 'Free' Internet*](http://mediashift.org/2018/01/real-cost-free-internet/){target="_blank"} [-@RealCostFree2018]
--   [*Don't Be Evil: Should we use Google in Schools?*](https://link.springer.com/article/10.1007/s11528-021-00599-4){target="_blank"} [-@krutkaDontBeEvil2021]
+-   [Get Cyber Safe](https://www.getcybersafe.gc.ca/en){target="_blank"} (2024) is a national public awareness campaign created to inform Canadians about cyber security and the simple steps they can take to protect themselves online.
+-   [Protecting your information and data when using applications- ITSAP.40.200](https://www.cyber.gc.ca/en/protecting-your-information-and-data-when-using-applications-itsap40200){target="_blank"} (2023) from [Canadian Centre for Cyber Security](https://www.cyber.gc.ca/en){target="_blank"}
+-   [*The Real Cost of the 'Free' Internet*](http://mediashift.org/2018/01/real-cost-free-internet/){target="_blank"} (2018)
+-   [*Don't Be Evil: Should we use Google in Schools?*](https://link.springer.com/article/10.1007/s11528-021-00599-4){target="_blank"} (2021)
 
 Also review these resources on corporate sponsored research:
 
--   [Funding Bias](https://en.wikipedia.org/wiki/Funding_bias){target="_blank"} [-@FundingBias2025]
--   [Sponsors' Participation in Conduct and Reporting of Industry Trials: A Descriptive Study](https://trialsjournal.biomedcentral.com/articles/10.1186/1745-6215-13-146){target="_blank"} [-@lundhSponsorsParticipationConduct2012a]
--   [Ad Blocking](https://en.wikipedia.org/wiki/Ad_blocking){target="_blank"} [-@AdBlocking2025]
+-   [Funding Bias](https://en.wikipedia.org/wiki/Funding_bias){target="_blank"} (2024)
+-   [Sponsors' Participation in Conduct and Reporting of Industry Trials: A Descriptive Study](https://trialsjournal.biomedcentral.com/articles/10.1186/1745-6215-13-146){target="_blank"} (2012)
+-   [Ad Blocking](https://en.wikipedia.org/wiki/Ad_blocking){target="_blank"} (2024)
 
 After viewing these resources, what do you think the cost of free websites is? Do you use ad blocking software? Think about the reasons for your choice.
 
-Share your thoughts on [Discourse](https://twu.discourse.group/){target="_blank"} or use Hypothes.is to annotate and share your comments.
+Share your thoughts on Discourse or use Hypothes.is to annotate and share your comments.
 :::
 
 ```{=html}
@@ -496,9 +511,9 @@ Impersonation online refers to the act of creating an online presence in someone
 Clearly these social media accounts are not the "real" people. In one case it's a foundation promoting the legacy of Nelson Mandela, the next two examples are parody accounts of two tech giants, and the last example is, well, Darth Vader!
 
 -   Read the following articles on the social media response to impersonation:
-    -   [*Misleading and Deceptive Identities Policy (X)*](https://help.twitter.com/en/rules-and-policies/x-impersonation-and-deceptive-identities-policy){target="_blank"} [-@XsPlatformManipulation]
-    -   [*How to Report a Facebook Account or Page That's Pretending to be me or Someone Else?*](https://www.facebook.com/help/174210519303259){target="_blank"} [-@ReportFacebookProfile]
-    -   [*Reporting Impersonation on Social Media*](https://saferinternet.org.uk/blog/reporting-impersonation-on-social-media){target="_blank"} [-@cawthorneReportingImpersonationSocial2016a]
+    -   [*Misleading and Deceptive Identities Policy (X)*](https://help.twitter.com/en/rules-and-policies/x-impersonation-and-deceptive-identities-policy){target="_blank"} (2023)
+    -   [*How to Report a Facebook Account or Page That's Pretending to be me or Someone Else?*](https://www.facebook.com/help/174210519303259){target="_blank"} (n.d.)
+    -   [*Reporting Impersonation on Social Media*](https://saferinternet.org.uk/blog/reporting-impersonation-on-social-media){target="_blank"} (2016)
 
 Have you seen a fake account on social media? What clues did you have that it was not real?
 :::
@@ -516,7 +531,7 @@ Check out these two videos that share signs to help you identify online imperson
 
 {{< video https://www.youtube-nocookie.com/embed/F57DE05FpgQ?si=0ST8TLfI3KwFoGNi >}}
 
--   [Watch: *Cyber Sandra's Hacks - Social Media Impersonation*](https://www.youtube.com/watch?v=Ta6qq7wnpcA){target="_blank"} [-@cybersecurityagencyofsingaporeCyberSandrasHacks2021]
+-   [Watch: *Cyber Sandra's Hacks - Social Media Impersonation*](https://www.youtube.com/watch?v=Ta6qq7wnpcA){target="_blank"} (2021)
 
 {{< video https://www.youtube-nocookie.com/embed/Ta6qq7wnpcA >}}
 :::
@@ -528,54 +543,53 @@ Catfishing is the deceptive practice of creating a fictional online presence to 
 
 Dr. Alec Couros is Associate Professor of Information and Communication Technologies at the University of Regina, Saskatchewan. Dr. Couros has experienced a number of scams where his personal photos have been used to lure woman into an online romantic relationship for the purpose of "borrowing" or extorting money. Check out his experiences:
 
--   [*Your Photos can be Used in 'Catfishing' Romance Scams*](https://www.cbc.ca/radio/spark/380-phantom-traffic-jams-catfishing-scams-and-smart-speakers-1.4482967/your-photos-can-be-used-in-catfishing-romance-scams-1.4482985){target="_blank"} [-@YourPhotosCan]
--   [*Identity, Love, and Catfishing*](http://educationaltechnology.ca/2393/){target="_blank"} [-@alecIdentityLoveCatfishing2013]
--   [*Would the Real 'Alec Couros' Please Stand Up*](http://educationaltechnology.ca/2466/){target="_blank"} [-@alecWouldRealAlec2014]
+-   [*Your Photos can be Used in 'Catfishing' Romance Scams*](https://www.cbc.ca/radio/spark/380-phantom-traffic-jams-catfishing-scams-and-smart-speakers-1.4482967/your-photos-can-be-used-in-catfishing-romance-scams-1.4482985){target="_blank"} (2018a)
+-   [*Identity, Love, and Catfishing*](http://educationaltechnology.ca/2393/){target="_blank"} (2013)
+-   [*Would the Real 'Alec Couros' Please Stand Up*](http://educationaltechnology.ca/2466/){target="_blank"} (2014)
 -   Visit this website that reports online scams: [ScamDigger Forum](https://romancescam.com/){target="_blank"} (n.d.).
--   [Watch: *How to Detect a Facebook Scammer With Google Reverse Image Search*](https://www.youtube.com/watch?v=s6Q4U8DvJH8){target="_blank"} [-@aleccourosHowDetectFacebook2014]
+-   [Watch: *How to Detect a Facebook Scammer With Google Reverse Image Search*](https://www.youtube.com/watch?v=s6Q4U8DvJH8){target="_blank"} (2014)
 
 {{< video https://www.youtube-nocookie.com/embed/s6Q4U8DvJH8 >}}
 
 Optional reading: (expletive warning)
 
--   [*Facebook as Catfish Paradise: Its Community Standards Wears the Cone of Shame*](https://cogdogblog.com/2015/10/facebook-as-catfish-paradise-its-community-standards-wears-the-cone-of-shame/){target="_blank"} [-@blogFacebookCatfishParadise2015]
+-   [*Facebook as Catfish Paradise: Its Community Standards Wears the Cone of Shame*](https://cogdogblog.com/2015/10/facebook-as-catfish-paradise-its-community-standards-wears-the-cone-of-shame/){target="_blank"} (2015)
 
 Feel free to share personal reflections on the phenomenon of online impersonation by posting a comment on Discourse.
 :::
 
 ### Internet Trolling {.unnumbered}
 
-> Sometimes trolls live under bridges. But not everyone living under a bridge is a troll. (Wikimedia Foundations, n.d.)<!-- //todo -->
+> Sometimes trolls live under bridges. But not everyone living under a bridge is a troll. (Wikimedia Foundations, n.d.)
 
-It is estimated that that the internet has about 5.35 billion users, almost half the population of the world (Tsvetkova, 2023).<!-- //todo --> With the growing number of internet and social media users we are witnessing an increase in antisocial behaviour online.
+It is estimated that that the internet has about 5.35 billion users, almost half the population of the world (Tsvetkova, 2023). With the growing number of internet and social media users we are witnessing an increase in antisocial behaviour online.
 
 In this section we explore the phenomenon of internet trolling and strategies for managing disruptive online behaviour, taking the communication context into account.
 
-> In slang, a troll is a person who posts deliberately offensive or provocative messages online (such as in social media, a newsgroup, a forum, a chat room, an online video game) or who performs similar behaviors in real life. The methods and motivations of trolls can range from benign to sadistic. These messages can be inflammatory, insincere, digressive, extraneous, or off-topic, and may have the intent of provoking others into displaying emotional responses, or manipulating others' perception, thus acting as a bully or a provocateur. The behavior is typically for the troll's amusement, or to achieve a specific result such as disrupting a rival's online activities or purposefully causing confusion or harm to others. [@TrollSlang2024]
+> In slang, a troll is a person who posts deliberately offensive or provocative messages online (such as in social media, a newsgroup, a forum, a chat room, an online video game) or who performs similar behaviors in real life. The methods and motivations of trolls can range from benign to sadistic. These messages can be inflammatory, insincere, digressive, extraneous, or off-topic, and may have the intent of provoking others into displaying emotional responses, or manipulating others' perception, thus acting as a bully or a provocateur. The behavior is typically for the troll's amusement, or to achieve a specific result such as disrupting a rival's online activities or purposefully causing confusion or harm to others. (“Troll (Slang),” 2024)
 
 ### Activity: Trolling in Social Media
 
 :::: {.learning-activity time="30"}
-
--   Take the [Spot the Troll](https://spotthetroll.org/){target="_blank"} quiz [@clemsonuniversityInternetTrollDisinformation], which uses images of real social media content. How did you do? Did some of the profiles surprise you? Have you encountered these types of profiles on social media?
+-   Take the [Spot the Troll](https://spotthetroll.org/){target="_blank"} quiz (n.d.), which uses images of real social media content. How did you do? Did some of the profiles surprise you? Have you encountered these types of profiles on social media?
 -   As you read the following, pay particular attention to strategies for dealing with trolling behaviour.
-    -   [Troll (Slang)](https://en.wikipedia.org/wiki/Troll_(slang)){target="_blank"} [@TrollSlang2024]
-    -   [What is a Troll?](https://meta.wikimedia.org/wiki/What_is_a_troll){target="_blank"} [@wikimediafoundationsWhatTroll]
-    -   [Internet Trolling: How do you Spot a Real Troll?](https://www.lifewire.com/what-is-internet-trolling-3485891){target="_blank"} [@moreauHereWhatYou2024]
--   Watch [The Secret Confessions of an Internet Troll](https://www.youtube.com/watch?v=5BQp3V_34BE){target="_blank"} [-@SecretConfessionsInternet]
+    -   [Troll (Slang)](https://en.wikipedia.org/wiki/Troll_(slang)){target="_blank"} (2024)
+    -   [What is a Troll?](https://meta.wikimedia.org/wiki/What_is_a_troll){target="_blank"} (n.d.)
+    -   [Internet Trolling: How do you Spot a Real Troll?](https://www.lifewire.com/what-is-internet-trolling-3485891){target="_blank"} (2024)
+-   Watch [The Secret Confessions of an Internet Troll](https://www.youtube.com/watch?v=5BQp3V_34BE){target="_blank"} (2016)
 
 {{< video https://www.youtube-nocookie.com/embed/5BQp3V_34BE >}}
 
 -   Read the following articles and add or reply to annotations on Hypothes.is, focusing on how the research relates to your own online experience. Remember to tag your posts using the course code: LDRS101.
-    -   ['Don't Feed the Trolls' Really is Good Advice -- Here's the Evidence](https://theconversation.com/dont-feed-the-trolls-really-is-good-advice-heres-the-evidence-63657){target="_blank"} [-@DontFeedTrolls]
-    -   [How Empathy can Make or Break a Troll](https://theconversation.com/how-empathy-can-make-or-break-a-troll-80680){target="_blank"} [-@marchHowEmpathyCan2017]
+    -   ['Don't Feed the Trolls' Really is Good Advice -- Here's the Evidence](https://theconversation.com/dont-feed-the-trolls-really-is-good-advice-heres-the-evidence-63657){target="_blank"} (2016)
+    -   [How Empathy can Make or Break a Troll](https://theconversation.com/how-empathy-can-make-or-break-a-troll-80680){target="_blank"} (2017)
 
 After viewing the resources, how can you spot trolls online? Share your thoughts by posting a comment on Discourse.
 :::
 
 ### Online Harassment {.unnumbered}
 
-> 41 % of Americans have been personally subjected to harassing behavior online, and an even larger share (66 %) has witnessed these behaviors directed at others [@dugganOnlineHarassment20172017].
+> 41 % of Americans have been personally subjected to harassing behavior online, and an even larger share (66 %) has witnessed these behaviors directed at others (Duggan, 2017).
 
 Many of us associate online harassment with extreme cases such as cyberbullying and teenage suicide, or cyberstalking leading to physical sexual harassment. Notwithstanding the seriousness of these offences, antisocial behaviours associated with other forms of online harassment are more pervasive than most people realize.
 
@@ -586,11 +600,11 @@ In this section, we will review research on the state of online harassment and c
 :::: {.learning-activity time="30"}
 Read the following research reports on online harassment.
 
--   [*Online Harassment*](https://www.pewresearch.org/internet/2014/10/22/online-harassment/){target="_blank"} [-@dugganOnlineHarassment20172017]. (Note that this is an 8-page report; click through to read it all.)
--   [*Q&A: What We've Learned About Online Harassment*](https://www.pewresearch.org/short-reads/2021/01/13/qa-what-weve-learned-about-online-harassment/){target="_blank"} [-@desilverWhatWeVe2021]
+-   [*Online Harassment*](https://www.pewresearch.org/internet/2014/10/22/online-harassment/){target="_blank"} (2017). (Note that this is an 8-page report; click through to read it all.)
+-   [*Q&A: What We've Learned About Online Harassment*](https://www.pewresearch.org/short-reads/2021/01/13/qa-what-weve-learned-about-online-harassment/){target="_blank"} (2021)
 
 ::: note
-Note in particular the finding that those "who have ever experienced more severe forms of harassment -- such as physical threats, stalking, sexual harassment or sustained harassment -- or multiple forms of harassing behaviors online have both risen substantially in the past three years. This is not the pattern we saw in prior surveys. There has been a markedly steeper rise in these measures since 2017, compared with the change between our 2014 and 2017 studies" [@desilverWhatWeVe2021].
+Note in particular the finding that those "who have ever experienced more severe forms of harassment -- such as physical threats, stalking, sexual harassment or sustained harassment -- or multiple forms of harassing behaviors online have both risen substantially in the past three years. This is not the pattern we saw in prior surveys. There has been a markedly steeper rise in these measures since 2017, compared with the change between our 2014 and 2017 studies" (DeSilver, 2021).
 :::
 
 **Questions to Consider**:
@@ -609,8 +623,8 @@ View the the following policy resources on online harassment from X and Meta (Fa
 
 *Suggested practices*
 
--   [*Meta Community Standards*](https://transparency.meta.com/policies/community-standards/){target="_blank"} [@metatransparencycenterFacebookCommunityStandards]
--   [*About Online Abuse*](https://help.twitter.com/en/safety-and-security/cyber-bullying-and-online-abuse){target="_blank"} [@xhelpcenterOnlineAbuse]
+-   [*Meta Community Standards*](https://transparency.meta.com/policies/community-standards/){target="_blank"} (n.d.)
+-   [*About Online Abuse*](https://help.twitter.com/en/safety-and-security/cyber-bullying-and-online-abuse){target="_blank"} (n.d.)
 
 Search online for current events related to social media platforms and harassment. What are the companies doing to prevent bullying, child exploitation, hate speech, etc.?
 
@@ -640,13 +654,13 @@ First, consider the following questions:
 
 Watch this fascinating TedTalk video:
 
--   [Watch: *Connected, but Alone?*](https://www.youtube.com/watch?v=t7Xr3AsBEK4){target="_blank"} [-@turkleConnectedAlone2012]
+-   [Watch: *Connected, but Alone?*](https://www.youtube.com/watch?v=t7Xr3AsBEK4){target="_blank"} (2012)
 
 {{< video https://www.youtube-nocookie.com/embed/t7Xr3AsBEK4 >}}
 
 -   Jot down your thoughts in your Reflective Journal (Obsidian).
 -   Finally, read the following article which summarizes a number of psychological disorders related to our use of digital technology:
-    -   [*Eight new Mental Illnesses Brought to you by the Internet*](https://www.pcworld.com/article/448085/eight-new-mental-illnesses-brought-to-you-by-wait-for-it-the-internet.html){target="_blank"} [-@dashevskyEightNewMental2013]
+    -   [*Eight new Mental Illnesses Brought to you by the Internet*](https://www.pcworld.com/article/448085/eight-new-mental-illnesses-brought-to-you-by-wait-for-it-the-internet.html){target="_blank"} (2013)
 
 Share your thoughts by posting a comment on Discourse, for example:
 
@@ -657,7 +671,7 @@ Share your thoughts by posting a comment on Discourse, for example:
 
 ### Net Neutrality {.unnumbered}
 
-> The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past. [@mediumTimBernersLeeQuotes2023]<!-- (Tim Berners-Lee, 2009, as cited in Medium, 2023) -->
+> The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past. (Tim Berners-Lee, 2009, as cited in Medium, 2023)
 
 The World Wide Web was originally designed to provide universal access to a large universe of documents. To achieve universal access it was paramount to design the web as an open system without a central locus of control. However, on the internet there are an increasing number of “walled gardens” that aim to control user’s access to content and services. In this section we explore the concept of net neutrality and reflect on the risks associated with universal access to online information.
 
@@ -713,11 +727,11 @@ Net Neutrality and Creative Freedom Mind Map Illustration
 :::: {.learning-activity time="30"}
 Watch the following videos that explain the importance of net neutrality.
 
-[*Net Neutrality Explained*](https://www.youtube.com/watch?v=p90McT24Z6w){target="_blank"} [-@thewallstreetjournalNetNeutralityExplained2015]
+[*Net Neutrality Explained*](https://www.youtube.com/watch?v=p90McT24Z6w){target="_blank"} (2015)<!-- Auto title, auto embed-->
 
 {{< video https://www.youtube-nocookie.com/embed/p90McT24Z6w >}}
 
-[*Internet Citizens: Defend Net Neutrality*](https://www.youtube.com/watch?v=wtt2aSV8wdw){target="_blank"} [-@cgpgreyInternetCitizensDefend2014]
+[*Internet Citizens: Defend Net Neutrality*](https://www.youtube.com/watch?v=wtt2aSV8wdw){target="_blank"} (2014b) <!-- Auto title, auto embed-->
 
 {{< video https://www.youtube-nocookie.com/embed/wtt2aSV8wdw >}}
 :::
@@ -725,15 +739,15 @@ Watch the following videos that explain the importance of net neutrality.
 ### Activity: Perspectives on Net Neutrality
 
 :::: {.learning-activity time="60"}
-Explore the issue of net neutrality. Here are some sample resources, but please search for additional resources that interest you. Seek out different perspectives on the topic to inform your views. First, have a look at a summary of [*Net Neutrality by Country*](https://en.wikipedia.org/wiki/Net_neutrality_by_country#:~:text=source%20or%20ownership.-,China,is%20available%20to%20their%20citizens){target="_blank"} [-@NetNeutralityCountry2024].
+Explore the issue of net neutrality. Here are some sample resources, but please search for additional resources that interest you. Seek out different perspectives on the topic to inform your views. First, have a look at a summary of [*Net Neutrality by Country*](https://en.wikipedia.org/wiki/Net_neutrality_by_country#:~:text=source%20or%20ownership.-,China,is%20available%20to%20their%20citizens){target="_blank"} (2024).
 
 Next, click the topics below to explore different perspectives on this issue in Canada.
 
--   [*Strengthening Net Neutrality in Canada*](https://crtc.gc.ca/eng/internet/diff.htm){target="_blank"} [-@governmentofcanadaStrengtheningNetNeutrality2016]
--   [*Big Tech vs. Canadian News: The Battle Over C-18, Explained*](https://www.youtube.com/watch?v=k5iRopjAwm4){target="_blank"} [-@cbcnewsBigTechVs2023]
--   [*Bill C-18: The Fallout over Google, Meta's Plans to Block News Links in Canada*](https://www.youtube.com/watch?v=W5YLvCEd1yE){target="_blank"} [-@globalnewsBillC18Fallout2023]
--   [*Debating Bill C-11---Internet Censorship for Canadians*](https://www.youtube.com/watch?v=bmd4sASKFRw){target="_blank"} [-@lewisDebatingBillC112023]
--   [*Poilievre: Warned About Justin Trudeau's Online Censorship Law*](https://www.youtube.com/watch?v=doPyNc6Sf_c){target="_blank"} [-@wionPoilievreWarnedJustin2023]
+-   [*Strengthening Net Neutrality in Canada*](https://crtc.gc.ca/eng/internet/diff.htm){target="_blank"} (2016)
+-   [*Big Tech vs. Canadian News: The Battle Over C-18, Explained*](https://www.youtube.com/watch?v=k5iRopjAwm4){target="_blank"} (2023)
+-   [*Bill C-18: The Fallout over Google, Meta's Plans to Block News Links in Canada*](https://www.youtube.com/watch?v=W5YLvCEd1yE){target="_blank"} (2023)
+-   [*Debating Bill C-11---Internet Censorship for Canadians*](https://www.youtube.com/watch?v=bmd4sASKFRw){target="_blank"} (2023)
+-   [*Poilievre: Warned About Justin Trudeau's Online Censorship Law*](https://www.youtube.com/watch?v=doPyNc6Sf_c){target="_blank"} (2023)
 
 Dr. Michael Geist is a law professor at the University of Ottawa where he holds the Canada Research Chair in Internet and e-Commerce Law and is a member of the Centre for Law, Technology and Society. Browse through his [*articles*](https://www.michaelgeist.ca/tech-law-topics/net-neutrality/){target="_blank"} on net neutrality.
 
@@ -813,7 +827,7 @@ Addressing digital redlining is essential to ensure equitable access to the bene
 :::: {.learning-activity time="30"}
 Digital redlining is a global concern, including Canada. While Canada is known for its social safety nets and relatively high internet penetration rates, digital disparities persist, particularly among marginalized communities. These disparities are evident in various aspects, such as internet access, online discrimination, and algorithmic biases.
 
--   Watch [*Seneca Nation disconnected by Redlining*](https://www.youtube.com/watch?v=J5NV9BJx1_M){target="_blank"} [-@wgrztvSenecaNationDisconnected2021]
+-   Watch [*Seneca Nation disconnected by Redlining*](https://www.youtube.com/watch?v=J5NV9BJx1_M){target="_blank"} (2021)
 
 {{< video https://www.youtube-nocookie.com/embed/J5NV9BJx1_M >}}
 
@@ -829,17 +843,17 @@ As you explore this topic, consider where digital redlining occurs in your commu
 
 In addition to your personal research, select from the following resources for more information on digital redlining.
 
--   Listen to the podcast: [*Digital Redlining and Privacy*](https://teachinginhighered.com/podcast/digital-redlining-privacy/){target="_blank"} [-@gilliardDigitalRedliningPrivacy2016] with Chris Gilliard. Gilliard is a Professor of English whose scholarship concentrates on privacy, institutional technology policy, digital redlining, and the reinventions of discriminatory practices through data mining and algorithmic decision making, especially as these apply to college students.
+-   Listen to the podcast: [*Digital Redlining and Privacy*](https://teachinginhighered.com/podcast/digital-redlining-privacy/){target="_blank"} (2016) with Chris Gilliard. Gilliard is a Professor of English whose scholarship concentrates on privacy, institutional technology policy, digital redlining, and the reinventions of discriminatory practices through data mining and algorithmic decision making, especially as these apply to college students.
 -   Choose from the following resources to explore:
-    -   [*Bad Algorithms are Making Racist Decisions*](https://www.cbc.ca/radio/spark/412-1.4887497/bad-algorithms-are-making-racist-decisions-1.4887504){target="_blank"} [-@cbcradioBadAlgorithmsAre2018]
-    -   [*What Is Digital Redlining? Experts Explain the Nuances*](https://www.govtech.com/network/what-is-digital-redlining-experts-explain-the-nuances){target="_blank"} [-@quaintanceWhatDigitalRedlining2022]
-    -   [*What is Digital Redlining and how Does it Perpetuate Poverty?*](https://communitytechnetwork.org/blog/digital-redlining-and-how-it-perputates-poverty/){target="_blank"} [-@communitytechnetworkWhatDigitalRedlining2023]
+    -   [*Bad Algorithms are Making Racist Decisions*](https://www.cbc.ca/radio/spark/412-1.4887497/bad-algorithms-are-making-racist-decisions-1.4887504){target="_blank"} (2018b)
+    -   [*What Is Digital Redlining? Experts Explain the Nuances*](https://www.govtech.com/network/what-is-digital-redlining-experts-explain-the-nuances){target="_blank"} (2022)
+    -   [*What is Digital Redlining and how Does it Perpetuate Poverty?*](https://communitytechnetwork.org/blog/digital-redlining-and-how-it-perputates-poverty/){target="_blank"} (2023)
 
 Also see the following articles that focus on racial and gender bias:
 
--   [*Google Search: Hyper-visibility as a Means of Rendering Black Women and Girls Invisible*](http://ivc.lib.rochester.edu/google-search-hyper-visibility-as-a-means-of-rendering-black-women-and-girls-invisible/){target="_blank"} [-@nobleGoogleSearchHypervisibility2013]
--   [*Pedagogy and the Logic of Platforms*](https://er.educause.edu/articles/2017/7/pedagogy-and-the-logic-of-platforms){target="_blank"} [-@gilliardPedagogyLogicPlatforms2017]
--   [*Digital Redlining, Access, and Privacy*](https://www.commonsense.org/education/articles/digital-redlining-access-and-privacy){target="_blank"} [-@gilliardDigitalRedliningAccess2016]
+-   [*Google Search: Hyper-visibility as a Means of Rendering Black Women and Girls Invisible*](http://ivc.lib.rochester.edu/google-search-hyper-visibility-as-a-means-of-rendering-black-women-and-girls-invisible/){target="_blank"} (2013)
+-   [*Pedagogy and the Logic of Platforms*](https://er.educause.edu/articles/2017/7/pedagogy-and-the-logic-of-platforms){target="_blank"} (2017)
+-   [*Digital Redlining, Access, and Privacy*](https://www.commonsense.org/education/articles/digital-redlining-access-and-privacy){target="_blank"} (2016)
 :::
 
 ```{=html}
@@ -988,15 +1002,15 @@ We've explored a number of societal issues associated with the internet. In the 
 
 Here are few additional topics to consider:
 
--   [*10 Forms of Online Harassment*](https://computer.howstuffworks.com/10-forms-online-harassment.htm){target="_blank"} [-@hoyt10FormsOnline2015]
--   [*Cyberchondria*](https://karger.com/pps/article/86/3/129/282998/Cyberchondria-Challenges-of-Problematic-Online){target="_blank"} [-@starcevicCyberchondriaChallengesProblematic2017]
--   [*The Woman Whose Phone 'Misdiagnosed HIV'*](https://www.bbc.com/news/technology-39371100){target="_blank"} [-@wakefieldWomanWhosePhone2017] (complexities of mobile ownership in the developing world)
--   [*Face-off Between MPs and Social Media Giants Over Online Hate  Speech*](https://www.theguardian.com/media/2017/mar/14/face-off-mps-and-social-media-giants-online-hate-speech-facebook-twitter){target="_blank"} [-@travisFaceoffMPsSocial2017] (hate speech online)
--   [*Keystroke Logging*](https://en.wikipedia.org/wiki/Keystroke_logging){target="_blank"} [-@KeystrokeLogging2024a]
--   [*The Price of Connection: Surveillance Capitalism*](https://theconversation.com/the-price-of-connection-surveillance-capitalism-64124){target="_blank"} [-@couldryPriceConnectionSurveillance2016a] (surveillance capitalism)
--   [*How Bots Took Over Twitter*](https://hbr.org/2015/06/how-bots-took-over-twitter){target="_blank"} [-@HowBotsTook] (bot problems)
--   [*Scams and how to Avoid Them*](https://www.consumer.org.nz/articles/scams?gclid=EAIaIQobChMIrOzE7qX71AIVxBiPCh0uzAKrEAAYASAAEgIXf_D_BwE){target="_blank"} [-@ScamsHowAvoid]
--   [*Fake News*](https://en.wikipedia.org/wiki/Fake_news){target="_blank"} [-@FakeNews2025]
+-   [*10 Forms of Online Harassment*](https://computer.howstuffworks.com/10-forms-online-harassment.htm){target="_blank"} (2015)
+-   [*Cyberchondria*](https://karger.com/pps/article/86/3/129/282998/Cyberchondria-Challenges-of-Problematic-Online){target="_blank"} (2017)
+-   [*The Woman Whose Phone 'Misdiagnosed HIV'*](https://www.bbc.com/news/technology-39371100){target="_blank"} (2017) (complexities of mobile ownership in the developing world)
+-   [*Face-off Between MPs and Social Media Giants Over Online Hate Speech*](https://www.theguardian.com/media/2017/mar/14/face-off-mps-and-social-media-giants-online-hate-speech-facebook-twitter){target="_blank"} (2017) (hate speech online)
+-   [*Keystroke Logging*](https://en.wikipedia.org/wiki/Keystroke_logging){target="_blank"} (2024)
+-   [*The Price of Connection: Surveillance Capitalism*](https://theconversation.com/the-price-of-connection-surveillance-capitalism-64124){target="_blank"} (2016) (surveillance capitalism)
+-   [*How Bots Took Over Twitter*](https://hbr.org/2015/06/how-bots-took-over-twitter){target="_blank"} (2015) (bot problems)
+-   [*Scams and how to Avoid Them*](https://www.consumer.org.nz/articles/scams?gclid=EAIaIQobChMIrOzE7qX71AIVxBiPCh0uzAKrEAAYASAAEgIXf_D_BwE){target="_blank"} (n.d.)
+-   [*Fake News*](https://en.wikipedia.org/wiki/Fake_news){target="_blank"} (2024)
 
 ### Activity: Editorial: Societal Issues on the Internet
 
@@ -1022,7 +1036,7 @@ Remember to add a category or tag for your post using the course tag: LDRS101.
 Choose a topic of interest.
 
 -   Conduct a search to identify reliable and credible online resources on your selected topic. Try to find resources from your own country or region, or your own area of work, and select the two best resources.
--   Read [How to Write a Notable Editorial](https://www.wikihow.com/Write-a-Notable-Editorial){target="_blank"} [-@4WaysWrite].
+-   Read [How to Write a Notable Editorial](https://www.wikihow.com/Write-a-Notable-Editorial){target="_blank"} (2024).
 -   Using the topic you selected, decide on the type of editorial to write, for example:
     -   explaining or interpreting
     -   criticizing
@@ -1053,17 +1067,17 @@ To conclude our course we will examine another perspective on ethics and technol
 
 :::: {.learning-activity time="30"}
 -   Skim the following article in which the authors present a framework for digital wisdom, as well as practical practices that can help navigate the digital in our daily lives.
-    -   [*A Framework for Digital Wisdom in Higher Education*](https://christianscholars.com/a-framework-for-digital-wisdom-in-higher-education/){target="_blank"} [-@FrameworkDigitalWisdom].
+    -   [*A Framework for Digital Wisdom in Higher Education*](https://christianscholars.com/a-framework-for-digital-wisdom-in-higher-education/){target="_blank"} (2019).
 
 Here are some quotes that resonate (Paulus et al., 2019). Feel free to highlight your quotes using Hypothes.is, or in your personal Obsidian notes.
 
-> Institutions of higher education have a crucial role and responsibility at this moment of technological change to form people who will flourish in our so-called digital age. [-@FrameworkDigitalWisdom, para. 1]
+> Institutions of higher education have a crucial role and responsibility at this moment of technological change to form people who will flourish in our so-called digital age. (2019, para. 1)
 >
-> Within the context of Christian higher education, the need to integrate new ICTs into our individual and institutional lives well and wisely---as we consider what technologies are doing to us and what we will do with them---is of utmost significance if we are committed to the cultivation of competence, character, and wisdom. [-@FrameworkDigitalWisdom, para. 6]
+> Within the context of Christian higher education, the need to integrate new ICTs into our individual and institutional lives well and wisely---as we consider what technologies are doing to us and what we will do with them---is of utmost significance if we are committed to the cultivation of competence, character, and wisdom. (2019, para. 6)
 >
-> Scripture enables us look behind and beyond our and others' online identities to see ourselves and others as embodied and relational beings made in the image of God. [-@FrameworkDigitalWisdom, para. 21]
+> Scripture enables us look behind and beyond our and others' online identities to see ourselves and others as embodied and relational beings made in the image of God. (2019, para. 21)
 >
-> Our use of technologies must be shaped by our intentions and values, and we must be aware of how platform interfaces, permissions, algorithms, and other design elements could interfere with our goals and obligations. [-@FrameworkDigitalWisdom, para. 31]
+> Our use of technologies must be shaped by our intentions and values, and we must be aware of how platform interfaces, permissions, algorithms, and other design elements could interfere with our goals and obligations. (2019, para. 31)
 
 **Questions to Consider**
 
@@ -1086,7 +1100,7 @@ Finally, we introduced the concept of digital wisdom. As you continue to integra
 
 > The mission of Trinity Western University, as an arm of the Church, is to develop godly Christian leaders: positive, goal-oriented university graduates with thoroughly Christian minds; growing disciples of Jesus Christ who glorify God through fulfilling the Great Commission, serving God and people in the various marketplaces of life.
 >
-> Every graduate is equipped to think truthfully, act justly, and live faithfully for the good of the world and the glory of God. [@trinitywesternuniversityMissionVisionTrinity]
+> Every graduate is equipped to think truthfully, act justly, and live faithfully for the good of the world and the glory of God. (Trinity Western University, n.d.-d)
 
 ::: check
 Before you move on to the next unit check that you are able to:

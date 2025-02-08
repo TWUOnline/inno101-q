@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.8">
+<meta name="generator" content="quarto-1.6.40">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -37,10 +57,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-79bb3942e891885f9f7af119cd221462.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-e19161ed4e9aff9b066a34963cfd5be8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-626149efe8f5d16e1d391ba177679bf0.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
 <link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
@@ -316,7 +336,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="wikilinks" class="level4 unnumbered">
 <h4 class="unnumbered anchored" data-anchor-id="wikilinks">Wikilinks</h4>
 <p>A Wikilink, the default in Obsidian, is really simple to build. All you have to do is type two opening square brackets, like this <code>[[</code>, and Obsidian will do a couple things automatically. First, Obsidian will create the closing brackets to match, so you end up with this <code>[[]]</code>, with your cursor in the middle, and second, Obsidian will present a list of all the pages in your vault, from which you can choose the page you want linked.</p>
-<div id="fig-wikilink" class="lightbox quarto-float quarto-figure quarto-figure-left anchored" data-fig-align="left" alt="Screenshot, how to create a Wikilink in Obsidian">
+<div id="fig-wikilink" class="lightbox quarto-float quarto-figure quarto-figure-left anchored" alt="Screenshot, how to create a Wikilink in Obsidian" data-fig-align="left">
 <figure class="quarto-float quarto-float-fig figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-fig" id="fig-wikilink-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figure&nbsp;3.1: Screenshot, Create a Wikilink in Obsidian
@@ -353,7 +373,7 @@ Figure&nbsp;3.2: Screenshot, Wikilink Created in Obsidian
 <h3 class="unnumbered anchored" data-anchor-id="why-link">Why Link?</h3>
 <p>Creating links to other related topics in your notes is a way that you can start to build connections in your mind about how different ideas are related. For example, if you are studying “trees,” you might want to link over to the previous notes that you created on “plants,” “forests,” or “climate change.” During your study on trees, you might want to create notes on “deciduous” and “coniferous” trees, or “xylem” and “phloem,” and link those articles to “trees.” By continually linking notes that are related you are creating a web of your knowledge as well as reminders of how ideas are related. Linking is a way for you to make sense of the information that is coming into your consciousness.</p>
 <p>Once you have created links between different files in your vault you can visualize these links using the “Graph View” in Obsidian. Here is part of the graph view for a major paper. Each of the white dots represents a file in the vault, and their size is relative to the number of pages linked to that article. You can see that there are three really big pages that have many links. Those are clearly very important pages.</p>
-<div id="fig-graph2" class="lightbox quarto-float quarto-figure quarto-figure-left anchored" data-fig-align="left" alt="Screenshot, graph view of linked documents in Obsidian">
+<div id="fig-graph2" class="lightbox quarto-float quarto-figure quarto-figure-left anchored" alt="Screenshot, graph view of linked documents in Obsidian" data-fig-align="left">
 <figure class="quarto-float quarto-float-fig figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-fig" id="fig-graph2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figure&nbsp;3.3: Screenshot, Graph View for Linked Documents in Obsidian
@@ -391,7 +411,7 @@ Estimated Time: 30 mins
 <p>This acts like a super-fast search of your notes for a particular topic or ideas related to a topic.</p>
 <p>We recommend that you put your tags in the same spot on each page so you know where to find them. You can also put those tags at any place in your notes and Obsidian will show you the specific spot in your notes where the tag lives.</p>
 <p>You can also show tags in your graph view, as below. Green dots are tags and white dots are files (as before). You can see in this image that there are many more connections.</p>
-<div id="fig-graph1" class="lightbox quarto-float quarto-figure quarto-figure-left anchored" data-fig-align="left" alt="Screenshot, Graph view including files (white dots) and tags (green dots) in Obsidian">
+<div id="fig-graph1" class="lightbox quarto-float quarto-figure quarto-figure-left anchored" alt="Screenshot, Graph view including files (white dots) and tags (green dots) in Obsidian" data-fig-align="left">
 <figure class="quarto-float quarto-float-fig figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-fig" id="fig-graph1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figure&nbsp;3.4: Screenshot, Graph View in Obsidian Including Files (White Dots) and Tags (Green Dots)
@@ -402,7 +422,7 @@ Figure&nbsp;3.4: Screenshot, Graph View in Obsidian Including Files (White Dots)
 </figure>
 </div>
 <p>You can click any of the tags in Obsidian to see highlighted connections and search results for that tag, allowing you to go directly to notes of interest.</p>
-<div id="fig-graph3" class="lightbox quarto-float quarto-figure quarto-figure-left anchored" data-fig-align="left" alt="screenshot, graph view with tag expanded in Obsidian">
+<div id="fig-graph3" class="lightbox quarto-float quarto-figure quarto-figure-left anchored" alt="screenshot, graph view with tag expanded in Obsidian" data-fig-align="left">
 <figure class="quarto-float quarto-float-fig figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-fig" id="fig-graph3-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figure&nbsp;3.5: Screenshot, Graph View in Obsidian With Tag Expanded to Show Additional Information
@@ -438,7 +458,7 @@ Estimated Time: 30 mins
 <h2 data-number="3.3" class="anchored" data-anchor-id="sense-making-through-concept-maps"><span class="header-section-number">3.3</span> Sense-making Through Concept Maps</h2>
 <p>As you saw at the beginning of this unit, sense-making is the <strong>work</strong> of learning. There is no way around the work of learning because learning is work. It takes time and cognitive effort. As much as we wish to be able to “learn” like Neo in <em>The Matrix</em>, we can’t (see a favourite scene in a movie, below; and it’s not just because Keanu Reeves is the GOAT 🐐).</p>
 <ul>
-<li>Watch <a href="https://www.youtube.com/watch?v=0YhJxJZOWBw" target="_blank">The Matrix - ‘I Know Kung Fu’</a> (2019)</li>
+<li>Watch <a href="https://www.youtube.com/watch?v=0YhJxJZOWBw" target="_blank">The Matrix - ‘I Know Kung Fu’</a> <span class="citation" data-cites="clipsbluMatrixKnowKung2019">(2019, February 8)</span></li>
 </ul>
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/0YhJxJZOWBw" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 <p>Tags and links in Obsidian can be visualized using graph view, but as this is an algorithmically generated map of the connections between ideas and files in your vault, there is little you can do to customize it. Fortunately, Obsidian also features a tool called the Canvas, which is a blank space that you can use to manually connect ideas in a visual format, allowing you to see connections and relationships that make sense to you. The following video is a brief explanation of how to use the Canvas in Obsidian.</p>
@@ -455,7 +475,7 @@ Estimated Time: 30 mins
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li>Watch <a href="https://www.youtube.com/watch?v=eHI-Szjpafk" target="_blank"><em>Mind Mapping in Obsidian Canvas</em></a> (2023). As you watch, follow the directions and to create a concept map in Obsidian. At the end of this unit, you will create a concept map for Units 1-3. Practice using notes, media, cards, and grouping features in a mind map.</li>
+<li>Watch <a href="https://www.youtube.com/watch?v=eHI-Szjpafk" target="_blank"><em>Mind Mapping in Obsidian Canvas</em></a> <span class="citation" data-cites="zhaoMindMappingObsidian2023">(2023, January 7)</span>. As you watch, follow the directions and to create a concept map in Obsidian. At the end of this unit, you will create a concept map for Units 1-3. Practice using notes, media, cards, and grouping features in a mind map.</li>
 </ul>
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/eHI-Szjpafk" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 </div>
@@ -494,10 +514,10 @@ Estimated Time: 30 mins
 <ul>
 <li>Read the following articles and take notes in Obsidian. Try using Markdown to format your text.
 <ul>
-<li><a href="https://www.student.unsw.edu.au/effective-reading-and-note-taking" target="_blank"><em>Effective Reading and Note-Taking</em></a> (n.d.)</li>
-<li><a href="https://www.student.unsw.edu.au/reading-understanding" target="_blank"><em>Reading for Understanding: The SQW3R Method</em></a> (2024)</li>
-<li><a href="https://www.science.org/content/article/how-seriously-read-scientific-paper" target="_blank"><em>How to (Seriously) Read a Scientific Paper</em></a> (2016)</li>
-<li><a href="https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax" target="_blank"><em>Using Markdown in Obsidian</em></a> (n.d.)</li>
+<li><a href="https://www.student.unsw.edu.au/effective-reading-and-note-taking" target="_blank"><em>Effective Reading and Note-Taking</em></a> <span class="citation" data-cites="tosdrTermsServiceDidnt">(n.d.)</span></li>
+<li><a href="https://www.student.unsw.edu.au/reading-understanding" target="_blank"><em>Reading for Understanding: The SQW3R Method</em></a> <span class="citation" data-cites="universityofnewsouthwalessydneyReadingUnderstandingSQW3R2024">(2024)</span></li>
+<li><a href="https://www.science.org/content/article/how-seriously-read-scientific-paper" target="_blank"><em>How to (Seriously) Read a Scientific Paper</em></a> <span class="citation" data-cites="painHowSeriouslyRead2016">(2016, March 21)</span></li>
+<li><a href="https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax" target="_blank"><em>Using Markdown in Obsidian</em></a> <span class="citation" data-cites="obsidianhelpBasicFormattingSyntax">(n.d.)</span></li>
 </ul></li>
 </ul>
 </div>
@@ -591,8 +611,8 @@ Estimated Time: 90 mins
 <p>As a final reflective activity, take some time to map out the concepts in Units 1-3. Use the mind mapping tool in Obsidian, including the features of grouping to make connections between concepts.</p>
 <p>Here are a couple of resources to guide you as you create your mind map</p>
 <ul>
-<li><a href="https://subjectguides.york.ac.uk/note-taking/mind-map" target="_blank"><em>Mind Mapping</em></a> (2024)</li>
-<li><a href="https://obsidian.rocks/getting-started-with-canvas-in-obsidian/" target="_blank"><em>Getting Started with Obsidian Canvas</em></a> (2024)</li>
+<li><a href="https://subjectguides.york.ac.uk/note-taking/mind-map" target="_blank"><em>Mind Mapping</em></a> <span class="citation" data-cites="universityofyorkMindMapping2024">(2024)</span></li>
+<li><a href="https://obsidian.rocks/getting-started-with-canvas-in-obsidian/" target="_blank"><em>Getting Started with Obsidian Canvas</em></a> <span class="citation" data-cites="GettingStartedObsidian2024">(2024)</span></li>
 </ul>
 <div class="callout callout-style-simple callout-note no-icon">
 <div class="callout-body d-flex">
@@ -639,6 +659,32 @@ Checking Your Learning
 <h3 class="unnumbered anchored" data-anchor-id="references">References</h3>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-clipsbluMatrixKnowKung2019" class="csl-entry" role="listitem">
+clipsblu. (2019, February 8, 2019, February 8). <em>The matrix - <span>I</span> know "<span>Kung Fu</span>"</em>. YouTube. <a href="https://www.youtube.com/watch?v=0YhJxJZOWBw">https://www.youtube.com/watch?v=0YhJxJZOWBw</a>
+</div>
+<div id="ref-GettingStartedObsidian2024" class="csl-entry" role="listitem">
+<em>Getting <span>Started</span> with <span>Obsidian Canvas</span></em>. (2024). Obsidian Rocks. <a href="https://obsidian.rocks/getting-started-with-canvas-in-obsidian/">https://obsidian.rocks/getting-started-with-canvas-in-obsidian/</a>
+</div>
+<div id="ref-obsidianhelpBasicFormattingSyntax" class="csl-entry" role="listitem">
+Help, O. (n.d.). <em>Basic formatting syntax</em>. Retrieved August 25, 2024, from <a href="https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax">https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax</a>
+</div>
+<div id="ref-universityofnewsouthwalessydneyReadingUnderstandingSQW3R2024" class="csl-entry" role="listitem">
+New South Wales Sydney, U. of. (2024). <em>Reading for understanding: <span>The SQW3R</span> method</em>. Students: UNSW. <a href="https://https:/www.student.unsw.edu.au/reading-understanding">https:/www.student.unsw.edu.au/reading-understanding</a>
+</div>
+<div id="ref-painHowSeriouslyRead2016" class="csl-entry" role="listitem">
+Pain, E. (2016, March 21, 2016, March 21). <em>How to (seriously) read a scientific paper</em>. Science. <a href="https://www.science.org/content/article/how-seriously-read-scientific-paper?v=sy9PVZAbSAQ">https://www.science.org/content/article/how-seriously-read-scientific-paper?v=sy9PVZAbSAQ</a>
+</div>
+<div id="ref-tosdrTermsServiceDidnt" class="csl-entry" role="listitem">
+ToSDR. (n.d.). <em>Terms of service; didn’t read</em>. <a href="https://tosdr.org/">https://tosdr.org/</a>
+</div>
+<div id="ref-universityofyorkMindMapping2024" class="csl-entry" role="listitem">
+York, U. of. (2024, October 25). <em>Mind mapping</em>. Note-taking: a Practical Guide. <a href="https://subjectguides.york.ac.uk/note-taking/mind-map">https://subjectguides.york.ac.uk/note-taking/mind-map</a>
+</div>
+<div id="ref-zhaoMindMappingObsidian2023" class="csl-entry" role="listitem">
+Zhao, V. (2023, January 7, 2023, January 7). <em>Mind mapping in <span>Obsidian</span> canvas</em>. YouTube. <a href="https://www.youtube-nocookie.com/embed/eHI-Szjpafk">https://www.youtube-nocookie.com/embed/eHI-Szjpafk</a>
+</div>
+</div>
 </section>
 </section>
 
@@ -725,8 +771,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -837,7 +881,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
@@ -1076,7 +1119,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   </div>
 </nav>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"loop":false,"openEffect":"zoom","descPosition":"top","selector":".lightbox","closeEffect":"zoom"});
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"top","loop":false,"openEffect":"zoom","selector":".lightbox"});
 (function() {
   let previousOnload = window.onload;
   window.onload = () => {

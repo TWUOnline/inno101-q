@@ -94,7 +94,7 @@ Before you start building your PLE, read the following article: "[*7 Things you 
 
 Next, consider the approach taken at TWU as it supports inquiry-rich learning. As you watch the short video below, think about how you could use your PLE to enrich your learning at TWU.
 
-[Watch: *Inquiry-Rich Learning*](https://www.youtube.com/watch?v=SCa9Nt3X1vU){target="_blank"} [-@trinitywesternuniversityInquiryrichLearning2018] <!-- Auto title, auto embed-->
+[Watch: *Inquiry-Rich Learning*](https://www.youtube.com/watch?v=SCa9Nt3X1vU){target="_blank"} (2018) <!-- Auto title, auto embed-->
 
 {{< video https://www.youtube-nocookie.com/embed/SCa9Nt3X1vU >}}
 :::
@@ -104,7 +104,7 @@ Next, consider the approach taken at TWU as it supports inquiry-rich learning. A
 :::: {.learning-activity time="60"}
 -   Take a couple of minutes to brainstorm the tools, services, and communities that you use to pursue your educational goals. Use your notetaking tool (e.g., Obsidian) to create a list of these.
 
--   Next, create a graphic organizer to visualize your PLE. You can use Obsidian, or see [*Best Graphic Organizers for Education*](https://www.techlearning.com/news/best-graphic-organizers-for-education){target="_blank"} [-@restifoBestGraphicOrganizers2023] for other free options.
+-   Next, create a graphic organizer to visualize your PLE. You can use Obsidian, or see [*Best Graphic Organizers for Education*](https://www.techlearning.com/news/best-graphic-organizers-for-education){target="_blank"} (2023) for other free options.
 
 ::: note
 Note that you completed a Visitor and Resident Diagram Activity in Unit 1. Feel free to use that graphic organizer and add other tools you use for learning, or that you have been introduced to in this course.
@@ -209,8 +209,8 @@ Pages and posts are where your content is housed on WordPress. The biggest diffe
 ***BLOG PHOTO CHALLENGE!***
 
 -   **Choose a photo** to add to your blog post. Be sure you have permission to upload the photo. We suggest using an open license site such as [Pixabay](https://pixabay.com/){target="_blank"}, [Unsplash](https://unsplash.com/){target="_blank"}, [Pexels](https://www.pexels.com/){target="_blank"}, [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page){target="_blank"}, or [Flickr](https://www.flickr.com/search/?text=pho&license=2%2C3%2C4%2C5%2C6%2C9){target="_blank"}. Alternatively, upload your own photo, take a selfie, or ask someone to take a photo of you working on this blog post challenge. You might find the following videos helpful:
-    -   [*How to Add an Image to a WordPress Website*](https://www.youtube.com/watch?v=W89wPcVU60c){target="_blank"} [-@wpventureHowAddImage2017]
-    -   [How to Add Featured Images in WordPress](https://www.youtube.com/watch?v=9admKGpM3A0){target="_blank"} [-@wpbeginnerHowAddFeatured2017]
+    -   [*How to Add an Image to a WordPress Website*](https://www.youtube.com/watch?v=W89wPcVU60c){target="_blank"} (2017)
+    -   [How to Add Featured Images in WordPress](https://www.youtube.com/watch?v=9admKGpM3A0){target="_blank"} (2017)
 
 ***BLOG VIDEO CHALLENGE!*** (Optional)
 
@@ -218,7 +218,7 @@ You might find as you continue the course that you want to share videos you find
 
 Here is a tutorial on how to add a YouTube video or embed one of your own videos to your blog:
 
-[Watch: *WordPress How To Add Video To A Page Or Post*](https://www.youtube.com/watch?v=3hCMpnok2Kw){target="_blank"} [-@createwpsiteWordPressHowAdd2021]
+[Watch: *WordPress How To Add Video To A Page Or Post \[2021\]*](https://www.youtube.com/watch?v=3hCMpnok2Kw){target="_blank"} 
 
 {{< video https://www.youtube-nocookie.com/embed/3hCMpnok2Kw >}}
 :::
@@ -237,10 +237,10 @@ Here is a tutorial on how to add a YouTube video or embed one of your own videos
 
 When you're ready to start customizing your blog and adding content, check out some tutorials available to you:
 
--   [*TWU's WordPress Support Page*](https://servicehub.twu.ca/TDClient/1904/Portal/KB/ArticleDet?ID=146597){target="_blank"}[@WordpressBlockEditor2022]
--   [*WordPress Support Guides*](https://wordpress.com/support/){target="_blank"}[@wordpressWordPressSupportGuides]
--   [*Start Here: WordPress Beginner*](https://www.wpbeginner.com/start-here/){target="_blank"} [-@balkhiStartHereYour2016]
--   [*WordPress Tutorials; University of Victoria*](https://onlineacademiccommunity.uvic.ca/wordpress-tutorials/){target="_blank"}[-@universityofvictoriaWordPressTutorials]
+-   [*TWU's WordPress Support Page*](https://servicehub.twu.ca/TDClient/1904/Portal/KB/ArticleDet?ID=146597){target="_blank"}(n.d.)
+-   [*WordPress Support Guides*](https://wordpress.com/support/){target="_blank"}(n.d.)
+-   [*Start Here: WordPress Beginner*](https://www.wpbeginner.com/start-here/){target="_blank"} (2016)
+-   [*WordPress Tutorials; University of Victoria*](https://onlineacademiccommunity.uvic.ca/wordpress-tutorials/){target="_blank"}(n.d.)
 
 ::: note
 -   If you are confused about anything it is always good to do an initial Google or YouTube search, reach out on Discourse, or email elearning\@twu.ca
@@ -259,22 +259,22 @@ First, let's clarify some key terms.
 
 We need to distinguish between the technical and human elements of online identity. In this course we are more interested in the human side of online identity, but in part, this is determined by how technology automates the process of building your digital footprint.
 
-**Digital identity** refers to the information utilized by computer systems to represent external entities, including a person, organization, application, or device. When used to describe an individual it encompasses a person’s compiled information and plays a crucial role in automating access to computer-based services, verifying identity online, and enabling computers to mediate relationships between entities. Digital identity for individuals is an aspect of a person’s social identity and can also be referred to as online identity. [@DigitalLiteracy2024]
+**Digital identity** refers to the information utilized by computer systems to represent external entities, including a person, organization, application, or device. When used to describe an individual it encompasses a person’s compiled information and plays a crucial role in automating access to computer-based services, verifying identity online, and enabling computers to mediate relationships between entities. Digital identity for individuals is an aspect of a person’s social identity and can also be referred to as online identity. (“Digital Identity,” 2024)
 
-**Digital footprint** or digital shadow refers to one’s unique set of traceable digital activities, actions, contributions, and communications manifested on the internet or digital devices. Digital footprints can be classified as either passive or active. The former is composed of a user’s web browsing activity and information stored as cookies. The latter is often released deliberately by a user to share information on websites or social media. While the term usually applies to a person, a digital footprint can also refer to a business, organization or corporation. [@DigitalFootprint]
+**Digital footprint** or digital shadow refers to one’s unique set of traceable digital activities, actions, contributions, and communications manifested on the internet or digital devices. Digital footprints can be classified as either passive or active. The former is composed of a user’s web browsing activity and information stored as cookies. The latter is often released deliberately by a user to share information on websites or social media. While the term usually applies to a person, a digital footprint can also refer to a business, organization or corporation. (“Digital Footprint,” n.d.)
 
 ### Activity: What Is a Digital Footprint?
 
 ::: {.learning-activity time="45"}
--   Watch [*What is a Digital Footprint?*](https://www.youtube.com/watch?v=dmQGq_FNBpE){target="_blank"} [-@lpubacademiccenterWhatDigitalFootprint2021] and consider the steps you would take to control your digital footprint.
+-   Watch [*What is a Digital Footprint?*](https://www.youtube.com/watch?v=dmQGq_FNBpE){target="_blank"} (2021) and consider the steps you would take to control your digital footprint.
 
 {{< video https://www.youtube-nocookie.com/embed/dmQGq_FNBpE >}}
 
 Next, read the following:
 
--   [*Understanding Your Online Identity*](assets/u4/U4_Understanding-your-Online-Identity-An-Overview-of-Identity.pdf){target="_blank"} [-@internetsocietyUnderstandingYourOnline2017]
+-   [*Understanding Your Online Identity*](assets/u4/U4_Understanding-your-Online-Identity-An-Overview-of-Identity.pdf){target="_blank"} (2017)
 
--   [*How To Manage Your Digital Footprint in 2024: 20 Tips for Students*](https://research.com/education/how-to-manage-digital-footprint){target="_blank"} [-@bouchrikai.HowManageYour2022]
+-   [*How To Manage Your Digital Footprint in 2024: 20 Tips for Students*](https://research.com/education/how-to-manage-digital-footprint){target="_blank"} (2022)
 
 **Questions to Consider**
 
@@ -292,20 +292,20 @@ Reminder: As you view online resources in this course, feel free to annotate and
 ::: {.learning-activity time="30"}
 In addition to evaluating who you are online, ask yourself, "why should I care?"
 
--   Watch [*Four Reasons to Care About Your Digital Footprint*](https://www.youtube.com/watch?v=Ro_LlRg8rGg){target="_blank"} [-@internetsocietyFourReasonsCare2016].
+-   Watch [*Four Reasons to Care About Your Digital Footprint*](https://www.youtube.com/watch?v=Ro_LlRg8rGg){target="_blank"} (2016).
 
 {{< video https://www.youtube-nocookie.com/embed/Ro_LlRg8rGg >}}
 
 Next, select from the resources below to inform your views.
 
 -   [*Students Turn to Internet to Build Online Presence, Showcase Work*](https://www.huffpost.com/entry/students-turn-to-internet_b_3518598){target="_blank"} (2013)
--   [*Your Online Presence and Your Career*](https://help.open.ac.uk/your-online-presence){target="_blank"} [@theopenuniversityYourOnlinePresencea]
--   [*Digital Tattoo Project*](https://digitaltattoo.ubc.ca/){target="_blank"} [-@theuniversityofbritishcolumbiaDigitalTattooProject]
--   [*Policy Brief: Privacy*](https://www.internetsociety.org/policybriefs/privacy/){target="_blank"} [-@internetsocietyPolicyBriefPrivacy2015]
+-   [*Your Online Presence and Your Career*](https://help.open.ac.uk/your-online-presence){target="_blank"} (n.d.)
+-   [*Digital Tattoo Project*](https://digitaltattoo.ubc.ca/){target="_blank"} (n.d.)
+-   [*Policy Brief: Privacy*](https://www.internetsociety.org/policybriefs/privacy/){target="_blank"} (2015)
 
 Finally, consider how much someone could find out about you from your digital footprint. Here's an interesting video that might cause you to reconsider what you post online.
 
--   [*Amazing Mind Reader Reveals his 'Gift'*](https://www.youtube.com/watch?v=F7pYHN9iC9I){target="_blank"} [-@duvalguillaumeAmazingMindReader2012]
+-   [*Amazing Mind Reader Reveals his 'Gift'*](https://www.youtube.com/watch?v=F7pYHN9iC9I){target="_blank"} (2012)
 
 {{< video https://www.youtube-nocookie.com/embed/F7pYHN9iC9I >}}
 :::
@@ -333,7 +333,7 @@ Prepare and publish a short blog post of about 250 to 300 words focusing on what
 -   List a few objectives for developing or improving your online identity.
 -   Add a category or tag to your post using the course tag: LDRS101 (this is needed to harvest links to posts from registered blogs for the course feed).
 
-**Remember**: *You are in charge of what you post online and you decide what you would like to share for your digital identity for the purposes of this course. Don’t share high risk personal details such as your physical address, date of birth, name of first pet, and so on which may make it easier for identity thieves to appear more credible. If unsure, consult online resources for internet safety; for example [Get Cyber Safe](https://www.getcybersafe.gc.ca/en/secure-your-accounts/social-media){target="_blank"}* [-@canadaGetCyberSafe2020] *from the Government of Canada.*
+**Remember**: *You are in charge of what you post online and you decide what you would like to share for your digital identity for the purposes of this course. Don’t share high risk personal details such as your physical address, date of birth, name of first pet, and so on which may make it easier for identity thieves to appear more credible. If unsure, consult online resources for internet safety; for example [Get Cyber Safe](https://www.getcybersafe.gc.ca/en/secure-your-accounts/social-media){target="_blank"}* (2021) *from the Government of Canada.*
 :::
 
 ## Evaluating Digital Tools
@@ -361,9 +361,9 @@ These crucial questions highlight the importance of privacy, data ownership, and
 ::: {.learning-activity time="60"}
 -   Read the following [Tool Evaluation Criteria](https://workforceedtech.org/tool-evaluation-criteria/){target="_blank"}. Note some criteria may not apply to the tool you choose to evaluate. Also see the [Tool Evaluation Scoring Rubric and Notepad](https://docs.google.com/spreadsheets/d/1-zIw01FI0N6NKY2SdOO2PuniUxDxAG-beeTsmxRQru0/edit?usp=sharing/){target="_blank"} (an editable Google Sheet).
 -   Create your own criteria for evaluating digital tools. Set up a spreadsheet or notepad (in Obsidian for example) and as you list your criteria, consider why that detail is important to you. To help you select your criteria, read the following:
-    -   [*Policy Brief: Privacy*](https://www.internetsociety.org/policybriefs/privacy/){target="_blank"} [-@internetsocietyPolicyBriefPrivacy2015]
+    -   [*Policy Brief: Privacy*](https://www.internetsociety.org/policybriefs/privacy/){target="_blank"} (2015)
 
-This next website might be a bit of an eye-opener. You may want to browse through some common tech examples and see their score. - [*Terms of Service. Didn't Read*](https://tosdr.org/){target="_blank"} [@tosdrTermsServiceDidnt]
+This next website might be a bit of an eye-opener. You may want to browse through some common tech examples and see their score. - [*Terms of Service. Didn't Read*](https://tosdr.org/){target="_blank"} (n.d.)
 
 Finally, read the following questions and consider what you want to add to your rubric considering the context of the tool, the terms of service, and the purpose.
 

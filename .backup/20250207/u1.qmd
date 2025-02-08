@@ -284,7 +284,7 @@ While you watch the video think about:
 
 ## Digital Literacies
 
-> Digital literacy is a person's knowledge, skills, and abilities for using digital tools ethically, effectively, and within a variety of contexts in order to access, interpret, and evaluate information, as well as to create, construct new knowledge, and communicate with others. [@governmentofbritishcolumbiaPostsecondaryDigitalLearning, p. 23]
+> Digital literacy is a person's knowledge, skills, and abilities for using digital tools ethically, effectively, and within a variety of contexts in order to access, interpret, and evaluate information, as well as to create, construct new knowledge, and communicate with others. \[governmentofbritishcolumbiaPostsecondaryDigitalLearning, p. 23\]
 
 Literacy, as we commonly understand it, is the ability to *understand* the meaning of texts. It is more than just being able to read. In the same way, digital literacy is the ability to make meaning using digital tools. It is more than simply being able to post to Instagram or TikTok, or whatever app you might use. As the definition above indicates, digital literacy involves using tools *ethically*, to *access, interpret, evaluate, create, construct, and communicate* information and knowledge.
 
@@ -308,6 +308,10 @@ Follow the steps below to install Obsidian on your computer.
 ```{=html}
 <script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 ```
+
+::: prote
+please add the Obsidian H5P \[h5p id="625"\]
+:::
 
 ```{=html}
 <!--
@@ -373,10 +377,9 @@ replaced video
 ### Activity: Reflection on the Evolution of Digital Technologies
 
 :::: {.learning-activity time="10"}
-
 In this next video we will explore the remarkable journey of digital technology. From the first colossal computers to today’s AI-powered smartphones, this video highlights key innovations that have revolutionized how we live, work, and connect.
 
-[Watch: *The Evolution of Digital Technology*](https://www.youtube.com/watch?v=PdqWlByz-NQ){target="_blank"} [-@realeducationEvolutionDigitalTechnology2024]<!-- (2010)-->
+[Watch: *The Evolution of Digital Technology*](https://www.youtube.com/watch?v=PdqWlByz-NQ){target="_blank"} (2010)
 
 {{< video https://www.youtube-nocookie.com/embed/PdqWlByz-NQ >}}
 
@@ -400,7 +403,7 @@ To complete this activity, click "Open Today's Daily Note" in your Obsidian vaul
 Screenshot, Obsidian, Where to Find Today's Daily Note (Icon Circled)
 :::
 
--   Style your text using Markdown codes. [Click here for the basic Markdown syntax](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax){target="_blank"} [@obsidianhelpBasicFormattingSyntax].
+-   Style your text using Markdown codes. Click here for the basic Markdown syntax (n.d.).
 -   Feel free to add images and other media!
 
 Please make sure you add tags to your note. Suggested tags might be #digital-literacy #ldrs101 #macarthur-foundation #john-seely-brown.
@@ -421,7 +424,7 @@ In the next activity, you will start to unpack these terms and prepare your own 
 :::: {.learning-activity time="30"}
 Let's take a look at the definitions of digital literacy and digital skills on the web and identify the difference. Follow the steps below and feel free to jot down some notes in your Obsidian journal. If you are completing this activity on a new day, create a new daily note.
 
--   Read [Wikipedia's definition](https://en.wikipedia.org/wiki/Digital_literacy){target="_blank"} [-@DigitalLiteracy2024] of digital literacy---is this a good description?
+-   Read [Wikipedia's definition](https://en.wikipedia.org/wiki/Digital_literacy){target="_blank"} (2024) of digital literacy---is this a good description?
 -   Scan the #diglit or #digital-literacy hashtags on [X (Twitter)](https://x.com/home){target="_blank"} --- did you find any valuable links to defining digital literacy?
 -   Conduct a Google search for "digital literacy." Select a few definitions you like and record their URLs, for example by adding these to your browser bookmarks.
 -   Conduct a Google search for "digital skills." Select one or two definitions you like and record the URLs.
@@ -455,6 +458,7 @@ Feel free to share your thoughts and experiences by posting on the LDRS 101 Disc
 -   For me, digital literacy means ..."
 ::::
 
+```{=html}
 <!-- ### Activity: Reflecting on the Promise of Technology
 
 ::: {.learning-activity time="20"}
@@ -479,6 +483,7 @@ Record your thoughts in an entry in Obsidian.
 deleting activity
 
 :::-->
+```
 
 ### Activity: Why Digital Literacy Matters
 
@@ -489,7 +494,7 @@ This learning activity will provide you with another opportunity to connect with
 
 Watch the following video and jot down the reasons why digital literacy matters to you, then complete the steps which follow.
 
--   [Watch: *Digital Literacy and Why it Matters*](https://www.youtube.com/watch?v=p2k3C-iB88w){target="_blank"} [-@universityofderbyDigitalLiteracyWhy2014]
+-   [Watch: *Digital Literacy and Why it Matters*](https://www.youtube.com/watch?v=p2k3C-iB88w){target="_blank"} (2014)
 
 {{< video https://www.youtube-nocookie.com/embed/p2k3C-iB88w >}}
 
@@ -510,9 +515,9 @@ Digital literacy encompasses a wide range of capabilities which extend beyond th
 
 Alternatively, you can choose from these resources:
 
--   Take the [Digital Literacy Self-Assessment](https://www.supportedemployment.ca/digital-literacy/digital-literacy-self-assessment/){target="_blank"} [-@canadianassociationforsupportedemploymentDigitalLiteracySelfassessment] from the Canadian Association for Supported Employment **or**
--   Use the [Digital Literacy Self-Assessment Tool](https://thinkspace.csu.edu.au/digitalcitizenshipguideetl523/){target="_blank"} [-@papasDigitalCitizenshipGuide2020] from the Digital Citizenship Guide **or**
--   Explore the *What is Digital Literacy?* page of the [Digital Literacies Toolkit](https://www.elanguages.ac.uk/digital_literacies_toolkit.php){target="_blank"} [-@universityofsouthamptonDigitalLiteraciesToolkit] developed by the University of Southampton.
+-   Take the [Digital Literacy Self-Assessment](https://www.supportedemployment.ca/digital-literacy/digital-literacy-self-assessment/){target="_blank"} (n.d.) from the Canadian Association for Supported Employment **or**
+-   Use the [Digital Literacy Self-Assessment Tool](https://thinkspace.csu.edu.au/digitalcitizenshipguideetl523/){target="_blank"} (2020) from the Digital Citizenship Guide **or**
+-   Explore the *What is Digital Literacy?* page of the [Digital Literacies Toolkit](https://www.elanguages.ac.uk/digital_literacies_toolkit.php){target="_blank"} (n.d.) developed by the University of Southampton.
 
 **Questions to Consider**:
 
@@ -553,7 +558,7 @@ At the same time, if we can imagine the visitor $\leftrightarrow$ resident conti
 ::: {.learning-activity time="10"}
 The video below explains a process to help you think about where you reside on the web.
 
--   [Watch: *Visitors and Residents*](https://www.youtube.com/watch?v=sPOG3iThmRI){target="_blank"} [-@jiscnetskillsVisitorsResidents2014]
+-   [Watch: *Visitors and Residents*](https://www.youtube.com/watch?v=sPOG3iThmRI){target="_blank"} (2014)
 
 {{< video https://www.youtube-nocookie.com/embed/sPOG3iThmRI >}}
 
@@ -584,11 +589,11 @@ For many university students, a Learning Management System (LMS) like Moodle is 
 :::: {.learning-activity time="30"}
 This activity will help you think about how the tools we use shape and sometimes determine the nature of our interactions with each other. Do the tools you use fall on the visitor or the resident end of your continuum? How do these tools impact your learning?
 
--   Read [*Visitors and Residents: A New Typology for Online Engagement*](https://firstmonday.org/ojs/index.php/fm/article/view/3171){target="_blank"} [-@whiteVisitorsResidentsNew2011]
+-   Read [*Visitors and Residents: A New Typology for Online Engagement*](https://firstmonday.org/ojs/index.php/fm/article/view/3171){target="_blank"} (2011)
 -   Create a new canvas in your Obsidian vault and create your own Visitor--Resident Diagram. We have created a sample diagram in the vault.
 
 ::: note
-This diagram can be used to demonstrate your understanding of the course learning outcomes. See the Assessment tab in Moodle for how this activity relates to the assessments in this course.
+This diagram can be used to demonstrate your understanding of the course learning outcomes. See the Assessment tab in Moodle for how this activity relates to the assessments in this course*.*
 :::
 ::::
 
@@ -649,7 +654,7 @@ Get a [password manager](https://en.wikipedia.org/wiki/Password_manager){target=
 ::: {.learning-activity time="20"}
 If you don't already use a password manager, set up an account with [Lastpass](https://www.lastpass.com/){target="_blank"}, [1password](https://1password.com/){target="_blank"}, or the free password manager, [Bitwarden](https://bitwarden.com/){target="_blank"}, to familiarize yourself with how password managers work.
 
-1.  Read [*How to Start Using a Password Manager*](https://www.makeuseof.com/how-to-start-using-password-manager/){target="_blank"} [-@stegnerHowStartUsing2021].
+1.  Read [*How to Start Using a Password Manager*](https://www.makeuseof.com/how-to-start-using-password-manager/){target="_blank"} (2021).
 2.  Create an account on the password manager site and establish a master password (conduct an online search for advice on choosing a secure master password).
 3.  Install the browser extension for your local browser.
 4.  Choose one of the TWU course websites and set up a new secure password using your password manager.
@@ -709,7 +714,7 @@ Prior to completing this activity, let's discuss the practice of writing in a Re
 
 A reflective journal is simply a record of your thoughts. It is a reflection of the way you think and the manner in which you respond to your learning. Journals can consist of traditional note taking, mind maps, pictures, stream-of-consciousness writing, recordings, quotes, sketches, or drawings---whatever you choose to include. Experiment and have fun. The purpose of journaling is to make you an active participant in your learning experiences as you engage in the various activities throughout the course's readings, activities, and discussions. Reflecting upon these learning events will help you gain a deeper understanding of the course materials and help integrate your learning into applied practice in your everyday life and work. Throughout the course, we will remind you to write in your journal, as we want to be sure you are actively learning the material. To assist you, we have provided you with questions you can ask yourself in order to get your creative energies flowing. Reflective journaling is an activity you can and should complete on a regular or daily basis, even beyond the prompting in course activities.
 
-[Watch: *Reflective Writing*](https://www.youtube.com/watch?v=QoI67VeE3ds){target="_blank"} [-@skillsteamuniversityofhullReflectiveWriting2014]
+[Watch: *Reflective Writing*](https://www.youtube.com/watch?v=QoI67VeE3ds){target="_blank"} (2014)
 
 {{< video https://www.youtube-nocookie.com/embed/QoI67VeE3ds >}}
 
