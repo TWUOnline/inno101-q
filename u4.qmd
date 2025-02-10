@@ -96,7 +96,12 @@ Next, consider the approach taken at TWU as it supports inquiry-rich learning. A
 
 [Watch: *Inquiry-Rich Learning*](https://www.youtube.com/watch?v=SCa9Nt3X1vU){target="_blank"} [-@trinitywesternuniversityInquiryrichLearning2018] <!-- Auto title, auto embed-->
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/SCa9Nt3X1vU >}}
+
+</div>
+
 :::
 
 ### Activity: Visualizing Your Personal Learning Environment?
@@ -222,7 +227,12 @@ Here is a tutorial on how to add a YouTube video or embed one of your own videos
 
 [Watch: *WordPress How To Add Video To A Page Or Post*](https://www.youtube.com/watch?v=3hCMpnok2Kw){target="_blank"} [-@createwpsiteWordPressHowAdd2021]
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/3hCMpnok2Kw >}}
+
+</div>
+
 :::
 
 ::: {.accordion title="7. Publish!"}
@@ -270,7 +280,11 @@ We need to distinguish between the technical and human elements of online identi
 ::: {.learning-activity time="45"}
 -   Watch [*What is a Digital Footprint?*](https://www.youtube.com/watch?v=dmQGq_FNBpE){target="_blank"} [-@lpubacademiccenterWhatDigitalFootprint2021] and consider the steps you would take to control your digital footprint.
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/dmQGq_FNBpE >}}
+
+</div>
 
 Next, read the following:
 
@@ -296,7 +310,11 @@ In addition to evaluating who you are online, ask yourself, "why should I care?"
 
 -   Watch [*Four Reasons to Care About Your Digital Footprint*](https://www.youtube.com/watch?v=Ro_LlRg8rGg){target="_blank"} [-@internetsocietyFourReasonsCare2016].
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/Ro_LlRg8rGg >}}
+
+</div>
 
 Next, select from the resources below to inform your views.
 
@@ -309,7 +327,12 @@ Finally, consider how much someone could find out about you from your digital fo
 
 -   [*Amazing Mind Reader Reveals his 'Gift'*](https://www.youtube.com/watch?v=F7pYHN9iC9I){target="_blank"} [-@duvalguillaumeAmazingMindReader2012]
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/F7pYHN9iC9I >}}
+
+</div>
+
 :::
 
 ### Activity: Digital Footprint Audit

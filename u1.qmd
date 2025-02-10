@@ -277,6 +277,8 @@ In the following video, Dr. Timothy Stafford explores the transformative power o
 
 </div>
 
+</div>
+
 While you watch the video think about:
 
 -   What is heutagogy?
@@ -296,7 +298,11 @@ What digital tools do you use to help you make meaning? What is your "go-to" app
 
 [Watch: *This is Obsidian*](https://www.youtube.com/watch?v=d2FNqEDGc8g){target="_blank"} <!-- Auto title, auto embed-->
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/d2FNqEDGc8g >}}
+
+</div>
 
 ### Activity: Getting Started With Obsidian
 
@@ -376,7 +382,11 @@ In this next video we will explore the remarkable journey of digital technology.
 
 [Watch: *The Evolution of Digital Technology*](https://www.youtube.com/watch?v=PdqWlByz-NQ){target="_blank"} [-@realeducationEvolutionDigitalTechnology2024]<!-- (2010)-->
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/PdqWlByz-NQ >}}
+
+</div>
 
 While you watch the video think about:
 
@@ -460,7 +470,11 @@ Watch technology strategist and educator, Shauna Begley, in this engaging talk w
 
 -   [Watch: *Digital Literacy: Realizing the Promise of Technology \| Shauna Begley \| TEDxRoyalRoadsU*](https://www.youtube.com/watch?v=oGwSzp2xBU4){target="_blank"} (2023)
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/oGwSzp2xBU4 >}}
+
+</div>
 
 **Questions to Consider**
 
@@ -489,7 +503,11 @@ Watch the following video and jot down the reasons why digital literacy matters 
 
 -   [Watch: *Digital Literacy and Why it Matters*](https://www.youtube.com/watch?v=p2k3C-iB88w){target="_blank"} [-@universityofderbyDigitalLiteracyWhy2014]
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/p2k3C-iB88w >}}
+
+</div>
 
 -   Go to the LDRS 101 section in Discourse
 -   Post a contribution to the discussion on digital literacies and why they are important for you
@@ -553,7 +571,11 @@ The video below explains a process to help you think about where you reside on t
 
 -   [Watch: *Visitors and Residents*](https://www.youtube.com/watch?v=sPOG3iThmRI){target="_blank"} [-@jiscnetskillsVisitorsResidents2014]
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/sPOG3iThmRI >}}
+
+</div>
 
 **Questions to Consider:**
 
@@ -709,7 +731,11 @@ A reflective journal is simply a record of your thoughts. It is a reflection of 
 
 [Watch: *Reflective Writing*](https://www.youtube.com/watch?v=QoI67VeE3ds){target="_blank"} [-@skillsteamuniversityofhullReflectiveWriting2014]
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/QoI67VeE3ds >}}
+
+</div>
 
 Here are some common questions used for reflective journaling. As you read them, consider what you have learned in this first unit.
 

@@ -19,7 +19,11 @@ In your reflective post, provide the following:
 
 To help you structure your writing, see the following video on [Reflective Writing](https://www.youtube.com/watch?v=SntBj0FIApw){target="_blank"}
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/SntBj0FIApw?si=wQ68B7k5Wd6ubEFF >}}
+
+</div>
 
 Your post should cover the following aspects:
 

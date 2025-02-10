@@ -76,7 +76,11 @@ In this course we have promoted the use of tools that allow you to share your le
 :::: {.learning-activity time="30"}
 Watch [What is Social Learning?](https://www.youtube.com/watch?v=AB-_822TRms){target="_blank"} [-@brandlearningWhatSocialLearning2017]
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/AB-_822TRms >}}
+
+</div>
 
 -   Read [Social Learning in Online Environments](https://openpress.usask.ca/humanmooc/chapter/social-learning-in-online-environments/){target="_blank"} [@spellman-cannSocialLearningOnlinea] on how we learn in community.
 -   Read [Social Learning vs. Community Based Learning: What’s the Difference?](https://www.corporatelearningnetwork.com/learning-design/articles/social-learning-vs-community-based-learning-whats-the-difference){target="_blank"} [@mariaSocialLearningVs2022] from a corporate HR Learning and Development perspective.
@@ -139,7 +143,11 @@ Below we'll briefly explore technology and change, artificial intelligence, and 
 :::: {.learning-activity time="20"}
 [Watch: *What is the Future of Work?*](https://www.youtube.com/watch?v=EuDnSqAo784){target="_blank"} [-@worldeconomicforumWhatFutureWork2022] from the World Economic Forum.
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/EuDnSqAo784 >}}
+
+</div>
 
 What do you think? Share your thoughts by posting a comment on Discourse, for example:
 
@@ -210,7 +218,11 @@ If you have any question about the use of AI applications for course work, pleas
 
 -   Watch [How AI Could Save (Not Destroy) Education](https://www.youtube.com/watch?v=hJP5GqnTrNo){target="_blank"} [-@khanHowAICould2023]
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/hJP5GqnTrNo >}}
+
+</div>
 
 Here is one more article that discusses the pros and cons of English learners using AI in their studies:
 
@@ -240,7 +252,11 @@ Consider trying out ChatGPT to see if you can spot the ways to identify AI gener
 
 -   [Watch: *Plagiarizing ChatGPT - Is it Illegal?*](https://www.youtube.com/watch?v=zuvN8_6QIKk){target="_blank"} [-@marklydaPlagiarizingChatGPTIt2022]
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/zuvN8_6QIKk >}}
+
+</div>
 
 In this course, here is the policy we follow:
 
@@ -277,7 +293,11 @@ In this section we consider the impact of automation on the future job market an
 -   Read [*Collaborative Intelligence: Humans and AI are Joining Forces*](https://hbr.org/2018/07/collaborative-intelligence-humans-and-ai-are-joining-forces){target="_blank"} [-@CollaborativeIntelligenceHumans].
 -   Watch [AI Automation And The Future Of The Workforce](https://www.youtube.com/watch?v=NBLeWpOqhAo){target="_blank"} [-@AIAutomationFuture]
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/NBLeWpOqhAo >}}
+
+</div>
 
 Consider your chosen field of study. How can AI benefit your industry? Are there any concerns regarding how AI might be used?
 :::
@@ -292,7 +312,11 @@ AI systems require lots of work from humans to function correctly. A 2023 report
 -   Read [OpenAI Used Kenyan Workers on Less Than \$2 Per Hour to Make ChatGPT Less Toxic](https://time.com/6247678/openai-chatgpt-kenya-workers/){target="_blank"} [-@perrigoOpenAIUsedKenyan2023a] and [Inside Facebook's African Sweatshop](https://time.com/6147458/facebook-africa-content-moderation-employee-treatment/){target="_blank"} [-@perrigoFacebooksAfricanSweatshop2022]
 -   Watch [Doing Grueling Work for an AI: Data Labeling](https://www.youtube.com/watch?v=ug_p2wHhla0){target="_blank"} (2023)
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/ug_p2wHhla0 >}}
+
+</div>
 
 **Questions to Consider:**
 
@@ -353,7 +377,11 @@ Watch this *Matrix* parody, a comedy skit published by CollegeHumour, depicting 
 
 -   Watch [The Terrifying Cost of "Free" Websites](https://www.youtube.com/watch?v=5pFX2P7JLwA){target="_blank"} [-@TerrifyingCostFree]
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/5pFX2P7JLwA >}}
+
+</div>
 
 Were you surprised by any ideas presented in the video? Do you think this is a valid and reliable source for the topic?
 :::
@@ -514,11 +542,20 @@ Check out these two videos that share signs to help you identify online imperson
 
 -   [Watch: *How To Spot a SCAM Email (8 Ways)*](https://www.youtube.com/watch?v=C5jIvj7EcqE){target="_blank"} (2022)
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/F57DE05FpgQ?si=0ST8TLfI3KwFoGNi >}}
+
+</div>
 
 -   [Watch: *Cyber Sandra's Hacks - Social Media Impersonation*](https://www.youtube.com/watch?v=Ta6qq7wnpcA){target="_blank"} [-@cybersecurityagencyofsingaporeCyberSandrasHacks2021]
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/Ta6qq7wnpcA >}}
+
+</div>
+
 :::
 
 ### Activity: Case Study on Catfishing
@@ -534,7 +571,11 @@ Dr. Alec Couros is Associate Professor of Information and Communication Technolo
 -   Visit this website that reports online scams: [ScamDigger Forum](https://romancescam.com/){target="_blank"} (n.d.).
 -   [Watch: *How to Detect a Facebook Scammer With Google Reverse Image Search*](https://www.youtube.com/watch?v=s6Q4U8DvJH8){target="_blank"} [-@aleccourosHowDetectFacebook2014]
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/s6Q4U8DvJH8 >}}
+
+</div>
 
 Optional reading: (expletive warning)
 
@@ -564,7 +605,11 @@ In this section we explore the phenomenon of internet trolling and strategies fo
     -   [Internet Trolling: How do you Spot a Real Troll?](https://www.lifewire.com/what-is-internet-trolling-3485891){target="_blank"} [@moreauHereWhatYou2024]
 -   Watch [The Secret Confessions of an Internet Troll](https://www.youtube.com/watch?v=5BQp3V_34BE){target="_blank"} [-@SecretConfessionsInternet]
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/5BQp3V_34BE >}}
+
+</div>
 
 -   Read the following articles and add or reply to annotations on Hypothes.is, focusing on how the research relates to your own online experience. Remember to tag your posts using the course code: LDRS101.
     -   ['Don't Feed the Trolls' Really is Good Advice -- Here's the Evidence](https://theconversation.com/dont-feed-the-trolls-really-is-good-advice-heres-the-evidence-63657){target="_blank"} [-@DontFeedTrolls]
@@ -642,7 +687,11 @@ Watch this fascinating TedTalk video:
 
 -   [Watch: *Connected, but Alone?*](https://www.youtube.com/watch?v=t7Xr3AsBEK4){target="_blank"} [-@turkleConnectedAlone2012]
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/t7Xr3AsBEK4 >}}
+
+</div>
 
 -   Jot down your thoughts in your Reflective Journal (Obsidian).
 -   Finally, read the following article which summarizes a number of psychological disorders related to our use of digital technology:
@@ -715,11 +764,20 @@ Watch the following videos that explain the importance of net neutrality.
 
 [*Net Neutrality Explained*](https://www.youtube.com/watch?v=p90McT24Z6w){target="_blank"} [-@thewallstreetjournalNetNeutralityExplained2015]
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/p90McT24Z6w >}}
+
+</div>
 
 [*Internet Citizens: Defend Net Neutrality*](https://www.youtube.com/watch?v=wtt2aSV8wdw){target="_blank"} [-@cgpgreyInternetCitizensDefend2014]
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/wtt2aSV8wdw >}}
+
+</div>
+
 :::
 
 ### Activity: Perspectives on Net Neutrality
@@ -815,7 +873,11 @@ Digital redlining is a global concern, including Canada. While Canada is known f
 
 -   Watch [*Seneca Nation disconnected by Redlining*](https://www.youtube.com/watch?v=J5NV9BJx1_M){target="_blank"} [-@wgrztvSenecaNationDisconnected2021]
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/J5NV9BJx1_M >}}
+
+</div>
 
 This report highlights the digital disparities faced by Indigenous communities in Canada. Many Indigenous communities, especially those in remote areas, lack reliable high speed internet access, which hampers their ability to participate fully in the digital world. This limitation affects various aspects of life, including education, health care, economic opportunities, and cultural preservation.
 
@@ -891,7 +953,11 @@ As you explore the following resources, consider the following quote:
     -   [Men Explain Technology to Me: On Gender, Ed-Tech, and the Refusal to Be Silent](http://hackeducation.com/2014/11/18/gender-and-ed-tech){target="_blank"} (2014)
 -   Watch [Audrey Explains men Explaining Technology to her](https://www.youtube.com/watch?v=DMjP_p01foo){target="_blank"} (2017)
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/DMjP_p01foo >}}
+
+</div>
 
 Next, consider the following quote from Steph Guthrie's 2013 Tedx Talk:
 
@@ -901,7 +967,11 @@ Next, consider the following quote from Steph Guthrie's 2013 Tedx Talk:
 
 -   Watch[The Problem with "Don't Feed the Trolls"](https://www.youtube.com/watch?v=_KHEkR5yb9A){target="_blank"} (2013)
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/_KHEkR5yb9A >}}
+
+</div>
 
 **Questions to Consider:**
 
@@ -951,11 +1021,20 @@ Here are a couple of contrasting points of view. If you choose to write a social
 -   **Watch**:
 -   [Diversity, Equity & Inclusion. Learning How to Get it Right](https://www.youtube.com/watch?v=HR4wz1b54hw){target="_blank"} (2023)
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/HR4wz1b54hw >}}
+
+</div>
 
 -   [Equity: The Thief of Human Potential](https://www.youtube.com/watch?v=8WYi-64MejU){target="_blank"} (2023)
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/8WYi-64MejU >}}
+
+</div>
+
 :::
 
 ### Activity: DEI and Practising Christian Hospitality

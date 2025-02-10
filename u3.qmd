@@ -158,7 +158,11 @@ As you saw at the beginning of this unit, sense-making is the **work** of learni
 
 -   Watch [The Matrix - 'I Know Kung Fu'](https://www.youtube.com/watch?v=0YhJxJZOWBw){target="_blank"} [-@clipsbluMatrixKnowKung2019]
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/0YhJxJZOWBw >}}
+
+</div>
 
 Tags and links in Obsidian can be visualized using graph view, but as this is an algorithmically generated map of the connections between ideas and files in your vault, there is little you can do to customize it. Fortunately, Obsidian also features a tool called the Canvas, which is a blank space that you can use to manually connect ideas in a visual format, allowing you to see connections and relationships that make sense to you. The following video is a brief explanation of how to use the Canvas in Obsidian.
 
@@ -167,7 +171,11 @@ Tags and links in Obsidian can be visualized using graph view, but as this is an
 ::: {.learning-activity time="30"}
 -   Watch [*Mind Mapping in Obsidian Canvas*](https://www.youtube.com/watch?v=eHI-Szjpafk){target="_blank"} [-@zhaoMindMappingObsidian2023]. As you watch, follow the directions and to create a concept map in Obsidian. At the end of this unit, you will create a concept map for Units 1-3. Practice using notes, media, cards, and grouping features in a mind map.
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/eHI-Szjpafk >}}
+
+</div>
 :::
 
 ```{=html}

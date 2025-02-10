@@ -404,7 +404,11 @@ This activity focuses on searching database repositories. Most databases provide
     -   [Directory of Open Access Journals (DOAJ)](https://doaj.org/){target="_blank"} -- see also FAQs
 -   Watch the following video on using the [*Directory of Open Access Journals (DOAJ)*](https://www.youtube-nocookie.com/embed/ndvLm9MIfKA){target="_blank"} [-@mmulibraryservicesDirectoryOpenAccess2016]
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/ndvLm9MIfKA >}}
+
+</div>
 
 -   Using your keywords and synonyms generated for your research question, search for journal articles using the DOAJ search engine and BASE Advanced Search.
 -   As appropriate, adapt your search by narrowing or expanding---remember to be flexible; if one term doesn't work, try a different one.
@@ -439,7 +443,11 @@ So how do you evaluate sources to ensure those you are using are credible? The f
 ::: {.learning-activity time="30"}
 -   [Watch *How Library Stuff Works: How to Evaluate Resources (the CRAAP Test)*](https://www.youtube.com/watch?v=_M1-aMCJHFg){target="_blank"} [@mcmasteruniversitylibrariesHowLibraryStuff2015]. This illustrates a set of steps you could take to evaluate sources.
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/_M1-aMCJHFg >}}
+
+</div>
 
 **Questions To Consider:**
 
@@ -469,7 +477,11 @@ Do you agree? Have you cited Wikipedia in any academic work? Why or why not?
     -   [Reliability of Wikipedia](https://en.wikipedia.org/wiki/Reliability_of_Wikipedia){target="_blank"} article on Wikipedia.
 -   [*Watch:* *How to Use Wikipedia Wisely*](https://www.youtube-nocookie.com/embed/ZzcjS1aDojA){target="_blank"} [-@HowUseWikipedia]
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/ZzcjS1aDojA >}}
+
+</div>
 
 Drawing on your study of the reliability and credibility of online resources, share your advice to fellow learners in this course regarding the use of Wikipedia for academic purposes by posting a comment on Discourse. For example:
 
@@ -493,7 +505,12 @@ Now that you have a handful of references to keep track of, it's time to get sta
 ::: {.learning-activity time="30"}
 Before you explore the next essential tool, watch [*Benefits of Using Citation Management Tools*](https://youtu.be/sy9PVZAbSAQ){target="_blank"} (n.d.).
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/sy9PVZAbSAQ >}}
+
+</div>
+
 :::
 
 #### Download and Install Zotero {.unnumbered}
@@ -548,7 +565,11 @@ Now that you have connected LitMaps to Zotero, let's explore how to use Zotero i
 
 -   **Watch**: review the basics of Zotero by watching [*What is Zotero?*](https://www.youtube.com/watch?v=5xClqW2Jv04){target="_blank"} [-@wwulibrariesWhatZotero2019]
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/5xClqW2Jv04 >}}
+
+</div>
 
 Now, let's start using it. Go to LitMaps, TWU Library, or Google Scholar and find articles that interest you. Populate your library with the following resources to support a research topic that interests you.
 
@@ -570,13 +591,21 @@ Next, experiment with some of the Zotero annotation features.
 
 -   [Watch:*How to Annotate PDFs in Zotero*](https://www.youtube.com/watch?v=lGeJCsNHBR4){target="_blank"} [-@sciencegradschoolcoachHowAnnotatePDFs2023] for instructions.
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/lGeJCsNHBR4 >}}
+
+</div>
 
 If you want to take the next step, let's make your tools work together.
 
 -   Watch the [video on Zotero and Obsidian integration](https://www.youtube.com/watch?v=CGGeMrtyjBI?){target="_blank"} [-@dannytalkstechWritingZoteroObsidian2022] and see the features offered when you integrate these tools.
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/CGGeMrtyjBI >}}
+
+</div>
 
 Be sure to document your learning process and reflect on how you might use Zotero or another citation management tool in your studies.
 :::
@@ -620,7 +649,11 @@ Watch this quick overview from the OER Foundation: [*Open Access Explained*](htt
 
 [Watch: *Open Access Explained*](https://vimeo.com/557927481){target="_blank"}
 
+<div class="video-container">
+
 {{< video https://vimeo.com/557927481 >}}
+
+</div>
 
 ```{=html}
 <!-- 
@@ -658,7 +691,11 @@ Go to the [Open Educational Resources Libguide](https://libguides.twu.ca/oer){ta
 
 -   Watch [*How to use OER*](https://www.youtube.com/watch?v=Hkz4q2yuQU8){target="_blank"} [-@theogrepositoryCreatingOERCombining2012a], then browse through the categories of OERs by discipline provided. Take some time to find an OER that relates to a topic that interests you.
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/Hkz4q2yuQU8?si=w_NnJz0_183z6NRH >}}
+
+</div>
 
 -   Create an entry in Obsidian about an OER resource you found. Use the CRAAP test to evaluate it and explain why this resource interests you.
 :::
@@ -670,7 +707,11 @@ So how do open educational resources affect you as a student? Why should you car
 
 -   Watch [*A Review of the Effectiveness & Perceptions of Open Educational Resources as Compared to Textbooks*](https://www.youtube.com/watch?v=SX0K0hb_xKE){target="_blank"} [-@researchshortsReviewEffectivenessPerceptions2016]
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/SX0K0hb_xKE >}}
+
+</div>
 
 -   For more information on OER Advocacy, see the chapter on [How to Advocate on Your Campus](https://opentextbc.ca/studenttoolkit/chapter/step-three-how-to-advocate-on-your-campus/){target="_blank"} <!-- [-@munroStepThreeHow2016] -->in the OER Student Toolkit.
 -   Create an entry in Obsidian about the benefits of OERs.

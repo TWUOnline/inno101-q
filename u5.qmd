@@ -143,7 +143,11 @@ Following the hype of massive open online courses (MOOC) and the New York Times 
 :::: {.learning-activity time="60"}
 -   [Watch: *Your Digital Rights and Responsibilities\| Being a Good Digital Citizen*](https://www.youtube.com/watch?v=QpNeavL0Dfw){target="_blank"}
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/QpNeavL0Dfw?si=XfwJf6D-96WsjSZO >}}
+
+</div>
 
 -   Conduct a general search for rights and responsibilities of digital citizenship to assist in refining your own list for university online study. Your search is likely to generate many results developed for the school sector, so you need to evaluate whether these rights and responsibilities are appropriate for you.
 -   Read the following and then conduct a search through the TWU library for digital rights and responsibilities.
@@ -184,8 +188,11 @@ In this activity we will explore professional online identity and networking in 
 -   Watch the short video [Watch: *Using Twitter effectively in education - with Alec Couros*](https://www.youtube.com/watch?v=EqSCR3HU4eg){target="_blank"} [-@teachingandlearninginsouthaustraliaUsingTwitterEffectively2013]Couros summarizes how educators are using Twitter (now X) to connect professionally.
 
 [Watch: *Using Twitter effectively in education - with Alec Couros*](https://www.youtube.com/watch?v=EqSCR3HU4eg){target="_blank"} [-@teachingandlearninginsouthaustraliaUsingTwitterEffectively2013]
+<div class="video-container">
 
 {{< video https://www.youtube-nocookie.com/embed/EqSCR3HU4eg >}}
+
+</div>
 
 -   Finally, visit [the LinkedIn help page](https://www.linkedin.com/help/linkedin/answer/a544795){target="_blank"} on finding and joining a LinkedIn group.
 
@@ -325,7 +332,11 @@ As you reflect on digital practices in university and the workplace, consider ho
 
 -   Watch [*Communities of Practice (Etienne and Beverly Wenger-Trayner)*](https://www.youtube.com/watch?v=SmqLyOLIjos){target="_blank"} [-@skillsacademiaresearch&insightscollectiveCommunitiesPracticeEtienne2022]
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/SmqLyOLIjos >}}
+
+</div>
 
 -   To learn more about the origins and theory of communities of practice, see [*Introduction to Communities of Practice*](http://wenger-trayner.com/introduction-to-communities-of-practice){target="_blank"} [-@wenger-traynerIntroductionCommunitiesPractice2015]
 
@@ -373,7 +384,11 @@ Hypothes.is an open source platform that allows users to annotate any website, c
 
 -   Watch [*How to Annotate the Web with hypothes.is*](https://www.youtube.com/watch?v=e235JwmmEcQ){target="_blank"} [-@digitalwriting&researchlabHowAnnotateWeb2017] <!-- Auto title, auto embed-->
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/e235JwmmEcQ >}}
+
+</div>
 
 Finally, skim these articles highlighting the benefits of using annotative tools such as Hypothes.is:
 
@@ -418,7 +433,11 @@ In this activity we will explore how social media can support online learning an
 -   Read [*Social Media for Learning*](https://www.shu.ac.uk/digital-skills/personal/social-media-for-learning){target="_blank"} [-@UsingSocialMediaa]
 -   Watch [*Building More Creative Social Networks*](https://www.youtube.com/watch?v=Acc4zY1sQ0o){target="_blank"} [-@universityofrochesterBuildingMoreCreative2020a]
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/Acc4zY1sQ0o >}}
+
+</div>
 
 -   Check out [*The Conversation Prism*](https://www.briansolis.com/2008/08/introducing-conversation-prism-html/){target="_blank"} [-@adminIntroducingConversationPrism2008a] and also refer to the graphic below listing numerous apps for listening, learning, and adapting (click the graphic to enlarge).
 
