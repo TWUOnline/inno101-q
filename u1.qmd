@@ -114,7 +114,7 @@ Online learning requires additional skills differing from face-to-face learning,
 Here are a couple more ways you can hone your online learning skills:
 
 ::: {#fig-image2}
-![](assets/u1/4.%20LDRS%20101_Learning%20online.png){.lightbox fig-alt="Tips for Successful Online Learning" fig-align="left"}
+![](assets/u1/4.%20LDRS%20101_Learning%20online.png){.lightbox fig-alt="Tips for Successful Online Learning" fig-align="left" width="500"}
 
 Tips for Successful Online Learning
 :::
