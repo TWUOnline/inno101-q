@@ -10,7 +10,11 @@ There will be two primary branches of the course, each focusing on specific tool
 
 See the following graphic that gives an overview of the structure of the course, including important tools we will explore.
 
-![](assets/u1/3.%20LDRS%20101_Overview.png)
+::: {#fig-image1}
+![](assets/u1/3.%20LDRS%20101_Overview.png){.lightbox fig-alt="Overview of the Structure of the Course: Learning with Technology" fig-align="left" width="800"}
+
+Overview of the Structure of the Course: Learning with Technology
+:::
 
 In this first unit, there will be both theoretical and practical work for you to do. We start with some basic instructions and advice on technology and learning online. Then, in order to build a theoretical understanding of digital tools for learning we will explore the idea of "the digital" in the context of contemporary society. At the same time, there are some important practicalities to manage in order to get set up for the course, so we will lead you through installing some apps on your computer that you will use extensively in this course, and which hopefully will become the backbone of your digital workflow throughout your time in higher education and beyond.
 
@@ -109,7 +113,11 @@ Online learning requires additional skills differing from face-to-face learning,
 
 Here are a couple more ways you can hone your online learning skills:
 
-![](assets/u1/4.%20LDRS%20101_Learning%20online.png)
+::: {#fig-image2}
+![](assets/u1/4.%20LDRS%20101_Learning%20online.png){.lightbox fig-alt="Tips for Successful Online Learning" fig-align="left"}
+
+Tips for Successful Online Learning
+:::
 
 ```{=html}
 <!-- -   **Active participation:** Actively engage in online discussions, forums, and virtual class sessions to enhance your understanding and connect with peers.
@@ -277,8 +285,6 @@ In the following video, Dr. Timothy Stafford explores the transformative power o
 
 </div>
 
-</div>
-
 While you watch the video think about:
 
 -   What is heutagogy?
@@ -348,7 +354,7 @@ To give you a head start, we have created a starter vault for you to download an
 -   Move the compressed file to your Documents folder
 -   Unzip or extract the contents of the file; you should see a list of files similar to the image below
 
-::: {#fig-image1}
+::: {#fig-image3}
 ![](assets/u1/vault-contents.png){.lightbox fig-alt="Screenshot, Obsidian extracted files listed" fig-align="left"}
 
 Screenshot of Extracted Files List on Obsidian
@@ -357,7 +363,7 @@ Screenshot of Extracted Files List on Obsidian
 -   Rename the folder to ldrs101-\[firstname-lastname\] (use all lowercase letters and a dash instead of spaces)
 -   Open Obsidian and click the "Open another vault" icon in the bottom left corner
 
-::: {#fig-image2}
+::: {#fig-image4}
 ![](assets/u1/obsidian2.png){.lightbox fig-alt="Screenshot, Obsidian, with three icons on far left" fig-align="left"}
 
 Screenshot of the Open Another Vault Button in Obsidian
@@ -761,7 +767,7 @@ In this activity you are asked to write a reflective journal entry on the topic 
 First, let's get you set up in Obsidian. Click the little calendar icon in the sidebar of Obsidian to open today's daily note.
 
 ::: {#fig-obsidian1}
-![](assets/u1/obsidian1.png){.lightbox fig-alt="Screenshot showing where to find daily note icon in Obsidian" fig-align="left"}
+![](assets/u1/obsidian1.png){.lightbox fig-alt="Screenshot showing where to find daily note icon in Obsidian" fig-align="left" width="340"}
 
 Screenshot of the Daily Note Icon in Obsidian (Circled)
 :::
