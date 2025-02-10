@@ -271,7 +271,11 @@ In the following video, Dr. Timothy Stafford explores the transformative power o
 
 [Watch: *The Future of Education is Self-Directed Learning*](https://www.youtube.com/watch?v=NkmiquiJ_nA){target="_blank"} [-@tedxtalksFutureEducationSelfDirected2024]
 
+<div class="video-container">
+
 {{< video https://www.youtube-nocookie.com/embed/NkmiquiJ_nA >}}
+
+</div>
 
 While you watch the video think about:
 
