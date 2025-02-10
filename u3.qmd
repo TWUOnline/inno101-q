@@ -20,9 +20,14 @@ This unit is divided into the following topics:
 
 When you have completed this unit you will be able to:
 
--   Build and customize technology integrated workflows to enhance and enrich your learning journey
+<!-- -   Build and customize technology integrated workflows to enhance and enrich your learning journey
 -   Practice evaluative judgment to document your process of learning in complex domains of knowledge
--   Evaluate digital tools, platforms, and interactions based on ethical principles
+-   Evaluate digital tools, platforms, and interactions based on ethical principles-->
+- Use hyperlinks and tags to create meaningful connections between ideas and enhance knowledge synthesis.
+- Apply digital note-taking strategies to capture, organize, and review key concepts effectively.
+- Create concept maps to visually represent complex relationships and deepen understanding of interconnected ideas.
+- Evaluate digital tools for their effectiveness in supporting diverse learning styles and knowledge organization.
+- Develop a structured workflow that integrates linking, tagging, note-taking, and visualization techniques to enhance learning.
 
 ### Learning Activities {.unnumbered}
 
@@ -256,8 +261,6 @@ Here are a couple of resources to guide you as you create your mind map
 ***Note:*** This is a key activity you will use in Assignments 1 and 3 to demonstrate your understanding of the course learning outcomes.
 :::
 ::::
-
-<!-- hide comment //todo  - Kelly to add above activity resources to Zotero  -->
 
 ## Summary {.unnumbered}
 

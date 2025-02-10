@@ -170,7 +170,7 @@ On the one hand, we need to be careful about what we post online because this ca
 
 In this section, we reflect on the balance between public and private in a digital world, recognizing that this is going to be different for each person depending on their own environments and professional circumstances. We will also explore how like-minded professionals in your field of interest network online.
 
-> The … impact exercised by ICTs is due to at least four major transformations: “the blurring of the distinction between reality and virtuality,” “ the blurring of the distinction between human, machine and nature,” “the reversal from information scarcity to information abundance,” and “the shift from the primacy of stand-alone things, properties, and binary relations, to the primacy of interactions, processes and networks. (Floridi, 2015, p. 2)<!-- //todo -->
+> <!-- //todo #28 -->The … impact exercised by ICTs is due to at least four major transformations: “the blurring of the distinction between reality and virtuality,” “ the blurring of the distinction between human, machine and nature,” “the reversal from information scarcity to information abundance,” and “the shift from the primacy of stand-alone things, properties, and binary relations, to the primacy of interactions, processes and networks. (Floridi, 2015, p. 2)
 
 ### Activity: Professional Online Identity and Digital Citizenship
 
@@ -341,7 +341,8 @@ Online communities are varied and can be categorized by their purpose: social, a
 
 What are your goals?
 
--   Do you want to connect with TWU peers? Is your focus on academic support or building personal relationships? <!-- //todo #17 -->- Are you interested in the communities that relate to your chosen profession? If so, do a quick search for online communities for a career that interests you (e.g., for businesses: [20 Best Online Community Platforms of 2024 (Ranked)](https://www.mightynetworks.com/resources/community-platforms){target="_blank"}).
+-   Do you want to connect with TWU peers? Is your focus on academic support or building personal relationships? <!-- //todo #17 -->
+- Are you interested in the communities that relate to your chosen profession? If so, do a quick search for online communities for a career that interests you (e.g., for businesses: [20 Best Online Community Platforms of 2024 (Ranked)](https://www.mightynetworks.com/resources/community-platforms){target="_blank"}).
 -   Do you want to engage with online communities that align with your personal interests? (e.g., sports, arts, politics, gardening, coding)
 -   Write down your goals for joining an online community. Next, consider the networks you are currently a part of. You may want to refer back to Unit 1 in which you created a Personal Learning Network map.
 -   Now, with a focus on networking create your own Social Map. See the following example from [Brian Solis](https://briansolis.com/about/){target="_blank"}, a digital analyst, anthropologist and author.

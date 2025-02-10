@@ -545,9 +545,9 @@ Feel free to share personal reflections on the phenomenon of online impersonatio
 
 ### Internet Trolling {.unnumbered}
 
-> Sometimes trolls live under bridges. But not everyone living under a bridge is a troll. (Wikimedia Foundations, n.d.)<!-- //todo -->
+> <!-- //todo #29 -->Sometimes trolls live under bridges. But not everyone living under a bridge is a troll. (Wikimedia Foundations, n.d.)
 
-It is estimated that that the internet has about 5.35 billion users, almost half the population of the world (Tsvetkova, 2023).<!-- //todo --> With the growing number of internet and social media users we are witnessing an increase in antisocial behaviour online.
+<!-- //todo #30 -->It is estimated that that the internet has about 5.35 billion users, almost half the population of the world (Tsvetkova, 2023). With the growing number of internet and social media users we are witnessing an increase in antisocial behaviour online.
 
 In this section we explore the phenomenon of internet trolling and strategies for managing disruptive online behaviour, taking the communication context into account.
 

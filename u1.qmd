@@ -82,9 +82,7 @@ In this first learning activity, take a few minutes to think about why you enrol
 Choose a note-taking tool that works best for you (e.g., a Word document, a physical notebook, or a note-taking app). Write down your thoughts to address the following:
 
 -   Three specific goals you have for this course.
-
 -   One potential challenge and how you plan to address it.
-
 -   How you will measure your success at the end of the course.
 
 ::: note
@@ -92,6 +90,8 @@ Notes:
 
 -   This activity is ungraded and intended to help you take ownership of your learning journey.
 -   Feel free to revisit your notes throughout the course as your goals and challenges may evolve.
+-   In this unit, you will be introduced to a note-taking tool that includes a template to help you track your progress throughout the course.
+
 :::
 ::::
 
@@ -225,8 +225,6 @@ Here are some examples of how to stimulate your own and others’ thinking:
 <script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 ```
 
-<!-- //todo cannot find article on Zotero-->
-
 For more on substantive participation, read [*Writing a Substantive Discussion Post for an Online Class Forum*](https://apuedge.com/writing-a-substantive-discussion-post-for-an-online-class-forum/){target="_blank"} [-@pateteWritingSubstantiveDiscussion2016].
 
 ### Activity: Join the Hub!
@@ -327,10 +325,6 @@ Obsidian will become a backbone of this course as we will use it to learn how th
 
 ::: note
 *Note:* For your assignments, you may choose a tool other than Obsidian.  However, you will need to demonstrate all the required elements (tagging, hyperlinking, file management, citation management integration, graphic organizers, etc.) to demonstrate your proficiency in building a technology-integrated workflow. You are strongly encouraged to try out Obsidian and take the time to practice using its various features. Feel free to test out other tools and decide what tool best supports your workflow.
-:::
-
-::: prote
-deleting activity as it is a part of the h5p
 :::
 
 ### Activity: Download the Starter Vault
@@ -770,14 +764,16 @@ Before you move on to the next unit you may want to check that you are able to:
 -   Examine privacy concerns related to various platforms and tools
 -   Describe how to protect yourself and others in the digital environment
 -   Identify the literacies you plan to improve and what steps you will take to achieve your goals
+-   Your Obsidian vault includes a template to help you track your progress in each unit. Use it to self-assess your understanding of the unit learning outcomes and ensure you’re on track to achieve your learning goals.
 
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=651" width="958" height="549" frameborder="0" allowfullscreen="allowfullscreen" title="Unit 1 Progress Check">
+:::
+
+<!-- <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=651" width="958" height="549" frameborder="0" allowfullscreen="allowfullscreen" title="Unit 1 Progress Check">-->
 
 </iframe>
 
 ```{=html}
-<script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script> 
 ```
-:::
 
 ### References {.unnumbered}
