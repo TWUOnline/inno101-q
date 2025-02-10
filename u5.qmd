@@ -29,6 +29,8 @@ When you have completed this unit you will be able to:
 
 Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
 
+:::: {.learning-activity}
+
 -   Read *Global Citizenship Education* [-@GlobalCitizenshipEducation2024] and *John Dewey Would Hate Your Digital Citizenship Curriculum* [-@JohnDeweyWould2016] and write your personal definition of a digital citizen.
 -   Listen to the podcast on *Digital Citizenship* [-@stachowiakDigitalCitizenshipAudio2016].
 -   Read *Nine Elements of Digital Citizenship* [-@digitalcitizenshipNineThemesDigital2023] and apply elements to your academic study.
@@ -40,6 +42,7 @@ Here is a list of learning activities that will benefit you in completing this u
 ::: note
 **Note:** *Working through unit learning activities will help you to meet the course learning outcomes and successfully complete your assessments.*
 :::
+::::
 
 ### Assessment {.unnumbered}
 

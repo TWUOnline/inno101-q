@@ -35,6 +35,8 @@ When you have completed this unit you will be able to:
 
 Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
 
+:::: {.learning-activity}
+
 -   Reflect on your personal learning environment (PLE) as you engage with the resources on PLEs
 -   Create a new blog on WordPress and personalize your blog site
 -   Conduct a digital footprint audit to assess your online presence
@@ -44,6 +46,7 @@ Here is a list of learning activities that will benefit you in completing this u
 ::: note
 **Note:** *Working through unit learning activities will help you to meet the course learning outcomes and successfully complete your assessments.*
 :::
+::::
 
 ### Assessment {.unnumbered}
 

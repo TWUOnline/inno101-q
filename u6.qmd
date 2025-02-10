@@ -32,6 +32,8 @@ When you have completed this unit you will be able to:
 
 Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
 
+:::: {.learning-activity}
+
 -   View the resources on social learning and consider how learning in community could support your goals.
 -   Examine the Career Ready Framework from TWU's Centre for Calling and Career Development
 -   Watch the video on the future of work and share your views with your peers.
@@ -44,6 +46,7 @@ Here is a list of learning activities that will benefit you in completing this u
 ::: note
 **Note:** *Working through unit learning activities will help you to meet the course learning outcomes and successfully complete your assessments. Be sure to map out your time so you can complete your learning goals for this unit. Note in Section 6.3 you are asked to choose one societal issue to focus on. You may wish to browse the other sections, but feel free to skip the activities so you have time to focus on your investigation and related learning blog.*
 :::
+::::
 
 ### Assessment {.unnumbered}
 

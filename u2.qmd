@@ -36,6 +36,8 @@ When you have completed this unit you will be able to:
 
 Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
 
+:::: {.learning-activity}
+
 -   Explore [Litmaps](https://litmaps.com){target="_blank"} to find articles of interest.
 -   Visit the TWU Library and view the LibGuides.
 -   Practice using Google's advanced search operators to help you search for resources.
@@ -50,6 +52,7 @@ Here is a list of learning activities that will benefit you in completing this u
 ::: note
 **Note:** *Working through unit learning activities will help you to meet the course learning outcomes and successfully complete your assessments.*
 :::
+::::
 
 ### Assessment {.unnumbered}
 
