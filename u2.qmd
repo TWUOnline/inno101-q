@@ -23,16 +23,13 @@ This unit is divided into the following topics:
 3.  Citation Management
 4.  Openness in Education
 
-### Learning Outcomes {.unnumbered}
+### Unit Learning Outcomes {.unnumbered}
 
 When you have completed this unit you will be able to:
 
 -   Develop effective search strategies to locate scholarly resources using various academic databases and online repositories
-
 -   Apply strategies to assess, analyze, and evaluate the reliability of resources, including reporting in the mass media
-
 -   Utilize citation management tools effectively to organize references, generate bibliographies, and streamline the citation process
-
 -   Describe the principles of openness in education, including open educational resources (OER), and open access
 
 ### Learning Activities {.unnumbered}
@@ -753,4 +750,4 @@ Other items for review:
 -->
 ```
 
-### References {.unnumbered}
+## References {.unnumbered}

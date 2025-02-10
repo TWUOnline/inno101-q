@@ -768,7 +768,12 @@ Before you move on to the next unit you may want to check that you are able to:
 -   Examine privacy concerns related to various platforms and tools
 -   Describe how to protect yourself and others in the digital environment
 -   Identify the literacies you plan to improve and what steps you will take to achieve your goals
--   Your Obsidian vault includes a template to help you track your progress in each unit. Use it to self-assess your understanding of the unit learning outcomes and ensure you’re on track to achieve your learning goals.
+
+:::
+
+::: {.note}
+
+*Notes:* Your Obsidian vault includes a template to help you track your progress in each unit. Use it to self-assess your understanding of the unit learning outcomes and ensure you’re on track to achieve your learning goals.
 
 :::
 
@@ -780,4 +785,4 @@ Before you move on to the next unit you may want to check that you are able to:
 <script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script> 
 ```
 
-### References {.unnumbered}
+## References {.unnumbered}

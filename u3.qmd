@@ -16,7 +16,7 @@ This unit is divided into the following topics:
 
 <!-- @cmaadland this unit still needs to be fleshed out.  I'd suggest adding more of your commentary to topics 3-5 (written, video, or audio)  -->
 
-### Learning Outcomes {.unnumbered}
+### Unit Learning Outcomes {.unnumbered}
 
 When you have completed this unit you will be able to:
 
@@ -286,4 +286,4 @@ Before you move on to the next unit check that you are able to:
 <script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 ```
 
-### References {.unnumbered}
+## References {.unnumbered}
