@@ -139,9 +139,11 @@ We are here to help you create your site, so do not hesitate to ask for technica
 
 To get started on creating your site we suggest the following steps:
 
-<!-- <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=652" width="809" height="582" frameborder="0" allowfullscreen="allowfullscreen" title="Setting up your Learning Blog"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script> -->
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=652" width="809" height="582" frameborder="0" allowfullscreen="allowfullscreen" title="Setting up your Learning Blog"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-::: {.accordion title="1. Sign up to create a website"}
+:::
+
+<!-- ::: {.accordion title="1. Sign up to create a website"}
 
 -   Go to [**create.twu.ca**](https://create.twu.ca/){target="_blank"} to sign up for your free WordPress site. *Please read all the prompts and instructions carefully!* Be sure to read the Privacy Statement carefully before clicking "I Agree." The information provided gives you excellent guidance regarding digital citizenship, privacy, and how to build a professional digital persona.
 -   You will be prompted to **create a domain name**, which is your website's address on the internet. Often this is referred to as a URL (Uniform Resource Locator). This is what your users will type in their browsers to reach your site. Make sure that you choose a domain name that is related to you, easy to pronounce and spell, and easy to remember. Once you have done that, we suggest you write all this information somewhere you can access it easily---just in case.
@@ -249,7 +251,7 @@ When you're ready to start customizing your blog and adding content, check out s
 
 Congratulations! You created your PLE for TWU!
 
-:::
+::: -->
 
 ## My Digital Footprint
 
