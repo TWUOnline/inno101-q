@@ -20,6 +20,8 @@ Review the LDRS 101 course learning outcomes.
 
 Next, review your course concept map you created after each unit in your reflective journal. Revise your map to include your thoughts on the learning activities, assessments, and discussions. Brainstorm the knowledge, understandings, and skills that you have attained overall, and add those connections to your map. You can also add any key learning from other courses you are taking concurrently that connect with the course learning outcomes of LDRS 101. Use this as a draft or a plan for creating your outcome reflective statement.
 
+<br>
+
 ### Step 2: Collecting Portfolio Artifacts {.unnumbered}
 
 An artifact is any piece of work that demonstrates what you know or can do. It is evidence that you have learned something. Common student artifacts could be blog/discussion posts, assignments, presentations, to name a few.
@@ -30,6 +32,8 @@ Choose artifacts of learning that demonstrate significant growth, insights and/o
 -   Create a personalized narrative to document and express your learning process.
 
 ***Select one or more artifact for each LDRS 101 course learning outcome.***
+
+<br>
 
 ### Step 3: Write it! (600-750 words) {.unnumbered}
 
@@ -45,6 +49,8 @@ Choose artifacts of learning that demonstrate significant growth, insights and/o
 
 -   **Formatting**: Your reflective statement should be created as a new post on your blog OR as a new file in your Obsidian vault. You must include links in your statement to each artifact that you choose and complete your reflections in the reflective statement. Both Obsidian and WordPress will automatically create backlinks on the artifact files/posts.
 -   **Conclusion**: Based on your overall learning in this course, describe what your hopes, intentions, or plans are for your academic and professional journey as it relates to the digital world. Identify at least 3 action-orientated goals you can set for yourself.
+
+<br>
 
 ### Step 4: Publish! {.unnumbered}
 
