@@ -208,7 +208,6 @@ Next, let's focus on reading and note taking. In this section, you will demonstr
 -   Read the following articles and take notes in Obsidian. Try using Markdown to format your text.
     -   [*Effective Reading and Note-Taking*](https://www.student.unsw.edu.au/effective-reading-and-note-taking){target="_blank"} [-@tosdrTermsServiceDidnt]
     -   [*Reading for Understanding: The SQW3R Method*](https://www.student.unsw.edu.au/reading-understanding){target="_blank"} [-@universityofnewsouthwalessydneyReadingUnderstandingSQW3R2024]
-    -   [*How to (Seriously) Read a Scientific Paper*](https://www.science.org/content/article/how-seriously-read-scientific-paper){target="_blank"} [-@painHowSeriouslyRead2016]
     -   [*Using Markdown in Obsidian*](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax){target="_blank"} [-@obsidianhelpBasicFormattingSyntax]
 :::
 
@@ -269,7 +268,7 @@ Here are a couple of resources to guide you as you create your mind map
 -   [*Getting Started with Obsidian Canvas*](https://obsidian.rocks/getting-started-with-canvas-in-obsidian/){target="_blank"} [-@GettingStartedObsidian2024]
 
 ::: note
-***Note:*** This is a key activity you will use in Assignments 1 and 3 to demonstrate your understanding of the course learning outcomes.
+*Note:* This is a key activity you will use in Assignments 1 and 3 to demonstrate your understanding of the course learning outcomes.
 :::
 ::::
 
@@ -281,6 +280,12 @@ Concept maps have become your canvas, allowing you to visually articulate comple
 
 As you move forward, carry this digital toolkit with you, leveraging technology as a powerful ally in your ongoing pursuit of knowledge. Your ability to connect ideas seamlessly through hyperlinks, tags, note taking, and concept maps positions you as a dynamic learner in an ever evolving educational landscape. The skills you've honed here are not just for this course but are lifelong assets that will continue to enrich your learning journey.
 
+::: {.note}
+
+*Notes:* Your Obsidian vault includes a template to help you track your progress in each unit. Use it to self-assess your understanding of the unit learning outcomes and ensure you’re on track to achieve your learning goals.
+
+:::
+
 ::: check
 Before you move on to the next unit check that you are able to:
 
@@ -288,13 +293,5 @@ Before you move on to the next unit check that you are able to:
 -   Practice evaluative judgment to document your process of learning in complex domains of knowledge
 -   Evaluate digital tools, platforms, and interactions based on ethical principles
 :::
-
-<!-- <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=632" width="880" height="886" frameborder="0" allowfullscreen="allowfullscreen" title="Self-Regulated Learning Tool"> -->
-
-</iframe>
-
-```{=html}
-<script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
-```
 
 ## References {.unnumbered}

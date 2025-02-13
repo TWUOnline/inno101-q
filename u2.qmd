@@ -38,7 +38,8 @@ Here is a list of learning activities that will benefit you in completing this u
 
 :::: {.learning-activity}
 
--   Explore [Litmaps](https://litmaps.com){target="_blank"} to find articles of interest.
+<!-- linked -   Explore [Litmaps](https://litmaps.com){target="_blank"} to find articles of interest.-->
+-   Explore Litmaps to find articles of interest.
 -   Visit the TWU Library and view the LibGuides.
 -   Practice using Google's advanced search operators to help you search for resources.
 -   Search open databases (BASE & DOAJ) to find open academic resources.
@@ -404,7 +405,7 @@ This activity focuses on searching database repositories. Most databases provide
 
 -   View the following resources on searching using databases.
     -   [*Searching in Databases*](https://web.library.uq.edu.au/research-tools-techniques/search-techniques/where-and-how-search/searching-databases){target="_blank"} [-@universityofqueenslandlibrarySearchingDatabases2012]
-    -   [Directory of Open Access Journals (DOAJ)](https://doaj.org/){target="_blank"} -- see also FAQs
+    -   [Directory of Open Access Journals (DOAJ)](https://doaj.org/){target="_blank"}
 -   Watch the following video on using the [*Directory of Open Access Journals (DOAJ)*](https://www.youtube-nocookie.com/embed/ndvLm9MIfKA){target="_blank"} [-@mmulibraryservicesDirectoryOpenAccess2016]
 
 <div class="video-container">
@@ -592,7 +593,7 @@ Now, let's start using it. Go to LitMaps, TWU Library, or Google Scholar and fin
 
 Next, experiment with some of the Zotero annotation features.
 
--   [Watch:*How to Annotate PDFs in Zotero*](https://www.youtube.com/watch?v=lGeJCsNHBR4){target="_blank"} [-@sciencegradschoolcoachHowAnnotatePDFs2023] for instructions.
+-   Watch: [*How to Annotate PDFs in Zotero*](https://www.youtube.com/watch?v=lGeJCsNHBR4){target="_blank"} [-@sciencegradschoolcoachHowAnnotatePDFs2023] for instructions.
 
 <div class="video-container">
 
@@ -649,8 +650,6 @@ Note that this material was created and published freely under a Creative Common
 
 ::: {.learning-activity time="10"}
 Watch this quick overview from the OER Foundation: [*Open Access Explained*](https://vimeo.com/557927481){target="_blank"} [-@oerfoundationsOpenAccessExplained2021].
-
-[Watch: *Open Access Explained*](https://vimeo.com/557927481){target="_blank"}
 
 <div class="video-container">
 
@@ -764,6 +763,12 @@ In this unit, you have had the opportunity to develop crucial skills for navigat
 
 In addition, exploring openness in education broadened your understanding of the transformative power of freely accessible educational resources. By delving into the principles of open educational resources (OER) and open access, we hope to have conveyed their significance in making education more accessible. This newfound awareness not only empowers you as a learner but also places you in a role as a contributor to a global academic community. As you conclude this unit with refined skills in resource navigation, citation management, and a deeper appreciation for openness in education, you are well equipped to responsibly and effectively leverage digital resources for ongoing academic and professional growth. These skills are not just tools for immediate success, but enduring assets, shaping your lifelong journey in the ever evolving realm of digital knowledge.
 
+::: {.note}
+
+*Note:* Your Obsidian vault includes a template to help you track your progress in each unit. Use it to self-assess your understanding of the unit learning outcomes and ensure you’re on track to achieve your learning goals.
+
+:::
+
 ::: check
 Before you move on to the next unit check that you are able to:
 
@@ -774,17 +779,10 @@ Before you move on to the next unit check that you are able to:
 -   Build your professional online biography
 -   Examine privacy concerns related to various platforms and tools
 -   Describe how to protect yourself, and other students and colleagues, to stay safe in the digital environment
+
 :::
 
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=632" width="880" height="886" frameborder="0" allowfullscreen="allowfullscreen" title="Self-Regulated Learning Tool">
 
-</iframe>
-
-```{=html}
-<script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
-```
-
-```{=html}
 <!-- @cmadland - flagging 3 sections that I'm pretty sure I used chat gpt to complete. Please review the unit Overview & Unit Summary and perhaps "Colinize" it? ;)...or perhaps add a SME video? Also - the Why use OER? section, although that is less obvious.  
 
 Other items for review:
@@ -792,6 +790,5 @@ Other items for review:
 - adding graphics (5 Rs, etc.)
 
 -->
-```
 
 ## References {.unnumbered}

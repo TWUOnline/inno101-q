@@ -112,15 +112,16 @@ TWU has a [Centre for Calling & Career Development](https://www.twu.ca/academics
 <script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 ```
 
-::: {#fig-TopxEmployeexSkillsx2025}
+Navigate through the sections and look specifically for the competencies related to social learning and digital skills. [Click here](assets/u6/Career%20Ready%20Competency%20Framework%20(and%20Scoring)-%20August%202023.pdf){target="_blank"} to access the full framework.
+
+<!-- ::: {#fig-TopxEmployeexSkillsx2025}
 ![](assets/u6/Competency_Framework.png){.lightbox fig-alt="3-column list of career skills categories" fig-align="left"}
 
-Career Ready Framework. [Click here](assets/u6/Career%20Ready%20Competency%20Framework%20(and%20Scoring)-%20August%202023.pdf){target="_blank"} to access the full framework. 
-:::
+Career Ready Framework. [Click here](assets/u6/Career%20Ready%20Competency%20Framework%20(and%20Scoring)-%20August%202023.pdf){target="_blank"} to access the full framework. :::
+
+*Source*: From ["Centre for Calling & Career Development,"](https://www.twu.ca/academics/academic-professional-support/centre-calling-career-development){target="_blank"} by Trinity Western University. [@CentreCallingCareer2025]-->
 
 :::
-
-*Source*: From ["Centre for Calling & Career Development,"](https://www.twu.ca/academics/academic-professional-support/centre-calling-career-development){target="_blank"} by Trinity Western University. [@CentreCallingCareer2025]
 
 As LDRS 101 aims to prepare you for the technology skills that are needed in this digital age, we also want to encourage you to develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens.
 
@@ -206,14 +207,14 @@ Intrigued? Do you find any tech tools that would be useful in understanding cour
 
 Do any of these capabilities concern you? Do you think they concern your professors or fellow students?
 
-Review TWU's policy on [*Academic Misconduct & Fraud*](https://www.twu.ca/about-us/policies-guidelines/university-policies/academic-misconduct-fraud){target="_blank"} [@AcademicMisconductFraud]. Is it academic fraud if you use Chat GPT to complete assignments?
+Review TWU's policy on [*Academic Misconduct & Fraud*](https://www.twu.ca/about-us/policies-guidelines/university-policies/academic-misconduct-fraud){target="_blank"} [@AcademicMisconductFraud]. In particular, read Guidelines for Use of Generative AI in Teaching and Learning. Is it academic fraud if you use Chat GPT to complete assignments at TWU?
 
-Search online for key words related to this issue, such as "university concern policy artificial intelligence" and you will find numerous articles on the use of AI in universities, as well as emerging policies. The University of Toronto's guidelines and FAQ for [*ChatGPT and Generative AI in the Classroom*](https://www.viceprovostundergrad.utoronto.ca/strategic-priorities/digital-learning/special-initiative-artificial-intelligence/){target="_blank"} [-@GenerativeArtificialIntelligence] are one such example.
+<!-- Search online for key words related to this issue, such as "university concern policy artificial intelligence" and you will find numerous articles on the use of AI in universities, as well as emerging policies. The University of Toronto's guidelines and FAQ for [*ChatGPT and Generative AI in the Classroom*](https://www.viceprovostundergrad.utoronto.ca/strategic-priorities/digital-learning/special-initiative-artificial-intelligence/){target="_blank"} [-@GenerativeArtificialIntelligence] are one such example. -->
 
 Here are some guidelines you may receive from your instructors at TWU:
 
 -   Students are encouraged to make use of technology including generative artificial intelligence tools to contribute to their understanding of course materials. Students must submit as an appendix with their assignments any content produced by an artificial intelligence tool, and the prompt used to generate the content.
--   Any content produced by an artificial intelligence tool must be cited appropriately. Many organizations that publish standard citation formats now provide information on citing generative AI (e.g., [MLA Style Center](https://style.mla.org/citing-generative-ai/){target="_blank"}).
+-   Any content produced by an artificial intelligence tool must be cited appropriately. Many organizations that publish standard citation formats now provide information on citing generative AI (e.g., [MLA Style Center](https://style.mla.org/citing-generative-ai/){target="_blank"}, [APA Style](https://apastyle.apa.org/blog/how-to-cite-chatgpt){target="_blank"}).
 -   Students may use artificial intelligence tools for creating an outline for an assignment but the final submitted assignment must be original work produced by the individual student alone.
 -   Students may not use artificial intelligence tools for taking tests, writing research papers, creating computer code, or completing major course assignments. However, these tools may be useful when gathering information across sources and assimilating it for understanding.
 
@@ -293,8 +294,8 @@ In this section we consider the impact of automation on the future job market an
 
 :::: {.learning-activity time="20"}
 
--   Read [*Collaborative Intelligence: Humans and AI are Joining Forces*](https://hbr.org/2018/07/collaborative-intelligence-humans-and-ai-are-joining-forces){target="_blank"} [-@CollaborativeIntelligenceHumans].
--   Watch [AI Automation And The Future Of The Workforce](https://www.youtube.com/watch?v=NBLeWpOqhAo){target="_blank"} [-@AIAutomationFuture]
+-   Read [*Collaborative Intelligence: Humans and AI are Joining Forces*](https://hbr.org/2018/07/collaborative-intelligence-humans-and-ai-are-joining-forces){target="_blank"} <!-- [@CollaborativeIntelligenceHumans]-->(2018).
+-   Watch [AI Automation And The Future Of The Workforce](https://www.youtube.com/watch?v=NBLeWpOqhAo){target="_blank"} <!-- [@AIAutomationFuture]-->(2022)
 
 <div class="video-container">
 
@@ -378,7 +379,7 @@ Website tracking is the practice of collecting data about a user's online activi
 :::: {.learning-activity time="10"}
 Watch this *Matrix* parody, a comedy skit published by CollegeHumour, depicting that if you are not paying for the service, you are not the consumer but the product.
 
--   Watch [The Terrifying Cost of "Free" Websites](https://www.youtube.com/watch?v=5pFX2P7JLwA){target="_blank"} [-@TerrifyingCostFree]
+-   Watch [The Terrifying Cost of "Free" Websites](https://www.youtube.com/watch?v=5pFX2P7JLwA){target="_blank"} <!-- [-@TerrifyingCostFree]-->(2016)
 
 <div class="video-container">
 
@@ -478,7 +479,9 @@ Also review these resources on corporate sponsored research:
 
 -   [Funding Bias](https://en.wikipedia.org/wiki/Funding_bias){target="_blank"} [-@FundingBias2025]
 -   [Sponsors' Participation in Conduct and Reporting of Industry Trials: A Descriptive Study](https://trialsjournal.biomedcentral.com/articles/10.1186/1745-6215-13-146){target="_blank"} [-@lundhSponsorsParticipationConduct2012a]
--   [Ad Blocking](https://en.wikipedia.org/wiki/Ad_blocking){target="_blank"} [-@AdBlocking2025]
+<!-- -   [Ad Blocking](https://en.wikipedia.org/wiki/Ad_blocking){target="_blank"} [-@AdBlocking2025]-->
+
+Do you use [ad blocking](https://en.wikipedia.org/wiki/Ad_blocking){target="_blank"} software?
 
 After viewing these resources, what do you think the cost of free websites is? Do you use ad blocking software? Think about the reasons for your choice.
 
@@ -529,13 +532,13 @@ Clearly these social media accounts are not the "real" people. In one case it's 
 -   Read the following articles on the social media response to impersonation:
     -   [*Misleading and Deceptive Identities Policy (X)*](https://help.twitter.com/en/rules-and-policies/x-impersonation-and-deceptive-identities-policy){target="_blank"} [-@XsPlatformManipulation]
     -   [*How to Report a Facebook Account or Page That's Pretending to be me or Someone Else?*](https://www.facebook.com/help/174210519303259){target="_blank"} [-@ReportFacebookProfile]
-    -   [*Reporting Impersonation on Social Media*](https://saferinternet.org.uk/blog/reporting-impersonation-on-social-media){target="_blank"} [-@cawthorneReportingImpersonationSocial2016a]
+<!--    -   [*Reporting Impersonation on Social Media*](https://saferinternet.org.uk/blog/reporting-impersonation-on-social-media){target="_blank"} [-@cawthorneReportingImpersonationSocial2016a]-->
 
 Have you seen a fake account on social media? What clues did you have that it was not real?
 :::
 
 ::: note
-***Note:*** If interested, search on X for some parody accounts. Some can be quite entertaining, but you might notice that other accounts simply mock the person they are parodying. Would you create a parody account in order to ridicule someone---perhaps a political view you don't agree with? What should our response be to such messages on social media? How can we promote inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality?
+*Note:* If interested, search on X for some parody accounts. Some can be quite entertaining, but you might notice that other accounts simply mock the person they are parodying. Would you create a parody account in order to ridicule someone---perhaps a political view you don't agree with? What should our response be to such messages on social media? How can we promote inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality?
 :::
 
 ### Activity: How to Spot a Scammer
@@ -571,7 +574,7 @@ Dr. Alec Couros is Associate Professor of Information and Communication Technolo
 -   [*Your Photos can be Used in 'Catfishing' Romance Scams*](https://www.cbc.ca/radio/spark/380-phantom-traffic-jams-catfishing-scams-and-smart-speakers-1.4482967/your-photos-can-be-used-in-catfishing-romance-scams-1.4482985){target="_blank"} [-@YourPhotosCan]
 -   [*Identity, Love, and Catfishing*](http://educationaltechnology.ca/2393/){target="_blank"} [-@alecIdentityLoveCatfishing2013]
 -   [*Would the Real 'Alec Couros' Please Stand Up*](http://educationaltechnology.ca/2466/){target="_blank"} [-@alecWouldRealAlec2014]
--   Visit this website that reports online scams: [ScamDigger Forum](https://romancescam.com/){target="_blank"} (n.d.).
+-   Visit this website that reports online scams: [ScamDigger Forum](https://scamdigger.com/forum/){target="_blank"} [-@ScamDiggerForumForum].
 -   [Watch: *How to Detect a Facebook Scammer With Google Reverse Image Search*](https://www.youtube.com/watch?v=s6Q4U8DvJH8){target="_blank"} [-@aleccourosHowDetectFacebook2014]
 
 <div class="video-container">
@@ -634,7 +637,8 @@ In this section, we will review research on the state of online harassment and c
 :::: {.learning-activity time="30"}
 Read the following research reports on online harassment.
 
--   [*Online Harassment*](https://www.pewresearch.org/internet/2014/10/22/online-harassment/){target="_blank"} [-@dugganOnlineHarassment20172017]. (Note that this is an 8-page report; click through to read it all.)
+<!-- -   [*Online Harassment*](https://www.pewresearch.org/internet/2014/10/22/online-harassment/){target="_blank"} [-@dugganOnlineHarassment20172017]. (Note that this is an 8-page report; click through to read it all.)-->
+- [*Info Sheet: Cyberbullying*](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/2015-r038/index-en.aspx){target="_blank"} [-@canadaInfoSheetCyberbullying2018]
 -   [*Q&A: What We've Learned About Online Harassment*](https://www.pewresearch.org/short-reads/2021/01/13/qa-what-weve-learned-about-online-harassment/){target="_blank"} [-@desilverWhatWeVe2021]
 
 ::: note
@@ -733,11 +737,11 @@ Concerns surrounding net neutrality involve potential discrimination, a lack of 
 
 At the same time there is a significant concern about government overreach in this digital domain. The debate over how much the government should regulate the internet is a hot topic, as it could hamper innovation and limit the free sharing of information. Excessive regulation could put the power to control or tamper with online content in the hands of the government or regulators, potentially jeopardizing our democratic values and our basic freedom of expression. Navigating this tricky balance between rules and protecting our personal freedoms is a key challenge in the digital era.
 
-#### Canadian Context {.unnumbered}
+<!-- #### Canadian Context {.unnumbered}
 
 In Canada, the discussion on net neutrality is intertwined with the debate over Bill C-10, also known as the Broadcasting Act. This bill, introduced in 2021, aims to update Canada's broadcasting and telecommunications regulations to account for the digital age. Critics of Bill C-10 have expressed concerns that it could infringe on net neutrality principles by giving more power to the Canadian Radio-television and Telecommunications Commission (CRTC) to regulate online content, potentially leading to restrictions on free expression and innovation.
 
-In addition to Bill C-10, another significant piece of legislation to consider in the Canadian context is Bill C-18, which is also known as the Online Streaming Act. This bill, introduced to the Canadian Parliament, is designed to regulate online streaming services, potentially affecting the content and accessibility of such platforms. Critics argue that Bill C-18 could raise concerns related to net neutrality by granting the government more authority over the content available on streaming platforms and potentially infringing on free expression and access to diverse content.
+In addition to Bill C-10, another significant piece of legislation to consider in the Canadian context is Bill C-18, which is also known as the Online Streaming Act. This bill, introduced to the Canadian Parliament, is designed to regulate online streaming services, potentially affecting the content and accessibility of such platforms. Critics argue that Bill C-18 could raise concerns related to net neutrality by granting the government more authority over the content available on streaming platforms and potentially infringing on free expression and access to diverse content. -->
 
 ***Questions to Consider***
 
@@ -790,7 +794,7 @@ Explore the issue of net neutrality. Here are some sample resources, but please 
 
 Next, click the topics below to explore different perspectives on this issue in Canada.
 
--   [*Strengthening Net Neutrality in Canada*](https://crtc.gc.ca/eng/internet/diff.htm){target="_blank"} [-@governmentofcanadaStrengtheningNetNeutrality2016]
+-   [*Strengthening Net Neutrality in Canada*](https://crtc.gc.ca/eng/internet/diff.htm){target="_blank"} [-@governmentofcanadaStrengtheningNetNeutrality2018]
 -   [*Big Tech vs. Canadian News: The Battle Over C-18, Explained*](https://www.youtube.com/watch?v=k5iRopjAwm4){target="_blank"} [-@cbcnewsBigTechVs2023]
 -   [*Bill C-18: The Fallout over Google, Meta's Plans to Block News Links in Canada*](https://www.youtube.com/watch?v=W5YLvCEd1yE){target="_blank"} [-@globalnewsBillC18Fallout2023]
 -   [*Debating Bill C-11---Internet Censorship for Canadians*](https://www.youtube.com/watch?v=bmd4sASKFRw){target="_blank"} [-@lewisDebatingBillC112023]
@@ -900,11 +904,11 @@ In addition to your personal research, select from the following resources for m
     -   [*What Is Digital Redlining? Experts Explain the Nuances*](https://www.govtech.com/network/what-is-digital-redlining-experts-explain-the-nuances){target="_blank"} [-@quaintanceWhatDigitalRedlining2022]
     -   [*What is Digital Redlining and how Does it Perpetuate Poverty?*](https://communitytechnetwork.org/blog/digital-redlining-and-how-it-perputates-poverty/){target="_blank"} [-@communitytechnetworkWhatDigitalRedlining2023]
 
-Also see the following articles that focus on racial and gender bias:
+<!-- Also see the following articles that focus on racial and gender bias:
 
 -   [*Google Search: Hyper-visibility as a Means of Rendering Black Women and Girls Invisible*](http://ivc.lib.rochester.edu/google-search-hyper-visibility-as-a-means-of-rendering-black-women-and-girls-invisible/){target="_blank"} [-@nobleGoogleSearchHypervisibility2013]
 -   [*Pedagogy and the Logic of Platforms*](https://er.educause.edu/articles/2017/7/pedagogy-and-the-logic-of-platforms){target="_blank"} [-@gilliardPedagogyLogicPlatforms2017]
--   [*Digital Redlining, Access, and Privacy*](https://www.commonsense.org/education/articles/digital-redlining-access-and-privacy){target="_blank"} [-@gilliardDigitalRedliningAccess2016]
+-   [*Digital Redlining, Access, and Privacy*](https://www.commonsense.org/education/articles/digital-redlining-access-and-privacy){target="_blank"} [-@gilliardDigitalRedliningAccess2016] -->
 :::
 
 ```{=html}
@@ -1104,7 +1108,7 @@ Remember to add a category or tag for your post using the course tag: LDRS101.
 Choose a topic of interest.
 
 -   Conduct a search to identify reliable and credible online resources on your selected topic. Try to find resources from your own country or region, or your own area of work, and select the two best resources.
--   Read [How to Write a Notable Editorial](https://www.wikihow.com/Write-a-Notable-Editorial){target="_blank"} [-@4WaysWrite].
+-   Read [How to Write a Notable Editorial](https://www.wikihow.com/Write-a-Notable-Editorial){target="_blank"} [-@posnerHowWriteNotable2024a](2024).
 -   Using the topic you selected, decide on the type of editorial to write, for example:
     -   explaining or interpreting
     -   criticizing
@@ -1135,17 +1139,17 @@ To conclude our course we will examine another perspective on ethics and technol
 
 :::: {.learning-activity time="30"}
 -   Skim the following article in which the authors present a framework for digital wisdom, as well as practical practices that can help navigate the digital in our daily lives.
-    -   [*A Framework for Digital Wisdom in Higher Education*](https://christianscholars.com/a-framework-for-digital-wisdom-in-higher-education/){target="_blank"} [-@FrameworkDigitalWisdom].
+    -   [*A Framework for Digital Wisdom in Higher Education*](https://christianscholars.com/a-framework-for-digital-wisdom-in-higher-education/){target="_blank"} [-@paulusFrameworkDigitalWisdom2019a] (2019).
 
 Here are some quotes that resonate (Paulus et al., 2019). Feel free to highlight your quotes using Hypothes.is, or in your personal Obsidian notes.
 
-> Institutions of higher education have a crucial role and responsibility at this moment of technological change to form people who will flourish in our so-called digital age. [-@FrameworkDigitalWisdom, para. 1]
+> Institutions of higher education have a crucial role and responsibility at this moment of technological change to form people who will flourish in our so-called digital age. [-@paulusFrameworkDigitalWisdom2019a, 2019, para. 1]
 >
-> Within the context of Christian higher education, the need to integrate new ICTs into our individual and institutional lives well and wisely---as we consider what technologies are doing to us and what we will do with them---is of utmost significance if we are committed to the cultivation of competence, character, and wisdom. [-@FrameworkDigitalWisdom, para. 6]
+> Within the context of Christian higher education, the need to integrate new ICTs into our individual and institutional lives well and wisely---as we consider what technologies are doing to us and what we will do with them---is of utmost significance if we are committed to the cultivation of competence, character, and wisdom. [-@paulusFrameworkDigitalWisdom2019a, 2019, para. 6]
 >
-> Scripture enables us look behind and beyond our and others' online identities to see ourselves and others as embodied and relational beings made in the image of God. [-@FrameworkDigitalWisdom, para. 21]
+> Scripture enables us look behind and beyond our and others' online identities to see ourselves and others as embodied and relational beings made in the image of God. [-@paulusFrameworkDigitalWisdom2019a, 2019, para. 21]
 >
-> Our use of technologies must be shaped by our intentions and values, and we must be aware of how platform interfaces, permissions, algorithms, and other design elements could interfere with our goals and obligations. [-@FrameworkDigitalWisdom, para. 31]
+> Our use of technologies must be shaped by our intentions and values, and we must be aware of how platform interfaces, permissions, algorithms, and other design elements could interfere with our goals and obligations. [-@paulusFrameworkDigitalWisdom2019a, 2019, para. 31]
 
 **Questions to Consider**
 
@@ -1168,7 +1172,13 @@ Finally, we introduced the concept of digital wisdom. As you continue to integra
 
 > The mission of Trinity Western University, as an arm of the Church, is to develop godly Christian leaders: positive, goal-oriented university graduates with thoroughly Christian minds; growing disciples of Jesus Christ who glorify God through fulfilling the Great Commission, serving God and people in the various marketplaces of life.
 >
-> Every graduate is equipped to think truthfully, act justly, and live faithfully for the good of the world and the glory of God. [@trinitywesternuniversityMissionVisionTrinity]
+> Every graduate is equipped to think truthfully, act justly, and live faithfully for the good of the world and the glory of God. [-@trinitywesternuniversityMissionVisionTrinity, 2025]
+
+::: {.note}
+
+*Notes:* Your Obsidian vault includes a template to help you track your progress in each unit. Use it to self-assess your understanding of the unit learning outcomes and ensure you’re on track to achieve your learning goals.
+
+:::
 
 ::: check
 Before you move on to the next unit check that you are able to:
@@ -1180,7 +1190,5 @@ Before you move on to the next unit check that you are able to:
 -   Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality
 -   Create a personalized narrative to document and express your learning process
 :::
-
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=632" width="880" height="886" frameborder="0" allowfullscreen="allowfullscreen" title="Self-Regulated Learning Tool"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ## References {.unnumbered}

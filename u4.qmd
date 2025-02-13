@@ -89,7 +89,8 @@ Which aspects of the two definitions do you find most meaningful? How do you str
 ### Activity: What is a PLE?
 
 ::: {.learning-activity time="15"}
-Before you start building your PLE, read the following article: "[*7 Things you Should Know About Personal Learning Environments.*](assets/u4/U4_7-things-you-should-know-about-PLNs.pdf){target="_blank"} After reading the article, consider the following:
+
+Before you start building your PLE, read the following article: [*7 Things you Should Know About Personal Learning Environments.*](assets/u4/U4_7-things-you-should-know-about-PLNs.pdf){target="_blank"} After reading the article, consider the following:
 
 -   How do PLEs promote authentic, student-centred learning?
 -   What are the benefits of a PLE? How would it benefit you?
@@ -292,15 +293,12 @@ We need to distinguish between the technical and human elements of online identi
 Next, read the following:
 
 -   [*Understanding Your Online Identity*](assets/u4/U4_Understanding-your-Online-Identity-An-Overview-of-Identity.pdf){target="_blank"} [-@internetsocietyUnderstandingYourOnline2017]
-
--   [*How To Manage Your Digital Footprint in 2024: 20 Tips for Students*](https://research.com/education/how-to-manage-digital-footprint){target="_blank"} [-@bouchrikai.HowManageYour2022]
+-   [*How To Manage Your Digital Footprint in 2025: 20 Tips for Students*](https://research.com/education/how-to-manage-digital-footprint){target="_blank"} [-@bouchrikaiHowManageYour2025]
 
 **Questions to Consider**
 
 -   How does your real world identity differ from your online identity?
-
 -   What factors inhibit or support the sharing of information in building an online identity?
-
 -   What is the value of an online identity for learning?
 
 Reminder: As you view online resources in this course, feel free to annotate and discuss web resources publicly in support of your learning (e.g., using digital tools such as Hypothes.is, Discourse, WordPress, or others).
@@ -391,7 +389,7 @@ These crucial questions highlight the importance of privacy, data ownership, and
 -   Create your own criteria for evaluating digital tools. Set up a spreadsheet or notepad (in Obsidian for example) and as you list your criteria, consider why that detail is important to you. To help you select your criteria, read the following:
     -   [*Policy Brief: Privacy*](https://www.internetsociety.org/policybriefs/privacy/){target="_blank"} [-@internetsocietyPolicyBriefPrivacy2015]
 
-This next website might be a bit of an eye-opener. You may want to browse through some common tech examples and see their score. - [*Terms of Service. Didn't Read*](https://tosdr.org/){target="_blank"} [@tosdrTermsServiceDidnt]
+Recall in Unit 1 you explored the website [*Terms of Service. Didn't Read*](https://tosdr.org/){target="_blank"}. You may want to use this tool for this activity to look up some common tech examples and see their score.
 
 Finally, read the following questions and consider what you want to add to your rubric considering the context of the tool, the terms of service, and the purpose.
 
@@ -469,6 +467,12 @@ On Discourse, let us know what tool you selected and why. Share the link of your
 
 In this unit you have had the opportunity to learn about your personal learning environment and build your presence on the web using a blog. You've examined your digital footprint and reflected on your online identity---what it is now, and where you want it to be. You've also had an opportunity to evaluate digital tools and their ethical implications, and to consider what tools will help you academically and personally. As you continue with the last two units of the course we want to encourage you to examine your purpose in using technology, as well as how your contributions online can benefit others.
 
+::: {.note}
+
+*Notes:* Your Obsidian vault includes a template to help you track your progress in each unit. Use it to self-assess your understanding of the unit learning outcomes and ensure you’re on track to achieve your learning goals.
+
+:::
+
 ::: check
 Before you move on to the next unit check that you are able to:
 
@@ -479,7 +483,5 @@ Before you move on to the next unit check that you are able to:
 -   Describe how to protect yourself, as well as other students and colleagues, to stay safe in the digital environment
 -   Practice evaluative judgment to document your process of learning in complex domains of knowledge
 :::
-
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=632" width="880" height="886" frameborder="0" allowfullscreen="allowfullscreen" title="Self-Regulated Learning Tool"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ## References {.unnumbered}

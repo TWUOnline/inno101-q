@@ -95,9 +95,9 @@ If you conduct a general search for "digital citizenship" you will find many lin
 Model for Digital Citizenship
 :::
 
-::: note
+<!-- ::: note
 *Source*: From "Digital Citizenship," by A. Caines, 2016, August 25, [*Teaching in Higher Ed* Podcast](https://teachinginhighered.com/podcast/digital-citizenship/){target="_blank"}. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/){target="_blank"}.
-:::
+::: -->
 
 ### Activity: Refined Definition of Digital Citizenship
 
@@ -356,7 +356,7 @@ Online communities are varied and can be categorized by their purpose: social, a
 What are your goals?
 
 -   Do you want to connect with TWU peers? Is your focus on academic support or building personal relationships? <!-- //todo #17 -->
-- Are you interested in the communities that relate to your chosen profession? If so, do a quick search for online communities for a career that interests you (e.g., for businesses: [20 Best Online Community Platforms of 2024 (Ranked)](https://www.mightynetworks.com/resources/community-platforms){target="_blank"}).
+- Are you interested in the communities that relate to your chosen profession? If so, do a quick search for online communities for a career that interests you (e.g., for businesses: [20 Best Online Community Platforms of 2025 (Ranked)](https://www.mightynetworks.com/resources/community-platforms){target="_blank"}).
 -   Do you want to engage with online communities that align with your personal interests? (e.g., sports, arts, politics, gardening, coding)
 -   Write down your goals for joining an online community. Next, consider the networks you are currently a part of. You may want to refer back to Unit 1 in which you created a Personal Learning Network map.
 -   Now, with a focus on networking create your own Social Map. See the following example from [Brian Solis](https://briansolis.com/about/){target="_blank"}, a digital analyst, anthropologist and author.
@@ -442,7 +442,7 @@ In this activity we will explore how social media can support online learning an
 
 </div>
 
--   Check out [*The Conversation Prism*](https://www.briansolis.com/2008/08/introducing-conversation-prism-html/){target="_blank"} [-@adminIntroducingConversationPrism2008a] and also refer to the graphic below listing numerous apps for listening, learning, and adapting (click the graphic to enlarge).
+-   Check out [*The Conversation Prism*](https://www.briansolis.com/2008/08/introducing-conversation-prism-html/){target="_blank"} [-@solisIntroducingConversationPrism2008a] and also refer to the graphic below listing numerous apps for listening, learning, and adapting (click the graphic to enlarge).
 
 Feel free to annotate the articles you read or reply to annotations using Hypothes.is.
 
@@ -460,14 +460,16 @@ The Conversation Prism
 ### Activity: Social Media, Online Identity, and Learning
 
 :::: {.learning-activity time="30"}
+
 Join the Discourse forum on social media, online identity, and learning by sharing your personal views and thoughts. Choose one or more of the following questions as a catalyst for your contributions to the forum:
+
   -   How much of what you learn should be open and transparent (i.e., public) and how much should be kept private? Why?
   -   In a digital age, how important is it for you to build a digital footprint of your learning?
   -   What are the challenges and opportunities for building your online identity?
   -   What levels of online engagement do you feel are appropriate for your own learning on this course? Does this differ from your engagement in other online communities?
   -   Other?
 
-We encourage you to reply and to “like” posts on Discourse. (Remember to tag your posts using key words to facilitate searches (e.g. digital-rights).
+We encourage you to reply and to “like” posts on Discourse. Remember to tag your posts using key words to facilitate searches (e.g. digital-rights).
 :::
 
 ## Connecting to the TWU Community
@@ -479,9 +481,10 @@ In this unit we have discussed what it means to be a digital citizen and how we 
 ### Activity: TWU's Learning Community
 
 :::: {.learning-activity time="20"}
--   Take a moment to reread the course description for this course:
 
-Introduces theories and competencies related to learning and thriving in a digital world. Explores how learners are situated in “the digital” throughout their lives and how they can use digital technologies to enhance and enrich their experience of learning, working, and playing. Learners will begin to build a curated digital footprint, initiate and develop personal and professional learning networks; develop competencies to allow them to evaluate and choose digital platforms and tools that are safe and ethical; and explore how to use digital technologies to discover, curate, connect, and share knowledge with their communities.
+Take a moment to reread the course description for this course:
+
+>Introduces theories and competencies related to learning and thriving in a digital world. Explores how learners are situated in “the digital” throughout their lives and how they can use digital technologies to enhance and enrich their experience of learning, working, and playing. Learners will begin to build a curated digital footprint, initiate and develop personal and professional learning networks; develop competencies to allow them to evaluate and choose digital platforms and tools that are safe and ethical; and explore how to use digital technologies to discover, curate, connect, and share knowledge with their communities.
 
 Next, focus on two key course learning outcomes:
 
@@ -518,6 +521,12 @@ Here are some other websites you might want to check out for more about the TWU 
 
 In this unit you have had the opportunity to learn what it means to be a digital citizen, including the rights and responsibilities we should abide by. You have had the opportunity to explore and connect with an online community and have reflected on your personal and academic goals for networking. Finally, you have considered your role as a TWU student and how you might build connections with peers, faculty, and staff. As we move on to our final unit, consider how you might share your knowledge online and create an inclusive digital community.
 
+::: {.note}
+
+*Notes:* Your Obsidian vault includes a template to help you track your progress in each unit. Use it to self-assess your understanding of the unit learning outcomes and ensure you’re on track to achieve your learning goals.
+
+:::
+
 ::: check
 Before you move on to the next unit check that you are able to:
 
@@ -529,7 +538,5 @@ Before you move on to the next unit check that you are able to:
 -   Develop online learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens
 -   Consider how you might connect, thrive, and serve in the TWU learning community
 :::
-
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=632" width="880" height="886" frameborder="0" allowfullscreen="allowfullscreen" title="Self-Regulated Learning Tool"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ## References {.unnumbered}
