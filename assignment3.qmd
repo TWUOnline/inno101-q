@@ -1,4 +1,6 @@
-# Assignment 3: Digital Literacy Portfolio {.unnumbered}
+# Assessment
+
+## Assignment 3: Digital Literacy Portfolio {.unnumbered}
 
 This final assessment builds upon your previous two assignments. You are asked create an e-portfolio to demonstrate your understanding of the course learning outcomes and application of the digital skills learned in this course.
 
@@ -12,17 +14,15 @@ This final assessment builds upon your previous two assignments. You are asked c
 
 Remember that your portfolio is not only a product (a digital collection of artifacts), but also a process. In addition to curating your evidence of learning, you are asked to reflect on your learning in a written statement. See below for instructions.
 
-## Part 1: Outcome Reflective Statement {.unnumbered}
+### Part 1: Outcome Reflective Statement {.unnumbered}
 
-### Step 1: Preparation {.unnumbered}
+#### Step 1: Preparation {.unnumbered}
 
 Review the LDRS 101 course learning outcomes.
 
 Next, review your course concept map you created after each unit in your reflective journal. Revise your map to include your thoughts on the learning activities, assessments, and discussions. Brainstorm the knowledge, understandings, and skills that you have attained overall, and add those connections to your map. You can also add any key learning from other courses you are taking concurrently that connect with the course learning outcomes of LDRS 101. Use this as a draft or a plan for creating your outcome reflective statement.
 
-<br>
-
-### Step 2: Collecting Portfolio Artifacts {.unnumbered}
+#### Step 2: Collecting Portfolio Artifacts {.unnumbered}
 
 An artifact is any piece of work that demonstrates what you know or can do. It is evidence that you have learned something. Common student artifacts could be blog/discussion posts, assignments, presentations, to name a few.
 
@@ -33,9 +33,7 @@ Choose artifacts of learning that demonstrate significant growth, insights and/o
 
 ***Select one or more artifact for each LDRS 101 course learning outcome.***
 
-<br>
-
-### Step 3: Write it! (600-750 words) {.unnumbered}
+#### Step 3: Write it! (600-750 words) {.unnumbered}
 
 -   **Intro:** Create a personal statement about what you have learned so far as a university student through the lens of LDRS 101 (E.g. “I never thought that my academic learning could be enhanced by digital skills. Now I realize…”)
 -   **Body:** Explain your artifact selection with a written reflection.
@@ -50,8 +48,6 @@ Choose artifacts of learning that demonstrate significant growth, insights and/o
 -   **Formatting**: Your reflective statement should be created as a new post on your blog OR as a new file in your Obsidian vault. You must include links in your statement to each artifact that you choose and complete your reflections in the reflective statement. Both Obsidian and WordPress will automatically create backlinks on the artifact files/posts.
 -   **Conclusion**: Based on your overall learning in this course, describe what your hopes, intentions, or plans are for your academic and professional journey as it relates to the digital world. Identify at least 3 action-orientated goals you can set for yourself.
 
-<br>
-
 ### Step 4: Publish! {.unnumbered}
 
 Publish your outcome reflective statement as a static page to your WordPress site or a new file in your Obsidian vault. Don’t forget to add it to your WordPress menu (if you use WordPress for this activity) so your audience can navigate to it easily.
@@ -60,7 +56,7 @@ Publish your outcome reflective statement as a static page to your WordPress sit
 *Note:* If you have a more personally engaging way to represent this outcome reflective statement, please share your idea with your instructor for approval. It must address all the instructions in step 3 and it must be a timeless, summarizing, and convergent product of your learning, regardless of form.
 :::
 
-## Part 2: Assessment Conversation
+### Part 2: Assessment Conversation
 
 In addition to submitting your e-portfolio you will meet with your instructor for an assessment conversation. This conversation is an opportunity for you to explain your learning process and demonstrate your understanding of the course learning outcomes.
 
@@ -89,13 +85,13 @@ In addition to submitting your e-portfolio you will meet with your instructor fo
 3.  Your instructor will provide you with feedback to help you assess whether or not you have met the proficiency criteria. They will also give suggestions for improvement and encouragement.
 4.  Take notes of the feedback and reflect on how you can continue to grow in each of the learning outcome areas.
 
-## Assignment Feedback {.unnumbered}
+### Assignment Feedback {.unnumbered}
 
 Refer to the Moodle sections on Assignment Feedback & Competency-Based Assessment to review how your work will be assessed.
 
 Use your **Competency Development Tracker** as a guide to evaluate your own work before and during your Assessment Conversation.
 
-## Grading Rubric {.unnumbered}
+### Grading Rubric {.unnumbered}
 
 Your instructor will use the following grading rubric to assess your understanding and application of the digital skills learned in this course. You are encouraged to self-assess your work and practice evaluative judgement.
 

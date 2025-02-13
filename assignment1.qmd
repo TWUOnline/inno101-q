@@ -1,6 +1,8 @@
-# Assignment 1: Reflective Journal {.unnumbered}
+# Assessment
 
-## Part 1: Reflective Journal {.unnumbered}
+## Assignment 1: Reflective Journal {.unnumbered}
+
+### Part 1: Reflective Journal {.unnumbered}
 
 After completing Units 1-3, including the learning activities, you are asked to share your learning journal as a 'work-in-progress' demonstrating the knowledge and skills you have gained thus far in the course. This assignment is based on the learning activities in Units 1-3 and is designed to demonstrate your understanding of the course learning outcomes (#1-4).
 
@@ -18,7 +20,7 @@ After completing Units 1-3, including the learning activities, you are asked to 
 *Note:* If you choose a tool other than Obsidian, be sure to showcase all the required elements (tagging, hyperlinking, file management, citation management integration, graphic organizers, etc.) to demonstrate your proficiency in building a technology-integrated workflow.
 :::
 
-## Part 2: Assessment Conversation {.unnumbered}
+### Part 2: Assessment Conversation {.unnumbered}
 
 In addition to submitting your journal, you will meet with your instructor for an assessment conversation to explain your learning process and demonstrate your understanding of the course learning outcomes.
 
@@ -46,13 +48,13 @@ Please book your Assessment Conversations with your instructor through the [Micr
 *Note:* Do not simply read your assignments or reflections, rather highlight your key learning. For example: What do you want your instructor to notice? Which indicators of proficiency have been met? What are you especially proud of? How does your journal demonstrate evidence of learning?
 :::
 
-## Assignment Feedback {.unnumbered}
+### Assignment Feedback {.unnumbered}
 
 Refer to the Moodle sections on Assignment Feedback & Competency-Based Assessment to review how your work will be assessed.
 
 Use your **Competency Development Tracker** as a guide to evaluate your own work before and during your Assessment Conversation.
 
-## Grading Rubric {.unnumbered}
+### Grading Rubric {.unnumbered}
 
 Your instructor will use the following grading rubric to assess your understanding and application of the digital skills learned in this course. You are encouraged to self-assess your work and practice evaluative judgement.
 
