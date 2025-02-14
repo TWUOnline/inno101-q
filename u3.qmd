@@ -282,7 +282,7 @@ As you move forward, carry this digital toolkit with you, leveraging technology 
 
 ::: {.note}
 
-*Notes:* Your Obsidian vault includes a template to help you track your progress in each unit. Use it to self-assess your understanding of the unit learning outcomes and ensure you’re on track to achieve your learning goals.
+*Note:* Your Obsidian vault includes a template to help you track your progress in each unit. Use it to self-assess your understanding of the unit learning outcomes and ensure you’re on track to achieve your learning goals.
 
 :::
 

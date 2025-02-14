@@ -267,11 +267,11 @@ So how do we join and contribute constructively to these digital communities? If
 
 #### Research on Online Communities {.unnumbered}
 
-Research on the efficacy of online communities provides insights on selecting productive communities and how to engage. Community contributors can be classified into three types [(Mocus et al 2002):](https://eds-p-ebscohost-com.twu.idm.oclc.org/eds/detail/detail?vid=0&sid=ac9ba62b-7047-4aef-9566-5c626bace0d4%40redis&bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#AN=100369742&db=edb){target="_blank"}
+Research on the efficacy of online communities provides insights on selecting productive communities and how to engage. Community contributors can be classified into three types [(Mocus et al 2002):](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edb&AN=100369742&site=eds-live&scope=site){target="_blank"}
 
 1.  Core members are responsible for guiding the development of the community and have usually been involved with the community for a long time. These members have made significant contributions to the community’s evolution and have earned leadership status. Frequently they also play an active role in moderation of the group.
 2.  Active members make regular contributions to the community.
-3.  Peripheral members occasionally contribute to the discussions and the periods of engagement are short and sporadic. “Lurkers”, that is individuals seeking answers without making contributions, are normally associated with this group. The nature of engagement in a community is influenced by the community’s life cycle stage [(A. Iriberri and G. Leroy 2009)](https://eds-p-ebscohost-com.twu.idm.oclc.org/eds/detail/detail?vid=0&sid=e1db82b8-e0ea-4702-a72a-dd2d0c490fd9%40redis&bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#AN=edscma.1459356&db=edscma){target="_blank"}:
+3.  Peripheral members occasionally contribute to the discussions and the periods of engagement are short and sporadic. “Lurkers”, that is individuals seeking answers without making contributions, are normally associated with this group. The nature of engagement in a community is influenced by the community’s life cycle stage [(A. Iriberri and G. Leroy 2009)](https://dl.acm.org/doi/10.1145/1459352.1459356){target="_blank"}:
 
 | **Life cycle stage** | **Characteristics** |
 |--------------------------|---------------------------------------------|
@@ -523,7 +523,7 @@ In this unit you have had the opportunity to learn what it means to be a digital
 
 ::: {.note}
 
-*Notes:* Your Obsidian vault includes a template to help you track your progress in each unit. Use it to self-assess your understanding of the unit learning outcomes and ensure you’re on track to achieve your learning goals.
+*Note:* Your Obsidian vault includes a template to help you track your progress in each unit. Use it to self-assess your understanding of the unit learning outcomes and ensure you’re on track to achieve your learning goals.
 
 :::
 
