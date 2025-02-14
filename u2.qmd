@@ -51,7 +51,7 @@ Here is a list of learning activities that will benefit you in completing this u
 -   Create an annotated bibliography.
 
 ::: note
-**Note:** *Working through unit learning activities will help you to meet the course learning outcomes and successfully complete your assessments.*
+*Note:*Working through unit learning activities will help you to meet the course learning outcomes and successfully complete your assessments.
 :::
 ::::
 
@@ -522,12 +522,9 @@ Before you explore the next essential tool, watch [*Benefits of Using Citation M
 The RIS file you exported from LitMaps isn't going to be very useful unless you have software that can read it properly. Your best option is Zotero as it is free and open source, and has a good number of plugins and integrations you can use to connect with other apps.
 
 1.  Go to [zotero.org](https://zotero.org){target="_blank"} and click the red "Download" button, then follow the instructions to install Zotero on your computer. If you want to sign up for free storage (300MB) and backup for your library, you can also do that here.
-
 2.  Once you have installed Zotero, there are some plugins that will help you in your studies. These are listed below with links to instructions on how to install and configure the plugin.
-
--   [scite.ai](https://github.com/scitedotai/scite-zotero-plugin#installation){target="_blank"} - provides a breakdown of how references are cited in the literature
--   [Attanger](https://github.com/MuiseDestiny/zotero-attanger/releases/download/1.2.8/zotero-attanger.xpi){target="_blank"} allows you to find and manage PDFs in your Zotero library (clicking the link above will download the .xpi file, then you can install using the same procedures you used to install the scite.ai plugin.)
-
+    -   [scite.ai](https://github.com/scitedotai/scite-zotero-plugin#installation){target="_blank"} - provides a breakdown of how references are cited in the literature
+    -   [Attanger](https://github.com/MuiseDestiny/zotero-attanger/releases/download/1.2.8/zotero-attanger.xpi){target="_blank"} allows you to find and manage PDFs in your Zotero library (clicking the link above will download the .xpi file, then you can install using the same procedures you used to install the scite.ai plugin.)
 3.  Now that you have Zotero ready to go, it's time to import your first references. Find the untitled.ris file in your downloads folder and open it. You might have to confirm that you want to open with Zotero.
 
 Keep in mind that each journal system will name the downloaded file differently, but they should all end in .ris.

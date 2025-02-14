@@ -47,7 +47,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 -   Reflect on your learning goals and make a plan for meeting them. (\~10 minutes)
 -   Work through the *Learner* section of *Liberated Learners: How To Learn With Style* and create a list of your top ten study tips for online learning. (\~30 minutes)
 -   Read *Students' Engagement in Asynchronous Online Discussion: The Relationship Between Cognitive Presence, Learner Prominence, and Academic Performance* [-@galikyanStudentsEngagementAsynchronous2019a] and consider the benefits of engaging online (\~30 minutes)
--   Write an introduction post on the Learning Hub in Discourse. (\~20 minutes)
+-   Write an introduction post on the Learning Online Community in Discourse. (\~20 minutes)
 -   Watch The Future of Education is Self-Directed Learning and consider what tools and literacies you want to explore to meet your goals. (\~20 minutes)
 -   Download and install Obsidian and follow the instructions for the LDRS 101 vault. (\~30 minutes)
 -   Explore definitions of digital literacy. (\~30 minutes)
@@ -103,7 +103,7 @@ Choose a note-taking tool that works best for you (e.g., a Word document, a phys
 -   How you will measure your success at the end of the course.
 
 ::: note
-Notes:
+*Notes:*
 
 -   This activity is ungraded and intended to help you take ownership of your learning journey.
 -   Feel free to revisit your notes throughout the course as your goals and challenges may evolve.
@@ -251,7 +251,7 @@ For more on substantive participation, read [*Writing a Substantive Discussion P
 ### Activity: Join the Hub!
 
 ::: {.learning-activity time="20"}
-Head over to [the Learning Hub](https://twu.discourse.group/auth/microsoft_office365){target="_blank"}, which is an app called Discourse that we use to build community among learners in online courses. Find the Leadership 101 category and respond to the Welcome forum. As you introduce yourself, share your thoughts and questions you have about TWU. Here are some conversation prompts to get you started:
+Head over to [the Learning Online Community](https://twu.discourse.group/auth/microsoft_office365){target="_blank"}, which is an app called Discourse that we use to build community among learners in online courses. Find the Leadership 101 category and respond to the Welcome forum. As you introduce yourself, share your thoughts and questions you have about TWU. Here are some conversation prompts to get you started:
 
 -   What interests you about learning online?
 -   What are your learning goals?
@@ -350,7 +350,7 @@ If you are having any difficulty in installing Obsidian, feel free to reach out 
 ```
 ::::
 
-Obsidian will become a backbone of this course as we will use it to learn how the web works and give you a workflow that will help you stay organized. One of the advantages of Obsidian is that everything you do in the app happens on your own computer, rather than the cloud, which is just another way of saying *someone else's computer*. However, the drawback to that is that you need to ensure that you have a backup of your vaults in a secure location, either one of the sync services mentioned in Step 3, above, or another backup system. [Please check the Learning Hub](https://twu.discourse.group/auth/microsoft_office365){target="_blank"} or talk to your instructor or facilitator for help with this.
+Obsidian will become a backbone of this course as we will use it to learn how the web works and give you a workflow that will help you stay organized. One of the advantages of Obsidian is that everything you do in the app happens on your own computer, rather than the cloud, which is just another way of saying *someone else's computer*. However, the drawback to that is that you need to ensure that you have a backup of your vaults in a secure location, either one of the sync services mentioned in Step 3, above, or another backup system. [Please check the Learning Community](https://twu.discourse.group/auth/microsoft_office365){target="_blank"} or talk to your instructor or facilitator for help with this.
 
 ::: note
 *Note:* For your assignments, you may choose a tool other than Obsidian.  However, you will need to demonstrate all the required elements (tagging, hyperlinking, file management, citation management integration, graphic organizers, etc.) to demonstrate your proficiency in building a technology-integrated workflow. You are strongly encouraged to try out Obsidian and take the time to practice using its various features. Feel free to test out other tools and decide what tool best supports your workflow.
@@ -467,7 +467,7 @@ This guide defines digital literacies as "the capabilities which fit an individu
 The Seven Elements of Digital Literacies
 :::
 
-*Source.* From "[*Quick Guide - Developing Students' Digital Literacy*](https://digitalcapability.jiscinvolve.org/wp/files/2014/09/JISC_REPORT_Digital_Literacies_280714_PRINT.pdf){target="_blank"}," by Jisc Digital Experience Insights, n.d., p. 2, . CC BY-NC-ND 2.0 UK<!-- https://creativecommons.org/licenses/by-nc-nd/2.0/uk/-->.
+*Source.* From "[*Quick Guide - Developing Students' Digital Literacy*](https://digitalcapability.jiscinvolve.org/wp/files/2014/09/JISC_REPORT_Digital_Literacies_280714_PRINT.pdf){target="_blank"}," by Jisc Digital Experience Insights, n.d., p. 2. CC BY-NC-ND 2.0 UK<!-- https://creativecommons.org/licenses/by-nc-nd/2.0/uk/-->.
 
 **Questions to Consider** Create a new entry in your Obsidian learning journal. Jot down your reflections on the following:
 
@@ -568,7 +568,7 @@ Have you encountered the terms "digital natives" and "digital immigrants?" What 
 *Note:* [Marc Prensky](https://marcprensky.com/){target="_blank"} coined the terms "digital natives" and "digital immigrants." We recognize that the term "native" should not be used to talk about people.
 :::
 
-The essential argument is that certain generations have changed, in that they have an innate ability to use and learn technology because they have grown up using technology, and those generations whose formative years pre-date the advent of the internet are forever at a disadvantage compared to *kids*. You can read a bit more about the idea on Wikipedia, linked below. There is also a link in that article to Prensky's original article.
+The essential argument is that certain generations have changed, in that they have an innate ability to use and learn technology because they have grown up using technology, and those generations whose formative years pre-date the advent of the internet are forever at a disadvantage compared to *kids*. You can read a bit more about the idea on Wikipedia: [Digital Native](https://en.wikipedia.org/wiki/Digital_native){target="_blank"}, linked below. There is also a link in that article to Prensky's original article.
 
 <a class="embedly-card" data-card-controls="0" href="https://en.wikipedia.org/wiki/Digital_native">Digital native</a>
 
