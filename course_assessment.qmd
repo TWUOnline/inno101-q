@@ -14,7 +14,7 @@ The course grade will be determined by the satisfactory completion of all requir
 | Assignment 2: Digital Citizenship Blog |  1-7 | End of Unit 5 |
 | Assignment 3: Digital Literacy Portfolio |  1-7 | End of Unit 6 |
 
-## Assignment Feedback & Competency-Based Assessment {.unnumbered}
+## Assignment Feedback & Learning Progress Tracker {.unnumbered}
 
 Your progress in this course will be assessed based on how well you demonstrate competency in the course learning outcomes (CLOs), which are equally weighted. Rather than focusing on point-based grading, this course uses a competency-based assessment approach, which means:
 
@@ -31,9 +31,9 @@ This approach ensures that assessment is focused on growth, reflection, and mast
 |---------------|---------------|---------------|---------------|---------------|
 | The learner does not demonstrate the outcome at a level that is assessable. | The student demonstrates an initial understanding of the concepts and competencies relevant to the expected learning. | The student demonstrates a partial understanding of the concepts and competencies relevant to the expected learning. | The student demonstrates a complete understanding of the concepts and competencies relevant to the expected learning. | The student demonstrates a sophisticated understanding of the concepts and competencies relevant to the expected learning. |
 
-Feedback will be communicated with you in two different ways. First, and most important, there will be at least two **assessment interviews** that you will be required to attend with your instructor. During this assessment interview, you will need to highlight what you have learned and which artifacts from the course you use as evidence of your learning. You and your instructor will use the Competency Development Tracker to guide this conversation. By the end of the conversation, you will have a clear picture and record of your level of proficiency on each of the Course Learning Outcomes addressed in that particular assignment and you will have a plan for improving your level of proficiency on future assignments.
+Feedback will be communicated with you in two different ways. First, and most important, there will be at least two **assessment interviews** that you will be required to attend with your instructor. During this assessment interview, you will need to highlight what you have learned and which artifacts from the course you use as evidence of your learning. You and your instructor will use the Learning Progress Tracker to guide this conversation. By the end of the conversation, you will have a clear picture and record of your level of proficiency on each of the Course Learning Outcomes addressed in that particular assignment and you will have a plan for improving your level of proficiency on future assignments.
 
-Second, your instructor will record your level of proficiency on each outcome in the Moodle gradebook. It will be your responsibility to ensure that the proficiency levels shown in the Competency Development Tracker align with what is shown in the gradebook. During the course, the Moodle Gradebook will be considered the correct record. However, your grade is not official until it is entered into the university Portal at the end of your course.
+Second, your instructor will record your level of proficiency on each outcome in the Moodle gradebook. It will be your responsibility to ensure that the proficiency levels shown in the Learning Progress Tracker align with what is shown in the gradebook. During the course, the Moodle Gradebook will be considered the correct record. However, your grade is not official until it is entered into the university Portal at the end of your course.
 
 ## Grading System {.unnumbered}
 
@@ -111,7 +111,7 @@ As part of this process, you will participate in an Assessment Conversation, a s
 
 -   **Explain your learning process**, sharing insights into how you approached assignments and developed key competencies.
 
--   **Defend your progress** using the Competency Development Tracker, a shared document where you will assess your proficiency in relation to the course learning outcomes.
+-   **Defend your progress** using the Learning Progress Tracker, a shared document where you will assess your proficiency in relation to the course learning outcomes.
 
 -   **Exercise evaluative judgment**, critically analyzing your strengths, areas for growth, and next steps in your digital learning journey.
 
@@ -119,7 +119,7 @@ These conversations are **formative**, meaning they are designed to support your
 
 ### How to Prepare for Your Assessment Conversation
 
--   **Use the Competency Development Tracker:** This shared document between you and your instructor aligns course learning outcomes with proficiency indicators across assignments. It helps you track your progress, evaluate your learning, and practice evaluative judgment throughout the course. Keep it updated as you complete each assignment to prepare for the conversation.
+-   **Use the Learning Progress Tracker:** This shared document between you and your instructor aligns course learning outcomes with proficiency indicators across assignments. It helps you track your progress, evaluate your learning, and practice evaluative judgment throughout the course. Keep it updated as you complete each assignment to prepare for the conversation.
 
 -   **Prepare specific questions** about your work that you would like to discuss. Making a list ahead of time ensures we use our time efficiently.
 
@@ -137,7 +137,7 @@ These conversations are **formative**, meaning they are designed to support your
 
 ### During the Assessment Conversation
 
--   After a brief introduction, we will review your Competency Development Tracker to discuss your progress and address any concerns.
+-   After a brief introduction, we will review your Learning Progress Tracker to discuss your progress and address any concerns.
 
 -   I will ask you the guiding questions**,** such as:
 
@@ -149,7 +149,7 @@ These conversations are **formative**, meaning they are designed to support your
 
     4.  *How are you doing in meeting the goals that you set for yourself at the beginning of the course?*
 
--   Use your Competency Development Tracker to explain how your assignments demonstrate progress toward proficiency. Highlight specific indicators of proficiency that you have met and areas where you continue to grow.
+-   Use your Learning Progress Tracker to explain how your assignments demonstrate progress toward proficiency. Highlight specific indicators of proficiency that you have met and areas where you continue to grow.
 
 -   Clearly explain how your assignments provide evidence of your learning in relation to the course outcomes.
 
@@ -171,9 +171,9 @@ Avoid simply reading your assignments or reflections. Instead, focus on key lear
 
 By preparing thoughtfully and engaging in meaningful discussion, you will gain valuable insights into your learning progress and receive guidance to strengthen your digital literacy skills.
 
-## Competency Development Tracker
+## Learning Progress Tracker
 
-The **Competency Development Tracker** is a structured tool designed to help you monitor your progress in achieving the course learning outcomes. This document serves as both a **reflection tool** and a **progress log**, allowing you to track how your work demonstrates competency across different assignments.
+The **Learning Progress Tracker** is a structured tool designed to help you monitor your progress in achieving the course learning outcomes. This document serves as both a **reflection tool** and a **progress log**, allowing you to track how your work demonstrates competency across different assignments.
 
 #### How It Works
 
