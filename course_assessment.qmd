@@ -16,7 +16,7 @@ The course grade will be determined by the satisfactory completion of all requir
 
 ## Assignment Feedback & Outcome-Based Assessment {.unnumbered}
 
-Your progress in this course will be assessed based on how well you demonstrate proficiency in the course learning outcomes (CLOs), which are equally weighted. Rather than focusing on point-based grading, this course uses a outcome-based assessment approach, which means:
+Your progress in this course will be assessed based on how well you demonstrate proficiency in the course learning outcomes (CLOs), which are equally weighted. Rather than focusing on point-based grading, this course uses an outcome-based assessment approach, which means:
 
 -   You will complete a series of learning activities and assignments that provide opportunities to demonstrate your understanding of the CLOs.
 -   Your work will be evaluated holistically, considering how well you meet the learning outcomes rather than simply accumulating points.
