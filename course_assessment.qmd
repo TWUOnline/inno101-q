@@ -14,7 +14,7 @@ The course grade will be determined by the satisfactory completion of all requir
 | Assignment 2: Digital Citizenship Blog |  1-7 | End of Unit 5 |
 | Assignment 3: Digital Literacy Portfolio |  1-7 | End of Unit 6 |
 
-## Assignment Feedback & Learning Progress Tracker {.unnumbered}
+## Assignment Feedback & Outcome-Based Assessment {.unnumbered}
 
 Your progress in this course will be assessed based on how well you demonstrate competency in the course learning outcomes (CLOs), which are equally weighted. Rather than focusing on point-based grading, this course uses a competency-based assessment approach, which means:
 
