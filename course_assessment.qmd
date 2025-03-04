@@ -16,14 +16,14 @@ The course grade will be determined by the satisfactory completion of all requir
 
 ## Assignment Feedback & Outcome-Based Assessment {.unnumbered}
 
-Your progress in this course will be assessed based on how well you demonstrate competency in the course learning outcomes (CLOs), which are equally weighted. Rather than focusing on point-based grading, this course uses a competency-based assessment approach, which means:
+Your progress in this course will be assessed based on how well you demonstrate proficiency in the course learning outcomes (CLOs), which are equally weighted. Rather than focusing on point-based grading, this course uses a outcome-based assessment approach, which means:
 
 -   You will complete a series of learning activities and assignments that provide opportunities to demonstrate your understanding of the CLOs.
 -   Your work will be evaluated holistically, considering how well you meet the learning outcomes rather than simply accumulating points.
 -   You will be asked to exercise evaluative judgment, meaning you will reflect on your own work, assess your level of proficiency, and provide evidence of your learning.
 -   Your instructor will work with you to appraise your progress, offering feedback to help you deepen your understanding and refine your work.
 
-To measure competency, we use a proficiency scale that helps both learners and instructors assess whether assignments are completed at an appropriate level. This scale includes five levels of proficiency: Not Demonstrated, Emerging, Developing, Proficient, and Extending. Each level reflects the depth of understanding and application of the course learning outcomes.
+To measure proficiency, we use a proficiency scale that helps both learners and instructors assess whether assignments are completed at an appropriate level. This scale includes five levels of proficiency: Not Demonstrated, Emerging, Developing, Proficient, and Extending. Each level reflects the depth of understanding and application of the course learning outcomes.
 
 This approach ensures that assessment is focused on growth, reflection, and mastery rather than simply grading tasks.
 
@@ -39,7 +39,7 @@ Second, your instructor will record your level of proficiency on each outcome in
 
 ### Understanding Proficiency Levels and Final Grades
 
-As we mentioned previously, your progress will be assessed based on how well you demonstrate competency on the Course Learning Outcomes (CLOs). Instead of focusing on points or percentages, this approach emphasizes your ability to apply what you’ve learned.
+As we mentioned previously, your progress will be assessed based on how well you demonstrate proficiency on the Course Learning Outcomes (CLOs). Instead of focusing on points or percentages, this approach emphasizes your ability to apply what you’ve learned.
 
 Your proficiency will be evaluated at different levels, and your final grade will be based on your performance across all seven CLOs.
 
@@ -77,7 +77,7 @@ Your final letter grade is determined by your proficiency across the seven CLOs:
 
 -   **F** – Assigned if 2 or more CLOs are rated as **Not Demonstrated**.
 
-This grading structure ensures that your final grade reflects your overall competency across the course learning outcomes, rewarding both depth and consistency in your learning. It is designed to keep you actively engaged in your learning and focused on developing the skills necessary for success. If you have any questions about how your work is assessed, please reach out to your instructor.
+This grading structure ensures that your final grade reflects your overall proficiency across the course learning outcomes, rewarding both depth and consistency in your learning. It is designed to keep you actively engaged in your learning and focused on developing the skills necessary for success. If you have any questions about how your work is assessed, please reach out to your instructor.
 
 ### University Standard Grading System
 
@@ -87,7 +87,7 @@ This grading structure ensures that your final grade reflects your overall compe
 | **B** | **Good, competent work**; laudable performance with evidence of some original thinking, careful organization; satisfactory critical and analytical capacity; reasonably error-free expository written expression, with clear, focused thesis and well-supported, documented, relevant arguments; good problem-solving ability with few computational or conceptual errors in scientific subjects; reasonably good grasp of subject matter but an occasional lack of depth of discernment; evidence of reasonable familiarity with course subject matter in both concepts and key issues. Exhibits a serious, responsible engagement with the course content.<br/><br/>**Proficiency Scale: Proficient** |
 | **C** | **Adequate, reasonably satisfactory work**; fair performance but infrequent evidence of original thinking or the capacity to analyze, synthesize, or evaluate course material; undue reliance on rote memory; difficulty in applying knowledge in unfamiliar contexts; limited problem-solving ability in scientific subjects; fairly clear but quite uninspiring written expression with occasional problems in mechanics or syntax; weak in provision of documented, illustrative, or descriptive evidence; satisfactory grasp of basic elements of the course but frequent lapses in detailed understanding. Satisfies the minimum requirements of the course. <br/><br/>**Proficiency Scale: Developing** |
 | **D** | **Minimally acceptable work**; relatively weak performance with little evidence of original thinking or ability to analyze or synthesize course material; nominal or weak problem-solving ability in scientific subjects; written expression frequently exhibits difficulty in articulating a central thesis or sustaining a coherent argument; ideas are trite or juvenile without discernible development. Shows inadequate grasp of some basic elements of the course. <br/><br/>**Proficiency Scale: Emerging** |
-| **F** | **Inadequate work**; poor performance that indicates a lack of understanding or misunderstanding of essential subject matter; seems easily distracted by the irrelevant; written expression is poorly organized, often incoherent, and rife with mechanical and diction errors. Shows little evidence of even basic competency in the course content or skills. <br/><br/>**Proficiency Scale: Not Demonstrated** |
+| **F** | **Inadequate work**; poor performance that indicates a lack of understanding or misunderstanding of essential subject matter; seems easily distracted by the irrelevant; written expression is poorly organized, often incoherent, and rife with mechanical and diction errors. Shows little evidence of even basic proficiency in the course content or skills. <br/><br/>**Proficiency Scale: Not Demonstrated** |
 
 For more information please see the [University Standard Grading System](https://www.twu.ca/about-us/policies-guidelines/student-policies/university-standard-grading-system){target="_blank"} website.
 
@@ -173,7 +173,7 @@ By preparing thoughtfully and engaging in meaningful discussion, you will gain v
 
 ## Learning Progress Tracker
 
-The **Learning Progress Tracker** is a structured tool designed to help you monitor your progress in achieving the course learning outcomes. This document serves as both a **reflection tool** and a **progress log**, allowing you to track how your work demonstrates competency across different assignments.
+The **Learning Progress Tracker** is a structured tool designed to help you monitor your progress in achieving the course learning outcomes. This document serves as both a **reflection tool** and a **progress log**, allowing you to track how your work demonstrates proficiency across different assignments.
 
 #### How It Works
 
