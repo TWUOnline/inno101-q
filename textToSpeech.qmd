@@ -1,5 +1,7 @@
 # Text-to-Speech Support {.unnumbered}
 
+## Text-to-Speech Support {.unnumbered}
+
 There are an increasing number of tools that can read text aloud from a webpage and allow users to listen to the text. Many people who require these tools for everyday use (such as people who have low or no vision) already have robust tools that they use. If you are interested in trying out a text-to-speech tool, which may help you engage with the course materials while you are commuting or otherwise ‘busy’, or if you want to listen to the text while you read, feel free to follow the instructions below.
 
 ::: {.panel-tabset}
