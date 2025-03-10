@@ -4,9 +4,7 @@
 
 There are an increasing number of tools that can read text aloud from a webpage and allow users to listen to the text. Many people who require these tools for everyday use (such as people who have low or no vision) already have robust tools that they use. If you are interested in trying out a text-to-speech tool, which may help you engage with the course materials while you are commuting or otherwise ‘busy’, or if you want to listen to the text while you read, feel free to follow the instructions below.
 
-::: {.panel-tabset}
-
-## For Users of MS Edge
+::: {.accordion title="For Users of MS Edge. Click/tap this banner to show/hide the content."}
 
 Microsoft Edge's Read Aloud feature can enhance comprehension and retention of complex texts by allowing the user to listen while reading. It also offers a hands-free learning experience, making it convenient for focus or for individuals with visual impairments.
 
@@ -30,7 +28,9 @@ These instructions will not apply if you use a browser other than MS Edge.
 4. More setting options.  
 ![More Settings](assets/textToSpeech/mobile4.jpeg)
 
-## For IPhone users
+:::
+
+::: {.accordion title="For IPhone users. Click/tap this banner to show/hide the content."}
 
 1. Settings > Accessibility > Spoken Content. From there, you can turn on Speak Selection or Speak Screen.  
 ![iOS Settings](assets/textToSpeech/ios1.jpg)  
@@ -40,6 +40,8 @@ These instructions will not apply if you use a browser other than MS Edge.
 ![Speak Button](assets/textToSpeech/ios4.png)  
 3. Swipe down with two fingers from the top of the screen to hear the content of the screen.  
 ![Swipe Down](assets/textToSpeech/ios5.png)
+
+:::
 
 <!-- ### For Users of Chrome
 
@@ -51,8 +53,6 @@ These instructions will not apply if you use a browser other than MS Edge.
 
 4. Highlight the paragraph you would like to play audio, a play icon will show up. To troubleshoot, refresh the browser.  
 ![Play Icon](assets/textToSpeech/Screenshot%202025-03-07%20at%201.57.10%E2%80%AFPM.png)-->
-
-:::
 
 If you want information on another tool, please reach out to [elearning@twu.ca](mailto:elearning@twu.ca).
 
