@@ -185,15 +185,26 @@ The **Personal Learning Tracker** is a structured tool designed to help you moni
 
 -   **Supports the Assessment Conversation:** This tracker is a shared document between you and your instructor, providing a structured way to demonstrate your growth, defend your progress, and receive targeted feedback during your scheduled assessment conversation.
 
-#### How to Use It
+#### Using the Personal Learning Tracker
 
-1.  **Update your tracker** as you complete each assignment, indicating your proficiency level and reflecting on your learning.
+1. **Download the Tracker**: [Click here to download the tracker.](https://learn.twu.ca/mod/resource/view.php?id=1241198){target="_blank"}
+2. **Save & Rename**: Save the file to an easily accessible location on your computer (e.g., an LDRS 101 folder). Rename it using this format:
+`LastName_FirstName_LDRS_101_Personal_Learning_Tracker`
+1. **Upload to OneDrive**: To ensure easy access, upload the file to OneDrive.
+2. **Share the Link**: When submitting your assignment, share the OneDrive link with your instructor. You will also need to provide this link when booking your assessment conversation.
+3. **Update regularly**: As you complete each assignment, record your proficiency level and reflect on your learning.
+4. **Prepare for your assessment conversation**: Highlight key learning moments and areas where you seek feedback.
+5. **Engage in meaningful reflection**: Consider how your skills are developing and how you can continue improving.
 
-2.  **Use it as a guide** to prepare for your assessment conversation, highlighting key learning moments and areas where you seek feedback.
+This tracker is not just a record of work—it’s a tool to help you take ownership of your learning, practice self-assessment, and develop proficiencies that extend beyond the course. If you need assistance with this process, feel free to reach out.
 
-3.  **Engage in meaningful reflection**, considering how your skills are developing and how you can continue improving.
+<!-- 1.  **Update your tracker** as you complete each assignment, indicating your proficiency level and reflecting on your learning.
 
-This tracker is not just a record of work—it’s a tool to help you take ownership of your learning, practice self-assessment, and develop proficiencies that extend beyond the course.
+1.  **Use it as a guide** to prepare for your assessment conversation, highlighting key learning moments and areas where you seek feedback.
+
+2.  **Engage in meaningful reflection**, considering how your skills are developing and how you can continue improving.
+
+This tracker is not just a record of work—it’s a tool to help you take ownership of your learning, practice self-assessment, and develop proficiencies that extend beyond the course.-->
 
 ## Course Discussions {.unnumbered}
 
