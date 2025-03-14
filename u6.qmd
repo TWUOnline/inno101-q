@@ -96,7 +96,7 @@ Consider the following questions:
 -   How did it help or hinder your learning, productivity, creativity, etc.?
 -   What are your goals for sharing your learning at TWU and beyond?
 
-Share your thoughts by posting a comment on Discourse, for example: "Sharing learning is valuable because ..." "Community learning in the workplace is valuable because ..."
+Share your thoughts by posting a comment on Learning Community, for example: "Sharing learning is valuable because ..." "Community learning in the workplace is valuable because ..."
 :::
 
 ### Activity: Preparing for the Future
@@ -153,7 +153,7 @@ Below we'll briefly explore technology and change, artificial intelligence, and 
 
 </div>
 
-What do you think? Share your thoughts by posting a comment on Discourse, for example:
+What do you think? Share your thoughts by posting a comment on Learning Community, for example:
 
 -   The future of work is ...
 -   In a digital age ...
@@ -168,7 +168,7 @@ Throughout history there are technologies that have influenced change in society
 ### Activity: Impact of Digital Technology on Business
 
 :::: {.learning-activity time="30"}
-In this activity we invite you to join the Discourse discussion on the impact of digital technology on business.
+In this activity we invite you to join the Learning Community discussion on the impact of digital technology on business.
 
 -   First, choose any business or work environment (for example, your current career or future career).
 -   Think about examples of how digital technology has had an impact on your chosen business over the last 30 years.
@@ -327,7 +327,7 @@ AI systems require lots of work from humans to function correctly. A 2023 report
 -   Is it ethical to submit Kenyan workers to trauma in order to sanitize ChatGPT for other users?
 -   What other solutions are there for training AI to moderate content?
 
-Share your thoughts on AI by posting a comment on Discourse, for example:
+Share your thoughts on AI by posting a comment on Learning Community, for example:
 
 -   AI will ...
 -   I was surprised that AI ...
@@ -367,7 +367,7 @@ To test your knowledge of concepts associated with problematic behaviours online
 <script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 ```
 
-How did you do? Have you encountered any of these behaviours online? Share your thoughts by posting a comment on Discourse.
+How did you do? Have you encountered any of these behaviours online? Share your thoughts by posting a comment on Learning Community.
 :::
 
 ### Website Tracking {.unnumbered}
@@ -485,7 +485,7 @@ Do you use [ad blocking](https://en.wikipedia.org/wiki/Ad_blocking){target="_bla
 
 After viewing these resources, what do you think the cost of free websites is? Do you use ad blocking software? Think about the reasons for your choice.
 
-Share your thoughts on [Discourse](https://twu.discourse.group/){target="_blank"} or use Hypothes.is to annotate and share your comments.
+Share your thoughts on [Learning Community](https://twu.discourse.group/auth/microsoft_office365){target="_blank"} or use Hypothes.is to annotate and share your comments.
 :::
 
 ```{=html}
@@ -499,7 +499,7 @@ Next, let's explore and reflect on the relationship between corporate commercial
 
 The [OERu](https://oeru.org/){target="_blank"} is a charitable organization which provides open online courses for free, using open educational resources which any educational institution can adopt, modify, and reuse. There are costs that must be covered to sustain the OERu; for example, the assembly of open online courses, hosting of server and software infrastructure, staff to coordinate and support the initiative, and so on. The OERu does not generate any revenue from corporate services; for example, it does not allow advertising on OERu course sites for a share of advertising revenue. Moreover, the OERu does not sell or generate revenue from personal data learners provide by using these free learning services, therefore users are not the product of this service.
 
--   **Discuss**: Join the discussion in Discourse on philanthropy and corporate advertising. The key question is how can nonprofit organizations sustain free educational services for those who can't afford traditional education provision?
+-   **Discuss**: Join the discussion in Learning Community on philanthropy and corporate advertising. The key question is how can nonprofit organizations sustain free educational services for those who can't afford traditional education provision?
 
 Consider the following issues:
 
@@ -587,7 +587,7 @@ Optional reading: (expletive warning)
 
 -   [*Facebook as Catfish Paradise: Its Community Standards Wears the Cone of Shame*](https://cogdogblog.com/2015/10/facebook-as-catfish-paradise-its-community-standards-wears-the-cone-of-shame/){target="_blank"} [-@blogFacebookCatfishParadise2015]
 
-Feel free to share personal reflections on the phenomenon of online impersonation by posting a comment on Discourse.
+Feel free to share personal reflections on the phenomenon of online impersonation by posting a comment on Learning Community.
 :::
 
 ### Internet Trolling {.unnumbered}
@@ -621,7 +621,7 @@ In this section we explore the phenomenon of internet trolling and strategies fo
     -   ['Don't Feed the Trolls' Really is Good Advice -- Here's the Evidence](https://theconversation.com/dont-feed-the-trolls-really-is-good-advice-heres-the-evidence-63657){target="_blank"} [-@DontFeedTrolls]
     -   [How Empathy can Make or Break a Troll](https://theconversation.com/how-empathy-can-make-or-break-a-troll-80680){target="_blank"} [-@marchHowEmpathyCan2017]
 
-After viewing the resources, how can you spot trolls online? Share your thoughts by posting a comment on Discourse.
+After viewing the resources, how can you spot trolls online? Share your thoughts by posting a comment on Learning Community.
 :::
 
 ### Online Harassment {.unnumbered}
@@ -704,7 +704,7 @@ Watch this fascinating TedTalk video:
 -   Finally, read the following article which summarizes a number of psychological disorders related to our use of digital technology:
     -   [*Eight new Mental Illnesses Brought to you by the Internet*](https://www.pcworld.com/article/448085/eight-new-mental-illnesses-brought-to-you-by-wait-for-it-the-internet.html){target="_blank"} [-@dashevskyEightNewMental2013]
 
-Share your thoughts by posting a comment on Discourse, for example:
+Share your thoughts by posting a comment on Learning Community, for example:
 
 -   I was surprised by ...
 -   I think that ...
@@ -835,7 +835,7 @@ Here are a couple more resources focusing on the American debate on net neutrali
     -   [*Facebook's Internet.org Isn't Going Over Well in India*](https://fortune.com/2016/01/22/facebook-india-internet/){target="_blank"} (2016) -->
 ```
 
--   Share your thoughts on net neutrality by posting a comment on Discourse. For example:
+-   Share your thoughts on net neutrality by posting a comment on Learning Community. For example:
     -   Net neutrality is important because ...
     -   Net neutrality can/can't coexist with Internet.org because ...
     -   Free basics is a good thing because ...

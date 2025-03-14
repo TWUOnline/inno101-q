@@ -47,7 +47,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 -   Reflect on your learning goals and make a plan for meeting them. 
 -   Work through the *Learner* section of *Liberated Learners: How To Learn With Style* and create a list of your top ten study tips for online learning. 
 -   Read *Students' Engagement in Asynchronous Online Discussion: The Relationship Between Cognitive Presence, Learner Prominence, and Academic Performance* [-@galikyanStudentsEngagementAsynchronous2019a] and consider the benefits of engaging online 
--   Write an introduction post on the Learning Online Community in Discourse. 
+-   Write an introduction post on the Learning Online Community in Learning Community. 
 -   Watch The Future of Education is Self-Directed Learning and consider what tools and literacies you want to explore to meet your goals. 
 -   Download and install Obsidian and follow the instructions for the LDRS 101 vault. 
 -   Explore definitions of digital literacy. 
@@ -57,7 +57,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 -   Create a Visitors and Residents diagram. 
 -   Get a password manager. 
 -   Use the *Terms of Service: Didn't Read* [-@tosdrTermsServiceDidnt] website to look up each of the apps we will learn in this course. 
-<!-- -   Write an introduction post on [the Learning Hub](https://twu.discourse.group){target="_blank"} in Discourse. 
+<!-- -   Write an introduction post on [the Learning Hub](https://twu.Learning Community.group){target="_blank"} in Learning Community. 
 -   Watch The Future of Education is Self-Directed Learning and consider what tools and literacies you want to explore to meet your goals. 
 -   Download and install [Obsidian](https://obsidian.md){target="_blank"} and follow the instructions for the LDRS 101 vault. 
 -   Explore definitions of digital literacy. 
@@ -165,7 +165,7 @@ Having worked through The Learner, reflect on the following questions and record
 ### Activity: Engaging in Online Discussions
 
 :::: {.learning-activity time="30"}
-Participating in discussions with your peers (what higher education folks like to call *discourse*---a verb), is an essential aspect of effective online courses, facilitated through platforms such as Moodle discussion forums, WordPress blogs, Discourse posts (in this case, a noun---referring to the app called Discourse), and others. We all know that discussion forums can sometimes be tedious, especially when they are assessed in the same way a formal paper is assessed. However, the benefits of using asynchronous technologies (where your interactions with others are time-delayed) in well-designed activities can be significant.
+Participating in discussions with your peers (what higher education folks like to call *Learning Community*---a verb), is an essential aspect of effective online courses, facilitated through platforms such as Moodle discussion forums, WordPress blogs, Learning Community posts (in this case, a noun---referring to the app called Learning Community), and others. We all know that discussion forums can sometimes be tedious, especially when they are assessed in the same way a formal paper is assessed. However, the benefits of using asynchronous technologies (where your interactions with others are time-delayed) in well-designed activities can be significant.
 
 Here is an article that will introduce you to some key ideas about discussion forums:
 
@@ -185,7 +185,7 @@ While you read, make notes and then create a summary.
 
 #### Discussion Guidelines for LDRS 101 {.unnumbered}
 
-In this course, we will ask you to discuss ideas with your peers via Discourse, WordPress, and other social media platforms. These discussions are ***ungraded***, meaning, your instructor will ***not*** give you marks per discussion. ***However,*** they are an important part of this course and ***you will not be able to complete your assignments without discussing with your peers***. Consider for example, two course learning outcomes that relate to online discussions:
+In this course, we will ask you to discuss ideas with your peers via Learning Community, WordPress, and other social media platforms. These discussions are ***ungraded***, meaning, your instructor will ***not*** give you marks per discussion. ***However,*** they are an important part of this course and ***you will not be able to complete your assignments without discussing with your peers***. Consider for example, two course learning outcomes that relate to online discussions:
 
 -   Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens
 -   Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality
@@ -475,7 +475,7 @@ What are your thoughts on the seven elements of digital literacies? Are these ke
 
 In your search to define digital literacies, what other literacies or skills are emphasized? What would your list be for digital literacies that are important for you?
 
-Feel free to share your thoughts and experiences by posting on the LDRS 101 Discourse chat. For example:
+Feel free to share your thoughts and experiences by posting on the LDRS 101 Learning Community chat. For example:
 
 -   The major difference between digital skills and literacies is ...
 -   I didn't realize that ...
@@ -516,7 +516,7 @@ deleting activity
 ::: learning-activity
 A key component of digital literacy and networked learning relates to the ability to engage meaningfully in online learning communities.
 
-This learning activity will provide you with another opportunity to connect with your peers in Discourse and contribute to online learning discussions.
+This learning activity will provide you with another opportunity to connect with your peers in Learning Community and contribute to online learning discussions.
 
 Watch the following video and jot down the reasons why digital literacy matters to you, then complete the steps which follow.
 
@@ -528,7 +528,7 @@ Watch the following video and jot down the reasons why digital literacy matters 
 
 </div>
 
--   Go to the LDRS 101 section in Discourse
+-   Go to the LDRS 101 section in Learning Community
 -   Post a contribution to the discussion on digital literacies and why they are important for you
 -   Post one or two replies to interesting contributions (you should also "like" good contributions, use the person's username when replying, and if appropriate, quote a reply when responding.)
 :::
@@ -555,7 +555,7 @@ Digital literacy encompasses a wide range of capabilities which extend beyond th
 -   Did the self-assessment you chose focus on digital skills or digital literacies?
 -   What did you learn from this exercise?
 
-Share your thoughts by posting on Discourse.
+Share your thoughts by posting on Learning Community.
 :::
 
 #### Visitors and Residents {.unnumbered}

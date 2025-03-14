@@ -142,7 +142,7 @@ A key teaching philosophy of this course is to embed the acquisition of new digi
 As this is a course focusing on digital literacies, you are asked to establish a Learning Blog, which will improve your skills and enable you to network with your peers. We recommend using WordPress, as it is supported by TWU. WordPress is an open source website builder and is one of the most popular systems available because of its versatility. If you already have your own website or you have previous experience using WordPress, you may set up your blog on it and skip the set-up steps described below, but you still need to complete the learning activities.
 
 ::: note
-We are here to help you create your site, so do not hesitate to ask for technical support. There are a number of resources below, but if you get stuck, please reach out on Discourse, or email elearning\@twu.ca
+We are here to help you create your site, so do not hesitate to ask for technical support. There are a number of resources below, but if you get stuck, please reach out for support.
 
 :::
 
@@ -245,7 +245,7 @@ Here is a tutorial on how to add a YouTube video or embed one of your own videos
 
 ::: {.accordion title="8. Share your blog"}
 -   Add a category or tag for your post using the course tag: LDRS101
--   Post in the LDRS 101 Discourse forum to let your peers know the web address of your blog and ask them to post a comment. This will give you the opportunity to experience how comments function on your blog and to test if they are working properly.
+-   Post in the LDRS 101 Learning Community forum to let your peers know the web address of your blog and ask them to post a comment. This will give you the opportunity to experience how comments function on your blog and to test if they are working properly.
 :::
 
 :::: {.accordion title="9. Additional Customizations"}
@@ -259,7 +259,7 @@ When you're ready to start customizing your blog and adding content, check out s
 -   [*WordPress Tutorials; University of Victoria*](https://onlineacademiccommunity.uvic.ca/wordpress-tutorials/){target="_blank"}[-@universityofvictoriaWordPressTutorials]
 
 ::: note
--   If you are confused about anything it is always good to do an initial Google or YouTube search, reach out on Discourse, or email elearning\@twu.ca
+-   If you are confused about anything it is always good to do an initial Google or YouTube search, reach out on Learning Community, or email elearning\@twu.ca
 :::
 :::
 
@@ -301,7 +301,7 @@ Next, read the following:
 -   What factors inhibit or support the sharing of information in building an online identity?
 -   What is the value of an online identity for learning?
 
-Reminder: As you view online resources in this course, feel free to annotate and discuss web resources publicly in support of your learning (e.g., using digital tools such as Hypothes.is, Discourse, WordPress, or others).
+Reminder: As you view online resources in this course, feel free to annotate and discuss web resources publicly in support of your learning (e.g., using digital tools such as Hypothes.is, Learning Community, WordPress, or others).
 :::
 
 ### Activity: Who Am I Online ... and Why Should I Care?
@@ -364,7 +364,7 @@ Prepare and publish a short blog post of about 250 to 300 words focusing on what
 
 ## Evaluating Digital Tools
 
-So far in Unit 4, you have created a learning blog in WordPress, explored your social media platforms, and used a range of other tools such as Zotero, Discourse, Obsidian, and more.
+So far in Unit 4, you have created a learning blog in WordPress, explored your social media platforms, and used a range of other tools such as Zotero, Learning Community, Obsidian, and more.
 
 As we step into this new topic, we encourage you to engage in a critical examination of the online tools you use or are interested in. Beyond the basic considerations of functionality and user friendliness, we invite you to assess digital tools, platforms, and interactions through the lens of ethical principles.
 
@@ -460,7 +460,7 @@ In this activity, you are invited to critically evaluate an online tool.
     -   Include a comment on the extent to which the tool would be useful for learning in a digital age
     -   Add a category or tag for your post using the course tag: LDRS101
 
-On Discourse, let us know what tool you selected and why. Share the link of your review blog.
+On Learning Community, let us know what tool you selected and why. Share the link of your review blog.
 :::
 
 ## Summary {.unnumbered}

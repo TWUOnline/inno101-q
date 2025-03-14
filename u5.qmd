@@ -129,7 +129,7 @@ Read through the following resources in order to refine your own definition of w
 | Digital security |  |
 
 -   After completing the steps above, revise your personal description of digital citizenship. Does your new definition differ from your initial description?
--   Share a reflection on this activity by posting either in your blog or on Discourse. For example:
+-   Share a reflection on this activity by posting either in your blog or on Learning Community. For example:
     -   I didn't realize the ... is part of digital citizenship because ...
     -   ... is not particularly relevant for university learners because ...
     -   ... is particularly relevant for university learners because ...
@@ -157,7 +157,7 @@ Following the hype of massive open online courses (MOOC) and the New York Times 
     -   [*A Bill of Rights and Principles for Learning in the Digital Age*](https://www.udacity.com/blog/2013/01/a-bill-of-rights-and-principles-for.html){target="_blank"} [-@kolowichBillRightsSeeks2013]
     -   [Digital Rights and Responsibility in Education: A Scoping Review](https://epaa.asu.edu/index.php/epaa/article/view/7899/3340){target="_blank"} [-@gallego-arrufatDigitalRightsResponsibility2024]
 -   Prepare a table summarizing the primary rights and responsibilities for university learning in a digital age.
--   Drawing on your knowledge and experience, join the discussion on Discourse regarding rights and responsibilities for learning in a digital age at TWU. You can discuss the topical issues listed below or add new ones to the forum. In each case, justify your position, taking opposing views into account.
+-   Drawing on your knowledge and experience, join the discussion on Learning Community regarding rights and responsibilities for learning in a digital age at TWU. You can discuss the topical issues listed below or add new ones to the forum. In each case, justify your position, taking opposing views into account.
 
 **Topical Issues**
 
@@ -166,7 +166,7 @@ Following the hype of massive open online courses (MOOC) and the New York Times 
 -   Where legally permissible, should learners have the right to access all course materials without the need to register a password?
 -   Others?
 
-We encourage you to reply and to "like" posts on Discourse. Remember to tag your posts using key words to facilitate searches (e.g. digital-rights).
+We encourage you to reply and to "like" posts on Learning Community. Remember to tag your posts using key words to facilitate searches (e.g. digital-rights).
 :::
 
 #### Personal and Professional Identity {.unnumbered}
@@ -218,7 +218,7 @@ Prepare a short blog post (about 300--400 words) summarizing your findings on pr
 -   How do like-minded professionals in your field network online and what do they talk about?
 -   What does this mean for your online identity and being a digital citizen?
 
-We encourage you to reply and to “like” posts on Discourse. Remember to tag your posts using key words to facilitate searches (e.g. digital-rights).
+We encourage you to reply and to “like” posts on Learning Community. Remember to tag your posts using key words to facilitate searches (e.g. digital-rights).
 :::
 
 ### Activity: Blog: My Online Biography
@@ -343,7 +343,7 @@ As you reflect on digital practices in university and the workplace, consider ho
 
 -   To learn more about the origins and theory of communities of practice, see [*Introduction to Communities of Practice*](http://wenger-trayner.com/introduction-to-communities-of-practice){target="_blank"} [-@wenger-traynerIntroductionCommunitiesPractice2015]
 
-Feel free to discuss your topics of interest in Discourse, or search online for communities of practice that interest you.
+Feel free to discuss your topics of interest in Learning Community, or search online for communities of practice that interest you.
 :::
 
 ## Connecting and Learning Through Social Media
@@ -409,7 +409,7 @@ In this activity, we will practice using Hypothes.is by annotating an article on
 -   Activate annotations after logging in to Hypothes.is---click the search icon () and enter the course code (LDRS101) to filter posts for this course from the public feed.
 -   Annotate or reply to posts by visiting the annotation page (you will need to be logged into the Hypothes.is site to post).
 
-We encourage you to reply and to “like” posts on Discourse. Remember to tag your posts using key words to facilitate searches (e.g. digital-rights).
+We encourage you to reply and to “like” posts on Learning Community. Remember to tag your posts using key words to facilitate searches (e.g. digital-rights).
 :::
 
 ### Activity: Hypothes.is Challenge!
@@ -425,7 +425,7 @@ Here is one more step we encourage you to take advantage of:
 -   Select three or more resources to reread and annotate using Hypothes.is.
 -   Reply to posts by visiting the annotation page (you will need to be logged into the Hypothes.is site to post).
 
-We encourage you to reply and to “like” posts on Discourse. Remember to tag your posts using key words to facilitate searches (e.g. digital-rights).
+We encourage you to reply and to “like” posts on Learning Community. Remember to tag your posts using key words to facilitate searches (e.g. digital-rights).
 :::
 
 ### Activity: Social Media for Connecting and Learning
@@ -461,7 +461,7 @@ The Conversation Prism
 
 :::: {.learning-activity time="30"}
 
-Join the Discourse forum on social media, online identity, and learning by sharing your personal views and thoughts. Choose one or more of the following questions as a catalyst for your contributions to the forum:
+Join the Learning Community forum on social media, online identity, and learning by sharing your personal views and thoughts. Choose one or more of the following questions as a catalyst for your contributions to the forum:
 
   -   How much of what you learn should be open and transparent (i.e., public) and how much should be kept private? Why?
   -   In a digital age, how important is it for you to build a digital footprint of your learning?
@@ -469,7 +469,7 @@ Join the Discourse forum on social media, online identity, and learning by shari
   -   What levels of online engagement do you feel are appropriate for your own learning on this course? Does this differ from your engagement in other online communities?
   -   Other?
 
-We encourage you to reply and to “like” posts on Discourse. Remember to tag your posts using key words to facilitate searches (e.g. digital-rights).
+We encourage you to reply and to “like” posts on Learning Community. Remember to tag your posts using key words to facilitate searches (e.g. digital-rights).
 :::
 
 ## Connecting to the TWU Community
@@ -497,7 +497,7 @@ We invite all TWU students to connect, thrive, and serve in a dynamic, Christ-ce
 
 Consider how you might connect, thrive, and serve through your connections and contributions online, and if applicable, on campus.
 
-What experiences have you had so far in connecting with your peers and getting to know the TWU community? If you have not participated in the engagement opportunities presented in this course (Discourse, WordPress blog), take the time now to connect!
+What experiences have you had so far in connecting with your peers and getting to know the TWU community? If you have not participated in the engagement opportunities presented in this course (Learning Community, WordPress blog), take the time now to connect!
 
 **TWU on Social Media**
 
