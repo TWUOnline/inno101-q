@@ -47,7 +47,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 -   Reflect on your learning goals and make a plan for meeting them. 
 -   Work through the *Learner* section of *Liberated Learners: How To Learn With Style* and create a list of your top ten study tips for online learning. 
 -   Read *Students' Engagement in Asynchronous Online Discussion: The Relationship Between Cognitive Presence, Learner Prominence, and Academic Performance* [-@galikyanStudentsEngagementAsynchronous2019a] and consider the benefits of engaging online 
--   Write an introduction post on the Learning Online Community in Learning Community. 
+-   Write an introduction post on the Learning Community in Learning Community. 
 -   Watch The Future of Education is Self-Directed Learning and consider what tools and literacies you want to explore to meet your goals. 
 -   Download and install Obsidian and follow the instructions for the LDRS 101 vault. 
 -   Explore definitions of digital literacy. 
@@ -192,7 +192,7 @@ In this course, we will ask you to discuss ideas with your peers via Learning Co
 
 Your discussion posts may be used as learning artifacts to demonstrate your understanding of the course learning outcomes (see Assignment details in Moodle).
 
-In LDRS 101, you should write your posts in a way that shows you are communicating in an academic setting. While you don't need to adhere to all of the conventions of APA formatting, you should practice the principles of proper citation. For example, to cite an idea from the article in the previous activity, it would look like the following [-@galikyanStudentsEngagementAsynchronous2019a], and the bottom of the post would include a "References" heading, followed by the full reference (this part may be considered optional since we have included a link to the article in the in-text citation, but it is nice to have). Please consult the [APA Style website](https://apastyle.apa.org/style-grammar-guidelines){target="_blank"} for details.
+In LDRS 101, you should write your posts in a way that shows you are communicating in an academic setting. While you don't need to adhere to all of the conventions of APA formatting, you should practice the principles of proper citation. For example, to cite an idea from the article in the previous activity, it would look like the following [@galikyanStudentsEngagementAsynchronous2019a], and the bottom of the post would include a "References" heading, followed by the full reference (this part may be considered optional since we have included a link to the article in the in-text citation, but it is nice to have). Please consult the [APA Style website](https://apastyle.apa.org/style-grammar-guidelines){target="_blank"} for details.
 
 It is ***highly*** recommended that you begin using a reference manager---we recommend Zotero as it is a free and open source app with all you will ever need to cite properly in any style. We will lead you through some specifics of using Zotero in the next unit of LDRS 101, but you can [download Zotero](https://www.zotero.org/){target="_blank"} for free.
 
@@ -251,7 +251,7 @@ For more on substantive participation, read [*Writing a Substantive Discussion P
 ### Activity: Join the TWU Learning Community!
 
 ::: {.learning-activity time="20"}
-Head over to [the Learning Community](https://twu.discourse.group){target="_blank"}, which is an app called Discourse that we use to build community among learners in online courses. Find the Leadership 101 category and respond to the Welcome forum. As you introduce yourself, share your thoughts and questions you have about TWU. Here are some conversation prompts to get you started:
+Head over to [the Learning Community](https://twu.discourse.group/auth/microsoft_office365){target="_blank"}, which is an app called Discourse that we use to build community among learners in online courses. Find the Leadership 101 category and respond to the Welcome forum. As you introduce yourself, share your thoughts and questions you have about TWU. Here are some conversation prompts to get you started:
 
 -   What interests you about learning online?
 -   What are your learning goals?
@@ -559,7 +559,7 @@ Digital literacy encompasses a wide range of capabilities which extend beyond th
 -   Did the self-assessment you chose focus on digital skills or digital literacies?
 -   What did you learn from this exercise?
 
-Share your thoughts by posting on Learning Community.
+Share your thoughts by posting on the Learning Community.
 :::
 
 #### Visitors and Residents {.unnumbered}
