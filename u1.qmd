@@ -194,7 +194,7 @@ Your discussion posts may be used as learning artifacts to demonstrate your unde
 
 In LDRS 101, you should write your posts in a way that shows you are communicating in an academic setting. While you don't need to adhere to all of the conventions of APA formatting, you should practice the principles of proper citation. For example, to cite an idea from the article in the previous activity, it would look like the following [-@galikyanStudentsEngagementAsynchronous2019a], and the bottom of the post would include a "References" heading, followed by the full reference (this part may be considered optional since we have included a link to the article in the in-text citation, but it is nice to have). Please consult the [APA Style website](https://apastyle.apa.org/style-grammar-guidelines){target="_blank"} for details.
 
-It is ***highly*** recommended[^u1-1] that you begin using a reference manager---we recommend Zotero as it is a free and open source app with all you will ever need to cite properly in any style. We will lead you through some specifics of using Zotero in the next unit of LDRS 101, but you can [download Zotero](https://www.zotero.org/){target="_blank"} for free.
+It is ***highly*** recommended that you begin using a reference manager---we recommend Zotero as it is a free and open source app with all you will ever need to cite properly in any style. We will lead you through some specifics of using Zotero in the next unit of LDRS 101, but you can [download Zotero](https://www.zotero.org/){target="_blank"} for free.
 
 [^u1-1]: For real ... using Zotero will literally save you days of tedious work during your university career!
 
@@ -251,7 +251,7 @@ For more on substantive participation, read [*Writing a Substantive Discussion P
 ### Activity: Join the TWU Learning Community!
 
 ::: {.learning-activity time="20"}
-Head over to [the Learning Online Community](https://twu.discourse.group/auth/microsoft_office365){target="_blank"}, which is an app called Discourse that we use to build community among learners in online courses. Find the Leadership 101 category and respond to the Welcome forum. As you introduce yourself, share your thoughts and questions you have about TWU. Here are some conversation prompts to get you started:
+Head over to [the Learning Community](https://twu.discourse.group){target="_blank"}, which is an app called Discourse that we use to build community among learners in online courses. Find the Leadership 101 category and respond to the Welcome forum. As you introduce yourself, share your thoughts and questions you have about TWU. Here are some conversation prompts to get you started:
 
 -   What interests you about learning online?
 -   What are your learning goals?
@@ -469,11 +469,15 @@ The Seven Elements of Digital Literacies
 
 *Source.* From "[*Quick Guide - Developing Students' Digital Literacy*](https://digitalcapability.jiscinvolve.org/wp/files/2014/09/JISC_REPORT_Digital_Literacies_280714_PRINT.pdf){target="_blank"}," by Jisc Digital Experience Insights, n.d., p. 2. CC BY-NC-ND 2.0 UK<!-- https://creativecommons.org/licenses/by-nc-nd/2.0/uk/-->.
 
-**Questions to Consider** Create a new entry in your Obsidian learning journal. Jot down your reflections on the following:
+**Questions to Consider** 
 
-What are your thoughts on the seven elements of digital literacies? Are these key literacies you need to live, learn, and work in today's society? What would you add?
+Create a new entry in your Obsidian learning journal. Jot down your reflections on the following:
 
-In your search to define digital literacies, what other literacies or skills are emphasized? What would your list be for digital literacies that are important for you?
+- What are your thoughts on the seven elements of digital literacies? 
+- Are these key literacies you need to live, learn, and work in today's society? 
+- What would you add to the list?
+- In your search to define digital literacies, what other literacies or skills are emphasized? 
+- What would your list be for digital literacies that are important for you?
 
 Feel free to share your thoughts and experiences by posting on the LDRS 101 Learning Community chat. For example:
 
