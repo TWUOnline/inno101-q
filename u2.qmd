@@ -65,7 +65,7 @@ See the Assessment section in Moodle for assignment details.
 
 ## Finding and Selecting Resources
 
-Throughout your university career you will encounter tasks in your courses that will require you to produce some original writing. It is very important that you give yourself more time than you think you might need to complete these tasks. Good writing in university doesn't just happen. It takes work. You will find that a large amount of that work isn't actually writing at all, but reading. Then writing, and reading some more. Then rewriting, revising, editing, reading some more, and editing again.
+Throughout your studies, you will encounter tasks in your courses that will require you to produce some original writing. It is very important that you give yourself more time than you think you might need to complete these tasks. Good writing in university doesn't just happen. It takes work. You will find that a large amount of that work isn't actually writing at all, but reading. Then writing, and reading some more. Then rewriting, revising, editing, reading some more, and editing again.
 
 One of the most important tasks in all of this is finding the resources you need to read, making sure they are *academic* resources, copying down all the information about the resource, then making sure you can keep track of what you have found, read, and learned. This unit will help you build a workflow for doing just that. You need a workflow and a system because there is far too much information available to you than you will ever be able to digest and read, let alone remember. It is impossible to memorize everything you need to know, so you need a way to manage your knowledge and resources.
 
@@ -87,8 +87,8 @@ When academics begin writing a research paper they always start by reviewing wha
 
 One of the quickest ways to get started on a search is to use [Google Scholar](https://scholar.google.com/){target="_blank"}, but it has some problems in that it will return a huge number of results. Notice that the image below shows over 91,000 results. Far too many for you to sort through.
 
-::: {#fig-googlexsearch2}
-![](assets/u2/google-search2.png){fig-alt="Screenshot of Google Scholar search for transformational servant leadership."" .lightbox fig-align="left"}
+::: {#fig-googlexsearch1}
+![](assets/u2/google-search1.png){fig-alt="Screenshot of Google Scholar search for transformational servant leadership."" .lightbox fig-align="left"}
 
 Screenshot, Results Page of Google Scholar Search for "Transformational Servant Leadership"
 :::
@@ -101,25 +101,13 @@ The top result shows some promise though. Notice a few things about it:
 
 One of the easiest ways to find literature reviews in Google searches is to include "literature review" in your search. When we do that, we get a better list. This time, there are more results (97,000), but they are better results. Notice the third item ...
 
-```{=html}
-<!-- !!! Comment(s) from Werd:
-
-Reference: review
-
-Comment: Add attributions below all images/screenshots that follow as
-required (TWU?)
-Deb Troendle-Scott | 2024-08-22T21:01:00Z
-
--->
-```
-
-<div>
+::: {#fig-googlexsearch2}
 
 ![](assets/u2/google-search2.png){.lightbox fig-alt="Screenshot of Google Scholar search for transformational servant leadership literature review." fig-align="left"}
 
-Screenshot, Results Page of Google Scholar search for "Transformational Servant Leadership Literature Review"
+Screenshot, Results Page of Google Scholar search for “Transformational Servant Leadership Literature Review”
 
-</div>
+:::
 
 -   all your keywords
 -   lots of citations
@@ -127,26 +115,6 @@ Screenshot, Results Page of Google Scholar search for "Transformational Servant 
 -   AND it is a systematic review
 
 This is the only article you need for now. Though search results are always changing, we will use this example [(Eva et al., 2019)](https://linkinghub.elsevier.com/retrieve/pii/S1048984317307774){target="_blank"} in our upcoming activity.
-
-```{=html}
-<!-- 
-(KM - deleting Click the link as students can do this later with the doi)
-
-!!! Deb's Comment(s) from Werd:
-Reference: Click the link.
-
-Comment: How will this be linked to the Eva et al. article apart from
-the Zotero citation? In the original it read as though students would be
-able to click the Eva et al. article within the image (within the LMS?),
-but as presented here, this is not accessible as the starting point for
-the following LitMap activity - a current Google Scholar search with
-these terms will not provide the same results as shown here. I've added
-this wording, but if it is linked through the image above in Moodle
-that's fine, please revise as necessary.
-Deb Troendle-Scott | 2024-08-17T13:58:00Z
-
--->
-```
 
 ::: {#fig-googlexsearch3}
 ![](assets/u2/google-search3.png){fig-alt="Screenshot, article landing page"" .lightbox fig-align="left"}
@@ -156,31 +124,9 @@ Screenshot of an Article Landing Page
 
 In fact, you don't even need to read this article yet. All you need is the DOI---the *digital object identifier*. A DOI is a critical piece of information about an article that provides a piece of evidence that this is a legitimate article published in a legitimate journal. A DOI will always start with 10. . Sometimes it is included as part of an URL, as in this case, but you only need the code that follows '10.'. The DOI for this article is `10.1016/j.leaqua.2018.07.004`
 
-```{=html}
-<!-- !!! Comment(s) from Werd:
-
-Reference: In
-
-Comment: Transitional text missing here?
-Deb Troendle-Scott | 2024-07-31T15:33:00Z
-
--->
-```
-
 Copy the DOI. Sometimes you need to copy the whole URL, and that is ok.
 
 Log in to [Litmaps.com](https://www.litmaps.com/){target="_blank"} and paste the DOI.
-
-```{=html}
-<!-- !!! Comment(s) from Werd:
-
-Reference: Log
-
-Comment: Start the activity here?
-Deb Troendle-Scott | 2024-07-31T15:39:00Z
-
--->
-```
 
 ::: {#fig-litmaps1}
 ![](assets/u2/litmaps1.png){.lightbox fig-alt="Screenshot of Litmaps search bar populated with DOI from text above" fig-align="left"}
