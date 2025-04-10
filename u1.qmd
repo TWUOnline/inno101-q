@@ -635,7 +635,7 @@ For many university students, a Learning Management System (LMS) like Moodle is 
 This activity will help you think about how the tools we use shape and sometimes determine the nature of our interactions with each other. Do the tools you use fall on the visitor or the resident end of your continuum? How do these tools impact your learning?
 
 -   Read [*Visitors and Residents: A New Typology for Online Engagement*](https://firstmonday.org/ojs/index.php/fm/article/view/3171){target="_blank"} [-@whiteVisitorsResidentsNew2011]
--   Create a new canvas in your Obsidian vault and create your own Visitor--Resident Diagram. We have created a sample diagram in the vault.
+-   Create a new canvas in your Obsidian vault and create your own Visitor--Resident Diagram. We have created a sample diagram in the vault called `VR Diagram Canvas`.
 
 ::: note
 This diagram can be used to demonstrate your understanding of the course learning outcomes. See the Assessment tab in Moodle for how this activity relates to the assessments in this course.
