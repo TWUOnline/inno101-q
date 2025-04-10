@@ -419,7 +419,13 @@ Reflect on the following writing prompts:
 -   Higher education students of the future will need to ...
 -   ... is an important 21st century skill for future employment
 
-To complete this activity, click "Open Today's Daily Note" in your Obsidian vault and write your reflections. This is the start of your reflective learning journal that you will continue to add to throughout the course.
+**Creating Notes in Obsidian**
+
+Go to your vault in Obsidian and add a folder by clicking the folder icon. Rename the folder as Notes.
+
+Next, click “Open Today’s Daily Note” in your Obsidian vault and write your reflections.
+
+This is the start of your reflective learning journal that you will continue to add to throughout the course.
 
 ::: {#fig-tdn}
 ![](assets/u1/tdn.png){.lightbox fig-alt="Screenshot, Obsidian, today's daily note icon circled" fig-align="left"}
