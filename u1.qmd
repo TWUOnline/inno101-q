@@ -428,7 +428,7 @@ Next, click “Open Today’s Daily Note” in your Obsidian vault and write you
 This is the start of your reflective learning journal that you will continue to add to throughout the course.
 
 ::: {#fig-tdn}
-![](assets/u1/tdn.png){.lightbox fig-alt="Screenshot, Obsidian, today's daily note icon circled" fig-align="left"}
+![](assets/u1/tdn_v2.png){.lightbox fig-alt="Screenshot, Obsidian, today's daily note icon circled" fig-align="left"}
 
 Screenshot, Obsidian, Where to Find Today's Daily Note (Icon Circled)
 :::
