@@ -326,7 +326,9 @@ What digital tools do you use to help you make meaning? What is your "go-to" app
 ### Activity: Getting Started With Obsidian
 
 :::: {.learning-activity time="30"}
-Follow the steps below to install Obsidian on your computer.
+Follow the steps below to install Obsidian on your computer. 
+
+***Make sure you use the arrows to click through all seven steps!***
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=625" width="675" height="535" frameborder="0" allowfullscreen="allowfullscreen" title="Getting Started With Obsidian">
 
