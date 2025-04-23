@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.42">
+<meta name="generator" content="quarto-1.6.8">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -57,10 +57,10 @@ div.csl-indent {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-79bb3942e891885f9f7af119cd221462.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-626149efe8f5d16e1d391ba177679bf0.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-e19161ed4e9aff9b066a34963cfd5be8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
 <link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
@@ -703,14 +703,14 @@ Estimated Time: 30 minutes
 </iframe>
 <script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 <!--
--   Go to [obsidian.md](https://obsidian.md/download){target="_blank"} and [follow these instructions to install Obsidian on your computer.](https://help.obsidian.md/Getting+started/Download+and+install+Obsidian){target="_blank"}
+-  [Follow these instructions to install Obsidian on your computer.](https://help.obsidian.md/Getting+started/Download+and+install+Obsidian){target="_blank"}
     -   It is recommended that you use a computer rather than a mobile phone to install Obsidian, but please let your instructor or facilitator know if you are on mobile.
     -   You do NOT need to purchase any upgrades such as **Obsidian Sync** or **Obsidian Publish**.
 -   Work through the **Getting Started** section of the Obsidian help pages starting with **Create a vault**.
     -   When you create the vault in this step, we recommend that you name it **TWU** or something similar. Later, you can create as many vaults as you would like.
 -   It is recommended that you use one of the sync services listed here so that your files are backed up.
 
-If you are having any difficulty in installing Obsidian, feel free to reach out for support on [the Learning Hub](https://twu.discourse.group/auth/microsoft_office365){target="_blank"}. There are also several tutorials and videos online; you are encouraged to seek out these resources. One example is [*Obsidian for Beginners: Start HERE --- How to Use the Obsidian App for Notes*](https://www.youtube-nocookie.com/embed/QgbLb6QCK88?si=ZKdRBBIccDy4TjgY){target="_blank"} (2020). The first minute shows how to set up Obsidian ... and if you'd like a sneak peek at the amazing features this tool has to offer, watch on! We'll get to these additional uses of Obsidian later in the course.
+If you are having any difficulty in installing Obsidian, feel free to reach out for support on [the Learning Community](https://twu.discourse.group/auth/microsoft_office365){target="_blank"}. There are also several tutorials and videos online; you are encouraged to seek out these resources. One example is [*Obsidian for Beginners: Start HERE --- How to Use the Obsidian App for Notes*](https://www.youtube-nocookie.com/embed/QgbLb6QCK88?si=ZKdRBBIccDy4TjgY){target="_blank"} (2020). The first minute shows how to set up Obsidian ... and if you'd like a sneak peek at the amazing features this tool has to offer, watch on! We'll get to these additional uses of Obsidian later in the course.
 -->
 </div>
 </div>
@@ -791,9 +791,9 @@ Estimated Time: 10 minutes
 <li>Higher education students of the future will need to …</li>
 <li>… is an important 21st century skill for future employment</li>
 </ul>
-<p><strong>Creating Notes in Obsidian</strong></p>
-<p>Go to your vault in Obsidian and add a folder by clicking the folder icon. Rename the folder as Notes.</p>
-<p>Next, click “Open Today’s Daily Note” in your Obsidian vault and write your reflections.</p>
+<p><strong>Using ‘Today’s Daily Note’ in Obsidian</strong></p>
+<p>If you don’t have a folder called ‘Notes’ in your vault, add a folder by clicking the folder icon. Rename the folder as Notes.</p>
+<p>Next, click “Open Today’s Daily Note” (the circled icon that looks like a calendar in <a href="#fig-tdn" class="quarto-xref">Figure&nbsp;<span>1.3</span></a>) in your Obsidian vault and write your reflections.</p>
 <p>This is the start of your reflective learning journal that you will continue to add to throughout the course.</p>
 <div id="fig-tdn" class="lightbox quarto-float quarto-figure quarto-figure-left anchored" data-fig-align="left" alt="Screenshot, Obsidian, today's daily note icon circled">
 <figure class="quarto-float quarto-float-fig figure">
@@ -1475,6 +1475,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -1585,6 +1587,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
+      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
@@ -1823,7 +1826,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   </div>
 </nav>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"top","loop":false,"openEffect":"zoom","selector":".lightbox"});
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","openEffect":"zoom","closeEffect":"zoom","descPosition":"top","loop":false});
 (function() {
   let previousOnload = window.onload;
   window.onload = () => {

@@ -338,14 +338,14 @@ Follow the steps below to install Obsidian on your computer.
 
 ```{=html}
 <!--
--   Go to [obsidian.md](https://obsidian.md/download){target="_blank"} and [follow these instructions to install Obsidian on your computer.](https://help.obsidian.md/Getting+started/Download+and+install+Obsidian){target="_blank"}
+-  [Follow these instructions to install Obsidian on your computer.](https://help.obsidian.md/Getting+started/Download+and+install+Obsidian){target="_blank"}
     -   It is recommended that you use a computer rather than a mobile phone to install Obsidian, but please let your instructor or facilitator know if you are on mobile.
     -   You do NOT need to purchase any upgrades such as **Obsidian Sync** or **Obsidian Publish**.
 -   Work through the **Getting Started** section of the Obsidian help pages starting with **Create a vault**.
     -   When you create the vault in this step, we recommend that you name it **TWU** or something similar. Later, you can create as many vaults as you would like.
 -   It is recommended that you use one of the sync services listed here so that your files are backed up.
 
-If you are having any difficulty in installing Obsidian, feel free to reach out for support on [the Learning Hub](https://twu.discourse.group/auth/microsoft_office365){target="_blank"}. There are also several tutorials and videos online; you are encouraged to seek out these resources. One example is [*Obsidian for Beginners: Start HERE --- How to Use the Obsidian App for Notes*](https://www.youtube-nocookie.com/embed/QgbLb6QCK88?si=ZKdRBBIccDy4TjgY){target="_blank"} (2020). The first minute shows how to set up Obsidian ... and if you'd like a sneak peek at the amazing features this tool has to offer, watch on! We'll get to these additional uses of Obsidian later in the course.
+If you are having any difficulty in installing Obsidian, feel free to reach out for support on [the Learning Community](https://twu.discourse.group/auth/microsoft_office365){target="_blank"}. There are also several tutorials and videos online; you are encouraged to seek out these resources. One example is [*Obsidian for Beginners: Start HERE --- How to Use the Obsidian App for Notes*](https://www.youtube-nocookie.com/embed/QgbLb6QCK88?si=ZKdRBBIccDy4TjgY){target="_blank"} (2020). The first minute shows how to set up Obsidian ... and if you'd like a sneak peek at the amazing features this tool has to offer, watch on! We'll get to these additional uses of Obsidian later in the course.
 -->
 ```
 ::::
@@ -419,11 +419,11 @@ Reflect on the following writing prompts:
 -   Higher education students of the future will need to ...
 -   ... is an important 21st century skill for future employment
 
-**Creating Notes in Obsidian**
+**Using 'Today's Daily Note' in Obsidian**
 
-Go to your vault in Obsidian and add a folder by clicking the folder icon. Rename the folder as Notes.
+If you don't have a folder called 'Notes' in your vault, add a folder by clicking the folder icon. Rename the folder as Notes.
 
-Next, click “Open Today’s Daily Note” in your Obsidian vault and write your reflections.
+Next, click “Open Today’s Daily Note” (the circled icon that looks like a calendar in @fig-tdn) in your Obsidian vault and write your reflections.
 
 This is the start of your reflective learning journal that you will continue to add to throughout the course.
 
