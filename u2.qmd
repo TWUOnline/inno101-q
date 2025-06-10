@@ -97,7 +97,7 @@ The top result shows some promise though. Notice a few things about it:
 
 -   it has all your key words right in the title---that's good
 -   it has over 2,700 citations (that's very good)
--   it was published in 2004 (that's not great ... it's old)
+-   it was published in 2004 (that's not always a problem, but it's not great ... it's old)
 
 One of the easiest ways to find literature reviews in Google searches is to include "literature review" in your search. When we do that, we get a better list. This time, there are more results (97,000), but they are better results. Notice the third item ...
 
@@ -126,7 +126,83 @@ In fact, you don't even need to read this article yet. All you need is the DOI--
 
 Copy the DOI. Sometimes you need to copy the whole URL, and that is ok.
 
-Log in to [Litmaps.com](https://www.litmaps.com/){target="_blank"} and paste the DOI.
+#### Use Litmaps to Build Your Literature Map  {.unnumbered}
+
+##### Go to [Litmaps.com](https://app.litmaps.com/?auth=sign-up) and sign up for a free account. {.unnumbered}
+
+  - Privacy note: while it is quick and easy to choose 'Sign in with Google', this will ensure that Google knows about your activity in LitMaps. 
+
+##### Copy and paste the DOI (`10.1016/j.leaqua.2018.07.004`) into the search bar. {.unnumbered}
+
+::: {#fig-lm1}
+![](assets/litmaps/lm1.png){fig-alt="Screenshot, Litmaps Search"" .lightbox fig-align="left"}
+
+Screenshot of the Litmaps search page
+:::
+
+##### Click on the result to view the article details in Litmaps. {.unnumbered}
+
+::: {#fig-lm2}
+![](assets/litmaps/lm2.png){fig-alt="Screenshot, Litmaps Results"" .lightbox fig-align="left"}
+
+Screenshot of the Litmaps results
+:::
+
+Notice in the screenshot that there is a yellow tip displayed. Litmaps is really good at providing these helper tips in context. Feel free to check 'Don't show this again' and then 'Close'.
+
+##### Tag the article with a keyword (e.g., “servant leadership”) and add it to a Litmap. {.unnumbered}
+
+::: {#fig-lm3}
+![](assets/litmaps/lm3.png){fig-alt="Screenshot, Create a Litmap"" .lightbox fig-align="left"}
+
+Screenshot of the dialog to create a litmap.
+:::
+
+##### Click 'Open Litmap' {.unnumbered}
+
+::: {#fig-lm4}
+![](assets/litmaps/lm4.png){fig-alt="Screenshot, Open Litmap"" .lightbox fig-align="left"}
+
+Screenshot of the Open Litmap dialog.
+:::
+
+Initially, your Litmap will be unimpressive, with only one article.
+
+::: {#fig-lm5}
+![](assets/litmaps/lm5.png){fig-alt="Screenshot, Litmap"" .lightbox fig-align="left"}
+
+Screenshot of the Litmaps results
+:::
+
+Notice the yellow tip...
+
+##### Click “Explore Related Articles” to see how this article connects to others through citations. {.unnumbered}
+
+::: {#fig-lm6}
+![](assets/litmaps/lm6.png){fig-alt="Screenshot, Litmap waterfall view"" .lightbox fig-align="left"}
+
+Screenshot of the Litmaps waterfall view.
+:::
+
+This view shows your initial article at the top as a dark grey circle, followed by a number of other articles that Litmaps has identified as being related to the original because they all cite the original article. These articles are arranged with the more recent articles to the right of the map and those with more citations towards the top of the map. This means that articles in the top right of the graph are likely to be more important than the others. In this case Gutiérrez-Brocano, 2024 seems to be prominent because it is recent and it has more citations than the others from the same time period. 
+
+When you select an article in the map, its details will appear in the left panel. Review the abstract, if available, and citation information to determine if it is relevant to your research question. If it is, click "Add to Litmap" to include it in your Litmap. Repeat this with all of the articles recommended by Litmaps, adding relevant articles to the Litmap.
+
+You may see a notice that says "New results may be available", and asking you to refresh. DO NOT refresh until you have explored all of the recommended articles.
+
+::: {#fig-lm6}
+![](assets/litmaps/lm8.png){fig-alt="Screenshot, Litmap with new articles"" .lightbox fig-align="left"}
+
+Screenshot of the Litmap with new articles.
+:::
+
+Now that you have explored all of the recommended articles and added the relevant ones to your Litmap, it is time to refresh the map. This will repeat the search, but this time considering all of the relevant articles.
+ 
+ The Litmap will now likely show articles published before your original article. If those earlier articles are highly cited, especially by those already in your map, they are likely very important in the field and should be added.
+
+ Repeat this process several times to increase the quality of your map. You can also remove some articles and refresh the search.
+ 
+- Using tags and folders in Litmaps—like in Obsidian or Discourse—can help you connect themes and stay organized. 
 
 ::: {#fig-litmaps1}
 ![](assets/u2/litmaps1.png){.lightbox fig-alt="Screenshot of Litmaps search bar populated with DOI from text above" fig-align="left"}
