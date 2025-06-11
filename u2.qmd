@@ -130,7 +130,11 @@ Copy the DOI. Sometimes you need to copy the whole URL, and that is ok.
 
 ##### Go to [Litmaps.com](https://app.litmaps.com/?auth=sign-up) and sign up for a free account. {.unnumbered}
 
-  - Privacy note: while it is quick and easy to choose 'Sign in with Google', this will ensure that Google knows about your activity in LitMaps. 
+::: {.note}
+
+Privacy note: While it is quick and easy to choose 'Sign in with Google', this will ensure that Google knows about your activity in LitMaps. 
+
+:::
 
 ##### Copy and paste the DOI (`10.1016/j.leaqua.2018.07.004`) into the search bar. {.unnumbered}
 
@@ -198,11 +202,17 @@ Screenshot of the Litmap with new articles.
 
 Now that you have explored all of the recommended articles and added the relevant ones to your Litmap, it is time to refresh the map. This will repeat the search, but this time considering all of the relevant articles.
  
- The Litmap will now likely show articles published before your original article. If those earlier articles are highly cited, especially by those already in your map, they are likely very important in the field and should be added.
+The Litmap will now likely show articles published before your original article. If those earlier articles are highly cited, especially by those already in your map, they are likely very important in the field and should be added.
 
- Repeat this process several times to increase the quality of your map. You can also remove some articles and refresh the search.
- 
-- Using tags and folders in Litmaps—like in Obsidian or Discourse—can help you connect themes and stay organized. 
+Repeat this process several times to increase the quality of your map. You can also remove some articles and refresh the search.
+
+::: {.note}
+
+You may encounter a paywall after creating 2 Litmaps. You are not require to pay anything. Please be in touch with your faciltator. 
+
+:::
+
+<!-- Using tags and folders in Litmaps—like in Obsidian or Discourse—can help you connect themes and stay organized. 
 
 ::: {#fig-litmaps1}
 ![](assets/u2/litmaps1.png){.lightbox fig-alt="Screenshot of Litmaps search bar populated with DOI from text above" fig-align="left"}
@@ -231,19 +241,6 @@ Screenshot of Litmaps Seed Map with Edit Collections Popup (Circled)
 :::
 
 Next, add Hoch, 2018, to your new collection (it is closest to the upper right quadrant), and finally add Greenleaf, 1979 (all the articles seem to cite this article, so it is likely very important in the field, sometimes called a seminal article).
-
-```{=html}
-<!-- !!! Comment(s) from Werd:
-
-Reference: Next
-
-Comment: Check that this still appears in Litmaps as shown (as per the
-comment above re: the Eva et al. article, results now may differ from
-those generated when these images were created)
-Deb Troendle-Scott | 2024-08-20T17:52:00Z
-
--->
-```
 
 Notice that the articles you added to your new collection are all coloured the same as the collection.
 
@@ -328,6 +325,8 @@ Choose "RIS" in the dropdown menu, then click "Download."
 
 Screenshot of Litmaps Seed Map Menu for Downloading Articles with RIS Format Selected
 :::
+
+-->
 
 For more tutorials on using Litmaps, search online. For example, the Litmaps YouTube channel has some helpful videos.
 
