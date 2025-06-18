@@ -320,7 +320,7 @@ In addition to evaluating who you are online, ask yourself, "why should I care?"
 Next, select from the resources below to inform your views.
 
 -   [*Students Turn to Internet to Build Online Presence, Showcase Work*](https://www.huffpost.com/entry/students-turn-to-internet_b_3518598){target="_blank"} (2013)
--   [*Your Online Presence and Your Career*](https://help.open.ac.uk/your-online-presence){target="_blank"} [@theopenuniversityYourOnlinePresencea]
+-   [*Your Online Presence and Your Career*](https://help.open.ac.uk/your-online-presence){target="_blank"} [@theopenuniversityYourOnlinePresence]
 -   [*Digital Tattoo Project*](https://digitaltattoo.ubc.ca/){target="_blank"} [-@theuniversityofbritishcolumbiaDigitalTattooProject]
 -   [*Policy Brief: Privacy*](https://www.internetsociety.org/policybriefs/privacy/){target="_blank"} [-@internetsocietyPolicyBriefPrivacy2015]
 

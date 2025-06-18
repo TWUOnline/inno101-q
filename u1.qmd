@@ -58,7 +58,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 -   Watch Visitors and Residents (2014) to start thinking about where you reside on the web. 
 -   Create a Visitors and Residents diagram. 
 -   Get a password manager. 
--   Use the *Terms of Service: Didn't Read* [-@tosdrTermsServiceDidnt] website to look up each of the apps we will learn in this course. 
+-   Use the *Terms of Service: Didn't Read* [-@TermsServiceDidnt] website to look up each of the apps we will learn in this course. 
 <!-- -   Write an introduction post on [the Learning Hub](https://twu.Learning Community.group){target="_blank"} in Learning Community. 
 -   Watch The Future of Education is Self-Directed Learning and consider what tools and literacies you want to explore to meet your goals. 
 -   Download and install [Obsidian](https://obsidian.md){target="_blank"} and follow the instructions for the LDRS 101 vault. 
@@ -319,7 +319,7 @@ Literacy, as we commonly understand it, is the ability to *understand* the meani
 
 > "In today's world, being literate requires much, much more than the traditional literacy of yesterday." [@alberDeeperLearningDefining2013]
 
-What digital tools do you use to help you make meaning? What is your "go-to" app for note taking, organizing files, tracking references, and connecting ideas? One valuable tool we are going to show you is called Obsidian, a free note taking and mind mapping app. Before you go through the instructions in the activity below, watch the video *This is Obsidian*. [-@abc:abettercomputerThisObsidian2021].
+What digital tools do you use to help you make meaning? What is your "go-to" app for note taking, organizing files, tracking references, and connecting ideas? One valuable tool we are going to show you is called Obsidian, a free note taking and mind mapping app. Before you go through the instructions in the activity below, watch the video *This is Obsidian*. [-@ThisObsidian2021].
 
 [Watch: *This is Obsidian*](https://www.youtube.com/watch?v=d2FNqEDGc8g){target="_blank"} <!-- Auto title, auto embed-->
 
@@ -757,7 +757,7 @@ So how can we protect ourselves if new threats are emerging all the time?
 ### Activity: Analyzing Terms of Service (Didn't Read)
 
 ::: {.learning-activity time="20"}
-Use the [*Terms of Service: Didn't Read*](https://tosdr.org/){target="_blank"} [@TermsServiceDidn] site to look up each of the apps we will learn in this course. Each tool currently has its own file in your Obsidian vault with a template ready to go for you. Fill out the template for each tool based on what is available on tosdr.org and your own examination of the ToS for each tool.
+Use the [*Terms of Service: Didn't Read*](https://tosdr.org/){target="_blank"} [@TermsServiceDidnt] site to look up each of the apps we will learn in this course. Each tool currently has its own file in your Obsidian vault with a template ready to go for you. Fill out the template for each tool based on what is available on tosdr.org and your own examination of the ToS for each tool.
 
 Feel free to add components to the template. Note we're return to this website at the end of Unit 4 as we evaluate digital tools.
 :::
