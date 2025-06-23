@@ -124,6 +124,92 @@ You will be encouraged to post your PLE graphic on your blog ... which you will 
 
 ## Building a Learning Blog
 
+In the next activity, you will gain firsthand experience in using blog technology to publish your own website. You will "declare" yourself online using your PLE as an alternative to posting an introduction in a closed course forum typically used in a conventional online course. Note that TWU online courses often use either Moodle Discussion Forums or the Learning Community in Discourse to facilitate conversations. By using a platform such as WordPress you can retain the contents of your posts as well as the comments of your peers. In a learning management system (LMS) such as Moodle you may lose access to what you have posted in discussions, and more importantly, conversations with your peers. As you create your personal blog in WordPress (or your own selected blog site), you have more control over your data and who can see it.
+
+You will retain control of your data and learning outputs generated during this online course, even after the course is completed. You get to choose:
+
+- The blog service you would like to use, although **we recommend WordPress as it is supported by TWU**
+- Whether to accept comments on your blog from your peers
+- Whether to register your blog for the aggregated course feed so that any posts tagged with the course code (LDRS101) will be harvested for the feed
+
+A key teaching philosophy of this course is to embed the acquisition of new digital literacies into your learning journey. Knowledge of how to use the internet and social media technologies will better prepare you for life in a digital world. If this is your first time blogging, you should spend time setting up your personal digital learning environment. Please remember that your learning blog and the social media technologies you use on this course are public, and that you take full responsibility for anything you publish. Do not disclose any confidential information and respect the privacy of others. In short, don’t say anything that you would not want to read on the internet.
+
+### Activity: Setting up Your Learning Blog
+
+::: {.learning-activity time="120"}
+As this is a course focusing on digital literacies, you are asked to establish a Learning Blog, which will improve your skills and enable you to network with your peers. We recommend using WordPress, as it is supported by TWU. WordPress is an open source website builder and is one of the most popular systems available because of its versatility. If you already have your own website or you have previous experience using WordPress, you may set up your blog on it and skip the set-up steps described below, but you still need to complete the learning activities.
+
+We are here to help you create your site, so do not hesitate to ask for technical support. There are a number of resources below, but if you get stuck, please reach out for support.
+
+To get started on creating your site we suggest the following steps:
+
+Tip: Click the ⛶ fullscreen icon to make the presentation fullscreen.
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=652" width="809" height="582" frameborder="0" allowfullscreen="allowfullscreen" title="Setting up your Learning Blog"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+:::
+
+### Activity: Blog Challenge!
+
+::: {.learning-activity}
+
+In this learning activity, you will be asked to create a page, write a blog post, and add multimedia to your blog. Let’s get started!
+
+1. **Edit Your "About" Page**
+
+Update your personal details on your blog’s "About" page.
+
+2. **Write a Blog Post**
+
+Reflect on creating your blog in a new post. Save your work as a draft so you can review before publishing. 
+   You might:
+    - Introduce yourself and share what you hope to achieve by blogging.
+    - Reflect on how easy or challenging you found the setup.
+    - Share useful resources you discovered.
+    - Offer tips for future learners or note what you’d do differently if starting over.
+    - Add anything else your readers might find interesting.
+
+3. **Photo Challenge**
+
+Add a photo to your blog post. Use your own image or find one with an open license from sites like [Pixabay](https://pixabay.com/){target="_blank"}, [Unsplash](https://unsplash.com/){target="_blank"}, [Pexels](https://www.pexels.com/){target="_blank"}, [Wikimedia Commons](https://commons.wikimedia.org/){target="_blank"}, or [Flickr](https://www.flickr.com/){target="_blank"}. Make sure you have permission to use the photo. Alternatively, upload your own photo, take a selfie, or ask someone to take a photo of you working on this blog post challenge.
+
+4. **Video Challenge** (Optional)
+
+If you’d like, record a short video introduction and embed it in your blog post. You can also share a relevant video you found online. See the resources section for instructions on embedding videos in WordPress.
+
+5. **Publish!**
+
+Review your draft post, and when you’re happy with what you’ve written click "Publish post."
+
+6. **Share your blog**
+
+Add a category or tag for your post using the course tag: LDRS101. Post in the LDRS 101 forum to let your peers know the web address of your blog and ask them to post a comment.
+
+**Additional Resources**
+
+You might find the following resources helpful as you continue building your website:
+
+-   [*TWU's WordPress Support Page*](https://servicehub.twu.ca/TDClient/1904/Portal/KB/ArticleDet?ID=146597){target="_blank"}[@WordpressBlockEditor2022]
+-   [*WordPress Support Guides*](https://wordpress.com/support/){target="_blank"}[@wordpressWordPressSupportGuides]
+-   [*Start Here: WordPress Beginner*](https://www.wpbeginner.com/start-here/){target="_blank"} [-@balkhiStartHereYour2016]
+-   [*WordPress Tutorials; University of Victoria*](https://onlineacademiccommunity.uvic.ca/wordpress-tutorials/){target="_blank"}[-@universityofvictoriaWordPressTutorials]
+- [How to Add Featured Images in WordPress](https://www.youtube.com/watch?v=9admKGpM3A0){target="_blank"} [-@wpbeginnerHowAddFeatured2017]
+- *[WordPress How to Add Video to a Page or Post](https://www.youtube.com/watch?v=3hCMpnok2Kw){target="_blank"}* [-@createwpsiteWordPressHowAdd2021]
+
+<!--{{< video https://www.youtube-nocookie.com/embed/9admKGpM3A0 >}}-->
+
+
+
+<!--{{< video https://www.youtube-nocookie.com/embed/3hCMpnok2Kw >}}-->
+
+If you are confused about anything it is always good to do an initial Google or YouTube search, reach out on Discourse, or email [elearning@twu.ca](mailto:elearning@twu.ca){target="_blank"}
+
+Congratulations! You created your PLE for TWU!
+
+:::
+
+<!--## Building a Learning Blog
+
 In the next activity, you will gain firsthand experience in using blog technology for publishing your own website. You will "declare" yourself online using your PLE as an alternative to posting an introduction in a closed course forum typically used in a conventional online course. Note that online courses at TWU often use Moodle Discussion Forums to facilitate conversations. By using a platform such as WordPress you can retain the contents of your posts as well as the comments of your peers. In a learning management system (LMS) such as Moodle you may lose access to what you have posted in discussions, and more importantly, conversations with your peers. As you create your personal blog in WordPress (or your own selective blog site), you control your data and who can see it.
 
 You will retain control of your data and learning outputs generated during this online course, even after the course is completed. You get to choose:
@@ -151,7 +237,7 @@ Tip: Click the ⛶ fullscreen icon to make the presentation fullscreen.
 
 :::
 
-<!-- ::: {.accordion title="1. Sign up to create a website"}
+::: {.accordion title="1. Sign up to create a website"}
 
 -   Go to [**create.twu.ca**](https://create.twu.ca/){target="_blank"} to sign up for your free WordPress site. *Please read all the prompts and instructions carefully!* Be sure to read the Privacy Statement carefully before clicking "I Agree." The information provided gives you excellent guidance regarding digital citizenship, privacy, and how to build a professional digital persona.
 -   You will be prompted to **create a domain name**, which is your website's address on the internet. Often this is referred to as a URL (Uniform Resource Locator). This is what your users will type in their browsers to reach your site. Make sure that you choose a domain name that is related to you, easy to pronounce and spell, and easy to remember. Once you have done that, we suggest you write all this information somewhere you can access it easily---just in case.
