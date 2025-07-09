@@ -87,11 +87,11 @@ Once you choose a page (in this case, article1.md), Obsidian will do the rest, a
 Screenshot, Wikilink Created in Obsidian
 :::
 
-From Hypothes.is you can create a link to Zotero. By pressing and holding the "Command" (macOS) or "CTRL" (Windows) button on the keyboard and then hovering over the link you've created, you will get a preview of the Zotero page. If you press and hold the "Command" (macOS) or "CTRL" (Windows) button on the keyboard and then click the link, you will be taken to the page. Once on the Zotero page, you can scroll to the bottom of the page and see "Backlinks" (a link back to the original page). If you don't see backlinks, click the three dots in the top right corner of the page and choose "Backlinks in document."
+Wikilinks are the simplest way to link files that are *inside* your vault. By pressing and holding the "Command" (macOS) or "CTRL" (Windows) button on the keyboard and then hovering over the link you've created, you will get a *preview* of the linked page. If you press and hold the "Command" (macOS) or "CTRL" (Windows) button on the keyboard and then click the link, you will be taken to the page. Once on the linked page, you can scroll to the bottom of the page and see "Backlinks" (a link back to the original page). If you don't see backlinks, click the three dots in the top right corner of the page and choose "Backlinks in document."
 
 #### Markdown Links {.unnumbered}
 
-While Wikilinks are the default in Obsidian and are the easiest way to link within your vault, sometimes you might want to link to a site on the web. The syntax for a markdown link is a bit different but is still very simple. There are two parts you need to remember:
+While Wikilinks are the default in Obsidian and are the easiest way to link *within* your vault, sometimes you might want to link to a site *on the web*. The syntax for a markdown link is a bit different but is still very simple. There are two parts you need to remember:
 
 -   the link text (this is what you want your reader to see on your page)
 -   the link URL (this is the web address of the site you want them to visit)
@@ -100,7 +100,7 @@ Here is the syntax: `[Link text between single square brackets](URL inside paren
 
 ### Why Link? {.unnumbered}
 
-Creating links to other related topics in your notes is a way that you can start to build connections in your mind about how different ideas are related. For example, if you are studying "trees," you might want to link over to the previous notes that you created on "plants," "forests," or "climate change." During your study on trees, you might want to create notes on "deciduous" and "coniferous" trees, or "xylem" and "phloem," and link those articles to "trees." By continually linking notes that are related you are creating a web of your knowledge as well as reminders of how ideas are related. Linking is a way for you to make sense of the information that is coming into your consciousness.
+Creating links to other related topics in your notes is a way that you can start to build connections in your mind about how different ideas are related. For example, if you are studying "trees," you might want to link over to the previous notes that you created on "plants," "forests," or "climate change." During your study on trees, you might want to create notes on "deciduous" and "coniferous" trees, or "xylem" and "phloem" and link those articles to "trees." By continually linking notes that are related you are creating a web of your knowledge as well as reminders of how ideas are related. Linking is a way for you to make sense of the information that is coming into your consciousness.
 
 Once you have created links between different files in your vault you can visualize these links using the "Graph View" in Obsidian. Here is part of the graph view for a major paper. Each of the white dots represents a file in the vault, and their size is relative to the number of pages linked to that article. You can see that there are three really big pages that have many links. Those are clearly very important pages.
 
@@ -122,7 +122,7 @@ Feel free to discuss your experience on the [Learning Community](https://twu.dis
 
 ## Sense-making Through Tags
 
-A tag is a very short, descriptive word or phrase you can apply to an idea. You are likely familiar with the idea of a hashtag (``` #``) ``` from various social media apps as a way to quickly find information on a specific topic. A tag in Obsidian works just like a hashtag in social media. If you type `#trees` on a file about trees, and then do the same on your pages about xylem, phloem, climate change, plants, forests, deciduous, and coniferous, you could click that tag on any one of those pages, and Obsidian will find every page that contains that tag.
+A tag is a very short, descriptive word or phrase you can apply to an idea. You are likely familiar with the idea of a hashtag (`#`) from various social media apps as a way to quickly find information on a specific topic. A tag in Obsidian works just like a hashtag in social media. If you type `#trees` on a file about trees, and then do the same on your pages about xylem, phloem, climate change, plants, forests, deciduous, and coniferous, you could click that tag on any one of those pages, and Obsidian will find every page that contains that tag.
 
 This acts like a super-fast search of your notes for a particular topic or ideas related to a topic.
 
