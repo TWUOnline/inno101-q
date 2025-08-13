@@ -48,7 +48,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 -   Reflect on your learning goals and make a plan for meeting them. 
 -   Work through the *Learner* section of *Liberated Learners: How To Learn With Style* and create a list of your top ten study tips for online learning. 
--   Read *Students' Engagement in Asynchronous Online Discussion: The Relationship Between Cognitive Presence, Learner Prominence, and Academic Performance* [-@galikyanStudentsEngagementAsynchronous2019a] and consider the benefits of engaging online 
+-   Read *Students' Engagement in Asynchronous Online Discussion: The Relationship Between Cognitive Presence, Learner Prominence, and Academic Performance* [-@galikyanStudentsEngagementAsynchronous2019] and consider the benefits of engaging online 
 -   Write an introduction post on the Learning Community in Learning Community. 
 -   Watch The Future of Education is Self-Directed Learning and consider what tools and literacies you want to explore to meet your goals. 
 -   Download and install Obsidian and follow the instructions for the LDRS 101 vault. 
@@ -58,7 +58,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 -   Watch Visitors and Residents (2014) to start thinking about where you reside on the web. 
 -   Create a Visitors and Residents diagram. 
 -   Get a password manager. 
--   Use the *Terms of Service: Didn't Read* [-@TermsServiceDidnt] website to look up each of the apps we will learn in this course. 
+-   Use the *Terms of Service: Didn't Read* [-@tosdrTermsServiceDidnt] website to look up each of the apps we will learn in this course. 
 <!-- -   Write an introduction post on [the Learning Hub](https://twu.Learning Community.group){target="_blank"} in Learning Community. 
 -   Watch The Future of Education is Self-Directed Learning and consider what tools and literacies you want to explore to meet your goals. 
 -   Download and install [Obsidian](https://obsidian.md){target="_blank"} and follow the instructions for the LDRS 101 vault. 
@@ -118,7 +118,7 @@ Choose a note-taking tool that works best for you (e.g., a Word document, a phys
 
 In face-to-face teaching environments the requirement to physically attend class, coupled with community accountability, makes a learner's individual learning skills less relevant for academic success. However, when learning online there is less instructor oversight, motivation, and accountability, requiring the student to have the skills required to learn effectively. While a face-to-face instructor might notice that their student is absent, confused, or falling behind, and will check in on their well-being and offer support for their success, an online instructor often has less opportunity to do this. The learner is therefore required to have strong learning skills, recognize their responsibility as a self-directed learner, and practice these skills accordingly.
 
-Online learning requires additional skills differing from face-to-face learning, and since online learning is often self-paced, an absence of these skills will make a student's learning experience difficult. According to Crozier and Lake (2020) these skills include:
+Online learning requires additional skills differing from face-to-face learning, and since online learning is often self-paced, an absence of these skills will make a student's learning experience difficult. According to Crozier and Lake [-@crozierLearningLearnOnline2020] these skills include:
 
 -   Time management (i.e., effectively managing deadlines, schedules)
 -   Organization (i.e., creating a dedicated study space, ability to easily access material)
@@ -151,7 +151,7 @@ Remember, flexibility and adaptability are key in the online learning environmen
 ::: {.learning-activity time="30"}
 There are thousands of websites that offer advice such as "tips for online learning" or "how to succeed in your online class," and some of those sites are good (see [here](https://www.ualberta.ca/current-students/academic-success-centre/resources/working-online.html){target="_blank"}, [here](https://online.umn.edu/story/15-tips-succeed-online-class){target="_blank"}, and [here](https://www.trentu.ca/online/student-support/be-a-successful-online-learner){target="_blank"} ). Some of them are also connected to shady people who want less than your best interests. One of the shining examples of a great resource is the *Liberated Learner* project, which was created primarily by university and college students. There are four main sections in the *Liberated Learner* resource---we will explore "The Learner" in this activity.
 
--   Take some time to work through [The Learner](https://ecampusontario.pressbooks.pub/learner/part/learner/){target="_blank"} (2022). It begins with a short video and includes activities that you can complete. These are for your reflection.
+-   Take some time to work through [The Learner](https://ecampusontario.pressbooks.pub/learner/part/learner/){target="_blank"} [-@greeneLearner2022]. It begins with a short video and includes activities that you can complete. These are for your reflection.
 -   Navigation tip: To move around in a Pressbooks book, use the table of contents on the left-hand side, or the link to the next page on the bottom right.
 
 **Questions to Consider**
@@ -171,7 +171,7 @@ Participating in discussions with your peers (what higher education folks like t
 
 Here is an article that will introduce you to some key ideas about discussion forums:
 
--   [*Students' Engagement in Asynchronous Online Discussion: The Relationship Between Cognitive Presence, Learner Prominence, and Academic Performance*](https://www-sciencedirect-com.twu.idm.oclc.org/science/article/pii/S1096751619304105){target="_blank"} (2019)
+-   [*Students' Engagement in Asynchronous Online Discussion: The Relationship Between Cognitive Presence, Learner Prominence, and Academic Performance*](https://www-sciencedirect-com.twu.idm.oclc.org/science/article/pii/S1096751619304105){target="_blank"} [-@galikyanStudentsEngagementAsynchronous2019]
 
 ::: note
 You may need to sign in to the TWU library to access this article. [You can find help here.](https://libguides.twu.ca/help){target="_blank"}
@@ -194,7 +194,7 @@ In this course, we will ask you to discuss ideas with your peers via Learning Co
 
 Your discussion posts may be used as learning artifacts to demonstrate your understanding of the course learning outcomes (see Assignment details in Moodle).
 
-In LDRS 101, you should write your posts in a way that shows you are communicating in an academic setting. While you don't need to adhere to all of the conventions of APA formatting, you should practice the principles of proper citation. For example, to cite an idea from the article in the previous activity, it would look like the following [@galikyanStudentsEngagementAsynchronous2019a], and the bottom of the post would include a "References" heading, followed by the full reference (this part may be considered optional since we have included a link to the article in the in-text citation, but it is nice to have). Please consult the [APA Style website](https://apastyle.apa.org/style-grammar-guidelines){target="_blank"} for details.
+In LDRS 101, you should write your posts in a way that shows you are communicating in an academic setting. While you don't need to adhere to all of the conventions of APA formatting, you should practice the principles of proper citation. For example, to cite an idea from the article in the previous activity, it would look like the following [@galikyanStudentsEngagementAsynchronous2019], and the bottom of the post would include a "References" heading, followed by the full reference (this part may be considered optional since we have included a link to the article in the in-text citation, but it is nice to have). Please consult the [APA Style website](https://apastyle.apa.org/style-grammar-guidelines){target="_blank"} for details.
 
 It is ***highly*** recommended that you begin using a reference manager---we recommend Zotero as it is a free and open source app with all you will ever need to cite properly in any style. We will lead you through some specifics of using Zotero in the next unit of LDRS 101, but you can [download Zotero](https://www.zotero.org/){target="_blank"} for free.
 
@@ -296,7 +296,7 @@ As you watch the upcoming video, think about how these digital tools fit into yo
 ::: {.learning-activity time="20"}
 In the following video, Dr. Timothy Stafford explores the transformative power of heutagogy in education, highlighting how self-driven learning fosters autonomy, discovery, and lifelong growth. With over 30 years of expertise in instructional design, educational technology, and leadership, Dr. Stafford has shaped thousands of online courses across diverse industries. In this TEDx talk, he shares insights from his extensive experience, emphasizing the potential of personalized, future-focused education.
 
-[Watch: *The Future of Education is Self-Directed Learning*](https://www.youtube.com/watch?v=NkmiquiJ_nA){target="_blank"} [-@tedxtalksFutureEducationSelfDirected2024]
+[Watch: *The Future of Education is Self-Directed Learning*](https://www.youtube.com/watch?v=NkmiquiJ_nA){target="_blank"} [-@staffordFutureEducationSelfDirected2024]
 
 <div class="video-container">
 
@@ -313,13 +313,13 @@ While you watch the video think about:
 
 ## Digital Literacies
 
-> Digital literacy is a person's knowledge, skills, and abilities for using digital tools ethically, effectively, and within a variety of contexts in order to access, interpret, and evaluate information, as well as to create, construct new knowledge, and communicate with others. [@governmentofbritishcolumbiaPostsecondaryDigitalLearning, p. 23]
+> Digital literacy is a person's knowledge, skills, and abilities for using digital tools ethically, effectively, and within a variety of contexts in order to access, interpret, and evaluate information, as well as to create, construct new knowledge, and communicate with others. [@britishcolumbiaministryofeducationBCsPostsecondaryDigital, p. 23]
 
 Literacy, as we commonly understand it, is the ability to *understand* the meaning of texts. It is more than just being able to read. In the same way, digital literacy is the ability to make meaning using digital tools. It is more than simply being able to post to Instagram or TikTok, or whatever app you might use. As the definition above indicates, digital literacy involves using tools *ethically*, to *access, interpret, evaluate, create, construct, and communicate* information and knowledge.
 
 > "In today's world, being literate requires much, much more than the traditional literacy of yesterday." [@alberDeeperLearningDefining2013]
 
-What digital tools do you use to help you make meaning? What is your "go-to" app for note taking, organizing files, tracking references, and connecting ideas? One valuable tool we are going to show you is called Obsidian, a free note taking and mind mapping app. Before you go through the instructions in the activity below, watch the video *This is Obsidian*. [-@ThisObsidian2021].
+What digital tools do you use to help you make meaning? What is your "go-to" app for note taking, organizing files, tracking references, and connecting ideas? One valuable tool we are going to show you is called Obsidian, a free note taking and mind mapping app. Before you go through the instructions in the activity below, watch the video *This is Obsidian*. [-@birchlerThisObsidian2021].
 
 [Watch: *This is Obsidian*](https://www.youtube.com/watch?v=d2FNqEDGc8g){target="_blank"} <!-- Auto title, auto embed-->
 
@@ -485,7 +485,7 @@ This guide defines digital literacies as "the capabilities which fit an individu
 The Seven Elements of Digital Literacies
 :::
 
-*Source.* From "[*Quick Guide - Developing Students' Digital Literacy*](https://digitalcapability.jiscinvolve.org/wp/files/2014/09/JISC_REPORT_Digital_Literacies_280714_PRINT.pdf){target="_blank"}," by Jisc Digital Experience Insights, n.d., p. 2. CC BY-NC-ND 2.0 UK<!-- https://creativecommons.org/licenses/by-nc-nd/2.0/uk/-->.
+*Source.* From "[*Quick Guide - Developing Students' Digital Literacy*](https://digitalcapability.jiscinvolve.org/wp/files/2014/09/JISC_REPORT_Digital_Literacies_280714_PRINT.pdf){target="_blank"}," by Jisc Digital Experience Insights, -@jiscdigitalexperienceinsightsQuickGuideDeveloping, p. 2. CC BY-NC-ND 2.0 UK<!-- https://creativecommons.org/licenses/by-nc-nd/2.0/uk/-->.
 
 **Questions to Consider** 
 
@@ -590,7 +590,7 @@ Have you encountered the terms "digital natives" and "digital immigrants?" What 
 *Note:* [Marc Prensky](https://marcprensky.com/){target="_blank"} coined the terms "digital natives" and "digital immigrants." We recognize that the term "native" should not be used to talk about people.
 :::
 
-The essential argument is that certain generations have changed, in that they have an innate ability to use and learn technology because they have grown up using technology, and those generations whose formative years pre-date the advent of the internet are forever at a disadvantage compared to *kids*. You can read a bit more about the idea on Wikipedia: [Digital Native](https://en.wikipedia.org/wiki/Digital_native){target="_blank"}, linked below. There is also a link in that article to Prensky's original article.
+The essential argument is that certain generations have changed, in that they have an innate ability to use and learn technology because they have grown up using technology, and those generations whose formative years pre-date the advent of the internet are forever at a disadvantage compared to *kids*. You can read a bit more about the idea on Wikipedia: [Digital Native](https://en.wikipedia.org/wiki/Digital_native){target="_blank"}[-@DigitalNative2025], linked below. There is also a link in that article to Prensky's original article.
 
 <a class="embedly-card" data-card-controls="0" href="https://en.wikipedia.org/wiki/Digital_native">Digital native</a>
 
@@ -611,7 +611,7 @@ At the same time, if we can imagine the visitor $\leftrightarrow$ resident conti
 ::: {.learning-activity time="10"}
 The video below explains a process to help you think about where you reside on the web.
 
--   [Watch: *Visitors and Residents*](https://www.youtube.com/watch?v=sPOG3iThmRI){target="_blank"} [-@jiscnetskillsVisitorsResidents2014]
+-   [Watch: *Visitors and Residents*](https://www.youtube.com/watch?v=sPOG3iThmRI){target="_blank"} [-@whiteVisitorsResidents2014]
 
 <div class="video-container">
 
@@ -662,7 +662,7 @@ Now that you have assessed some of your digital skills or literacies, let's focu
 
 Your privacy is fragile, easy to lose instantaneously, and difficult to retrieve in an environment that requires so much online interaction.
 
--   [**Identity theft**](https://en.wikipedia.org/wiki/Identity_theft){target="_blank"} happens, frequently.
+-   [**Identity theft**](https://en.wikipedia.org/wiki/Identity_theft){target="_blank"} [-@IdentityTheft2025] happens, frequently.
     -   Never put your social insurance number, your birthday, your mother's maiden name, or any other personal facts anywhere online. Everyone on the internet will be able to access this information.
     -   Always assume that anything you write online (including email) can, and probably will, eventually leak. Keep your email address private---to avoid receiving spam. If your email is published in a plain form anywhere online, even if it is part of an archived email list, spammers will "harvest" it for their databases.
 -   **Spam email [(at least half of all email being sent)](https://securelist.com/spam-phishing-report-2023/112015/){target="_blank"}** is an unfortunate fact of our modern lives.
@@ -680,7 +680,7 @@ Other ways someone can get your password include:
 
 -   Sniffing traffic when you log in to a nonsecure website that uses http:// rather than https:// (the "s" stands for secure because your data transmission's encrypted). Look for the Lock icon.png in your address bar.
 -   Sniffing emails---your email, unless encrypted, is not secure. Never send a login and password along with the web address of a service (similarly, don't send credit card numbers).
--   [Phishing](https://en.wikipedia.org/wiki/Phishing){target="_blank"} attacks---where someone sends you an email that looks like it is from a trusted sender, such as from a friend, your bank, an online store you frequent, or a government agency, and asks you to enter your password to confirm it. No one should ever ask you to enter your password via email.
+-   [Phishing](https://en.wikipedia.org/wiki/Phishing){target="_blank"} [-@Phishing2025] attacks---where someone sends you an email that looks like it is from a trusted sender, such as from a friend, your bank, an online store you frequent, or a government agency, and asks you to enter your password to confirm it. No one should ever ask you to enter your password via email.
 -   Always check the web address (hover over the link) to make sure it corresponds to the right place or call the sender to confirm the request over the phone.
 -   Brute force---hackers often use computers to guess your password, beginning with a list of [common passwords](https://www.passwordrandom.com/most-popular-passwords){target="_blank"}, and try different combinations until they get it right, or until the system locks them out for trying too many times.
 -   "How secure is my password" sites---you should avoid these sites and never type your password into a website or email response that is not appropriate, especially when you know the sender also knows your email.
@@ -694,13 +694,13 @@ Here is a table that shows how quickly passwords can be cracked using brute forc
 Time Needed to Crack Passwords of Varying Complexity in a Brute Force Attack.
 :::
 
-*Source* From "Are Your Passwords in the Green in 2023?," by C. Nesky, 2023, *Hive Systems* (https://www.hivesystems.com/blog/are-your-passwords-in-the-green-2023). Copyright 2024 [Hive Systems](https://www.hivesystems.com/){target="_blank"}. Reprinted with permission.
+*Source* From "Are Your Passwords in the Green in 2023?," by C. Nesky, -@neskeyAreYourPasswords2023, *Hive Systems* (https://www.hivesystems.com/blog/are-your-passwords-in-the-green-2023). Copyright 2024 [Hive Systems](https://www.hivesystems.com/){target="_blank"}. Reprinted with permission.
 
 There are services you can use to check if your email is part of a leaked password data set. So, what can you do to protect yourself?
 
 #### Password Managers {.unnumbered}
 
-Get a [password manager](https://en.wikipedia.org/wiki/Password_manager){target="_blank"}. They are incredibly helpful and convenient now that many of us use several computers and mobile devices. Password managers help you manage your passwords.
+Get a [password manager](https://en.wikipedia.org/wiki/Password_manager){target="_blank"} [-@PasswordManager2025]. They are incredibly helpful and convenient now that many of us use several computers and mobile devices. Password managers help you manage your passwords.
 
 -   When you choose a password manager make sure you create one [strong password](https://www.howtogeek.com/195430/how-to-create-a-strong-password-and-remember-it/){target="_blank"}, such as a full sentence with some numbers and special characters. This is all you need to remember---the password manager remembers the others. The ensures you generate a different, fully random password for each website you use that requires a password.
 -   Good password managers only ever store your details in an encrypted form, where even the company that stores it cannot see your passwords. To access your passwords, you log into the password manager service using your single, strong password (via a secure web link---usually the default, but always check!).
@@ -757,7 +757,7 @@ So how can we protect ourselves if new threats are emerging all the time?
 ### Activity: Analyzing Terms of Service (Didn't Read)
 
 ::: {.learning-activity time="20"}
-Use the [*Terms of Service: Didn't Read*](https://tosdr.org/){target="_blank"} [@TermsServiceDidnt] site to look up each of the apps we will learn in this course. Each tool currently has its own file in your Obsidian vault with a template ready to go for you. Fill out the template for each tool based on what is available on tosdr.org and your own examination of the ToS for each tool.
+Use the [*Terms of Service: Didn't Read*](https://tosdr.org/){target="_blank"} [@tosdrTermsServiceDidnt] site to look up each of the apps we will learn in this course. Each tool currently has its own file in your Obsidian vault with a template ready to go for you. Fill out the template for each tool based on what is available on tosdr.org and your own examination of the ToS for each tool.
 
 Feel free to add components to the template. Note we're return to this website at the end of Unit 4 as we evaluate digital tools.
 :::
