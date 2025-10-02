@@ -79,7 +79,7 @@ Your final letter grade is determined by your proficiency across the seven CLOs:
 
 This grading structure ensures that your final grade reflects your overall proficiency across the course learning outcomes, rewarding both depth and consistency in your learning. It is designed to keep you actively engaged in your learning and focused on developing the skills necessary for success. If you have any questions about how your work is assessed, please reach out to your instructor.
 
-### University Standard Grading System
+### University Standard Grading System {.unnumbered}
 
 | Letter Grade | Grade Description |
 |---------------|---------------------------------------------------------|

@@ -1,4 +1,4 @@
-# Assessment
+# Assessment {.unnumbered}
 
 ## Assignment 3: Digital Literacy Portfolio {.unnumbered}
 
@@ -56,7 +56,7 @@ Publish your outcome reflective statement as a static page to your WordPress sit
 *Note:* If you have a more personally engaging way to represent this outcome reflective statement, please share your idea with your instructor for approval. It must address all the instructions in step 3 and it must be a timeless, summarizing, and convergent product of your learning, regardless of form.
 :::
 
-### Part 2: Assessment Conversation
+### Part 2: Assessment Conversation {.unnumbered}
 
 In addition to submitting your e-portfolio you will meet with your instructor for an assessment conversation. This conversation is an opportunity for you to explain your learning process and demonstrate your understanding of the course learning outcomes.
 
