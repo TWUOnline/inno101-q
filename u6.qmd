@@ -66,7 +66,7 @@ Community is an essential component of Trinity Western University. Just have a l
 
 > At Trinity Western University, you’ll experience an authentic and engaging community as you enrich your understanding of the world—preparing for a life of faithful engagement in your community and profession. We are deeply committed to providing a transformational education, where you will develop practical professional skills while exploring bigger ideas about who you are, what you believe, and what you’re called to do in the world [@trinitywesternuniversityEquippedLife].
 
-Why is community so important to TWU, and how does it help us learn? Have a quick read about TWU's [Core Values](https://www.twu.ca/about-us/commitments/core-values){target="_blank"} [@trinitywesternuniversityCoreValues]. At this point in the course, we hope you have taken full advantage of the online community and have personal examples of how these interactions have impacted you.
+Why is community so important to TWU, and how does it help us learn? Have a quick read about TWU's [Core Values](https://www.twu.ca/about-us/commitments/core-values){target="_blank"} [-@trinitywesternuniversityCoreValues]. At this point in the course, we hope you have taken full advantage of the online community and have personal examples of how these interactions have impacted you.
 
 As for learning ... how does sharing our learning within a community help us achieve our personal and professional goals?
 
@@ -85,8 +85,8 @@ Watch [What is Social Learning?](https://www.youtube.com/watch?v=AB-_822TRms){ta
 
 </div>
 
--   Read [Social Learning in Online Environments](https://openpress.usask.ca/humanmooc/chapter/social-learning-in-online-environments/){target="_blank"} [@spellman-cannSocialLearningOnline] on how we learn in community.
--   Read [Social Learning vs. Community Based Learning: What’s the Difference?](https://www.corporatelearningnetwork.com/learning-design/articles/social-learning-vs-community-based-learning-whats-the-difference){target="_blank"} [@mariaSocialLearningVs2022] from a corporate HR Learning and Development perspective.
+-   Read [Social Learning in Online Environments](https://openpress.usask.ca/humanmooc/chapter/social-learning-in-online-environments/){target="_blank"} [-@spellman-cannSocialLearningOnline] on how we learn in community.
+-   Read [Social Learning vs. Community Based Learning: What’s the Difference?](https://www.corporatelearningnetwork.com/learning-design/articles/social-learning-vs-community-based-learning-whats-the-difference){target="_blank"} [-@mariaSocialLearningVs2022] from a corporate HR Learning and Development perspective.
 
 At TWU and in your workplace you may be asked to participate in various group activities, such as group work, partner projects, team presentations, and so on. What are the benefits of working with others?
 
@@ -145,7 +145,7 @@ Below we'll briefly explore technology and change, artificial intelligence, and 
 ### Activity: The Future of Work
 
 :::: {.learning-activity time="20"}
-[Watch: *What is the Future of Work?*](https://www.youtube.com/watch?v=EuDnSqAo784){target="_blank"} [-@worldeconomicforumWhatFutureWork2022] from the World Economic Forum.
+[Watch: *What is the Future of Work?*](https://www.youtube.com/watch?v=EuDnSqAo784){target="_blank"} from the World Economic Forum [-@worldeconomicforumWhatFutureWork2022].
 
 <div class="video-container">
 
@@ -187,9 +187,9 @@ In this section, we'll explore a few compelling examples of AI to give you a sen
 
 First, let's define AI:
 
-> The theory and development of computer systems able to perform tasks normally requiring human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages[@oxforduniversitypressArtificialIntelligence].
+> The theory and development of computer systems able to perform tasks normally requiring human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages [@oxforduniversitypressArtificialIntelligence].
 
-> The capacity of a computer, robot, programmed device, or software application to perform operations and tasks analogous to learning and decision making in humans, such as speech recognition or question answering. [@dictionary.comArtificialIntelligence2024]
+> The capacity of a computer, robot, programmed device, or software application to perform operations and tasks analogous to learning and decision making in humans, such as speech recognition or question answering [@dictionary.comArtificialIntelligence2024]
 
 What is your experience with AI? Have you used AI tools such as Grammerly or ChatGPT? How has this technology affected you as a student, and what impact does it have on your chosen profession?
 
@@ -207,7 +207,7 @@ Intrigued? Do you find any tech tools that would be useful in understanding cour
 
 Do any of these capabilities concern you? Do you think they concern your professors or fellow students?
 
-Review TWU's policy on [*Academic Misconduct & Fraud*](https://www.twu.ca/about-us/policies-guidelines/university-policies/academic-misconduct-fraud){target="_blank"} [@trinitywesternuniversityAcademicMisconductFraud]. In particular, read Guidelines for Use of Generative AI in Teaching and Learning. Is it academic fraud if you use Chat GPT to complete assignments at TWU?
+Review TWU's policy on [*Academic Misconduct & Fraud*](https://www.twu.ca/about-us/policies-guidelines/university-policies/academic-misconduct-fraud){target="_blank"} [-@trinitywesternuniversityAcademicMisconductFraud]. In particular, read Guidelines for Use of Generative AI in Teaching and Learning. Is it academic fraud if you use Chat GPT to complete assignments at TWU?
 
 <!-- Search online for key words related to this issue, such as "university concern policy artificial intelligence" and you will find numerous articles on the use of AI in universities, as well as emerging policies. The University of Toronto's guidelines and FAQ for [*ChatGPT and Generative AI in the Classroom*](https://www.viceprovostundergrad.utoronto.ca/strategic-priorities/digital-learning/special-initiative-artificial-intelligence/){target="_blank"} [-@GenerativeArtificialIntelligence] are one such example. -->
 
@@ -294,8 +294,8 @@ In this section we consider the impact of automation on the future job market an
 
 :::: {.learning-activity time="20"}
 
--   Read [*Collaborative Intelligence: Humans and AI are Joining Forces*](https://hbr.org/2018/07/collaborative-intelligence-humans-and-ai-are-joining-forces){target="_blank"} [@wilsonCollaborativeIntelligenceHumans2018]
--   Watch [AI Automation And The Future Of The Workforce](https://www.youtube.com/watch?v=NBLeWpOqhAo){target="_blank"} [@worldoffinancetvAIAutomationFuture2022]
+-   Read [*Collaborative Intelligence: Humans and AI are Joining Forces*](https://hbr.org/2018/07/collaborative-intelligence-humans-and-ai-are-joining-forces){target="_blank"} [-@wilsonCollaborativeIntelligenceHumans2018]
+-   Watch [AI Automation And The Future Of The Workforce](https://www.youtube.com/watch?v=NBLeWpOqhAo){target="_blank"} [-@worldoffinancetvAIAutomationFuture2022]
 
 <div class="video-container">
 
@@ -314,7 +314,7 @@ In this topic we've explored AI---its possibilities for study and careers, and s
 AI systems require lots of work from humans to function correctly. A 2023 report from Time magazine showed that people in Kenya were paid poverty wages to build a safety system into ChatGPT (Perrigo, 2023). Since the platform was fed data from various places sometimes it would make racist or abusive remarks. To build a safeguard into the system, workers were exposed to vile and offensive web content in order to tag it so that the platform could eventually recognize offensive speech on its own. A large portion of this content was very traumatic, and workers interviewed said they were mentally scarred from the work.
 
 -   Read [OpenAI Used Kenyan Workers on Less Than \$2 Per Hour to Make ChatGPT Less Toxic](https://time.com/6247678/openai-chatgpt-kenya-workers/){target="_blank"} [-@perrigoExclusiveOpenAIUsed2023] and [Inside Facebook's African Sweatshop](https://time.com/6147458/facebook-africa-content-moderation-employee-treatment/){target="_blank"} [-@perrigoFacebooksAfricanSweatshop2022]
--   Watch [Doing Grueling Work for an AI: Data Labeling](https://www.youtube.com/watch?v=ug_p2wHhla0){target="_blank"} [@dwshiftDoingGruelingWork2023]
+-   Watch [Doing Grueling Work for an AI: Data Labeling](https://www.youtube.com/watch?v=ug_p2wHhla0){target="_blank"} [-@dwshiftDoingGruelingWork2023]
 
 <div class="video-container">
 
@@ -379,7 +379,7 @@ Website tracking is the practice of collecting data about a user's online activi
 :::: {.learning-activity time="10"}
 Watch this *Matrix* parody, a comedy skit published by CollegeHumour, depicting that if you are not paying for the service, you are not the consumer but the product.
 
--   Watch [The Terrifying Cost of "Free" Websites](https://www.youtube.com/watch?v=5pFX2P7JLwA){target="_blank"} [@dropoutTerrifyingCostFree2016]
+-   Watch [The Terrifying Cost of "Free" Websites](https://www.youtube.com/watch?v=5pFX2P7JLwA){target="_blank"} [-@dropoutTerrifyingCostFree2016]
 
 <div class="video-container">
 
@@ -546,7 +546,7 @@ Have you seen a fake account on social media? What clues did you have that it wa
 :::: {.learning-activity time="10"}
 Check out these two videos that share signs to help you identify online impersonation.
 
--   [Watch: *How To Spot a SCAM Email (8 Ways)*](https://www.youtube.com/watch?v=C5jIvj7EcqE){target="_blank"} [@auraHowSpotSCAM2022]
+-   [Watch: *How To Spot a SCAM Email (8 Ways)*](https://www.youtube.com/watch?v=C5jIvj7EcqE){target="_blank"} [-@auraHowSpotSCAM2022]
 
 <div class="video-container">
 
@@ -598,7 +598,7 @@ Feel free to share personal reflections on the phenomenon of online impersonatio
 
 In this section we explore the phenomenon of internet trolling and strategies for managing disruptive online behaviour, taking the communication context into account.
 
-> In slang, a troll is a person who posts deliberately offensive or provocative messages online (such as in social media, a newsgroup, a forum, a chat room, an online video game) or who performs similar behaviors in real life. The methods and motivations of trolls can range from benign to sadistic. These messages can be inflammatory, insincere, digressive, extraneous, or off-topic, and may have the intent of provoking others into displaying emotional responses, or manipulating others' perception, thus acting as a bully or a provocateur. The behavior is typically for the troll's amusement, or to achieve a specific result such as disrupting a rival's online activities or purposefully causing confusion or harm to others. [@TrollSlang2024]
+> In slang, a troll is a person who posts deliberately offensive or provocative messages online (such as in social media, a newsgroup, a forum, a chat room, an online video game) or who performs similar behaviors in real life. The methods and motivations of trolls can range from benign to sadistic. These messages can be inflammatory, insincere, digressive, extraneous, or off-topic, and may have the intent of provoking others into displaying emotional responses, or manipulating others' perception, thus acting as a bully or a provocateur. The behavior is typically for the troll's amusement, or to achieve a specific result such as disrupting a rival's online activities or purposefully causing confusion or harm to others. [@wikipediaTrollSlang2024]
 
 ### Activity: Trolling in Social Media
 
@@ -606,9 +606,9 @@ In this section we explore the phenomenon of internet trolling and strategies fo
 
 -   Take the [Spot the Troll](https://spotthetroll.org/){target="_blank"} quiz [@clemsonuniversityInternetTrollDisinformation], which uses images of real social media content. How did you do? Did some of the profiles surprise you? Have you encountered these types of profiles on social media?
 -   As you read the following, pay particular attention to strategies for dealing with trolling behaviour.
-    -   [Troll (Slang)](https://en.wikipedia.org/wiki/Troll_(slang)){target="_blank"} [@TrollSlang2024]
-    -   [What is a Troll?](https://meta.wikimedia.org/wiki/What_is_a_troll){target="_blank"} [@wikimediafoundationsWhatTroll]
-    -   [Internet Trolling: How do you Spot a Real Troll?](https://www.lifewire.com/what-is-internet-trolling-3485891){target="_blank"} [@moreauHeresWhatYou2024]
+    -   [Troll (Slang)](https://en.wikipedia.org/wiki/Troll_(slang)){target="_blank"} [-@wikipediaTrollSlang2024]
+    -   [What is a Troll?](https://meta.wikimedia.org/wiki/What_is_a_troll){target="_blank"} [-@wikimediafoundationsWhatTroll]
+    -   [Internet Trolling: How do you Spot a Real Troll?](https://www.lifewire.com/what-is-internet-trolling-3485891){target="_blank"} [-@moreauHeresWhatYou2024]
 -   Watch [The Secret Confessions of an Internet Troll](https://www.youtube.com/watch?v=5BQp3V_34BE){target="_blank"} [-@viceSecretConfessionsInternet2016]
 
 <div class="video-container">
@@ -661,8 +661,8 @@ View the the following policy resources on online harassment from X and Meta (Fa
 
 *Suggested practices*
 
--   [*Meta Community Standards*](https://transparency.meta.com/policies/community-standards/){target="_blank"} [@metatransparencycenterFacebookCommunityStandards]
--   [*About Online Abuse*](https://help.twitter.com/en/safety-and-security/cyber-bullying-and-online-abuse){target="_blank"} [@xhelpcenterOnlineAbuse]
+-   [*Meta Community Standards*](https://transparency.meta.com/policies/community-standards/){target="_blank"} [-@metatransparencycenterFacebookCommunityStandards]
+-   [*About Online Abuse*](https://help.twitter.com/en/safety-and-security/cyber-bullying-and-online-abuse){target="_blank"} [-@xhelpcenterOnlineAbuse]
 
 Search online for current events related to social media platforms and harassment. What are the companies doing to prevent bullying, child exploitation, hate speech, etc.?
 
@@ -1141,15 +1141,15 @@ To conclude our course we will examine another perspective on ethics and technol
 -   Skim the following article in which the authors present a framework for digital wisdom, as well as practical practices that can help navigate the digital in our daily lives.
     -   [*A Framework for Digital Wisdom in Higher Education*](https://christianscholars.com/a-framework-for-digital-wisdom-in-higher-education/){target="_blank"} [-@paulusFrameworkDigitalWisdom2019].
 
-Here are some quotes that resonate (Paulus et al., 2019). Feel free to highlight your quotes using Hypothes.is, or in your personal Obsidian notes.
+Here are some quotes that resonate [@paulusFrameworkDigitalWisdom2019]. Feel free to highlight your quotes using Hypothes.is, or in your personal Obsidian notes.
 
-> Institutions of higher education have a crucial role and responsibility at this moment of technological change to form people who will flourish in our so-called digital age. [-@paulusFrameworkDigitalWisdom2019, para. 1]
+> Institutions of higher education have a crucial role and responsibility at this moment of technological change to form people who will flourish in our so-called digital age [@paulusFrameworkDigitalWisdom2019, para. 1].
 >
-> Within the context of Christian higher education, the need to integrate new ICTs into our individual and institutional lives well and wisely---as we consider what technologies are doing to us and what we will do with them---is of utmost significance if we are committed to the cultivation of competence, character, and wisdom. [-@paulusFrameworkDigitalWisdom2019, para. 6]
+> Within the context of Christian higher education, the need to integrate new ICTs into our individual and institutional lives well and wisely---as we consider what technologies are doing to us and what we will do with them---is of utmost significance if we are committed to the cultivation of competence, character, and wisdom [@paulusFrameworkDigitalWisdom2019, para. 6].
 >
-> Scripture enables us look behind and beyond our and others' online identities to see ourselves and others as embodied and relational beings made in the image of God. [-@paulusFrameworkDigitalWisdom2019, para. 21]
+> Scripture enables us look behind and beyond our and others' online identities to see ourselves and others as embodied and relational beings made in the image of God. [@paulusFrameworkDigitalWisdom2019, para. 21]
 >
-> Our use of technologies must be shaped by our intentions and values, and we must be aware of how platform interfaces, permissions, algorithms, and other design elements could interfere with our goals and obligations. [-@paulusFrameworkDigitalWisdom2019, para. 31]
+> Our use of technologies must be shaped by our intentions and values, and we must be aware of how platform interfaces, permissions, algorithms, and other design elements could interfere with our goals and obligations. [@paulusFrameworkDigitalWisdom2019, para. 31]
 
 **Questions to Consider**
 
@@ -1172,7 +1172,7 @@ Finally, we introduced the concept of digital wisdom. As you continue to integra
 
 > The mission of Trinity Western University, as an arm of the Church, is to develop godly Christian leaders: positive, goal-oriented university graduates with thoroughly Christian minds; growing disciples of Jesus Christ who glorify God through fulfilling the Great Commission, serving God and people in the various marketplaces of life.
 >
-> Every graduate is equipped to think truthfully, act justly, and live faithfully for the good of the world and the glory of God. [@trinitywesternuniversityMissionVisionTrinity2025]
+> Every graduate is equipped to think truthfully, act justly, and live faithfully for the good of the world and the glory of God [@trinitywesternuniversityMissionVisionTrinity2025].
 
 ::: {.note}
 

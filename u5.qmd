@@ -60,7 +60,7 @@ See the Assessment section in Moodle for assignment details.
 
 Before attempting to define digital citizenship, let's consider the concept of citizenship in its own right. In its simplest form, citizenship refers to the rights, privileges, and duties of being a national citizen. However, the concept of being a good citizen encompasses much more, particularly if you think about full engagement as a member of society.
 
-> *Citizenship is a status that is bestowed on those who are full members of a community*[@marshallCitizenshipSocialClass1950].
+> *Citizenship is a status that is bestowed on those who are full members of a community* [@marshallCitizenshipSocialClass1950].
 
 ### Activity: Reflecting on Digital Citizenship
 
@@ -83,7 +83,7 @@ Defining digital citizenship is not easy because it means different things to di
 
 If you conduct a general search for "digital citizenship" you will find many links referencing resources targeting elementary and high school levels with a focus on safe, skilled, and ethical use of online technology. While these aspects are important, for the purposes of this tertiary-level course, we need to explore the concept of digital citizenship in more detail.
 
-[Autumm Caines](https://autummcaines.com/){target="_blank"}, [-@AutummCaines] provides a useful framework for thinking about digital citizenship:
+[Autumm Caines](https://autummcaines.com/){target="_blank"}[-@AutummCaines] provides a useful framework for thinking about digital citizenship:
 
 -   *Digital identities*: that is, who you are online including the identities of others (individuals and organizations)
 -   *Digital environments*: specifically the tools and online spaces we use to interact with each other; for example, Facebook, Discourse, X, blogs, forums, and so on.
@@ -139,7 +139,7 @@ Read through the following resources in order to refine your own definition of w
 
 The concept of citizenship encompasses the rights and responsibilities of individuals. We need to consider what rights and responsibilities come with digital citizenship. In this next activity, we explore this topic with particular emphasis on the rights and responsibilities associated with learning in a digital age.
 
-Following the hype of massive open online courses (MOOC) and the New York Times declaring 2012 the "[year of the MOOC](https://www.nytimes.com/2012/11/04/education/edlife/massive-open-online-courses-are-multiplying-at-a-rapid-pace.html){target="_blank"}," a small group of educators drafted *A Bill of Rights and Principles for Learning in a Digital Age* [@ngBillRightsPrinciples2013]. This document forms the basis for a course discussion on the rights and responsibilities of digital citizens.
+Following the hype of massive open online courses (MOOC) and the New York Times [-@pappanoYearMOOC2012] declaring 2012 the "[year of the MOOC](https://www.nytimes.com/2012/11/04/education/edlife/massive-open-online-courses-are-multiplying-at-a-rapid-pace.html){target="_blank"}," a small group of educators drafted *A Bill of Rights and Principles for Learning in a Digital Age* [-@ngBillRightsPrinciples2013]. This document forms the basis for a course discussion on the rights and responsibilities of digital citizens.
 
 ### Activity: Rights and Responsibilities of Digital Citizens
 
@@ -177,7 +177,7 @@ On the one hand, we need to be careful about what we post online because this ca
 
 In this section, we reflect on the balance between public and private in a digital world, recognizing that this is going to be different for each person depending on their own environments and professional circumstances. We will also explore how like-minded professionals in your field of interest network online.
 
-> <!-- //todo #28 -->The … impact exercised by ICTs is due to at least four major transformations: “the blurring of the distinction between reality and virtuality,” “ the blurring of the distinction between human, machine and nature,” “the reversal from information scarcity to information abundance,” and “the shift from the primacy of stand-alone things, properties, and binary relations, to the primacy of interactions, processes and networks. (Floridi, 2015, p. 2)
+> <!-- //todo #28 -->The … impact exercised by ICTs is due to at least four major transformations: “the blurring of the distinction between reality and virtuality,” “ the blurring of the distinction between human, machine and nature,” “the reversal from information scarcity to information abundance,” and “the shift from the primacy of stand-alone things, properties, and binary relations, to the primacy of interactions, processes and networks [@floridiOnlifeManifesto2015, p. 2].
 
 ### Activity: Professional Online Identity and Digital Citizenship
 
@@ -188,7 +188,7 @@ In this activity we will explore professional online identity and networking in 
     -   [*High Court Rules Public Servants can be Sacked for Political Social Media Posts*](https://www.theguardian.com/australia-news/2019/aug/07/high-court-rules-public-servants-can-be-sacked-for-political-social-media-posts){target="_blank"} [-@karpHighCourtRules2019]
     -   [*'Think of Social Media as a Virtual Resumé, Expert Warns in Light of Health Board Resignation*](https://www.cbc.ca/news/canada/saskatoon/experts-surprised-by-what-people-will-say-on-social-media-1.4176138%22%20/h%20HYPERLINK%20%22https://www.cbc.ca/news/canada/saskatoon/experts-surprised-by-what-people-will-say-on-social-media-1.4176138){target="_blank"} [-@hamiltonThinkSocialMedia2017]
     -   You can also search online using the terms "fired over tweet" or "social media firing cases."
--   Watch the short video [Watch: *Using Twitter effectively in education - with Alec Couros*](https://www.youtube.com/watch?v=EqSCR3HU4eg){target="_blank"} [-@courosUsingTwitterEffectively2013]Couros summarizes how educators are using Twitter (now X) to connect professionally.
+-   Watch the short video [Watch: *Using Twitter effectively in education - with Alec Couros*](https://www.youtube.com/watch?v=EqSCR3HU4eg){target="_blank"} [-@courosUsingTwitterEffectively2013]. Couros summarizes how educators are using Twitter (now X) to connect professionally.
 
 [Watch: *Using Twitter effectively in education - with Alec Couros*](https://www.youtube.com/watch?v=EqSCR3HU4eg){target="_blank"} [-@courosUsingTwitterEffectively2013]
 <div class="video-container">
@@ -207,7 +207,7 @@ After completing the activities above answer the following questions:
 -   What hashtags, if any, are being used for conversations in your chosen field?
 -   What are the topical areas of discussion at the moment?
 -   How could your field of interest improve professional networking online?
--   Do organizations in your field place restrictions on employees participating in social networks? (See for example *Corporate Social Media Policies: The Good, the Mediocre, and the Ugly* [-@dishmanCorporateSocialMedia2010], and *More Social Media Policies: LA Times, Harvard Law, Microsoft, and Cisco* [-@dishmanMoreSocialMedia2010]*.*)
+-   Do organizations in your field place restrictions on employees participating in social networks? See for example *Corporate Social Media Policies: The Good, the Mediocre, and the Ugly* [-@dishmanCorporateSocialMedia2010], and *More Social Media Policies: LA Times, Harvard Law, Microsoft, and Cisco* [-@dishmanMoreSocialMedia2010].
 :::
 
 ### Activity: Blog: Professional Online Identity and Digital Citizenship
@@ -259,19 +259,21 @@ In this challenge you are asked to build or update your professional online biog
 
 In this section we explore the topic of online communities and how we can engage in social media to enhance our learning.
 
-In the early years of the internet there was strong research interest in studying the differences between virtual and real communities. However, in more recent years we have observed a blurring of the boundaries between online and real communities. In [*The Difference Between Online & Real Life Community?*](https://quiip.com.au/is-there-a-definitive-difference-between-online-and-real-life-community/){target="_blank"} [-@michalkDifferenceOnlineReal2013]Alison Michalk states:
+In the early years of the internet there was strong research interest in studying the differences between virtual and real communities. However, in more recent years we have observed a blurring of the boundaries between online and real communities. In [*The Difference Between Online & Real Life Community?*](https://quiip.com.au/is-there-a-definitive-difference-between-online-and-real-life-community/){target="_blank"} Alison Michalk [-@michalkDifferenceOnlineReal2013] states:
 
-> Community boundaries are blurred to the extent that the Internet is nothing more than a conduit for communication. The Internet is now just another tool that we use to communicate within our various communities. The same as we use mail, telephone and even a car to keep in touch with our friends, family and colleagues. Our ‘real life communities’ are not mutually exclusive from our ‘online communities’ given that it all comes down to implied physical presence. [-@michalkDifferenceOnlineReal2013, para. 2]
+> Community boundaries are blurred to the extent that the Internet is nothing more than a conduit for communication. The Internet is now just another tool that we use to communicate within our various communities. The same as we use mail, telephone and even a car to keep in touch with our friends, family and colleagues. Our ‘real life communities’ are not mutually exclusive from our ‘online communities’ given that it all comes down to implied physical presence (para. 2).
 
 So how do we join and contribute constructively to these digital communities? If you don't have much experience with online communities, we encourage you to participate in the course forums and become an active member of the TWU learning community.
 
 #### Research on Online Communities {.unnumbered}
 
-Research on the efficacy of online communities provides insights on selecting productive communities and how to engage. Community contributors can be classified into three types [(Mocus et al 2002):](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edb&AN=100369742&site=eds-live&scope=site){target="_blank"}
+Research on the efficacy of online communities provides insights on selecting productive communities and how to engage. Community contributors can be classified into three types [Mockus et al.:](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edb&AN=100369742&site=eds-live&scope=site){target="_blank"} [-@mockusIIIFreeOpen2007]
+
+<!-- //todo #33 -->
 
 1.  Core members are responsible for guiding the development of the community and have usually been involved with the community for a long time. These members have made significant contributions to the community’s evolution and have earned leadership status. Frequently they also play an active role in moderation of the group.
 2.  Active members make regular contributions to the community.
-3.  Peripheral members occasionally contribute to the discussions and the periods of engagement are short and sporadic. “Lurkers”, that is individuals seeking answers without making contributions, are normally associated with this group. The nature of engagement in a community is influenced by the community’s life cycle stage [(A. Iriberri and G. Leroy 2009)](https://dl.acm.org/doi/10.1145/1459352.1459356){target="_blank"}:
+3.  Peripheral members occasionally contribute to the discussions and the periods of engagement are short and sporadic. “Lurkers”, that is individuals seeking answers without making contributions, are normally associated with this group. The nature of engagement in a community is influenced by the community’s life cycle stage [A. Iriberri and G. Leroy](https://dl.acm.org/doi/10.1145/1459352.1459356){target="_blank"} [-@iriberriLifecyclePerspectiveOnline2009]:
 
 | **Life cycle stage** | **Characteristics** |
 |--------------------------|---------------------------------------------|
@@ -282,9 +284,9 @@ Research on the efficacy of online communities provides insights on selecting pr
 
 Additional factors identified by the research to keep in mind include:
 
--   *Network cohesion*, that is the overall level of connections indicated by the network density has a positive impact on the core group as well as the success of the community ([Toral et al 2010](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edselp&AN=S0950584909001888&site=eds-live&scope=site){target="_blank"})
--   *Network structure*. Successful communities need a critical mass of contributors, however there is no fixed number that determines success. Most communities can expect between 45--90 % of nonactive members, but communities with a strong and experienced core group will have a positive impact on success (Nonnecke & Preece, 2000, as cited in Toral et al., 2009). Moreover, the positive effects of network structure on participation persist irrespective of the life cycle stage of the community, and activity participation influences network structure [(Igl 2014)](https://mediatum.ub.tum.de/node?id=1218984){target="_blank"}
--   *Centralization*. Communities with a high degree of centralization and control exert a negative impact on all participation variables [(Igl, 2014)](https://mediatum.ub.tum.de/node?id=1218984){target="_blank"}.
+-   *Network cohesion*, that is the overall level of connections indicated by the network density has a positive impact on the core group as well as the success of the community [Toral et al.](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edselp&AN=S0950584909001888&site=eds-live&scope=site){target="_blank"} [-@toralAnalysisVirtualCommunities2010].
+-   *Network structure*. Successful communities need a critical mass of contributors, however there is no fixed number that determines success. Most communities can expect between 45--90 % of nonactive members, but communities with a strong and experienced core group will have a positive impact on success (Nonnecke & Preece, 2000, as cited in Toral et al., 2009). Moreover, the positive effects of network structure on participation persist irrespective of the life cycle stage of the community, and activity participation influences network structure [Igl](https://mediatum.ub.tum.de/node?id=1218984){target="_blank"} [-@iglDynamicsOnlineCommunities2014].
+-   *Centralization*. Communities with a high degree of centralization and control exert a negative impact on all participation variables [Igl](https://mediatum.ub.tum.de/node?id=1218984){target="_blank"} [-@iglDynamicsOnlineCommunities2014].
 
 #### Practical Implications {.unnumbered}
 
