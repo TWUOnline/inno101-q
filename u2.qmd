@@ -111,10 +111,10 @@ Screenshot, Results Page of Google Scholar search for “Transformational Servan
 
 -   all your keywords
 -   lots of citations
--   much more recent [-@evaServantLeadershipSystematic2019]
+-   much more recent
 -   AND it is a systematic review
 
-This is the only article you need for now. Though search results are always changing, we will use this example [(Eva et al., 2019)](https://linkinghub.elsevier.com/retrieve/pii/S1048984317307774){target="_blank"} in our upcoming activity.
+This is the only article you need for now. Though search results are always changing, we will use this example [Eva et al.](https://linkinghub.elsevier.com/retrieve/pii/S1048984317307774){target="_blank"} [-@evaServantLeadershipSystematic2019] in our upcoming activity.
 
 ::: {#fig-googlexsearch3}
 ![](assets/u2/google-search3.png){fig-alt="Screenshot, article landing page"" .lightbox fig-align="left"}
@@ -334,7 +334,7 @@ For more tutorials on using Litmaps, search online. For example, the Litmaps You
 
 ::: {.learning-activity time="30"}
 -   Choose a research topic that interests you. Consider a course you are taking or will take in the future. What key topics do you want to learn more about? Here are some other links that may help you decide:
-    -   [*Choosing a Topic: Purdue OWL*](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/research_papers/choosing_a_topic.html){target="_blank"} [@purdueowlChoosingTopic]
+    -   [*Choosing a Topic: Purdue OWL*](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/research_papers/choosing_a_topic.html){target="_blank"} [-@purdueowlChoosingTopic]
     -   [*Building Your Research Skills*](https://libguides.twu.ca/ResearchSkills/Home){target="_blank"} [-@badkeResearchGuidesBuilding2024]
     -   Conduct a general internet search for "Topical issues in Business" or "Topical issues in Higher Education" and scan whether any of these issues are of personal interest.
 -   State your topic in the form of a question. For example:
@@ -383,7 +383,7 @@ Be sure to bookmark the libray website for later use.
 ::: {.learning-activity time="20"}
 Improving search skills will save you time and result in more productive searches. Although we focus on LitMaps and the TWU Library in this course, another tool we want to share is the Google search engine. It provides a number of features to improve your searches in finding academic resources. In this activity, you will select two open resources using the Google advanced search operators in support of your research topic.
 
--   Read the [*Google Search Cheatsheet*](https://quickref.me/google-search.html){target="_blank"} for a more comprehensive list. Also see the [*Google Advanced Search Operators Cheat Sheet*](https://www.webfx.com/blog/seo/google-advanced-search-operators-cheat-sheet/){target="_blank"} (n.d.) and try a few searches using the operators.
+-   Read the [*Google Search Cheatsheet*](https://quickref.me/google-search.html){target="_blank"} for a more comprehensive list. Also see the [*Google Advanced Search Operators Cheat Sheet*](https://www.webfx.com/blog/seo/google-advanced-search-operators-cheat-sheet/){target="_blank"} [-@wixtedGoogleAdvancedSearch] and try a few searches using the operators.
 
 ```{=html}
 <!-- !!! Comment(s) from Werd:
@@ -466,7 +466,7 @@ So how do you evaluate sources to ensure those you are using are credible? The f
 ### Activity: Using the CRAAP Test
 
 ::: {.learning-activity time="30"}
--   [Watch *How Library Stuff Works: How to Evaluate Resources (the CRAAP Test)*](https://www.youtube.com/watch?v=_M1-aMCJHFg){target="_blank"} [@mcmasteruniversitylibrariesHowLibraryStuff2015]. This illustrates a set of steps you could take to evaluate sources.
+-   [Watch *How Library Stuff Works: How to Evaluate Resources (the CRAAP Test)*](https://www.youtube.com/watch?v=_M1-aMCJHFg){target="_blank"} [-@mcmasteruniversitylibrariesHowLibraryStuff2015]. This illustrates a set of steps you could take to evaluate sources.
 
 <div class="video-container">
 
@@ -498,8 +498,8 @@ Consider the following statement: Wikipedia is a reliable source for academic st
 Do you agree? Have you cited Wikipedia in any academic work? Why or why not?
 
 -   Read the following:
-    -   [Is Wikipedia a Trustworthy Academic Resource? Scientists Think So](https://edtechmagazine.com/higher/article/2017/12/wikipedia-trustworthy-academic-resource-scientists-think-so){target="_blank"} [-@cortezWikipediaReliableSource2017] published by EdTech Magazine.
-    -   [Reliability of Wikipedia](https://en.wikipedia.org/wiki/Reliability_of_Wikipedia){target="_blank"} [-@ReliabilityWikipedia2025] article on Wikipedia.
+    -   [Is Wikipedia a Trustworthy Academic Resource? Scientists Think So](https://edtechmagazine.com/higher/article/2017/12/wikipedia-trustworthy-academic-resource-scientists-think-so){target="_blank"} published by EdTech Magazine [-@cortezWikipediaReliableSource2017].
+    -   [Reliability of Wikipedia](https://en.wikipedia.org/wiki/Reliability_of_Wikipedia){target="_blank"} article on Wikipedia [-@ReliabilityWikipedia2025].
 -   [*Watch:* *How to Use Wikipedia Wisely*](https://www.youtube-nocookie.com/embed/ZzcjS1aDojA){target="_blank"} [-@digitalinquirygroupHowUseWikipedia2020]
 
 <div class="video-container">
@@ -767,8 +767,8 @@ In our final activity for Unit 2, you will create an annotated bibliography rela
 
 -   Read the following resources:
     -   Evaluating online sources: [*How to (Seriously) Read an Academic Paper*](https://www.science.org/content/article/how-seriously-read-scientific-paper?v=sy9PVZAbSAQ){target="_blank"} [-@painHowSeriouslyRead2016]
-    -   Preparing an annotated bibliography: [*Writing an Annotated Bibliography*](https://advice.writing.utoronto.ca/types-of-writing/annotated-bibliography/){target="_blank"} [@knottWritingAnnotatedBibliography] and [*How to Write an Annotated Bibliography*](https://library.concordia.ca/help/writing/annotated-bibliography.php#:~:text=In%20an%20annotated%20bibliography%2C%20each,relevance%20to%20your%20paper%20topic.){target="_blank"} [-@concordiauniversitylibraryHowWriteAnnotated2022]
-    -   [*Annotated Bibliography Samples: Purdue Owl*](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/annotated_bibliographies/annotated_bibliography_samples.html){target="_blank"} [@purdueuniversityAnnotatedBibliographySamples]
+    -   Preparing an annotated bibliography: [*Writing an Annotated Bibliography*](https://advice.writing.utoronto.ca/types-of-writing/annotated-bibliography/){target="_blank"} [-@knottWritingAnnotatedBibliography] and [*How to Write an Annotated Bibliography*](https://library.concordia.ca/help/writing/annotated-bibliography.php#:~:text=In%20an%20annotated%20bibliography%2C%20each,relevance%20to%20your%20paper%20topic.){target="_blank"} [-@concordiauniversitylibraryHowWriteAnnotated2022]
+    -   [*Annotated Bibliography Samples: Purdue Owl*](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/annotated_bibliographies/annotated_bibliography_samples.html){target="_blank"} [-@purdueuniversityAnnotatedBibliographySamples]
 -   Next, create an annotated bibliography in Obsidian for two sources---include a journal article and a book chapter from an edited collection of chapters by multiple authors.
     -   You can select resources already saved in your library or search for new ones in support of your research topic.
     -   Use the note or comment feature of your citation management software to record a copy of your annotation.

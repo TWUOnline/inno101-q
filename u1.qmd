@@ -55,7 +55,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 -   Explore definitions of digital literacy. 
 -   Watch the video on Reflecting on the Promise of Technology and refine your goals. 
 -   Take a self-assessment on your digital literacy skills. 
--   Watch Visitors and Residents (2014) to start thinking about where you reside on the web. 
+-   Watch Visitors and Residents [-@whiteVisitorsResidents2014] to start thinking about where you reside on the web. 
 -   Create a Visitors and Residents diagram. 
 -   Get a password manager. 
 -   Use the *Terms of Service: Didn't Read* [-@tosdrTermsServiceDidnt] website to look up each of the apps we will learn in this course. 
@@ -296,7 +296,7 @@ As you watch the upcoming video, think about how these digital tools fit into yo
 ::: {.learning-activity time="20"}
 In the following video, Dr. Timothy Stafford explores the transformative power of heutagogy in education, highlighting how self-driven learning fosters autonomy, discovery, and lifelong growth. With over 30 years of expertise in instructional design, educational technology, and leadership, Dr. Stafford has shaped thousands of online courses across diverse industries. In this TEDx talk, he shares insights from his extensive experience, emphasizing the potential of personalized, future-focused education.
 
-[Watch: *The Future of Education is Self-Directed Learning*](https://www.youtube.com/watch?v=NkmiquiJ_nA){target="_blank"} [-@staffordFutureEducationSelfDirected2024]
+[Watch: *The Future of Education is Self-Directed Learning*](https://www.youtube.com/watch?v=NkmiquiJ_nA){target="_blank"} [-@staffordFutureEducationSelfdirected2024]
 
 <div class="video-container">
 
@@ -319,9 +319,9 @@ Literacy, as we commonly understand it, is the ability to *understand* the meani
 
 > "In today's world, being literate requires much, much more than the traditional literacy of yesterday." [@alberDeeperLearningDefining2013]
 
-What digital tools do you use to help you make meaning? What is your "go-to" app for note taking, organizing files, tracking references, and connecting ideas? One valuable tool we are going to show you is called Obsidian, a free note taking and mind mapping app. Before you go through the instructions in the activity below, watch the video *This is Obsidian*. [-@birchlerThisObsidian2021].
+What digital tools do you use to help you make meaning? What is your "go-to" app for note taking, organizing files, tracking references, and connecting ideas? One valuable tool we are going to show you is called Obsidian, a free note taking and mind mapping app. Before you go through the instructions in the activity below, watch the video *This is Obsidian*.
 
-[Watch: *This is Obsidian*](https://www.youtube.com/watch?v=d2FNqEDGc8g){target="_blank"} <!-- Auto title, auto embed-->
+[Watch: *This is Obsidian*](https://www.youtube.com/watch?v=d2FNqEDGc8g){target="_blank"} [-@birchlerThisObsidian2021] <!-- Auto title, auto embed-->
 
 <div class="video-container">
 
@@ -475,9 +475,9 @@ Let's take a look at the definitions of digital literacy and digital skills on t
 -   How would you rate the academic quality of the definitions you found (e.g., low or high quality)?
 -   What did you discover?
 
-Next, read the [*Quick Guide - Developing Students' Digital Literacy*](assets/u1/JISC_REPORT_Digital_Literacies_280714_PRINT.pdf){target="_blank"} (n.d.)
+Next, read the [*Quick Guide - Developing Students' Digital Literacy*](assets/u1/JISC_REPORT_Digital_Literacies_280714_PRINT.pdf){target="_blank"} [-@jiscdigitalexperienceinsightsQuickGuideDeveloping]
 
-This guide defines digital literacies as "the capabilities which fit an individual for living, learning and working in a digital society (n.d., Introduction)." Furthermore, this report distinguishes between seven elements of digital literacies:
+This guide defines digital literacies as "the capabilities which fit an individual for living, learning and working in a digital society" [@jiscdigitalexperienceinsightsQuickGuideDeveloping]. Furthermore, this report distinguishes between seven elements of digital literacies:
 
 ::: {#fig-image4}
 ![](assets/u1/7-digital-literacy-elements.png){.lightbox fig-alt="Schematic of seven elements of digital literacies" fig-align="left"}
@@ -485,7 +485,7 @@ This guide defines digital literacies as "the capabilities which fit an individu
 The Seven Elements of Digital Literacies
 :::
 
-*Source.* From "[*Quick Guide - Developing Students' Digital Literacy*](https://digitalcapability.jiscinvolve.org/wp/files/2014/09/JISC_REPORT_Digital_Literacies_280714_PRINT.pdf){target="_blank"}," by Jisc Digital Experience Insights, -@jiscdigitalexperienceinsightsQuickGuideDeveloping, p. 2. CC BY-NC-ND 2.0 UK<!-- https://creativecommons.org/licenses/by-nc-nd/2.0/uk/-->.
+*Source.* From "[*Quick Guide - Developing Students' Digital Literacy*](https://digitalcapability.jiscinvolve.org/wp/files/2014/09/JISC_REPORT_Digital_Literacies_280714_PRINT.pdf){target="_blank"}," by Jisc Digital Experience Insights, [-@jiscdigitalexperienceinsightsQuickGuideDeveloping], p. 2. CC BY-NC-ND 2.0 UK<!-- https://creativecommons.org/licenses/by-nc-nd/2.0/uk/-->.
 
 **Questions to Consider** 
 
@@ -694,7 +694,7 @@ Here is a table that shows how quickly passwords can be cracked using brute forc
 Time Needed to Crack Passwords of Varying Complexity in a Brute Force Attack.
 :::
 
-*Source* From "Are Your Passwords in the Green in 2023?," by C. Nesky, -@neskeyAreYourPasswords2023, *Hive Systems* (https://www.hivesystems.com/blog/are-your-passwords-in-the-green-2023). Copyright 2024 [Hive Systems](https://www.hivesystems.com/){target="_blank"}. Reprinted with permission.
+*Source* From "Are Your Passwords in the Green in 2023?," by C. Nesky, [-@neskeyAreYourPasswords2023], *Hive Systems* (https://www.hivesystems.com/blog/are-your-passwords-in-the-green-2023). Copyright 2024 [Hive Systems](https://www.hivesystems.com/){target="_blank"}. Reprinted with permission.
 
 There are services you can use to check if your email is part of a leaked password data set. So, what can you do to protect yourself?
 
