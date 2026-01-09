@@ -1,34 +1,85 @@
 # version 3.2
 
 project:
-  type: book
+  type: website
   output-dir: docs
 
 # Info on changing metadata labels: https://quarto.org/docs/authoring/title-blocks.html#metadata-labels
 published-title: "Last Modified"
 author-title: "Authors"
 
-book:
+website:
   title: "LDRS 101 Course Notes"
-  author: "Colin Madland and Kelly Marjanovic"
-  date: "last-modified"
-  date-format: "MMM D, YYYY"
-  chapters:
-    - index.qmd
-    - u1.qmd
-    - u2.qmd
-    - u3.qmd
-    - u4.qmd
-    - u5.qmd
-    - u6.qmd
-    - assignment1.qmd
-    - assignment2.qmd
-    - assignment3.qmd
-    - course_assessment.qmd
-    # - listings-meta.qmd
 
-# Note: If you do not have any Zotero references, you should disable the 'references.qmd' file or else it will cause an error when rendering.    
-#    - references.qmd
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: u1.qmd
+        text: Unit 1
+      - href: u2.qmd
+        text: Unit 2
+      - href: u3.qmd
+        text: Unit 3
+      - href: u4.qmd
+        text: Unit 4
+      - href: u5.qmd
+        text: Unit 5
+      - href: u6.qmd
+        text: Unit 6
+      - text: Assignments
+        menu:
+          - text: Assignment 1
+            href: assignment1.qmd
+          - text: Assignment 2
+            href: assignment1.qmd
+          - text: Assignment 3
+            href: assignment3.qmd
+      - text: Course Assessment
+        href: course_assessment.qmd
+
+sidebar:
+  style: "docked"
+  search: true
+  contents:
+    - section: "Units"
+      contents:
+        - u1.qmd
+        - u2.qmd
+        - u3.qmd
+        - u4.qmd
+        - u5.qmd
+        - u6.qmd
+    - section: "Assignments"
+      contents:
+        - assignment1.qmd
+        - assignment2.qmd
+        - assignment3.qmd
+    - section: "Other"
+      contents:
+        - course_assessment.qmd
+
+# # ------- Project Settings -------
+
+#   author: "Colin Madland and Kelly Marjanovic"
+#   date: "last-modified"
+#   date-format: "MMM D, YYYY"
+#   chapters:
+#     - index.qmd
+#     - u1.qmd
+#     - u2.qmd
+#     - u3.qmd
+#     - u4.qmd
+#     - u5.qmd
+#     - u6.qmd
+#     - assignment1.qmd
+#     - assignment2.qmd
+#     - assignment3.qmd
+#     - course_assessment.qmd
+#     # - listings-meta.qmd
+
+# # Note: If you do not have any Zotero references, you should disable the 'references.qmd' file or else it will cause an error when rendering.
+# #    - references.qmd
 
 # References
 bibliography: https://twuonline.github.io/course-materials/quarto/references.bib
@@ -49,11 +100,10 @@ title-block-banner: true
 # ------- Format Specific Settings -------
 
 format:
-# Format - HTML
+  # Format - HTML
   html:
-    template-partials:
-      yml-assets/title-block.html
-      
+    template-partials: yml-assets/title-block.html
+
     sidebar:
       style: "docked"
       search: true
@@ -65,14 +115,14 @@ format:
     # The line below  should only be enabled to locally test css before moving it to the main css file in course materials.
     #theme: [cosmo, yml-assets/test.scss]
     include-in-header:
-    - text: |
-        <link rel = "shortcut icon" href = "https://twuonline.github.io/course-materials/quarto/favicon.ico" />
-        
-# # Format - PDF
-#   pdf:
-#     documentclass: scrreprt
+      - text: |
+          <link rel = "shortcut icon" href = "https://twuonline.github.io/course-materials/quarto/favicon.ico" />
 
-# Format - Doc
+  # # Format - PDF
+  #   pdf:
+  #     documentclass: scrreprt
+
+  # Format - Doc
   docx:
     toc: false
     number-sections: true

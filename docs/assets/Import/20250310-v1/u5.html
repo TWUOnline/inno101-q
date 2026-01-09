@@ -1,0 +1,1484 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.7.31">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>u5 – LDRS 101 Course Notes</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../">
+<script src="../../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap-dfb324f25d9b1687192fa8be62ac8f9c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<link rel="shortcut icon" href="https://twuonline.github.io/course-materials/quarto/favicon.ico">
+
+
+<link rel="stylesheet" href="https://twuonline.github.io/course-materials/quarto/twu_styles.css">
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../../../index.html">
+    <span class="navbar-title">LDRS 101 Course Notes</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../u1.html"> 
+<span class="menu-text">Unit 1</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../u2.html"> 
+<span class="menu-text">Unit 2</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../u3.html"> 
+<span class="menu-text">Unit 3</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../u4.html"> 
+<span class="menu-text">Unit 4</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../u5.html"> 
+<span class="menu-text">Unit 5</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../u6.html"> 
+<span class="menu-text">Unit 6</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-assignments" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Assignments</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-assignments">    
+        <li>
+    <a class="dropdown-item" href="../../../assignment1.html">
+ <span class="dropdown-text">Assignment 1</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../../assignment1.html">
+ <span class="dropdown-text">Assignment 2</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../../assignment3.html">
+ <span class="dropdown-text">Assignment 3</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="../../../course_assessment.html"> 
+<span class="menu-text">Course Assessment</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block"></header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On This Page</h2>
+   
+  <ul>
+  <li><a href="#unit-5-building-a-network-of-people" id="toc-unit-5-building-a-network-of-people" class="nav-link active" data-scroll-target="#unit-5-building-a-network-of-people">Unit 5: Building a Network of People</a>
+  <ul>
+  <li><a href="#overview" id="toc-overview" class="nav-link" data-scroll-target="#overview">Overview</a>
+  <ul class="collapse">
+  <li><a href="#topics" id="toc-topics" class="nav-link" data-scroll-target="#topics">Topics</a></li>
+  <li><a href="#learning-outcomes" id="toc-learning-outcomes" class="nav-link" data-scroll-target="#learning-outcomes">Learning Outcomes</a></li>
+  <li><a href="#activity-checklist" id="toc-activity-checklist" class="nav-link" data-scroll-target="#activity-checklist">Activity Checklist</a></li>
+  <li><a href="#resources" id="toc-resources" class="nav-link" data-scroll-target="#resources">Resources</a></li>
+  </ul></li>
+  <li><a href="#digital-citizenship" id="toc-digital-citizenship" class="nav-link" data-scroll-target="#digital-citizenship">5.1 Digital Citizenship</a>
+  <ul class="collapse">
+  <li><a href="#activity-reflecting-on-digital-citizenship" id="toc-activity-reflecting-on-digital-citizenship" class="nav-link" data-scroll-target="#activity-reflecting-on-digital-citizenship">5.1.1 Activity: Reflecting on Digital Citizenship</a>
+  <ul class="collapse">
+  <li><a href="#defining-digital-citizenship" id="toc-defining-digital-citizenship" class="nav-link" data-scroll-target="#defining-digital-citizenship">Defining Digital Citizenship</a></li>
+  </ul></li>
+  <li><a href="#activity-podcast-on-digital-citizenship" id="toc-activity-podcast-on-digital-citizenship" class="nav-link" data-scroll-target="#activity-podcast-on-digital-citizenship">5.1.2 Activity: Podcast on Digital Citizenship</a></li>
+  </ul></li>
+  </ul></li>
+  </ul>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="u5.docx"><i class="bi bi-file-word"></i>MS Word</a></li></ul></div></nav>
+    </div>
+<!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
+
+
+
+
+<section id="unit-5-building-a-network-of-people" class="level1">
+<h1>Unit 5: Building a Network of People</h1>
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>In Unit 5 we engage in academic learning as a digital citizen of the internet. In this unit you will continue to develop a positive digital online identity in support of learning, while adhering to best practices for privacy, security, and interpersonal communications. We will discuss digital citizenship and how that relates to our personal and professional online identities. You’ll have the opportunity to evaluate your social networks and join new online communities, including the TWU Online community. We hope you will take advantage of the opportunities to connect, build your personal and professional learning networks, and share your knowledge.</p>
+<section id="topics" class="level3">
+<h3 class="anchored" data-anchor-id="topics">Topics</h3>
+<p>This unit is divided into the following topics:</p>
+<ol type="1">
+<li>Digital citizenship</li>
+<li>Online communities</li>
+<li>Connecting and learning through social media</li>
+<li>Joining the TWU community</li>
+</ol>
+</section>
+<section id="learning-outcomes" class="level3">
+<h3 class="anchored" data-anchor-id="learning-outcomes">Learning Outcomes</h3>
+<p>When you have completed this unit you will be able to:</p>
+<ul>
+<li>Discuss the dimensions of digital citizenship for work and learning in the 21st century and how these differ from the offline environment</li>
+<li>Outline the rights and responsibilities of a digital citizen</li>
+<li>Explore professional online identity and networking in the field of your choice</li>
+<li>Reflect on the balance between public and private in a digital world</li>
+<li>Evaluate a range of social media, technologies, and communities appropriate for supporting learning</li>
+<li>Develop online learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens</li>
+<li>Consider how you might connect, thrive, and serve in the TWU learning community</li>
+</ul>
+</section>
+<section id="activity-checklist" class="level3">
+<h3 class="anchored" data-anchor-id="activity-checklist">Activity Checklist</h3>
+<p>Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.</p>
+<div class="reflect">
+<p><strong>Learning Activities</strong></p>
+<ul>
+<li>Read <em>Global Citizenship Education</em> <span class="citation" data-cites="277">(<strong>277?</strong>)</span> and <em>John Dewey Would Hate Your Digital Citizenship Curriculum</em> <span class="citation" data-cites="279">(<strong>279?</strong>)</span> and write your personal definition of a digital citizen.</li>
+<li>Listen to the podcast on <em>Digital Citizenship</em> <span class="citation" data-cites="1977">(<strong>1977?</strong>)</span>.</li>
+<li>Read <em>Nine Elements of Digital Citizenship</em> <span class="citation" data-cites="285">(<strong>285?</strong>)</span> and apply elements to your academic study.</li>
+<li>Explore resources on digital rights and responsibilities and join a discussion on an issue that interests you.</li>
+<li>Explore resources on professional online identity and networking in the field of your choice and reflect on your findings.</li>
+<li>Update your professional online biography and the “About” page of your course blog.</li>
+<li>Map your social network and consider the online communities you might join.</li>
+</ul>
+<blockquote class="blockquote">
+<p><strong>Note:</strong></p>
+<p><em>•</em> <em>You will be directed to complete these activities as they come up in the unit.</em></p>
+<p><em>•</em> <em>The learning activities in this course are designed to prepare you for the graded assignments in this course. You are strongly encouraged to complete them.</em></p>
+</blockquote>
+</div>
+<div class="assessment">
+<p><strong>Assessment</strong></p>
+<ul>
+<li><em>See the Assessment section in Moodle for assignment details.</em></li>
+</ul>
+</div>
+</section>
+<section id="resources" class="level3">
+<h3 class="anchored" data-anchor-id="resources">Resources</h3>
+<ul>
+<li>All resources will be provided online in the unit.</li>
+</ul>
+<div class="caution">
+<p><strong><em>Resource Reminders</em></strong></p>
+<ul>
+<li>Remember to continuously add resources to your Zotero library that align with your learning goals</li>
+<li>Utilize your community—peers, coworkers, and online communities—as valuable resources! Stay engaged to seek assistance and exchange helpful resources and insights.</li>
+</ul>
+</div>
+</section>
+</section>
+<section id="digital-citizenship" class="level2">
+<h2 class="anchored" data-anchor-id="digital-citizenship">5.1 Digital Citizenship</h2>
+<p>Before attempting to define digital citizenship, let’s consider the concept of citizenship in its own right. In its simplest form, citizenship refers to the rights, privileges, and duties of being a national citizen. However, the concept of being a good citizen encompasses much more, particularly if you think about full engagement as a member of society.</p>
+<blockquote class="blockquote">
+<p><em>Citizenship is a status that is bestowed on those who are full members of a community.</em> <span class="citation" data-cites="276">(<strong>276?</strong>)</span></p>
+</blockquote>
+<section id="activity-reflecting-on-digital-citizenship" class="level3">
+<h3 class="anchored" data-anchor-id="activity-reflecting-on-digital-citizenship">5.1.1 Activity: Reflecting on Digital Citizenship</h3>
+<div class="reflect">
+<p>If good citizenship means fulfilling your role as citizen, can you think of five things good citizens do?</p>
+<ul>
+<li><strong>Read</strong>: Consider the following questions while you read the resources below:</li>
+</ul>
+<!-- -->
+<ul>
+<li><p>In a digital world, is loyalty to your country a necessary component of the definition of good citizenship?</p></li>
+<li><p>Is education a prerequisite for good citizenship?</p></li>
+<li><p>In a digital world, what does it mean to be a global citizen? Read the Wikipedia article on <em>Global Citizenship Education</em> <span class="citation" data-cites="277">(<strong>277?</strong>)</span>, where learners engage in solving real world problems.</p></li>
+<li><p>Has the concept of good citizenship changed over time? In what ways?</p></li>
+<li><p>Does citizenship require active community engagement? Read this post by Kristen Mattson, director of a high school library media center: <em>John Dewey Would Hate Your Digital Citizenship Curriculum</em> <span class="citation" data-cites="279">(<strong>279?</strong>)</span>. Why has the concept <em>digital</em> been linked with <em>citizenship</em> or should we drop the word <em>digital</em> and just talk about <em>good citizenship</em>?</p></li>
+</ul>
+<!-- -->
+<ul>
+<li><strong>Write</strong> your thoughts in your Reflective Journal (using Obsidian or WordPress). Conclude by writing a description of digital citizenship in your own words. (You will need this later for your Digital Citizenship Blog assessment. It does not need to be a scholarly definition—just your personal thoughts on the concept.)</li>
+</ul>
+</div>
+<section id="defining-digital-citizenship" class="level4">
+<h4 class="anchored" data-anchor-id="defining-digital-citizenship">Defining Digital Citizenship</h4>
+<p>Defining digital citizenship is not easy because it means different things to different people. It is also a concept which is debated among scholars researching the field.</p>
+<p>If you conduct a general search for “digital citizenship” you will find many links referencing resources targeting elementary and high school levels with a focus on safe, skilled, and ethical use of online technology. While these aspects are important, for the purposes of this tertiary-level course, we need to explore the concept of digital citizenship in more detail.</p>
+</section>
+</section>
+<section id="activity-podcast-on-digital-citizenship" class="level3">
+<h3 class="anchored">5.1.2 Activity: Podcast on Digital Citizenship</h3>
+<div class="reflect">
+<ul>
+<li><p><strong>Listen</strong>: In this activity you will listen to a podcast that focuses on the people dimension of digital citizenship.</p>
+<p>Meet Autumm Caines, associate director of academic technology from the Center for Excellence in Learning and Teaching at Capital University, speaking in a podcast with Bonni Stachowiak.</p>
+<p>Listen to the first 15–20 minutes of this <em>Teaching in HigherEd</em></p></li>
+</ul>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<section id="section" class="level4">
+<h4 class="anchored" data-anchor-id="section"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h4>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<ul>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+</ul>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</section>
+<section id="section-1" class="level3">
+<h3 class="anchored" data-anchor-id="section-1"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<ul>
+<li><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></li>
+</ul>
+<!-- -->
+<ul>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+</ul>
+<!-- -->
+<ul>
+<li><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></li>
+</ul>
+<!-- -->
+<ul>
+<li><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></li>
+</ul>
+<!-- -->
+<ul>
+<li><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></li>
+</ul>
+<!-- -->
+<ul>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+</ul>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<ul>
+<li><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></li>
+</ul>
+<!-- -->
+<ul>
+<li><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></li>
+</ul>
+<!-- -->
+<ul>
+<li><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></li>
+</ul>
+<!-- -->
+<ul>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+</ul>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<section id="section-2" class="level4">
+<h4 class="anchored" data-anchor-id="section-2"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h4>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</section>
+</section>
+<section id="section-3" class="level3">
+<h3 class="anchored" data-anchor-id="section-3"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<ul>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+</ul>
+<!-- -->
+<ul>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+</ul>
+<!-- -->
+<ul>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+</ul>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<ul>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+</ul>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<section id="section-4" class="level4">
+<h4 class="anchored" data-anchor-id="section-4"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h4>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<blockquote class="blockquote">
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</blockquote>
+</section>
+</section>
+<section id="section-5" class="level3">
+<h3 class="anchored" data-anchor-id="section-5"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<ul>
+<li><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></li>
+</ul>
+<!-- -->
+<ul>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+</ul>
+<!-- -->
+<ul>
+<li><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></li>
+</ul>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<ul>
+<li><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></li>
+</ul>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<ul>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+</ul>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</section>
+<section id="section-6" class="level3">
+<h3 class="anchored" data-anchor-id="section-6"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<ul>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+</ul>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</section>
+<section id="section-7" class="level3">
+<h3 class="anchored" data-anchor-id="section-7"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<ul>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+</ul>
+<!-- -->
+<ul>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+</ul>
+<!-- -->
+<ul>
+<li><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></li>
+</ul>
+<!-- -->
+<ul>
+<li><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></li>
+</ul>
+<!-- -->
+<ul>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+</ul>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</section>
+<section id="section-8" class="level2">
+<h2 class="anchored" data-anchor-id="section-8"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h2>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<blockquote class="blockquote">
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</blockquote>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<section id="section-9" class="level4">
+<h4 class="anchored" data-anchor-id="section-9"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h4>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<ol type="1">
+<li></li>
+<li></li>
+<li>A. Iriberri and G. Leroy 2009):</li>
+</ol>
+<blockquote class="blockquote">
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</blockquote>
+<div class="parent-table-container">
+<div class="table-container">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 27%">
+<col style="width: 72%">
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Life cycle stage</strong><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></th>
+<th><strong>Characteristics</strong><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Inception stage<span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></td>
+<td>Focus is on determining the purpose, codes of conduct, funding and sustainability<span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></td>
+</tr>
+<tr class="even">
+<td>Creation stage<span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></td>
+<td>User-centred design and evolution including issues of privacy, anonymity, open versus closed communications<span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></td>
+</tr>
+<tr class="odd">
+<td>Growth stage<span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></td>
+<td>Focus is on community building, for example, recruiting members, growth management, integrating new members, trust building, up-to-date content, interaction support, a few offline and online events and meetings<span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></td>
+</tr>
+<tr class="even">
+<td>Maturity stage<span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></td>
+<td>By this stage a community culture will have emerged with identifiable community leaders. Focus shifts to permeated management and control, recognition of contributions, recognition of loyalty, member satisfaction management and subgroup management.<span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p>Additional factors identified by the research to keep in mind include:<span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<ul>
+<li><p><em>Network cohesion</em>, that is the overall level of connections indicated by the network density has a positive impact on the core group as well as the success of the community (Toral et al 2010).<span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+</ul>
+</section>
+<section id="section-10" class="level4">
+<h4 class="anchored" data-anchor-id="section-10"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h4>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</section>
+<section id="section-11" class="level4">
+<h4 class="anchored" data-anchor-id="section-11"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h4>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<blockquote class="blockquote">
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</blockquote>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</section>
+<section id="section-12" class="level4">
+<h4 class="anchored" data-anchor-id="section-12"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h4>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<ol type="1">
+<li></li>
+<li></li>
+<li></li>
+</ol>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</section>
+<section id="section-13" class="level4">
+<h4 class="anchored" data-anchor-id="section-13"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h4>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<ul>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+</ul>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</section>
+<section id="section-14" class="level3">
+<h3 class="anchored" data-anchor-id="section-14"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<ul>
+<li><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></li>
+</ul>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<ul>
+<li><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></li>
+</ul>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</section>
+</section>
+<section id="section-15" class="level2">
+<h2 class="anchored" data-anchor-id="section-15"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h2>
+<section id="section-16" class="level3">
+<h3 class="anchored" data-anchor-id="section-16"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<ul>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+</ul>
+<!-- -->
+<ul>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+</ul>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<blockquote class="blockquote">
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</blockquote>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<ul>
+<li><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></li>
+</ul>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<section id="section-17" class="level4">
+<h4 class="anchored" data-anchor-id="section-17"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h4>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</section>
+</section>
+<section id="section-18" class="level3">
+<h3 class="anchored" data-anchor-id="section-18"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<ul>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+</ul>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<ul>
+<li><p><em>Sharing Notes Is Encouraged: Annotating and Cocreating with Hypothes.is and Google Docs</em> <span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+</ul>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</section>
+<section id="section-19" class="level3">
+<h3 class="anchored" data-anchor-id="section-19"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<ul>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span> <span class="citation" data-cites="1977">(<strong>1977?</strong>)</span> <span class="citation" data-cites="1977">(<strong>1977?</strong>)</span> <span class="citation" data-cites="1977">(<strong>1977?</strong>)</span> <span class="citation" data-cites="1977">(<strong>1977?</strong>)</span> <span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</section>
+<section id="section-20" class="level3">
+<h3 class="anchored" data-anchor-id="section-20"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<ul>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span> <span class="citation" data-cites="1977">(<strong>1977?</strong>)</span> <span class="citation" data-cites="1977">(<strong>1977?</strong>)</span> <span class="citation" data-cites="1977">(<strong>1977?</strong>)</span> <span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</section>
+<section id="section-21" class="level3">
+<h3 class="anchored" data-anchor-id="section-21"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</section>
+<section id="section-22" class="level3">
+<h3 class="anchored" data-anchor-id="section-22"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-23" class="level3">
+<h3 class="anchored" data-anchor-id="section-23"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-24" class="level3">
+<h3 class="anchored" data-anchor-id="section-24"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-25" class="level3">
+<h3 class="anchored" data-anchor-id="section-25"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-26" class="level3">
+<h3 class="anchored" data-anchor-id="section-26"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-27" class="level3">
+<h3 class="anchored" data-anchor-id="section-27"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-28" class="level3">
+<h3 class="anchored" data-anchor-id="section-28"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-29" class="level3">
+<h3 class="anchored" data-anchor-id="section-29"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-30" class="level3">
+<h3 class="anchored" data-anchor-id="section-30"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-31" class="level3">
+<h3 class="anchored" data-anchor-id="section-31"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-32" class="level3">
+<h3 class="anchored" data-anchor-id="section-32"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</section>
+<section id="section-33" class="level3">
+<h3 class="anchored" data-anchor-id="section-33"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</section>
+<section id="section-34" class="level3">
+<h3 class="anchored" data-anchor-id="section-34"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-35" class="level3">
+<h3 class="anchored" data-anchor-id="section-35"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-36" class="level3">
+<h3 class="anchored" data-anchor-id="section-36"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-37" class="level3">
+<h3 class="anchored" data-anchor-id="section-37"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-38" class="level3">
+<h3 class="anchored" data-anchor-id="section-38"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-39" class="level3">
+<h3 class="anchored" data-anchor-id="section-39"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-40" class="level3">
+<h3 class="anchored" data-anchor-id="section-40"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-41" class="level3">
+<h3 class="anchored" data-anchor-id="section-41"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</section>
+<section id="section-42" class="level3">
+<h3 class="anchored" data-anchor-id="section-42"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-43" class="level3">
+<h3 class="anchored" data-anchor-id="section-43"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-44" class="level3">
+<h3 class="anchored" data-anchor-id="section-44"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-45" class="level3">
+<h3 class="anchored" data-anchor-id="section-45"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</section>
+<section id="section-46" class="level3">
+<h3 class="anchored" data-anchor-id="section-46"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-47" class="level3">
+<h3 class="anchored" data-anchor-id="section-47"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-48" class="level3">
+<h3 class="anchored" data-anchor-id="section-48"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-49" class="level3">
+<h3 class="anchored" data-anchor-id="section-49"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-50" class="level3">
+<h3 class="anchored" data-anchor-id="section-50"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-51" class="level3">
+<h3 class="anchored" data-anchor-id="section-51"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-52" class="level3">
+<h3 class="anchored" data-anchor-id="section-52"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-53" class="level3">
+<h3 class="anchored" data-anchor-id="section-53"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-54" class="level3">
+<h3 class="anchored" data-anchor-id="section-54"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-55" class="level3">
+<h3 class="anchored" data-anchor-id="section-55"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-56" class="level3">
+<h3 class="anchored" data-anchor-id="section-56"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-57" class="level3">
+<h3 class="anchored" data-anchor-id="section-57"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-58" class="level3">
+<h3 class="anchored" data-anchor-id="section-58"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-59" class="level3">
+<h3 class="anchored" data-anchor-id="section-59"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-60" class="level3">
+<h3 class="anchored" data-anchor-id="section-60"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-61" class="level3">
+<h3 class="anchored" data-anchor-id="section-61"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-62" class="level3">
+<h3 class="anchored" data-anchor-id="section-62"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-63" class="level3">
+<h3 class="anchored" data-anchor-id="section-63"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</section>
+<section id="section-64" class="level3">
+<h3 class="anchored" data-anchor-id="section-64"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-65" class="level3">
+<h3 class="anchored" data-anchor-id="section-65"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-66" class="level3">
+<h3 class="anchored" data-anchor-id="section-66"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</section>
+<section id="section-67" class="level3">
+<h3 class="anchored" data-anchor-id="section-67"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-68" class="level3">
+<h3 class="anchored" data-anchor-id="section-68"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-69" class="level3">
+<h3 class="anchored" data-anchor-id="section-69"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-70" class="level3">
+<h3 class="anchored" data-anchor-id="section-70"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-71" class="level3">
+<h3 class="anchored" data-anchor-id="section-71"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-72" class="level3">
+<h3 class="anchored" data-anchor-id="section-72"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-73" class="level3">
+<h3 class="anchored" data-anchor-id="section-73"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-74" class="level3">
+<h3 class="anchored" data-anchor-id="section-74"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-75" class="level3">
+<h3 class="anchored" data-anchor-id="section-75"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-76" class="level3">
+<h3 class="anchored" data-anchor-id="section-76"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-77" class="level3">
+<h3 class="anchored" data-anchor-id="section-77"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-78" class="level3">
+<h3 class="anchored" data-anchor-id="section-78"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-79" class="level3">
+<h3 class="anchored" data-anchor-id="section-79"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-80" class="level3">
+<h3 class="anchored" data-anchor-id="section-80"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-81" class="level3">
+<h3 class="anchored" data-anchor-id="section-81"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-82" class="level3">
+<h3 class="anchored" data-anchor-id="section-82"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-83" class="level3">
+<h3 class="anchored" data-anchor-id="section-83"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-84" class="level3">
+<h3 class="anchored" data-anchor-id="section-84"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-85" class="level3">
+<h3 class="anchored" data-anchor-id="section-85"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-86" class="level3">
+<h3 class="anchored" data-anchor-id="section-86"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-87" class="level3">
+<h3 class="anchored" data-anchor-id="section-87"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-88" class="level3">
+<h3 class="anchored" data-anchor-id="section-88"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-89" class="level3">
+<h3 class="anchored" data-anchor-id="section-89"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-90" class="level3">
+<h3 class="anchored" data-anchor-id="section-90"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-91" class="level3">
+<h3 class="anchored" data-anchor-id="section-91"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</section>
+<section id="section-92" class="level3">
+<h3 class="anchored" data-anchor-id="section-92"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</section>
+<section id="section-93" class="level3">
+<h3 class="anchored" data-anchor-id="section-93"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-94" class="level3">
+<h3 class="anchored" data-anchor-id="section-94"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-95" class="level3">
+<h3 class="anchored" data-anchor-id="section-95"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-96" class="level3">
+<h3 class="anchored" data-anchor-id="section-96"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-97" class="level3">
+<h3 class="anchored" data-anchor-id="section-97"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-98" class="level3">
+<h3 class="anchored" data-anchor-id="section-98"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-99" class="level3">
+<h3 class="anchored" data-anchor-id="section-99"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-100" class="level3">
+<h3 class="anchored" data-anchor-id="section-100"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+</section>
+<section id="section-101" class="level3">
+<h3 class="anchored" data-anchor-id="section-101"><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></h3>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<ul>
+<li></li>
+<li><p><em>Quick-Start Guide for Students</em> <span class="citation" data-cites="1977">(<strong>1977?</strong>)</span> <em>How to use Hypothes.is on Mobile Devices</em> <span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span> <span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+</ul>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<ul>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+</ul>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<ul>
+<li><em>Social Media for Learning</em> <span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></li>
+</ul>
+<blockquote class="blockquote">
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</blockquote>
+<ul>
+<li><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></li>
+</ul>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<ul>
+<li><em>The Conversation Prism</em> <span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></li>
+</ul>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<blockquote class="blockquote">
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</blockquote>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<blockquote class="blockquote">
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</blockquote>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<ul>
+<li><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></li>
+</ul>
+<!-- -->
+<ul>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+</ul>
+<blockquote class="blockquote">
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</blockquote>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<ul>
+<li><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></li>
+</ul>
+<blockquote class="blockquote">
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</blockquote>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<ul>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+</ul>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<blockquote class="blockquote">
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+</blockquote>
+<ul>
+<li><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></li>
+</ul>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<ul>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p>X (Twitter) <span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+</ul>
+<!-- -->
+<ul>
+<li><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></li>
+</ul>
+<!-- -->
+<ul>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+<li><p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p></li>
+</ul>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<ul>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+<p><span class="citation" data-cites="1977">(<strong>1977?</strong>)</span></p>
+
+
+</section>
+</section>
+</div>
+</section>
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
+        }
+        return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
