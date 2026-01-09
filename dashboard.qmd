@@ -1,0 +1,110 @@
+---
+title: Dashboard
+format: dashboard
+scrolling: true
+intoc: false
+---
+
+
+```{r}
+#| label: packages
+
+library(tidyverse)
+library(tinytable)
+library(glue)
+```
+
+
+```{r}
+#| label: load-data
+df_topic <- read_csv("data/topic-view-stats-251212-182747.csv", show_col_types = FALSE) |>
+  mutate(Topic = glue::glue("https://twu.discourse.group/t/-/{Topic}"))
+df_hits <- read.csv("data/daily-engaged-users-251212-234309.csv")
+df_posts <- read.csv("data/posts-251212-235627.csv")
+df_likes <- read.csv("data/likes-251213-000606.csv")
+
+```
+
+```{r}
+#| label: counts
+
+df_hits_count <- sum(df_hits$Count, na.rm = TRUE)
+df_posts_count <- sum(df_posts$Count)
+df_likes_count <- sum(df_likes$Count)
+```
+
+
+## Row
+
+```{r}
+#| content: valuebox
+#| title: "Hits This week"
+list(
+  icon = "hash",
+  color = "primary",
+  value = df_hits_count
+)
+``` 
+
+```{r}
+#| content: valuebox
+#| title: "Posts This week"
+list(
+  icon = "hash",
+  color = "primary",
+  value = df_posts_count
+)
+``` 
+
+
+```{r}
+#| content: valuebox
+#| title: "Likes This week"
+list(
+  icon = "hand-thumbs-up",
+  color = "primary",
+  value = df_likes_count
+)
+``` 
+
+
+##
+
+::: {.card}
+# Welcome {.unnumbered}
+
+This is the course book for **LDRS 101**. This book is divided into thematic units of study to help you engage with the materials. The course resources and learning activities are designed not only to help prepare you for the course assessments, but also to give you opportunities to practice various skills.
+
+::: {.note icon="true"}
+
+Please read the full course syllabus located on the Course Home page in Moodle. It includes key information about the course schedule, assignments, and policies. 
+
+:::
+
+## Course Activities {.unnumbered}
+
+Below is some key information on features you may see throughout the course.
+
+::: {.learning-activity}
+
+This box will prompt you to engage in course concepts by:
+
+- Viewing resources and reflecting on your experience and/or learning. 
+- Checking your understanding to make sure you are ready for what follows. Ways to check your learning might include self-check quizzes or questions for discussion.
+
+::: {.note}
+
+Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
+
+:::
+
+:::
+
+Below is an accordion.
+
+::: {.accordion title="This is an accordion. Click/tap this banner to show/hide the content."}
+
+An accordion may contain extra content such as worked examples or sample answers.
+
+:::
+:::
