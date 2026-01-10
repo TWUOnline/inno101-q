@@ -5,43 +5,18 @@ project:
   output-dir: docs
 
 # Info on changing metadata labels: https://quarto.org/docs/authoring/title-blocks.html#metadata-labels
+author: "Colin Madland and Kelly Marjanovic"
+date: "last-modified"
+date-format: "MMM D, YYYY"
 published-title: "Last Modified"
 author-title: "Authors"
 
 website:
   title: "LDRS 101 Course Notes"
-
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - href: u1.qmd
-        text: Unit 1
-      - href: u2.qmd
-        text: Unit 2
-      - href: u3.qmd
-        text: Unit 3
-      - href: u4.qmd
-        text: Unit 4
-      - href: u5.qmd
-        text: Unit 5
-      - href: u6.qmd
-        text: Unit 6
-      - text: Assignments
-        menu:
-          - text: Assignment 1
-            href: assignment1.qmd
-          - text: Assignment 2
-            href: assignment1.qmd
-          - text: Assignment 3
-            href: assignment3.qmd
-      - text: Course Assessment
-        href: course_assessment.qmd
-
-sidebar:
-  style: "docked"
-  search: true
-  contents:
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
     - section: "Units"
       contents:
         - u1.qmd
@@ -61,9 +36,7 @@ sidebar:
 
 # # ------- Project Settings -------
 
-#   author: "Colin Madland and Kelly Marjanovic"
-#   date: "last-modified"
-#   date-format: "MMM D, YYYY"
+
 #   chapters:
 #     - index.qmd
 #     - u1.qmd
